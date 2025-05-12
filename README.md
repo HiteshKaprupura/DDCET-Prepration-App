@@ -1,20 +1,24 @@
-<<<<<<< HEAD
-# ddcet_preparation
+# DDCET Preparation App
 
-A new Flutter project.
+A Flutter-based mobile application designed to help students prepare for the DDCET (Diploma to Degree Common Entrance Test) exam.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- Subject-wise MCQs
+- Previous year papers
+- Mock tests
+- Performance tracking
+- User-friendly UI
+- Offline access to content
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Purpose
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This app aims to provide an all-in-one study solution for DDCET aspirants by offering quality content and practice tools in a simple and accessible way.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# DDCET-Prepration-App
->>>>>>> 5a7ae993581854cb3c726d3396d626d5681ddb07
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/HiteshKaprupura/DDCET-Prepration-App.git
