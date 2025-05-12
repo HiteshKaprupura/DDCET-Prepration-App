@@ -1,0 +1,1212 @@
+[
+    {
+        "question": "Q1. Which Microsoft Office application is primarily used for creating and editing text documents like letters, reports, and flyers?",
+        "options": [
+            "MS Excel",
+            "MS PowerPoint",
+            "MS Word",
+            "MS Access"
+        ],
+        "answer": "MS Word",
+        "explanation": "MS Word is a word processing application designed for creating text-based documents."
+    },
+    {
+        "question": "Q2. Which Microsoft Office application is primarily used for creating spreadsheets, performing calculations, and analyzing data?",
+        "options": [
+            "MS Word",
+            "MS PowerPoint",
+            "MS Excel",
+            "MS Outlook"
+        ],
+        "answer": "MS Excel",
+        "explanation": "MS Excel is a spreadsheet program used for organizing data in rows and columns, calculations, and data visualization."
+    },
+    {
+        "question": "Q3. Which Microsoft Office application is primarily used for creating and delivering presentations?",
+        "options": [
+            "MS Word",
+            "MS Excel",
+            "MS Access",
+            "MS PowerPoint"
+        ],
+        "answer": "MS PowerPoint",
+        "explanation": "MS PowerPoint is used to create slide shows incorporating text, graphics, audio, and video for presentations."
+    },
+    {
+        "question": "Q4. In MS Word, what is the default file extension for documents created in recent versions?",
+        "options": [
+            ".doc",
+            ".txt",
+            ".docx",
+            ".pdf"
+        ],
+        "answer": ".docx",
+        "explanation": "Modern versions of MS Word use the .docx extension, which is XML-based. Older versions used .doc."
+    },
+    {
+        "question": "Q5. In MS Excel, what is the default file extension for workbooks created in recent versions?",
+        "options": [
+            ".xls",
+            ".xlsx",
+            ".csv",
+            ".xl"
+        ],
+        "answer": ".xlsx",
+        "explanation": "Modern versions of MS Excel use the .xlsx extension. Older versions used .xls."
+    },
+    {
+        "question": "Q6. In MS PowerPoint, what is the default file extension for presentations created in recent versions?",
+        "options": [
+            ".ppt",
+            ".pps",
+            ".pptx",
+            ".potx"
+        ],
+        "answer": ".pptx",
+        "explanation": "Modern versions of MS PowerPoint use the .pptx extension. Older versions used .ppt."
+    },
+    {
+        "question": "Q7. In MS Word, which ribbon tab contains commands for formatting text like Font, Size, Bold, Italic, and Underline?",
+        "options": [
+            "File",
+            "Insert",
+            "Design",
+            "Home"
+        ],
+        "answer": "Home",
+        "explanation": "The Home tab contains the most frequently used commands for text and paragraph formatting."
+    },
+    {
+        "question": "Q8. In MS Word, which keyboard shortcut is used to make selected text Bold?",
+        "options": [
+            "Ctrl + I",
+            "Ctrl + U",
+            "Ctrl + B",
+            "Ctrl + P"
+        ],
+        "answer": "Ctrl + B",
+        "explanation": "Ctrl + B toggles the Bold formatting for the selected text."
+    },
+    {
+        "question": "Q9. In MS Word, which keyboard shortcut is used to make selected text Italic?",
+        "options": [
+            "Ctrl + I",
+            "Ctrl + U",
+            "Ctrl + B",
+            "Ctrl + L"
+        ],
+        "answer": "Ctrl + I",
+        "explanation": "Ctrl + I toggles the Italic formatting for the selected text."
+    },
+    {
+        "question": "Q10. In MS Word, which keyboard shortcut is used to Underline selected text?",
+        "options": [
+            "Ctrl + I",
+            "Ctrl + U",
+            "Ctrl + B",
+            "Ctrl + S"
+        ],
+        "answer": "Ctrl + U",
+        "explanation": "Ctrl + U toggles the Underline formatting for the selected text."
+    },
+    {
+        "question": "Q11. In MS Word, which alignment option positions text evenly between the left and right margins?",
+        "options": [
+            "Align Left",
+            "Center",
+            "Align Right",
+            "Justify"
+        ],
+        "answer": "Justify",
+        "explanation": "Justify alignment adjusts the spacing between words so that the text fills the space flush with both left and right margins."
+    },
+    {
+        "question": "Q12. In MS Word, the feature used to automatically check for spelling and grammar errors is called:",
+        "options": [
+            "Find and Replace",
+            "Thesaurus",
+            "Spell Check & Grammar",
+            "AutoCorrect"
+        ],
+        "answer": "Spell Check & Grammar",
+        "explanation": "MS Word underlines potential spelling errors in red and grammar issues in blue, accessible via the Review tab or automatically."
+    },
+    {
+        "question": "Q13. In MS Word, what does the 'Cut' command (Ctrl+X) do?",
+        "options": [
+            "Copies the selected text to the clipboard",
+            "Removes the selected text and places it on the clipboard",
+            "Pastes text from the clipboard",
+            "Deletes the selected text permanently"
+        ],
+        "answer": "Removes the selected text and places it on the clipboard",
+        "explanation": "Cut removes the selection from its original location and makes it available for pasting elsewhere."
+    },
+    {
+        "question": "Q14. In MS Word, what does the 'Copy' command (Ctrl+C) do?",
+        "options": [
+            "Copies the selected text to the clipboard",
+            "Removes the selected text and places it on the clipboard",
+            "Pastes text from the clipboard",
+            "Saves the document"
+        ],
+        "answer": "Copies the selected text to the clipboard",
+        "explanation": "Copy duplicates the selection onto the clipboard without removing it from the original location."
+    },
+    {
+        "question": "Q15. In MS Word, what does the 'Paste' command (Ctrl+V) do?",
+        "options": [
+            "Copies the selected text",
+            "Removes the selected text",
+            "Inserts the content from the clipboard at the cursor position",
+            "Finds specific text"
+        ],
+        "answer": "Inserts the content from the clipboard at the cursor position",
+        "explanation": "Paste inserts the last item that was cut or copied onto the clipboard."
+    },
+    {
+        "question": "Q16. In MS Word, which feature allows you to create lists with bullet points?",
+        "options": [
+            "Numbering",
+            "Styles",
+            "Bullets",
+            "Columns"
+        ],
+        "answer": "Bullets",
+        "explanation": "The Bullets command (on the Home tab) applies bullet symbols to selected paragraphs or creates a new bulleted list."
+    },
+    {
+        "question": "Q17. In MS Word, which feature allows you to create lists with sequential numbers or letters?",
+        "options": [
+            "Bullets",
+            "Numbering",
+            "Multilevel List",
+            "Symbols"
+        ],
+        "answer": "Numbering",
+        "explanation": "The Numbering command (on the Home tab) applies sequential numbering or lettering to selected paragraphs."
+    },
+    {
+        "question": "Q18. In MS Word, which tab would you use to insert a picture into your document?",
+        "options": [
+            "Home",
+            "Design",
+            "Layout",
+            "Insert"
+        ],
+        "answer": "Insert",
+        "explanation": "The Insert tab contains commands for adding various objects like pictures, shapes, tables, charts, headers, footers, etc."
+    },
+    {
+        "question": "Q19. In MS Word, which tab is used to set page margins, orientation, and size?",
+        "options": [
+            "Home",
+            "Insert",
+            "Design",
+            "Layout"
+        ],
+        "answer": "Layout",
+        "explanation": "The Layout tab (or Page Layout in older versions) controls the overall structure and appearance of the page."
+    },
+    {
+        "question": "Q20. In MS Word, what is the difference between 'Save' and 'Save As'?",
+        "options": [
+            "There is no difference",
+            "'Save' updates the current file, 'Save As' allows changing the name, location, or type",
+            "'Save As' updates the current file, 'Save' allows changing the name",
+            "'Save' creates a backup copy, 'Save As' does not"
+        ],
+        "answer": "'Save' updates the current file, 'Save As' allows changing the name, location, or type",
+        "explanation": "Use 'Save' (Ctrl+S) to quickly update changes to an existing file. Use 'Save As' (F12) the first time you save, or when you want to create a new copy with a different name, location, or file format."
+    },
+    {
+        "question": "Q21. In MS Excel, what is the intersection of a row and a column called?",
+        "options": [
+            "Worksheet",
+            "Workbook",
+            "Cell",
+            "Formula Bar"
+        ],
+        "answer": "Cell",
+        "explanation": "A cell is the basic unit in a worksheet where data is entered, identified by its column letter and row number (e.g., A1, B5)."
+    },
+    {
+        "question": "Q22. In MS Excel, what is a collection of worksheets saved in a single file called?",
+        "options": [
+            "Cell",
+            "Workbook",
+            "Database",
+            "Sheet Tab"
+        ],
+        "answer": "Workbook",
+        "explanation": "An Excel file (.xlsx) is called a workbook, and it can contain one or more worksheets (tabs)."
+    },
+    {
+        "question": "Q23. In MS Excel, what is the cell address of the cell in the 3rd column and 5th row?",
+        "options": [
+            "3E",
+            "5C",
+            "C5",
+            "E3"
+        ],
+        "answer": "C5",
+        "explanation": "Columns are labeled with letters (A, B, C, ...) and rows with numbers (1, 2, 3, ...). The 3rd column is C, and the 5th row is 5, so the address is C5."
+    },
+    {
+        "question": "Q24. In MS Excel, where is the content of the active cell displayed for editing?",
+        "options": [
+            "Name Box",
+            "Status Bar",
+            "Formula Bar",
+            "Sheet Tab"
+        ],
+        "answer": "Formula Bar",
+        "explanation": "The Formula Bar, located above the worksheet grid, shows the contents (data or formula) of the currently selected (active) cell."
+    },
+    {
+        "question": "Q25. In MS Excel, which symbol must precede a formula?",
+        "options": [
+            "#",
+            "=",
+            "@",
+            "&"
+        ],
+        "answer": "=",
+        "explanation": "Excel recognizes content starting with an equals sign (=) as a formula to be calculated."
+    },
+    {
+        "question": "Q26. In MS Excel, which function is used to add up a range of numbers?",
+        "options": [
+            "ADD",
+            "TOTAL",
+            "SUM",
+            "PLUS"
+        ],
+        "answer": "SUM",
+        "explanation": "The SUM function adds all the numbers in a specified range of cells. Example: =SUM(A1:A10)."
+    },
+    {
+        "question": "Q27. In MS Excel, which function calculates the average of a range of numbers?",
+        "options": [
+            "MEAN",
+            "AVG",
+            "MEDIAN",
+            "AVERAGE"
+        ],
+        "answer": "AVERAGE",
+        "explanation": "The AVERAGE function calculates the arithmetic mean of the numbers in a specified range. Example: =AVERAGE(B1:B5)."
+    },
+    {
+        "question": "Q28. In MS Excel, which function finds the largest value in a range?",
+        "options": [
+            "LARGE",
+            "MAX",
+            "HIGH",
+            "TOP"
+        ],
+        "answer": "MAX",
+        "explanation": "The MAX function returns the maximum numeric value from a specified range of cells. Example: =MAX(C1:C100)."
+    },
+    {
+        "question": "Q29. In MS Excel, which function finds the smallest value in a range?",
+        "options": [
+            "SMALL",
+            "MIN",
+            "LOW",
+            "BOTTOM"
+        ],
+        "answer": "MIN",
+        "explanation": "The MIN function returns the minimum numeric value from a specified range of cells. Example: =MIN(D1:D50)."
+    },
+    {
+        "question": "Q30. In MS Excel, what does the formula =COUNT(A1:A10) do?",
+        "options": [
+            "Adds the values in A1 to A10",
+            "Counts the number of cells containing numbers in A1 to A10",
+            "Counts the number of non-empty cells in A1 to A10",
+            "Counts the total number of cells in the range A1 to A10"
+        ],
+        "answer": "Counts the number of cells containing numbers in A1 to A10",
+        "explanation": "The COUNT function specifically counts cells within a range that contain numeric values, ignoring text and blank cells."
+    },
+    {
+        "question": "Q31. In MS Excel, what is the small square at the bottom-right corner of an active cell called, used for copying formulas or data?",
+        "options": [
+            "Cell Pointer",
+            "Fill Handle",
+            "Scroll Box",
+            "Name Box"
+        ],
+        "answer": "Fill Handle",
+        "explanation": "Dragging the Fill Handle copies the cell's content or formula to adjacent cells, often automatically adjusting cell references."
+    },
+    {
+        "question": "Q32. In MS Excel, how do you select an entire column?",
+        "options": [
+            "Click the row number",
+            "Click the column letter heading",
+            "Right-click anywhere in the column",
+            "Press Ctrl + C"
+        ],
+        "answer": "Click the column letter heading",
+        "explanation": "Clicking the letter (A, B, C, etc.) at the top of a column selects all cells in that column."
+    },
+    {
+        "question": "Q33. In MS Excel, how do you select an entire row?",
+        "options": [
+            "Click the column letter heading",
+            "Click the row number heading",
+            "Right-click anywhere in the row",
+            "Press Ctrl + R"
+        ],
+        "answer": "Click the row number heading",
+        "explanation": "Clicking the number (1, 2, 3, etc.) on the left side of a row selects all cells in that row."
+    },
+    {
+        "question": "Q34. In MS Excel, which chart type is best suited for showing proportions or percentages of a whole?",
+        "options": [
+            "Line Chart",
+            "Bar Chart",
+            "Pie Chart",
+            "Scatter Plot"
+        ],
+        "answer": "Pie Chart",
+        "explanation": "Pie charts represent data as slices of a circle, where each slice's size is proportional to the value it represents relative to the total."
+    },
+    {
+        "question": "Q35. In MS Excel, which chart type is ideal for showing trends over time?",
+        "options": [
+            "Pie Chart",
+            "Line Chart",
+            "Bar Chart",
+            "Area Chart"
+        ],
+        "answer": "Line Chart",
+        "explanation": "Line charts connect data points with lines, making it easy to visualize changes and trends across a continuous interval, like time."
+    },
+    {
+        "question": "Q36. In MS Excel, the 'Sort' feature allows you to arrange data:",
+        "options": [
+            "Only alphabetically",
+            "Only numerically",
+            "Alphabetically, numerically, or by other criteria (e.g., date, custom list)",
+            "Only in ascending order"
+        ],
+        "answer": "Alphabetically, numerically, or by other criteria (e.g., date, custom list)",
+        "explanation": "The Sort feature (Data tab) provides options to arrange selected data based on the values in one or more columns, in ascending or descending order."
+    },
+    {
+        "question": "Q37. In MS Excel, what feature allows you to display only the rows that meet certain criteria?",
+        "options": [
+            "Sort",
+            "Filter",
+            "Freeze Panes",
+            "Conditional Formatting"
+        ],
+        "answer": "Filter",
+        "explanation": "Filtering (Data tab) temporarily hides rows that do not match the specified conditions, allowing you to focus on specific subsets of your data."
+    },
+    {
+        "question": "Q38. In MS Excel, '$A$1' is an example of what type of cell reference?",
+        "options": [
+            "Relative reference",
+            "Absolute reference",
+            "Mixed reference",
+            "Circular reference"
+        ],
+        "answer": "Absolute reference",
+        "explanation": "An absolute reference (using $ signs before column letter and row number) does not change when the formula is copied or filled to other cells."
+    },
+    {
+        "question": "Q39. In MS Excel, 'A1' is an example of what type of cell reference?",
+        "options": [
+            "Relative reference",
+            "Absolute reference",
+            "Mixed reference",
+            "External reference"
+        ],
+        "answer": "Relative reference",
+        "explanation": "A relative reference automatically adjusts based on its position relative to the cell where the formula is copied. If =A1 is copied one cell down, it becomes =A2."
+    },
+    {
+        "question": "Q40. In MS Excel, '$A1' or 'A$1' are examples of what type of cell reference?",
+        "options": [
+            "Relative reference",
+            "Absolute reference",
+            "Mixed reference",
+            "Invalid reference"
+        ],
+        "answer": "Mixed reference",
+        "explanation": "A mixed reference has either the column absolute and the row relative ($A1), or the column relative and the row absolute (A$1)."
+    },
+    {
+        "question": "Q41. In MS PowerPoint, what is an individual page within a presentation called?",
+        "options": [
+            "Document",
+            "Worksheet",
+            "Slide",
+            "Frame"
+        ],
+        "answer": "Slide",
+        "explanation": "A presentation is composed of a series of slides, each containing information like text, images, or charts."
+    },
+    {
+        "question": "Q42. In MS PowerPoint, what are the predefined arrangements of placeholders for text and objects on a slide called?",
+        "options": [
+            "Themes",
+            "Layouts",
+            "Templates",
+            "Styles"
+        ],
+        "answer": "Layouts",
+        "explanation": "Slide layouts (e.g., Title Slide, Title and Content, Blank) provide a starting structure for adding content to a slide."
+    },
+    {
+        "question": "Q43. In MS PowerPoint, which tab is used to apply a design theme to the entire presentation?",
+        "options": [
+            "Home",
+            "Insert",
+            "Design",
+            "Transitions"
+        ],
+        "answer": "Design",
+        "explanation": "The Design tab offers pre-built themes that apply consistent formatting (colors, fonts, effects) across all slides."
+    },
+    {
+        "question": "Q44. In MS PowerPoint, what are the visual effects that occur when moving from one slide to the next during a presentation called?",
+        "options": [
+            "Animations",
+            "Transitions",
+            "Themes",
+            "Layouts"
+        ],
+        "answer": "Transitions",
+        "explanation": "Slide transitions (e.g., Fade, Wipe, Push) control how one slide disappears and the next one appears."
+    },
+    {
+        "question": "Q45. In MS PowerPoint, what are the effects applied to individual objects (like text or pictures) on a slide to make them move or appear?",
+        "options": [
+            "Animations",
+            "Transitions",
+            "Styles",
+            "Effects"
+        ],
+        "answer": "Animations",
+        "explanation": "Animations control how specific elements enter, emphasize, or exit a slide (e.g., Fly In, Fade, Spin)."
+    },
+    {
+        "question": "Q46. In MS PowerPoint, which view displays thumbnails of all slides, making it easy to rearrange them?",
+        "options": [
+            "Normal View",
+            "Slide Sorter View",
+            "Reading View",
+            "Outline View"
+        ],
+        "answer": "Slide Sorter View",
+        "explanation": "Slide Sorter view shows miniature versions of all slides, allowing you to easily change their order, delete slides, or apply transitions."
+    },
+    {
+        "question": "Q47. In MS PowerPoint, which view is used for delivering the presentation to an audience, showing slides full screen?",
+        "options": [
+            "Normal View",
+            "Slide Sorter View",
+            "Notes Page View",
+            "Slide Show View"
+        ],
+        "answer": "Slide Show View",
+        "explanation": "Slide Show view (started by pressing F5 or from the Slide Show tab) displays the presentation one slide at a time, full screen, as the audience would see it."
+    },
+    {
+        "question": "Q48. In MS PowerPoint, where can you type speaker notes that are visible to the presenter but not the audience during Slide Show view (when using Presenter View)?",
+        "options": [
+            "Title Placeholder",
+            "Content Placeholder",
+            "Notes Pane",
+            "Slide Master"
+        ],
+        "answer": "Notes Pane",
+        "explanation": "The Notes Pane, usually located below the slide in Normal View, allows the presenter to add reminders or additional details for each slide."
+    },
+    {
+        "question": "Q49. In MS PowerPoint, what is the function of the Slide Master?",
+        "options": [
+            "To rearrange slides",
+            "To control the overall design and layout templates for all slides",
+            "To add speaker notes",
+            "To start the slide show"
+        ],
+        "answer": "To control the overall design and layout templates for all slides",
+        "explanation": "Changes made to the Slide Master (e.g., adding a logo, changing default fonts) are automatically applied to all slides using that master layout."
+    },
+    {
+        "question": "Q50. In MS PowerPoint, which keyboard shortcut starts the slide show from the beginning?",
+        "options": [
+            "F1",
+            "F5",
+            "F7",
+            "F12"
+        ],
+        "answer": "F5",
+        "explanation": "Pressing F5 is the standard shortcut to begin the presentation from the very first slide."
+    },
+    {
+        "question": "Q51. In MS PowerPoint, which keyboard shortcut starts the slide show from the current slide?",
+        "options": [
+            "F5",
+            "Shift + F5",
+            "Ctrl + F5",
+            "Alt + F5"
+        ],
+        "answer": "Shift + F5",
+        "explanation": "Shift + F5 begins the presentation from the slide currently selected or being edited."
+    },
+    {
+        "question": "Q52. In MS Word, the 'Header' appears at the ____ of each page.",
+        "options": [
+            "Top",
+            "Bottom",
+            "Left Margin",
+            "Right Margin"
+        ],
+        "answer": "Top",
+        "explanation": "A header is text or graphics (like page numbers, dates, or titles) printed at the top margin of pages."
+    },
+    {
+        "question": "Q53. In MS Word, the 'Footer' appears at the ____ of each page.",
+        "options": [
+            "Top",
+            "Bottom",
+            "Left Margin",
+            "Center"
+        ],
+        "answer": "Bottom",
+        "explanation": "A footer is text or graphics printed at the bottom margin of pages, often used for page numbers or copyright information."
+    },
+    {
+        "question": "Q54. Which MS Office application includes features like 'Track Changes' and 'Comments' for collaborative editing?",
+        "options": [
+            "MS Excel",
+            "MS PowerPoint",
+            "MS Word",
+            "MS Paint"
+        ],
+        "answer": "MS Word",
+        "explanation": "MS Word has robust features for reviewing documents, tracking revisions made by different authors, and adding comments."
+    },
+    {
+        "question": "Q55. In MS Excel, which feature automatically applies formatting (like colors or icons) to cells based on their values?",
+        "options": [
+            "Cell Styles",
+            "Conditional Formatting",
+            "Themes",
+            "Filters"
+        ],
+        "answer": "Conditional Formatting",
+        "explanation": "Conditional Formatting helps visualize data and highlight important cells or ranges by applying formats based on specified rules or criteria."
+    },
+    {
+        "question": "Q56. In MS Excel, what does 'Merging Cells' do?",
+        "options": [
+            "Splits one cell into multiple cells",
+            "Combines two or more adjacent cells into a single larger cell",
+            "Hides the content of selected cells",
+            "Adds borders around selected cells"
+        ],
+        "answer": "Combines two or more adjacent cells into a single larger cell",
+        "explanation": "Merging cells is often used for creating titles that span across multiple columns."
+    },
+    {
+        "question": "Q57. In MS Excel, the feature that keeps specific rows or columns visible while scrolling through the rest of the worksheet is called:",
+        "options": [
+            "Split",
+            "Hide",
+            "Freeze Panes",
+            "Lock Cells"
+        ],
+        "answer": "Freeze Panes",
+        "explanation": "Freeze Panes (View tab) is useful for keeping headers (top row) or identifiers (first column) visible when working with large datasets."
+    },
+    {
+        "question": "Q58. In MS PowerPoint, which object can be used to illustrate hierarchical structures or processes visually?",
+        "options": [
+            "Chart",
+            "Table",
+            "SmartArt",
+            "Shape"
+        ],
+        "answer": "SmartArt",
+        "explanation": "SmartArt graphics provide a variety of pre-designed diagrams (like organization charts, process flows, cycle diagrams) to represent information visually."
+    },
+    {
+        "question": "Q59. In MS PowerPoint, which option allows you to save the presentation in a format that automatically starts the slide show when opened?",
+        "options": [
+            ".pptx",
+            ".pdf",
+            ".ppsx",
+            ".potx"
+        ],
+        "answer": ".ppsx",
+        "explanation": "Saving as a PowerPoint Show (.ppsx or .pps for older versions) creates a file that bypasses the editing view and launches directly into Slide Show mode."
+    },
+    {
+        "question": "Q60. In MS Word, what is the function of the 'Find and Replace' feature?",
+        "options": [
+            "To check spelling",
+            "To search for specific text and optionally replace it with other text",
+            "To change page margins",
+            "To insert page numbers"
+        ],
+        "answer": "To search for specific text and optionally replace it with other text",
+        "explanation": "Find (Ctrl+F) locates occurrences of text, while Replace (Ctrl+H) allows you to substitute found text with something else, either individually or all at once."
+    },
+    {
+        "question": "Q61. In MS Word, changing the page orientation from Portrait to Landscape makes the page:",
+        "options": [
+            "Taller than it is wide",
+            "Wider than it is tall",
+            "Square",
+            "Smaller"
+        ],
+        "answer": "Wider than it is tall",
+        "explanation": "Portrait is the default vertical orientation. Landscape orientation makes the page horizontal."
+    },
+    {
+        "question": "Q62. In MS Excel, if cell A1 contains 10 and cell B1 contains 5, what will the formula =A1*B1 result in?",
+        "options": [
+            "15",
+            "5",
+            "50",
+            "2"
+        ],
+        "answer": "50",
+        "explanation": "The asterisk (*) is the multiplication operator in Excel. 10 multiplied by 5 equals 50."
+    },
+    {
+        "question": "Q63. In MS Excel, if cell A1 contains 10 and cell B1 contains 5, what will the formula =A1/B1 result in?",
+        "options": [
+            "15",
+            "50",
+            "5",
+            "2"
+        ],
+        "answer": "2",
+        "explanation": "The forward slash (/) is the division operator in Excel. 10 divided by 5 equals 2."
+    },
+    {
+        "question": "Q64. In MS Excel, how can you quickly select all cells in a worksheet?",
+        "options": [
+            "Press Ctrl + A",
+            "Click the button at the intersection of the row numbers and column letters",
+            "Press Ctrl + Home",
+            "Both A and B"
+        ],
+        "answer": "Both A and B",
+        "explanation": "Pressing Ctrl+A or clicking the 'Select All' button (the grey rectangle where row and column headers meet) selects every cell on the active worksheet."
+    },
+    {
+        "question": "Q65. In MS PowerPoint, which tab contains commands for inserting audio or video?",
+        "options": [
+            "Home",
+            "Design",
+            "Insert",
+            "Animations"
+        ],
+        "answer": "Insert",
+        "explanation": "The Insert tab allows you to add various media elements, including audio files and videos, to your slides."
+    },
+    {
+        "question": "Q66. In MS PowerPoint, what is the primary purpose of using 'Themes'?",
+        "options": [
+            "To add animations",
+            "To apply a consistent professional look and feel (colors, fonts, effects)",
+            "To rearrange slide order",
+            "To check spelling"
+        ],
+        "answer": "To apply a consistent professional look and feel (colors, fonts, effects)",
+        "explanation": "Themes provide a quick way to ensure visual consistency and branding throughout a presentation."
+    },
+    {
+        "question": "Q67. In MS Word, the vertical blinking line indicating where text will be inserted is called the:",
+        "options": [
+            "Mouse Pointer",
+            "Cursor (or Insertion Point)",
+            "Scroll Bar",
+            "Selection"
+        ],
+        "answer": "Cursor (or Insertion Point)",
+        "explanation": "The cursor shows the current position for text entry or editing."
+    },
+    {
+        "question": "Q68. In MS Word, what does 'Word Wrap' mean?",
+        "options": [
+            "Wrapping text around images",
+            "Automatically moving text to the next line when it reaches the right margin",
+            "Applying a border around text",
+            "Encrypting the document"
+        ],
+        "answer": "Automatically moving text to the next line when it reaches the right margin",
+        "explanation": "Word wrap ensures text stays within the page margins without requiring the user to press Enter at the end of each line."
+    },
+    {
+        "question": "Q69. In MS Excel, which feature allows you to represent data visually using bars, lines, or slices?",
+        "options": [
+            "Formulas",
+            "Charts (or Graphs)",
+            "Tables",
+            "PivotTables"
+        ],
+        "answer": "Charts (or Graphs)",
+        "explanation": "Charts provide a graphical representation of worksheet data, making it easier to understand trends, comparisons, and patterns."
+    },
+    {
+        "question": "Q70. In MS Excel, which pointer shape indicates you can use the Fill Handle?",
+        "options": [
+            "White plus sign (selection pointer)",
+            "Thin black plus sign",
+            "Four-headed arrow (move pointer)",
+            "I-beam (text insertion pointer)"
+        ],
+        "answer": "Thin black plus sign",
+        "explanation": "When you hover the mouse pointer over the small square (Fill Handle) at the bottom-right of the active cell, it changes to a thin black plus sign."
+    },
+    {
+        "question": "Q71. In MS PowerPoint, the collection of slides in your presentation can be viewed as thumbnails in the:",
+        "options": [
+            "Notes Pane",
+            "Status Bar",
+            "Slides Pane (in Normal View) or Slide Sorter View",
+            "Ribbon"
+        ],
+        "answer": "Slides Pane (in Normal View) or Slide Sorter View",
+        "explanation": "Both the Slides Pane on the left in Normal view and the main area in Slide Sorter view display thumbnails for easy navigation and organization."
+    },
+    {
+        "question": "Q72. In MS PowerPoint, 'Animation Painter' is used to:",
+        "options": [
+            "Apply background styles",
+            "Copy animation effects from one object to another",
+            "Insert pictures",
+            "Draw shapes"
+        ],
+        "answer": "Copy animation effects from one object to another",
+        "explanation": "Similar to Format Painter, Animation Painter allows you to quickly apply the same animation settings to multiple objects."
+    },
+    {
+        "question": "Q73. In MS Word, what is the default paper size for documents in many regions (e.g., US)?",
+        "options": [
+            "A4",
+            "Letter",
+            "Legal",
+            "A3"
+        ],
+        "answer": "Letter",
+        "explanation": "Letter size (8.5 x 11 inches) is common in North America, while A4 is the standard in most other parts of the world."
+    },
+    {
+        "question": "Q74. In MS Word, the feature that suggests synonyms for a selected word is the:",
+        "options": [
+            "Spell Check",
+            "Grammar Check",
+            "Thesaurus",
+            "Dictionary"
+        ],
+        "answer": "Thesaurus",
+        "explanation": "The Thesaurus helps you find alternative words with similar meanings (synonyms) or opposite meanings (antonyms)."
+    },
+    {
+        "question": "Q75. In MS Word, how do you change the line spacing (e.g., single, double)?",
+        "options": [
+            "Font group on Home tab",
+            "Paragraph group on Home tab",
+            "Page Setup group on Layout tab",
+            "Styles group on Home tab"
+        ],
+        "answer": "Paragraph group on Home tab",
+        "explanation": "The Paragraph group contains the Line and Paragraph Spacing button, allowing you to adjust spacing within and between paragraphs."
+    },
+    {
+        "question": "Q76. In MS Excel, how can you quickly apply borders around selected cells?",
+        "options": [
+            "Using the Draw Table tool",
+            "Using the Borders button in the Font group on the Home tab",
+            "Using Conditional Formatting",
+            "Using Cell Styles"
+        ],
+        "answer": "Using the Borders button in the Font group on the Home tab",
+        "explanation": "The Borders drop-down menu provides quick access to apply various border styles (bottom, top, all, outside, etc.)."
+    },
+    {
+        "question": "Q77. In MS PowerPoint, how can you insert audio or video into a slide?",
+        "options": [
+            "Using the Design tab",
+            "Using the Animations tab",
+            "Using the Insert tab (Audio/Video commands)",
+            "Using the Slide Show tab"
+        ],
+        "answer": "Using the Insert tab (Audio/Video commands)",
+        "explanation": "The Insert tab provides options to embed audio or video files directly onto your slides."
+    },
+    {
+        "question": "Q78. The Quick Access Toolbar in MS Office applications:",
+        "options": [
+            "Contains all available commands",
+            "Is located at the bottom of the window",
+            "Provides quick access to frequently used commands (like Save, Undo, Redo)",
+            "Is used only for formatting text"
+        ],
+        "answer": "Provides quick access to frequently used commands (like Save, Undo, Redo)",
+        "explanation": "It's a customizable toolbar, usually located above the Ribbon, holding shortcuts to common commands regardless of the active tab."
+    },
+    {
+        "question": "Q79. In MS Word, what does 'WYSIWYG' stand for?",
+        "options": [
+            "What You See Is What You Get",
+            "Why You Save Is Why You Gain",
+            "When You Save Is When You Go",
+            "What You Style Is What You Gain"
+        ],
+        "answer": "What You See Is What You Get",
+        "explanation": "WYSIWYG implies that the appearance of the document on the screen (especially in Print Layout view) closely matches the final printed output."
+    },
+    {
+        "question": "Q80. In MS Excel, what happens if you type text into a cell that is wider than the cell width?",
+        "options": [
+            "The text is automatically truncated",
+            "An error message appears",
+            "The text overflows into the adjacent cell to the right, if empty",
+            "The column width automatically adjusts"
+        ],
+        "answer": "The text overflows into the adjacent cell to the right, if empty",
+        "explanation": "If the cell to the right is empty, the text will visually spill over. If the adjacent cell contains data, the displayed text will be truncated at the cell border (though the full text remains in the cell)."
+    },
+    {
+        "question": "Q81. In MS PowerPoint, pressing Shift + F5 will:",
+        "options": [
+            "Start the slide show from the beginning",
+            "Start the slide show from the current slide",
+            "End the slide show",
+            "Go to the Slide Master view"
+        ],
+        "answer": "Start the slide show from the current slide",
+        "explanation": "Shift + F5 is useful for quickly viewing the current slide and subsequent slides in presentation mode."
+    },
+    {
+        "question": "Q82. Which feature in MS Word allows you to create personalized letters or emails by merging a standard document with a data source (like an address list)?",
+        "options": [
+            "Track Changes",
+            "Mail Merge",
+            "Styles",
+            "AutoCorrect"
+        ],
+        "answer": "Mail Merge",
+        "explanation": "Mail Merge automates the process of creating bulk mailings, labels, or envelopes by combining a template with recipient data."
+    },
+    {
+        "question": "Q83. In MS Excel, to select non-adjacent cells or ranges, you should:",
+        "options": [
+            "Hold down the Shift key while clicking",
+            "Hold down the Ctrl key while clicking",
+            "Hold down the Alt key while clicking",
+            "Double-click the cells"
+        ],
+        "answer": "Hold down the Ctrl key while clicking",
+        "explanation": "Holding Ctrl allows you to add individual cells or ranges to your current selection without deselecting previous ones. Shift is used for selecting contiguous ranges."
+    },
+    {
+        "question": "Q84. Which tab in MS PowerPoint contains options for setting up the slide show, including timings and narration?",
+        "options": [
+            "Insert",
+            "Design",
+            "Transitions",
+            "Slide Show"
+        ],
+        "answer": "Slide Show",
+        "explanation": "The Slide Show tab includes commands for starting the presentation, setting up presentation options, rehearsing timings, and recording."
+    },
+    {
+        "question": "Q85. What is the default alignment for text in MS Word?",
+        "options": [
+            "Left",
+            "Right",
+            "Center",
+            "Justify"
+        ],
+        "answer": "Left",
+        "explanation": "By default, text aligns along the left margin."
+    },
+    {
+        "question": "Q86. What is the default alignment for numbers in MS Excel?",
+        "options": [
+            "Left",
+            "Right",
+            "Center",
+            "Justify"
+        ],
+        "answer": "Right",
+        "explanation": "Excel automatically right-aligns numbers and dates to facilitate reading and calculation, while text is left-aligned by default."
+    },
+    {
+        "question": "Q87. In MS Word, the 'Insert Table' command is found under which tab?",
+        "options": [
+            "Home",
+            "Insert",
+            "Layout",
+            "References"
+        ],
+        "answer": "Insert",
+        "explanation": "The Insert tab is used for adding various objects, including tables, pictures, shapes, charts, headers, footers, etc."
+    },
+    {
+        "question": "Q88. In MS Excel, which keyboard shortcut quickly selects all data in the current region (contiguous block of data)?",
+        "options": [
+            "Ctrl + A",
+            "Ctrl + Shift + Spacebar",
+            "Ctrl + * (on numeric keypad or Ctrl+Shift+8)",
+            "Both A and C can work depending on context"
+        ],
+        "answer": "Both A and C can work depending on context",
+        "explanation": "Ctrl+A selects the current region if a cell within it is selected; if pressed again, it selects the whole sheet. Ctrl+* (Ctrl+Shift+8) specifically selects the current data region."
+    },
+    {
+        "question": "Q89. In MS PowerPoint, what does 'SmartArt' allow you to insert?",
+        "options": [
+            "Audio clips",
+            "Video files",
+            "Pre-designed graphical lists, process diagrams, hierarchies, etc.",
+            "Hand-drawn shapes"
+        ],
+        "answer": "Pre-designed graphical lists, process diagrams, hierarchies, etc.",
+        "explanation": "SmartArt provides templates for visually communicating information using various diagram types like organization charts, cycles, and pyramids."
+    },
+    {
+        "question": "Q90. To print a document, which keyboard shortcut is commonly used?",
+        "options": [
+            "Ctrl + S",
+            "Ctrl + P",
+            "Ctrl + O",
+            "Ctrl + X"
+        ],
+        "answer": "Ctrl + P",
+        "explanation": "Ctrl + P typically opens the Print dialog box or Print preview screen."
+    },
+    {
+        "question": "Q91. In MS Word, the feature that allows you to copy text formatting and apply it elsewhere is called:",
+        "options": [
+            "Style Painter",
+            "Format Painter",
+            "Copy Formatting",
+            "Apply Style"
+        ],
+        "answer": "Format Painter",
+        "explanation": "Located on the Home tab, clicking the Format Painter copies the formatting of the selected text, allowing you to 'paint' that formatting onto other text."
+    },
+    {
+        "question": "Q92. In MS Excel, which chart is suitable for showing the relationship between two sets of numerical data?",
+        "options": [
+            "Pie Chart",
+            "Line Chart",
+            "Bar Chart",
+            "Scatter (XY) Chart"
+        ],
+        "answer": "Scatter (XY) Chart",
+        "explanation": "Scatter charts plot pairs of values (one on the X-axis, one on the Y-axis) to show correlations or patterns between two variables."
+    },
+    {
+        "question": "Q93. Which view in PowerPoint is best for rearranging the order of slides?",
+        "options": [
+            "Normal View",
+            "Outline View",
+            "Slide Sorter View",
+            "Reading View"
+        ],
+        "answer": "Slide Sorter View",
+        "explanation": "Slide Sorter displays thumbnails of all slides, making drag-and-drop reordering very easy."
+    },
+    {
+        "question": "Q94. What is the purpose of the 'Wrap Text' feature in MS Excel?",
+        "options": [
+            "To encrypt cell content",
+            "To make long text display on multiple lines within a cell",
+            "To combine multiple cells",
+            "To apply borders"
+        ],
+        "answer": "To make long text display on multiple lines within a cell",
+        "explanation": "Wrap Text prevents long text from overflowing or being cut off by breaking it into multiple lines within the existing cell width."
+    },
+    {
+        "question": "Q95. In MS Word, where do you find the option to insert page numbers?",
+        "options": [
+            "Home Tab > Paragraph group",
+            "Insert Tab > Header & Footer group",
+            "Layout Tab > Page Setup group",
+            "View Tab > Views group"
+        ],
+        "answer": "Insert Tab > Header & Footer group",
+        "explanation": "The Page Number command allows you to insert page numbers in various positions (top, bottom, margins)."
+    },
+    {
+        "question": "Q96. In MS Excel, how can you rename a worksheet?",
+        "options": [
+            "Right-click the sheet tab and choose 'Rename'",
+            "Double-click the sheet tab",
+            "Go to File > Rename",
+            "Both A and B"
+        ],
+        "answer": "Both A and B",
+        "explanation": "You can either right-click the tab at the bottom of the screen and select Rename, or simply double-click the tab name to edit it directly."
+    },
+    {
+        "question": "Q97. In MS PowerPoint, using 'Presenter View' during a slide show typically allows the presenter to see:",
+        "options": [
+            "Only the current slide",
+            "The current slide, speaker notes, and upcoming slides",
+            "Only the speaker notes",
+            "Only the next slide"
+        ],
+        "answer": "The current slide, speaker notes, and upcoming slides",
+        "explanation": "Presenter View (usually shown on the presenter's screen while the audience sees only the main slide) provides helpful tools like notes, slide previews, and timers."
+    },
+    {
+        "question": "Q98. What is the function of the 'Tab' key when inside a table cell in MS Word?",
+        "options": [
+            "Moves the cursor to the next cell",
+            "Inserts a tab character within the cell",
+            "Moves the cursor to the previous cell",
+            "Creates a new row"
+        ],
+        "answer": "Moves the cursor to the next cell",
+        "explanation": "Pressing Tab moves to the next cell in the row. If pressed in the last cell of the table, it usually adds a new row."
+    },
+    {
+        "question": "Q99. In MS Excel, the function =NOW() returns:",
+        "options": [
+            "Only the current date",
+            "Only the current time",
+            "The current date and time",
+            "The number of open workbooks"
+        ],
+        "answer": "The current date and time",
+        "explanation": "The NOW() function is volatile and updates to show the system's current date and time whenever the worksheet recalculates."
+    },
+    {
+        "question": "Q100. In MS PowerPoint, which file format saves the presentation as a self-running show?",
+        "options": [
+            ".pptx",
+            ".ppt",
+            ".ppsx or .pps",
+            ".potx"
+        ],
+        "answer": ".ppsx or .pps",
+        "explanation": "Saving as a PowerPoint Show (.ppsx or .pps) makes the file open directly into Slide Show view when double-clicked, rather than opening in edit mode."
+    },
+    {
+        "question": "Q101. In MS Word, what is the difference between a footnote and an endnote?",
+        "options": [
+            "Footnotes are for sources, endnotes are for comments",
+            "Footnotes appear at the bottom of each page, endnotes appear at the end of the document/section",
+            "Footnotes use numbers, endnotes use symbols",
+            "There is no difference"
+        ],
+        "answer": "Footnotes appear at the bottom of each page, endnotes appear at the end of the document/section",
+        "explanation": "Both are used for citations or supplemental comments, but their placement differs as described."
+    },
+    {
+        "question": "Q102. In MS Excel, what does the '#' symbol often indicate when appearing across a cell?",
+        "options": [
+            "A formula error",
+            "The column is too narrow to display the entire number",
+            "The cell contains text",
+            "The cell is locked"
+        ],
+        "answer": "The column is too narrow to display the entire number",
+        "explanation": "When a cell containing a formatted number or date is too narrow, Excel displays '####'. Widening the column usually resolves this."
+    },
+    {
+        "question": "Q103. In MS PowerPoint, how can you add speaker notes?",
+        "options": [
+            "Type directly onto the slide",
+            "Use the Comments feature",
+            "Type in the Notes Pane below the slide in Normal View",
+            "Insert a text box in the Slide Master"
+        ],
+        "answer": "Type in the Notes Pane below the slide in Normal View",
+        "explanation": "The Notes Pane is the dedicated area for adding speaker notes associated with the current slide."
+    },
+    {
+        "question": "Q104. Which feature allows you to view how your document will look before actually printing it?",
+        "options": [
+            "Web Layout View",
+            "Print Preview",
+            "Draft View",
+            "Outline View"
+        ],
+        "answer": "Print Preview",
+        "explanation": "Print Preview (often accessed via File > Print or Ctrl+P) shows a representation of the pages as they will be printed."
+    },
+    {
+        "question": "Q105. In MS Excel, which feature allows you to lock specific rows or columns so they remain visible while scrolling?",
+        "options": [
+            "Filter",
+            "Sort",
+            "Freeze Panes",
+            "Protect Sheet"
+        ],
+        "answer": "Freeze Panes",
+        "explanation": "Freeze Panes (found on the View tab) keeps selected rows/columns visible at the top/left as you scroll through large datasets."
+    },
+    {
+        "question": "Q106. In MS PowerPoint, a file saved with the .potx extension represents a:",
+        "options": [
+            "Standard Presentation",
+            "PowerPoint Show",
+            "PowerPoint Template",
+            "PowerPoint Macro-Enabled Presentation"
+        ],
+        "answer": "PowerPoint Template",
+        "explanation": ".potx is the extension for PowerPoint templates, which provide a starting point for new presentations with predefined designs and layouts."
+    },
+    {
+        "question": "Q107. What keyboard shortcut is used to undo the last action in MS Office?",
+        "options": [
+            "Ctrl + Y",
+            "Ctrl + Z",
+            "Ctrl + X",
+            "Ctrl + R"
+        ],
+        "answer": "Ctrl + Z",
+        "explanation": "Ctrl + Z is the standard shortcut for the Undo command."
+    },
+    {
+        "question": "Q108. What keyboard shortcut is used to redo an undone action in MS Office?",
+        "options": [
+            "Ctrl + Y",
+            "Ctrl + Z",
+            "Ctrl + U",
+            "Ctrl + R"
+        ],
+        "answer": "Ctrl + Y",
+        "explanation": "Ctrl + Y is the standard shortcut for the Redo command, reversing the last Undo."
+    },
+    {
+        "question": "Q109. In MS Word, inserting a 'Section Break' allows you to:",
+        "options": [
+            "Start a new paragraph",
+            "Start a new page",
+            "Apply different page formatting (like margins or orientation) to different parts of the document",
+            "Insert a table"
+        ],
+        "answer": "Apply different page formatting (like margins or orientation) to different parts of the document",
+        "explanation": "Section breaks divide a document into sections, each of which can have independent page layout settings (margins, columns, orientation, headers/footers)."
+    },
+    {
+        "question": "Q110. In MS Excel, what does the function =TODAY() return?",
+        "options": [
+            "Current date and time",
+            "Current date only",
+            "Current time only",
+            "Yesterday's date"
+        ],
+        "answer": "Current date only",
+        "explanation": "The TODAY() function returns the system's current date (without the time). Like NOW(), it is volatile."
+    }
+]

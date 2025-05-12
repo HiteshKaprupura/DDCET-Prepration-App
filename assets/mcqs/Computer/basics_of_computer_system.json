@@ -1,0 +1,1321 @@
+[
+    {
+        "question": "Q1. What does CPU stand for?",
+        "options": [
+            "Central Processing Unit",
+            "Computer Personal Unit",
+            "Central Program Unit",
+            "Computer Processing Utility"
+        ],
+        "answer": "Central Processing Unit",
+        "explanation": "The CPU is the primary component of a computer that executes instructions. It's often called the 'brain' of the computer."
+    },
+    {
+        "question": "Q2. Which of the following is primarily an Input Device?",
+        "options": [
+            "Monitor",
+            "Printer",
+            "Mouse",
+            "Speaker"
+        ],
+        "answer": "Mouse",
+        "explanation": "Input devices are used to provide data and control signals to a computer. A mouse is used to input commands via pointing and clicking."
+    },
+    {
+        "question": "Q3. Which of the following is primarily an Output Device?",
+        "options": [
+            "Keyboard",
+            "Scanner",
+            "Printer",
+            "Microphone"
+        ],
+        "answer": "Printer",
+        "explanation": "Output devices display or present the results of processing from the computer. A printer produces a hard copy of documents or images."
+    },
+    {
+        "question": "Q4. The part of the CPU that performs mathematical calculations and logical comparisons is known as:",
+        "options": [
+            "Control Unit (CU)",
+            "Register",
+            "Arithmetic Logic Unit (ALU)",
+            "Memory Management Unit (MMU)"
+        ],
+        "answer": "Arithmetic Logic Unit (ALU)",
+        "explanation": "The ALU performs all arithmetic operations (addition, subtraction, etc.) and logical operations (AND, OR, NOT, comparisons)."
+    },
+    {
+        "question": "Q5. RAM is considered which type of memory?",
+        "options": [
+            "Non-volatile",
+            "Volatile",
+            "Read-Only",
+            "Secondary Storage"
+        ],
+        "answer": "Volatile",
+        "explanation": "Volatile memory, like RAM (Random Access Memory), requires power to maintain the stored information. It loses its data when power is turned off."
+    },
+    {
+        "question": "Q6. Which type of memory stores the computer's startup instructions (like BIOS/UEFI)?",
+        "options": [
+            "RAM",
+            "Cache Memory",
+            "ROM (Read Only Memory)",
+            "Virtual Memory"
+        ],
+        "answer": "ROM (Read Only Memory)",
+        "explanation": "ROM is non-volatile memory containing essential instructions needed to start the computer, which are typically not modified by the user."
+    },
+    {
+        "question": "Q7. The main function of the Control Unit (CU) within the CPU is to:",
+        "options": [
+            "Perform calculations",
+            "Store data temporarily",
+            "Direct and coordinate computer operations",
+            "Provide permanent storage"
+        ],
+        "answer": "Direct and coordinate computer operations",
+        "explanation": "The Control Unit fetches instructions from memory, decodes them, and manages the execution flow by controlling other parts of the computer."
+    },
+    {
+        "question": "Q8. Which category of software includes the Operating System and Utility Programs?",
+        "options": [
+            "Application Software",
+            "System Software",
+            "Freeware",
+            "Shareware"
+        ],
+        "answer": "System Software",
+        "explanation": "System software manages the computer hardware and provides essential services for both the user and application software. OS and utilities fall under this category."
+    },
+    {
+        "question": "Q9. Microsoft Word is an example of:",
+        "options": [
+            "System Software",
+            "Operating System",
+            "Utility Software",
+            "Application Software"
+        ],
+        "answer": "Application Software",
+        "explanation": "Application software is designed to perform specific tasks for the end-user, such as word processing, spreadsheet calculations, or web browsing."
+    },
+    {
+        "question": "Q10. The smallest unit of digital information is a:",
+        "options": [
+            "Byte",
+            "Bit",
+            "Nibble",
+            "Kilobyte"
+        ],
+        "answer": "Bit",
+        "explanation": "A bit (binary digit) can hold only one of two values: 0 or 1. It is the fundamental unit of information in computing."
+    },
+    {
+        "question": "Q11. A group of 8 bits is commonly referred to as a:",
+        "options": [
+            "Nibble",
+            "Word",
+            "Byte",
+            "Double Word"
+        ],
+        "answer": "Byte",
+        "explanation": "A byte (8 bits) is a standard unit used to represent a character (like a letter or symbol) or measure storage capacity."
+    },
+    {
+        "question": "Q12. Which device allows users to input audio into a computer?",
+        "options": [
+            "Speaker",
+            "Monitor",
+            "Microphone",
+            "Printer"
+        ],
+        "answer": "Microphone",
+        "explanation": "A microphone is an input device that converts sound waves into electrical signals that a computer can process."
+    },
+    {
+        "question": "Q13. Which storage technology uses rotating magnetic platters?",
+        "options": [
+            "Solid State Drive (SSD)",
+            "USB Flash Drive",
+            "Hard Disk Drive (HDD)",
+            "CD-ROM"
+        ],
+        "answer": "Hard Disk Drive (HDD)",
+        "explanation": "HDDs use read/write heads to access data stored magnetically on spinning platters."
+    },
+    {
+        "question": "Q14. Approximately how many bytes are in a Megabyte (MB)?",
+        "options": [
+            "One thousand",
+            "One million",
+            "One billion",
+            "One trillion"
+        ],
+        "answer": "One million",
+        "explanation": "While technically 1 MB = 1024 KB = 1024 * 1024 bytes, it is often approximated as one million bytes for simplicity."
+    },
+    {
+        "question": "Q15. The process of loading the operating system into RAM when the computer starts is called:",
+        "options": [
+            "Processing",
+            "Saving",
+            "Compiling",
+            "Booting"
+        ],
+        "answer": "Booting",
+        "explanation": "The boot process initializes the hardware and loads the core OS components into memory so the computer can start functioning."
+    },
+    {
+        "question": "Q16. Which of these is NOT a function of an Operating System?",
+        "options": [
+            "Managing Hardware Resources",
+            "Providing a User Interface",
+            "Running Applications",
+            "Creating Documents"
+        ],
+        "answer": "Creating Documents",
+        "explanation": "Creating documents is typically done using application software (like a word processor), although the OS manages the file system where documents are saved."
+    },
+    {
+        "question": "Q17. An interface that requires the user to type commands is called:",
+        "options": [
+            "GUI (Graphical User Interface)",
+            "VUI (Voice User Interface)",
+            "CLI (Command Line Interface)",
+            "TUI (Text User Interface)"
+        ],
+        "answer": "CLI (Command Line Interface)",
+        "explanation": "CLI requires users to interact with the system by typing specific text commands (e.g., Command Prompt in Windows, Terminal in Linux/macOS)."
+    },
+    {
+        "question": "Q18. The physical, tangible parts of a computer are called:",
+        "options": [
+            "Software",
+            "Hardware",
+            "Firmware",
+            "Middleware"
+        ],
+        "answer": "Hardware",
+        "explanation": "Hardware includes all the physical components you can touch, like the keyboard, monitor, circuits, drives, etc."
+    },
+    {
+        "question": "Q19. Programs and instructions that run on a computer are collectively called:",
+        "options": [
+            "Hardware",
+            "Peripherals",
+            "Software",
+            "Firmware"
+        ],
+        "answer": "Software",
+        "explanation": "Software refers to the intangible set of instructions that direct the hardware to perform tasks."
+    },
+    {
+        "question": "Q20. What does a Modem do?",
+        "options": [
+            "Connects multiple computers in a LAN",
+            "Amplifies network signals",
+            "Converts digital signals to analog and vice-versa",
+            "Stores website data"
+        ],
+        "answer": "Converts digital signals to analog and vice-versa",
+        "explanation": "A Modem (Modulator/Demodulator) enables computers to transmit data over communication lines (like telephone or cable lines) by converting between digital and analog formats."
+    },
+    {
+        "question": "Q21. Which operating system is developed by Apple Inc.?",
+        "options": [
+            "Windows",
+            "Linux",
+            "Android",
+            "macOS"
+        ],
+        "answer": "macOS",
+        "explanation": "macOS (previously OS X) is the proprietary operating system for Apple's Mac line of computers."
+    },
+    {
+        "question": "Q22. A storage location in the CPU used for holding data temporarily during processing is called a:",
+        "options": [
+            "Bus",
+            "Port",
+            "Register",
+            "Cache"
+        ],
+        "answer": "Register",
+        "explanation": "Registers are the smallest and fastest storage locations within the CPU, used for immediate data manipulation."
+    },
+    {
+        "question": "Q23. Which storage device provides non-volatile storage?",
+        "options": [
+            "RAM",
+            "Cache",
+            "SSD (Solid State Drive)",
+            "Registers"
+        ],
+        "answer": "SSD (Solid State Drive)",
+        "explanation": "Non-volatile storage retains data even when power is removed. SSDs, HDDs, and USB drives are non-volatile, while RAM and Cache are volatile."
+    },
+    {
+        "question": "Q24. An impact printer that forms characters using pins striking an ink ribbon is:",
+        "options": [
+            "Laser Printer",
+            "Inkjet Printer",
+            "Thermal Printer",
+            "Dot Matrix Printer"
+        ],
+        "answer": "Dot Matrix Printer",
+        "explanation": "Dot matrix printers work by physically striking pins against a ribbon onto the paper, creating characters from a matrix of dots."
+    },
+    {
+        "question": "Q25. Which printer uses heat-sensitive paper?",
+        "options": [
+            "Dot Matrix Printer",
+            "Thermal Printer",
+            "Inkjet Printer",
+            "Laser Printer"
+        ],
+        "answer": "Thermal Printer",
+        "explanation": "Direct thermal printers use heated pins to create images directly on special heat-sensitive paper (common in receipts)."
+    },
+    {
+        "question": "Q26. Who is often called the 'Father of the Computer' for his concept of a programmable machine?",
+        "options": [
+            "John von Neumann",
+            "Alan Turing",
+            "Charles Babbage",
+            "Bill Gates"
+        ],
+        "answer": "Charles Babbage",
+        "explanation": "Charles Babbage designed the Analytical Engine, a mechanical general-purpose computer concept, laying the foundation for modern computing."
+    },
+    {
+        "question": "Q27. External devices like scanners and webcams connected to a computer are called:",
+        "options": [
+            "System Units",
+            "Peripherals",
+            "Software Components",
+            "Internal Components"
+        ],
+        "answer": "Peripherals",
+        "explanation": "Peripherals are auxiliary devices connected to the main computer system to add functionality (input, output, storage, etc.)."
+    },
+    {
+        "question": "Q28. A small, very fast type of memory designed to speed up access to frequently used data from RAM is:",
+        "options": [
+            "ROM",
+            "Virtual Memory",
+            "Cache Memory",
+            "Secondary Storage"
+        ],
+        "answer": "Cache Memory",
+        "explanation": "Cache acts as a buffer between the CPU and main memory (RAM), holding copies of data likely to be needed soon, thus reducing average access time."
+    },
+    {
+        "question": "Q29. Which technology uses flash memory chips for data storage?",
+        "options": [
+            "CD-R",
+            "DVD-RW",
+            "Hard Disk Drive (HDD)",
+            "USB Flash Drive"
+        ],
+        "answer": "USB Flash Drive",
+        "explanation": "USB flash drives, SSDs, and memory cards all utilize flash memory, a type of non-volatile electronic storage."
+    },
+    {
+        "question": "Q30. What is the function of the BIOS/UEFI?",
+        "options": [
+            "Run application software",
+            "Manage network connections",
+            "Perform initial hardware checks and start the OS boot process",
+            "Store user documents"
+        ],
+        "answer": "Perform initial hardware checks and start the OS boot process",
+        "explanation": "The BIOS/UEFI (Basic Input/Output System / Unified Extensible Firmware Interface) is firmware that initializes hardware during startup (POST - Power-On Self-Test) and initiates the loading of the operating system."
+    },
+    {
+        "question": "Q31. HDMI is a common type of port used for:",
+        "options": [
+            "Connecting printers",
+            "Connecting keyboards/mice",
+            "Connecting network cables",
+            "Transmitting high-definition audio and video"
+        ],
+        "answer": "Transmitting high-definition audio and video",
+        "explanation": "HDMI (High-Definition Multimedia Interface) is a standard connector for transmitting digital video and audio signals, commonly used for monitors, TVs, and projectors."
+    },
+    {
+        "question": "Q32. 1 Gigabyte (GB) is equal to:",
+        "options": [
+            "1024 Bytes",
+            "1024 Kilobytes (KB)",
+            "1024 Megabytes (MB)",
+            "1024 Terabytes (TB)"
+        ],
+        "answer": "1024 Megabytes (MB)",
+        "explanation": "Following the binary prefixes used in computing: 1 GB = 1024 MB."
+    },
+    {
+        "question": "Q33. A program that translates assembly language into machine code is called an:",
+        "options": [
+            "Interpreter",
+            "Compiler",
+            "Assembler",
+            "Linker"
+        ],
+        "answer": "Assembler",
+        "explanation": "Assembly language is a low-level language specific to a computer architecture. An assembler translates its mnemonics into the corresponding machine code."
+    },
+    {
+        "question": "Q34. Software specifically designed to detect and remove computer viruses is known as:",
+        "options": [
+            "Firewall",
+            "Adware",
+            "Antivirus Software",
+            "Spyware"
+        ],
+        "answer": "Antivirus Software",
+        "explanation": "Antivirus programs scan files and memory for known patterns of malicious software (malware) and take action to remove or quarantine threats."
+    },
+    {
+        "question": "Q35. A network spanning a large geographical area, like a country or continent, is called:",
+        "options": [
+            "LAN (Local Area Network)",
+            "PAN (Personal Area Network)",
+            "MAN (Metropolitan Area Network)",
+            "WAN (Wide Area Network)"
+        ],
+        "answer": "WAN (Wide Area Network)",
+        "explanation": "WANs connect multiple LANs or MANs over long distances, often using public or leased communication lines. The Internet is the largest WAN."
+    },
+    {
+        "question": "Q36. What system allows documents on the internet to be linked together using hyperlinks?",
+        "options": [
+            "FTP (File Transfer Protocol)",
+            "Email",
+            "World Wide Web (WWW)",
+            "TCP/IP"
+        ],
+        "answer": "World Wide Web (WWW)",
+        "explanation": "The WWW is built upon technologies like HTML (for structure), HTTP (for transfer), and URLs (for addressing), enabling the interconnected web of documents via hyperlinks."
+    },
+    {
+        "question": "Q37. The most powerful type of computer, used for complex scientific calculations and simulations, is a:",
+        "options": [
+            "Laptop",
+            "Mainframe",
+            "Supercomputer",
+            "Workstation"
+        ],
+        "answer": "Supercomputer",
+        "explanation": "Supercomputers are focused on high-performance computing, excelling at tasks requiring massive computational power."
+    },
+    {
+        "question": "Q38. The main circuit board containing the CPU, memory slots, and expansion slots is the:",
+        "options": [
+            "Power Supply Unit (PSU)",
+            "Daughterboard",
+            "Motherboard",
+            "Sound Card"
+        ],
+        "answer": "Motherboard",
+        "explanation": "Also known as the mainboard or system board, it acts as the central hub connecting all major components."
+    },
+    {
+        "question": "Q39. Which device optically reads barcodes and converts them into electrical signals?",
+        "options": [
+            "Scanner",
+            "OMR",
+            "Barcode Reader",
+            "MICR Reader"
+        ],
+        "answer": "Barcode Reader",
+        "explanation": "Barcode readers use light (often a laser) to read the pattern of black and white bars representing data, commonly used in retail and inventory management."
+    },
+    {
+        "question": "Q40. Malicious software designed to harm or disrupt computer systems is broadly termed:",
+        "options": [
+            "Spam",
+            "Adware",
+            "Malware",
+            "Firmware"
+        ],
+        "answer": "Malware",
+        "explanation": "Malware (Malicious Software) is an umbrella term for viruses, worms, trojans, ransomware, spyware, adware, etc."
+    },
+    {
+        "question": "Q41. The number system used internally by computers is:",
+        "options": [
+            "Decimal (Base-10)",
+            "Octal (Base-8)",
+            "Hexadecimal (Base-16)",
+            "Binary (Base-2)"
+        ],
+        "answer": "Binary (Base-2)",
+        "explanation": "Computers operate using electrical signals that are either ON or OFF, naturally representing the two digits (0 and 1) of the binary system."
+    },
+    {
+        "question": "Q42. Which of these is NOT typically considered a 'personal computer'?",
+        "options": [
+            "Desktop",
+            "Laptop",
+            "Tablet",
+            "Mainframe"
+        ],
+        "answer": "Mainframe",
+        "explanation": "Personal computers (PCs) are designed for individual use. Mainframes are large, powerful systems used by organizations for centralized processing."
+    },
+    {
+        "question": "Q43. A web address like 'http://www.example.com' is technically called a:",
+        "options": [
+            "IP Address",
+            "Domain Name",
+            "URL (Uniform Resource Locator)",
+            "Hostname"
+        ],
+        "answer": "URL (Uniform Resource Locator)",
+        "explanation": "A URL specifies the location of a resource on the internet, including the protocol (http), domain name (www.example.com), and potentially path/file."
+    },
+    {
+        "question": "Q44. What is the primary purpose of Cache Memory?",
+        "options": [
+            "Permanent data storage",
+            "Running the operating system",
+            "Reducing the average time to access data from main memory",
+            "Storing startup instructions"
+        ],
+        "answer": "Reducing the average time to access data from main memory",
+        "explanation": "By storing frequently used data closer to the CPU, cache memory significantly speeds up data retrieval compared to accessing slower RAM."
+    },
+    {
+        "question": "Q45. Which of these is software?",
+        "options": [
+            "RAM Chip",
+            "CPU",
+            "Web Browser (e.g., Chrome)",
+            "Monitor"
+        ],
+        "answer": "Web Browser (e.g., Chrome)",
+        "explanation": "A web browser is an application program (software), while RAM, CPU, and Monitor are physical components (hardware)."
+    },
+    {
+        "question": "Q46. The measure of how many cycles the CPU can execute per second is its:",
+        "options": [
+            "Bus Speed",
+            "Clock Speed",
+            "Memory Capacity",
+            "Storage Size"
+        ],
+        "answer": "Clock Speed",
+        "explanation": "Clock speed (measured in Hz, MHz, GHz) dictates the fundamental pace at which the CPU performs operations."
+    },
+    {
+        "question": "Q47. Programs like Disk Defragmenter or File Compression utilities are examples of:",
+        "options": [
+            "Operating Systems",
+            "Application Software",
+            "Utility Software",
+            "Firmware"
+        ],
+        "answer": "Utility Software",
+        "explanation": "Utility software performs specific tasks related to managing and maintaining the computer system and its resources."
+    },
+    {
+        "question": "Q48. What does 'GUI' stand for?",
+        "options": [
+            "Graphical User Interface",
+            "General User Interaction",
+            "Graphical Utility Interface",
+            "General Utility Interaction"
+        ],
+        "answer": "Graphical User Interface",
+        "explanation": "GUI provides a visual way for users to interact with the computer using elements like icons, windows, menus, and pointers."
+    },
+    {
+        "question": "Q49. What does 'USB' stand for?",
+        "options": [
+            "Universal Serial Bus",
+            "Uniform System Block",
+            "Universal System Bus",
+            "Uniform Serial Block"
+        ],
+        "answer": "Universal Serial Bus",
+        "explanation": "USB is a standard interface for connecting peripherals like keyboards, mice, printers, and storage devices to a computer."
+    },
+    {
+        "question": "Q50. Which part of the computer system executes program instructions?",
+        "options": [
+            "RAM",
+            "Hard Disk",
+            "CPU",
+            "Monitor"
+        ],
+        "answer": "CPU",
+        "explanation": "The Central Processing Unit (CPU) is responsible for fetching, decoding, and executing instructions from computer programs."
+    },
+    {
+        "question": "Q51. What is a 'bug' in the context of computing?",
+        "options": [
+            "An insect inside the computer",
+            "A hardware malfunction",
+            "An error or flaw in a computer program",
+            "A type of computer virus"
+        ],
+        "answer": "An error or flaw in a computer program",
+        "explanation": "A software bug is an error, flaw, or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways."
+    },
+    {
+        "question": "Q52. What is the process of finding and fixing errors in software code called?",
+        "options": [
+            "Compiling",
+            "Executing",
+            "Debugging",
+            "Linking"
+        ],
+        "answer": "Debugging",
+        "explanation": "Debugging involves identifying, analyzing, and removing errors (bugs) from software."
+    },
+    {
+        "question": "Q53. A temporary storage area in memory or on disk used to hold data while it's being transferred is called a:",
+        "options": [
+            "Cache",
+            "Register",
+            "Buffer",
+            "Bus"
+        ],
+        "answer": "Buffer",
+        "explanation": "Buffers are used to compensate for differences in speed between devices or processes, holding data temporarily until the receiving end is ready."
+    },
+    {
+        "question": "Q54. Which component provides power to all other internal computer components?",
+        "options": [
+            "CPU",
+            "Motherboard",
+            "RAM",
+            "Power Supply Unit (PSU)"
+        ],
+        "answer": "Power Supply Unit (PSU)",
+        "explanation": "The PSU converts AC power from the wall outlet into the various DC voltages needed by the computer's internal components."
+    },
+    {
+        "question": "Q55. What does 'PC' generally stand for?",
+        "options": [
+            "Personal Computer",
+            "Processing Center",
+            "Private Computer",
+            "Production Cost"
+        ],
+        "answer": "Personal Computer",
+        "explanation": "PC refers to a computer designed for use by an individual."
+    },
+    {
+        "question": "Q56. Which of these is a cloud storage service?",
+        "options": [
+            "Microsoft Word",
+            "Google Chrome",
+            "Dropbox",
+            "Adobe Photoshop"
+        ],
+        "answer": "Dropbox",
+        "explanation": "Cloud storage services (like Dropbox, Google Drive, OneDrive) allow users to store data on remote servers accessible via the internet."
+    },
+    {
+        "question": "Q57. The unique address assigned to every device connected to a computer network is called its:",
+        "options": [
+            "URL",
+            "MAC Address",
+            "IP Address",
+            "Port Number"
+        ],
+        "answer": "IP Address",
+        "explanation": "An IP (Internet Protocol) address is a numerical label used to identify devices on a network and allow them to communicate."
+    },
+    {
+        "question": "Q58. The physical layout or topology of a network is:",
+        "options": [
+            "Its protocol structure",
+            "Its bandwidth capacity",
+            "The arrangement of nodes and connections",
+            "The type of data transmitted"
+        ],
+        "answer": "The arrangement of nodes and connections",
+        "explanation": "Network topology refers to how computers, printers, and other devices are physically or logically connected (e.g., bus, star, ring, mesh)."
+    },
+    {
+        "question": "Q59. Which programming language is directly understood by the CPU without translation?",
+        "options": [
+            "Python",
+            "Java",
+            "Machine Language",
+            "C++"
+        ],
+        "answer": "Machine Language",
+        "explanation": "Machine language consists of binary code (0s and 1s) that the CPU can execute directly. All other languages need to be translated into machine language."
+    },
+    {
+        "question": "Q60. Which of the following is NOT a web browser?",
+        "options": [
+            "Mozilla Firefox",
+            "Google Chrome",
+            "Microsoft Excel",
+            "Apple Safari"
+        ],
+        "answer": "Microsoft Excel",
+        "explanation": "Microsoft Excel is a spreadsheet application software. Firefox, Chrome, and Safari are web browsers used to access the World Wide Web."
+    },
+    {
+        "question": "Q61. A file named 'report.docx' likely contains:",
+        "options": [
+            "An image",
+            "A text document created with Microsoft Word",
+            "An executable program",
+            "A spreadsheet"
+        ],
+        "answer": "A text document created with Microsoft Word",
+        "explanation": "The '.docx' extension is standard for documents created by modern versions of Microsoft Word."
+    },
+    {
+        "question": "Q62. What does a 'Firewall' primarily do in network security?",
+        "options": [
+            "Encrypts data",
+            "Removes viruses",
+            "Monitors and controls incoming/outgoing network traffic",
+            "Backs up files"
+        ],
+        "answer": "Monitors and controls incoming/outgoing network traffic",
+        "explanation": "A firewall acts as a barrier between a trusted internal network and untrusted external networks (like the internet), blocking unauthorized access based on security rules."
+    },
+    {
+        "question": "Q63. What does 'Wi-Fi' stand for?",
+        "options": [
+            "Wireless Fidelity",
+            "Wired Fidelity",
+            "Wireless Filtering",
+            "Wide Frequency"
+        ],
+        "answer": "Wireless Fidelity",
+        "explanation": "Wi-Fi is a brand name for wireless networking technology based on the IEEE 802.11 standards, allowing devices to connect to a network wirelessly."
+    },
+    {
+        "question": "Q64. Which type of software allows users to create and manipulate images?",
+        "options": [
+            "Database Software",
+            "Graphics Software",
+            "Spreadsheet Software",
+            "Word Processing Software"
+        ],
+        "answer": "Graphics Software",
+        "explanation": "Graphics software includes programs like Adobe Photoshop, GIMP, or Paint, used for creating, editing, and managing digital images."
+    },
+    {
+        "question": "Q65. The physical components used for data transmission, like cables or radio waves, are referred to as:",
+        "options": [
+            "Protocols",
+            "Topology",
+            "Network Interface Card (NIC)",
+            "Transmission Media"
+        ],
+        "answer": "Transmission Media",
+        "explanation": "Transmission media are the physical paths through which data travels from sender to receiver (e.g., twisted pair cable, coaxial cable, fiber optic cable, wireless signals)."
+    },
+    {
+        "question": "Q66. A program that appears harmless but actually performs malicious functions is called a:",
+        "options": [
+            "Worm",
+            "Virus",
+            "Trojan Horse",
+            "Spyware"
+        ],
+        "answer": "Trojan Horse",
+        "explanation": "A Trojan horse disguises itself as legitimate software to trick users into installing it, then carries out harmful actions."
+    },
+    {
+        "question": "Q67. Which memory is fastest?",
+        "options": [
+            "RAM",
+            "Cache Memory",
+            "Hard Disk Drive (HDD)",
+            "CPU Registers"
+        ],
+        "answer": "CPU Registers",
+        "explanation": "Registers are located inside the CPU and provide the fastest data access, followed by Cache, then RAM, and finally secondary storage like HDD/SSD."
+    },
+    {
+        "question": "Q68. What does 'Ctrl + C' keyboard shortcut typically do?",
+        "options": [
+            "Paste",
+            "Cut",
+            "Copy",
+            "Undo"
+        ],
+        "answer": "Copy",
+        "explanation": "In most applications, Ctrl+C copies the selected item to the clipboard."
+    },
+    {
+        "question": "Q69. What does 'Ctrl + V' keyboard shortcut typically do?",
+        "options": [
+            "Paste",
+            "Cut",
+            "Copy",
+            "Save"
+        ],
+        "answer": "Paste",
+        "explanation": "Ctrl+V pastes the content currently held in the clipboard."
+    },
+    {
+        "question": "Q70. What does 'Ctrl + Z' keyboard shortcut typically do?",
+        "options": [
+            "Redo",
+            "Save",
+            "Undo",
+            "Close"
+        ],
+        "answer": "Undo",
+        "explanation": "Ctrl+Z typically undoes the last action performed."
+    },
+    {
+        "question": "Q71. Software whose source code is available for modification or enhancement by anyone is called:",
+        "options": [
+            "Freeware",
+            "Shareware",
+            "Open Source Software",
+            "Commercial Software"
+        ],
+        "answer": "Open Source Software",
+        "explanation": "Open source software promotes collaboration and transparency by making the underlying source code publicly accessible under licenses that permit modification and redistribution."
+    },
+    {
+        "question": "Q72. What does resolution refer to in the context of a monitor?",
+        "options": [
+            "The physical size of the screen",
+            "The number of colors it can display",
+            "The number of pixels displayed horizontally and vertically",
+            "The refresh rate"
+        ],
+        "answer": "The number of pixels displayed horizontally and vertically",
+        "explanation": "Resolution (e.g., 1920x1080) indicates the level of detail the screen can show, determined by the total number of distinct pixels in each dimension."
+    },
+    {
+        "question": "Q73. Which of these is an optical storage medium?",
+        "options": [
+            "SSD",
+            "Floppy Disk",
+            "Blu-ray Disc",
+            "Magnetic Tape"
+        ],
+        "answer": "Blu-ray Disc",
+        "explanation": "Optical media (CD, DVD, Blu-ray) store data that is read using a laser beam."
+    },
+    {
+        "question": "Q74. What does 'PDF' stand for?",
+        "options": [
+            "Portable Document Format",
+            "Printed Document File",
+            "Personal Data File",
+            "Program Document Format"
+        ],
+        "answer": "Portable Document Format",
+        "explanation": "PDF is a file format developed by Adobe to present documents, including text formatting and images, independent of application software, hardware, and operating systems."
+    },
+    {
+        "question": "Q75. What is 'Cloud Computing'?",
+        "options": [
+            "Storing data on your local hard drive",
+            "Using weather forecasting software",
+            "Delivering computing services (servers, storage, databases, software) over the Internet",
+            "A type of computer hardware"
+        ],
+        "answer": "Delivering computing services (servers, storage, databases, software) over the Internet",
+        "explanation": "Cloud computing relies on sharing resources over the internet ('the cloud') to provide services on demand, rather than using local servers or personal devices."
+    },
+    {
+        "question": "Q76. Which component is NOT typically found on a motherboard?",
+        "options": [
+            "CPU Socket",
+            "RAM Slots",
+            "Expansion Slots (e.g., PCIe)",
+            "Printer"
+        ],
+        "answer": "Printer",
+        "explanation": "A printer is an external peripheral device, while the CPU socket, RAM slots, and expansion slots are integral parts of the motherboard."
+    },
+    {
+        "question": "Q77. The process of converting data into a secret code to prevent unauthorized access is called:",
+        "options": [
+            "Decryption",
+            "Authentication",
+            "Encryption",
+            "Compression"
+        ],
+        "answer": "Encryption",
+        "explanation": "Encryption transforms plaintext data into ciphertext using an algorithm and a key, making it unreadable without the corresponding decryption key."
+    },
+    {
+        "question": "Q78. What is the term for the background software that manages basic computer functions?",
+        "options": [
+            "Application Program",
+            "Operating System",
+            "Utility Suite",
+            "Web Browser"
+        ],
+        "answer": "Operating System",
+        "explanation": "The OS acts as the intermediary between hardware and application software, managing resources and providing essential services."
+    },
+    {
+        "question": "Q79. A collection of related data organized for easy access, retrieval, and management is called a:",
+        "options": [
+            "Spreadsheet",
+            "Database",
+            "Word Document",
+            "Presentation"
+        ],
+        "answer": "Database",
+        "explanation": "Databases are structured sets of data, often managed by a Database Management System (DBMS)."
+    },
+    {
+        "question": "Q80. Which device connects multiple computers together in a wired LAN, allowing them to communicate only with each other within the network?",
+        "options": [
+            "Modem",
+            "Router",
+            "Switch",
+            "Repeater"
+        ],
+        "answer": "Switch",
+        "explanation": "A network switch connects devices within a local area network (LAN) and forwards data packets specifically to their intended destination port based on MAC addresses."
+    },
+    {
+        "question": "Q81. Which device connects different networks together and forwards data packets between them based on IP addresses?",
+        "options": [
+            "Hub",
+            "Switch",
+            "Modem",
+            "Router"
+        ],
+        "answer": "Router",
+        "explanation": "Routers operate at the network layer to direct traffic between different networks, such as connecting a home LAN to the internet."
+    },
+    {
+        "question": "Q82. Which part of the computer performs the Power-On Self-Test (POST)?",
+        "options": [
+            "RAM",
+            "Operating System",
+            "CPU",
+            "BIOS/UEFI"
+        ],
+        "answer": "BIOS/UEFI",
+        "explanation": "During startup, the BIOS/UEFI firmware performs POST to check that essential hardware components are present and functioning correctly before loading the OS."
+    },
+    {
+        "question": "Q83. What does '.exe' file extension usually indicate?",
+        "options": [
+            "A text file",
+            "An image file",
+            "An executable program file (in Windows)",
+            "A system configuration file"
+        ],
+        "answer": "An executable program file (in Windows)",
+        "explanation": "Files with the .exe extension typically contain machine code that can be directly executed by the Windows operating system to run a program."
+    },
+    {
+        "question": "Q84. Which type of software license typically allows users to use, study, share, and modify the software?",
+        "options": [
+            "Proprietary License",
+            "Freeware License",
+            "Shareware License",
+            "Open Source License (e.g., GPL, MIT)"
+        ],
+        "answer": "Open Source License (e.g., GPL, MIT)",
+        "explanation": "Open source licenses grant extensive rights to users, including access to the source code and the freedom to modify and redistribute it."
+    },
+    {
+        "question": "Q85. A Kilobyte (KB) is technically equal to how many bytes?",
+        "options": [
+            "1000",
+            "1024",
+            "100",
+            "8"
+        ],
+        "answer": "1024",
+        "explanation": "In computing, prefixes like Kilo, Mega, Giga often refer to powers of 2 (2^10 = 1024), although sometimes powers of 10 (1000) are used, especially for disk storage capacity."
+    },
+    {
+        "question": "Q86. Which input device works by detecting light?",
+        "options": [
+            "Keyboard",
+            "Microphone",
+            "Light Pen",
+            "Joystick"
+        ],
+        "answer": "Light Pen",
+        "explanation": "A light pen is a light-sensitive pointing device used to select items or draw directly on older CRT monitor screens by detecting changes in brightness."
+    },
+    {
+        "question": "Q87. What is the main difference between RAM and ROM?",
+        "options": [
+            "RAM is storage, ROM is processing",
+            "RAM is volatile, ROM is non-volatile",
+            "RAM is non-volatile, ROM is volatile",
+            "RAM is input, ROM is output"
+        ],
+        "answer": "RAM is volatile, ROM is non-volatile",
+        "explanation": "RAM loses data when power is off, used for active work. ROM retains data without power, used for permanent instructions like startup firmware."
+    },
+    {
+        "question": "Q88. A single point on a computer screen is called a:",
+        "options": [
+            "Bit",
+            "Byte",
+            "Pixel",
+            "Vector"
+        ],
+        "answer": "Pixel",
+        "explanation": "A pixel (picture element) is the smallest controllable element of a picture represented on the screen."
+    },
+    {
+        "question": "Q89. Which key is used to erase characters to the left of the cursor?",
+        "options": [
+            "Delete",
+            "Backspace",
+            "Insert",
+            "End"
+        ],
+        "answer": "Backspace",
+        "explanation": "The Backspace key typically removes the character immediately preceding the cursor."
+    },
+    {
+        "question": "Q90. Which key is used to erase characters to the right of the cursor?",
+        "options": [
+            "Delete",
+            "Backspace",
+            "Home",
+            "Page Up"
+        ],
+        "answer": "Delete",
+        "explanation": "The Delete key typically removes the character immediately following the cursor or the selected item(s)."
+    },
+    {
+        "question": "Q91. Which component converts AC power to the DC power needed by the computer?",
+        "options": [
+            "Motherboard",
+            "CPU",
+            "UPS (Uninterruptible Power Supply)",
+            "PSU (Power Supply Unit)"
+        ],
+        "answer": "PSU (Power Supply Unit)",
+        "explanation": "The PSU takes the alternating current (AC) from the wall outlet and converts it into the stable direct current (DC) voltages required by internal components."
+    },
+    {
+        "question": "Q92. What is the purpose of an Uninterruptible Power Supply (UPS)?",
+        "options": [
+            "To provide faster internet",
+            "To clean the computer's power input",
+            "To provide backup battery power during an outage",
+            "To increase processing speed"
+        ],
+        "answer": "To provide backup battery power during an outage",
+        "explanation": "A UPS provides short-term power when the main input source fails, allowing time for graceful shutdown or continued operation for a brief period."
+    },
+    {
+        "question": "Q93. What does 'Mbps' stand for in the context of network speed?",
+        "options": [
+            "Megabytes per second",
+            "Megabits per second",
+            "Microbytes per second",
+            "Microbits per second"
+        ],
+        "answer": "Megabits per second",
+        "explanation": "Network speeds are typically measured in bits per second (bps), kilobits per second (Kbps), megabits per second (Mbps), or gigabits per second (Gbps). Note the lowercase 'b' for bits."
+    },
+    {
+        "question": "Q94. What does 'MBps' stand for in the context of data transfer rate?",
+        "options": [
+            "Megabits per second",
+            "Megabytes per second",
+            "Millibits per second",
+            "Millibytes per second"
+        ],
+        "answer": "Megabytes per second",
+        "explanation": "Data transfer rates, especially for storage devices, are often measured in Bytes per second (Bps), KiloBytes per second (KBps), MegaBytes per second (MBps), etc. Note the uppercase 'B' for Bytes."
+    },
+    {
+        "question": "Q95. Which of the following is NOT an example of malware?",
+        "options": [
+            "Virus",
+            "Worm",
+            "Trojan Horse",
+            "Firewall"
+        ],
+        "answer": "Firewall",
+        "explanation": "A firewall is a security tool designed to protect against malware and unauthorized access, not a type of malware itself."
+    },
+    {
+        "question": "Q96. The first generation of computers used which technology for circuitry?",
+        "options": [
+            "Transistors",
+            "Integrated Circuits (ICs)",
+            "Vacuum Tubes",
+            "Microprocessors"
+        ],
+        "answer": "Vacuum Tubes",
+        "explanation": "First-generation computers (approx. 1940s-1950s) were large, expensive, generated significant heat, and used vacuum tubes as their primary electronic component."
+    },
+    {
+        "question": "Q97. Transistors replaced vacuum tubes in which generation of computers?",
+        "options": [
+            "First Generation",
+            "Second Generation",
+            "Third Generation",
+            "Fourth Generation"
+        ],
+        "answer": "Second Generation",
+        "explanation": "Second-generation computers (approx. 1950s-1960s) used transistors, which were smaller, faster, cheaper, more energy-efficient, and more reliable than vacuum tubes."
+    },
+    {
+        "question": "Q98. Integrated Circuits (ICs) were the hallmark of which computer generation?",
+        "options": [
+            "First Generation",
+            "Second Generation",
+            "Third Generation",
+            "Fourth Generation"
+        ],
+        "answer": "Third Generation",
+        "explanation": "Third-generation computers (approx. 1960s-1970s) utilized integrated circuits, placing many transistors onto small silicon chips, leading to further miniaturization and increased power."
+    },
+    {
+        "question": "Q99. Microprocessors, which contain the entire CPU on a single chip, characterized which generation?",
+        "options": [
+            "First Generation",
+            "Second Generation",
+            "Third Generation",
+            "Fourth Generation"
+        ],
+        "answer": "Fourth Generation",
+        "explanation": "Fourth-generation computers (approx. 1971-present) are based on the microprocessor, enabling the development of personal computers."
+    },
+    {
+        "question": "Q100. What type of computer memory allows data to be accessed in any order, irrespective of its physical location?",
+        "options": [
+            "Sequential Access Memory (e.g., Magnetic Tape)",
+            "Read Only Memory (ROM)",
+            "Random Access Memory (RAM)",
+            "Write Once Read Many (WORM) Memory"
+        ],
+        "answer": "Random Access Memory (RAM)",
+        "explanation": "RAM allows the CPU to directly access any memory location using its address, making access times relatively constant regardless of location, unlike sequential access media."
+    },
+    {
+        "question": "Q101. Which software acts as an intermediary between the user and the computer hardware?",
+        "options": [
+            "Application Software",
+            "Utility Software",
+            "Operating System",
+            "Firmware"
+        ],
+        "answer": "Operating System",
+        "explanation": "The OS manages hardware resources and provides a platform and interface for users and applications to interact with the hardware."
+    },
+    {
+        "question": "Q102. A folder inside another folder is called a:",
+        "options": [
+            "File",
+            "Root Directory",
+            "Subfolder (or Subdirectory)",
+            "Parent Folder"
+        ],
+        "answer": "Subfolder (or Subdirectory)",
+        "explanation": "File systems use a hierarchical structure where folders (directories) can contain files and other folders (subfolders)."
+    },
+    {
+        "question": "Q103. The top-level directory in a file system hierarchy is called the:",
+        "options": [
+            "Subfolder",
+            "Home Directory",
+            "Working Directory",
+            "Root Directory"
+        ],
+        "answer": "Root Directory"
+    },
+    {
+        "question": "Q104. Which logic gate outputs 1 only if both of its inputs are 1?",
+        "options": [
+            "OR Gate",
+            "AND Gate",
+            "NOT Gate",
+            "XOR Gate"
+        ],
+        "answer": "AND Gate",
+        "explanation": "An AND gate performs logical conjunction; its output is true (1) if and only if all of its inputs are true (1)."
+    },
+    {
+        "question": "Q105. Which logic gate outputs 1 if at least one of its inputs is 1?",
+        "options": [
+            "OR Gate",
+            "AND Gate",
+            "NOT Gate",
+            "NAND Gate"
+        ],
+        "answer": "OR Gate",
+        "explanation": "An OR gate performs logical disjunction; its output is true (1) if one or more of its inputs are true (1)."
+    },
+    {
+        "question": "Q106. Which logic gate inverts its input?",
+        "options": [
+            "OR Gate",
+            "AND Gate",
+            "NOT Gate",
+            "XOR Gate"
+        ],
+        "answer": "NOT Gate",
+        "explanation": "A NOT gate (inverter) has one input and one output; the output is the logical opposite of the input (0 becomes 1, 1 becomes 0)."
+    },
+    {
+        "question": "Q107. What is the base of the Octal number system?",
+        "options": [
+            "2",
+            "8",
+            "10",
+            "16"
+        ],
+        "answer": "8",
+        "explanation": "The Octal number system uses base-8, employing digits 0 through 7."
+    },
+    {
+        "question": "Q108. Converting the binary number 1011 to decimal results in:",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "13"
+        ],
+        "answer": "11",
+        "explanation": "1011 (binary) = (1 * 2^3) + (0 * 2^2) + (1 * 2^1) + (1 * 2^0) = 8 + 0 + 2 + 1 = 11 (decimal)."
+    },
+    {
+        "question": "Q109. Converting the decimal number 13 to binary results in:",
+        "options": [
+            "1101",
+            "1011",
+            "1110",
+            "1001"
+        ],
+        "answer": "1101",
+        "explanation": "13 / 2 = 6 R 1; 6 / 2 = 3 R 0; 3 / 2 = 1 R 1; 1 / 2 = 0 R 1. Reading remainders bottom-up: 1101."
+    },
+    {
+        "question": "Q110. ASCII is a standard for:",
+        "options": [
+            "Encoding characters into numbers",
+            "Error checking in data transmission",
+            "Network communication protocols",
+            "Graphics file formats"
+        ],
+        "answer": "Encoding characters into numbers",
+        "explanation": "ASCII (American Standard Code for Information Interchange) assigns numerical codes to letters, digits, punctuation marks, and control characters."
+    },
+    {
+        "question": "Q111. Which component facilitates communication between the CPU and peripheral devices?",
+        "options": [
+            "ALU",
+            "Cache",
+            "RAM",
+            "I/O (Input/Output) Controller or Interface"
+        ],
+        "answer": "I/O (Input/Output) Controller or Interface",
+        "explanation": "I/O controllers manage the data transfer and communication between the CPU/memory and specific peripheral devices (like disk controllers, USB controllers)."
+    },
+    {
+        "question": "Q112. A lightweight, portable computer, often with a touchscreen interface and smaller than a laptop, is a:",
+        "options": [
+            "Desktop",
+            "Server",
+            "Tablet",
+            "Mainframe"
+        ],
+        "answer": "Tablet",
+        "explanation": "Tablets prioritize portability and touch input, typically lacking a built-in physical keyboard."
+    },
+    {
+        "question": "Q113. Which protocol is fundamental for communication over the Internet, defining how data should be packetized, addressed, transmitted, routed, and received?",
+        "options": [
+            "HTTP",
+            "FTP",
+            "SMTP",
+            "TCP/IP"
+        ],
+        "answer": "TCP/IP",
+        "explanation": "TCP/IP (Transmission Control Protocol/Internet Protocol) is the foundational suite of communication protocols used for the Internet and most computer networks."
+    },
+    {
+        "question": "Q114. Which software manages the creation, storage, and retrieval of data in a database?",
+        "options": [
+            "Operating System",
+            "Spreadsheet Program",
+            "Database Management System (DBMS)",
+            "Word Processor"
+        ],
+        "answer": "Database Management System (DBMS)",
+        "explanation": "A DBMS provides an interface for users and applications to interact with a database, handling tasks like data definition, manipulation, and security."
+    },
+    {
+        "question": "Q115. What does HTML stand for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "High Tech Markup Language",
+            "Hyper Transfer Machine Language",
+            "Home Tool Markup Language"
+        ],
+        "answer": "Hyper Text Markup Language",
+        "explanation": "HTML is the standard markup language used to create and structure content on web pages."
+    },
+    {
+        "question": "Q116. The term 'bandwidth' in networking refers to:",
+        "options": [
+            "The physical length of the network cable",
+            "The number of computers on the network",
+            "The maximum data transfer rate of a network connection",
+            "The security level of the network"
+        ],
+        "answer": "The maximum data transfer rate of a network connection",
+        "explanation": "Bandwidth represents the capacity of a communication channel, typically measured in bits per second (bps), indicating how much data can be sent over a period."
+    },
+    {
+        "question": "Q117. What is 'phishing'?",
+        "options": [
+            "A type of computer virus",
+            "An attempt to acquire sensitive information (like passwords, credit card details) by masquerading as a trustworthy entity",
+            "Unsolicited commercial email",
+            "A method for cooling computer components"
+        ],
+        "answer": "An attempt to acquire sensitive information (like passwords, credit card details) by masquerading as a trustworthy entity",
+        "explanation": "Phishing attacks often use deceptive emails, messages, or websites designed to look legitimate to trick victims into revealing confidential data."
+    },
+    {
+        "question": "Q118. Which pointing device uses a ball rolled by the user's thumb or fingers?",
+        "options": [
+            "Mouse",
+            "Touchpad",
+            "Trackball",
+            "Joystick"
+        ],
+        "answer": "Trackball",
+        "explanation": "A trackball is a stationary pointing device where the user rotates a ball held within a socket to move the cursor."
+    },
+    {
+        "question": "Q119. Which device expands the coverage of a wireless network by receiving the signal and re-broadcasting it?",
+        "options": [
+            "Router",
+            "Modem",
+            "Switch",
+            "Wireless Repeater/Extender"
+        ],
+        "answer": "Wireless Repeater/Extender",
+        "explanation": "A repeater or extender helps eliminate Wi-Fi dead zones by boosting and retransmitting the wireless signal."
+    },
+    {
+        "question": "Q120. The main system memory where the computer stores data and programs currently in use is:",
+        "options": [
+            "ROM",
+            "Hard Disk Drive (HDD)",
+            "RAM",
+            "Solid State Drive (SSD)"
+        ],
+        "answer": "RAM",
+        "explanation": "RAM (Random Access Memory) serves as the computer's primary 'working' memory, providing fast access for the CPU."
+    }
+]

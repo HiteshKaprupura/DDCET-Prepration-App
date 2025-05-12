@@ -1,0 +1,1660 @@
+[
+    {
+        "question": "Q1. Which of the following correctly distinguishes between distance and displacement?",
+        "options": [
+            "Distance is vector, Displacement is scalar",
+            "Both are scalar",
+            "Distance is scalar, Displacement is vector",
+            "Both are vector"
+        ],
+        "answer": "Distance is scalar, Displacement is vector",
+        "explanation": "Distance is the total path length travelled (scalar quantity, magnitude only). Displacement is the shortest straight-line distance between the initial and final points, including direction (vector quantity)."
+    },
+    {
+        "question": "Q2. A particle completes one full circle of radius R. What are the distance travelled and the displacement?",
+        "options": [
+            "Distance = 0, Displacement = 2πR",
+            "Distance = 2πR, Displacement = 0",
+            "Distance = 2R, Displacement = 0",
+            "Distance = πR, Displacement = 2R"
+        ],
+        "answer": "Distance = 2πR, Displacement = 0",
+        "explanation": "Distance is the total path length, which is the circumference (2πR). Displacement is the net change in position, which is zero because the particle returns to the starting point."
+    },
+    {
+        "question": "Q3. Average speed is defined as:",
+        "options": [
+            "Total displacement / Total time",
+            "Total distance / Total time",
+            "Change in velocity / Total time",
+            "Final velocity / Total time"
+        ],
+        "answer": "Total distance / Total time",
+        "explanation": "Average speed is a scalar quantity calculated by dividing the total distance travelled by the total time taken."
+    },
+    {
+        "question": "Q4. Instantaneous velocity is defined as:",
+        "options": [
+            "The average velocity over a long time interval",
+            "The velocity at a specific instant in time (limit of Δx/Δt as Δt→0)",
+            "Total displacement divided by total time",
+            "Total distance divided by total time"
+        ],
+        "answer": "The velocity at a specific instant in time (limit of Δx/Δt as Δt→0)",
+        "explanation": "Instantaneous velocity is the velocity of an object at a particular moment, found by taking the limit of the average velocity as the time interval approaches zero (dx/dt)."
+    },
+    {
+        "question": "Q5. What is the SI unit and dimension of acceleration?",
+        "options": [
+            "Unit: m/s, Dimension: [LT⁻¹]",
+            "Unit: m/s², Dimension: [LT⁻²]",
+            "Unit: m, Dimension: [L]",
+            "Unit: N, Dimension: [MLT⁻²]"
+        ],
+        "answer": "Unit: m/s², Dimension: [LT⁻²]",
+        "explanation": "Acceleration is the rate of change of velocity (velocity/time). SI unit is meters per second squared (m/s²). Its dimension is Length/(Time)², or [LT⁻²]."
+    },
+    {
+        "question": "Q6. If an object moves with constant velocity, its acceleration is:",
+        "options": [
+            "Constant but non-zero",
+            "Increasing",
+            "Decreasing",
+            "Zero"
+        ],
+        "answer": "Zero",
+        "explanation": "Acceleration is the rate of change of velocity. If velocity is constant (both magnitude and direction), its rate of change is zero, hence acceleration is zero."
+    },
+    {
+        "question": "Q7. Uniform acceleration means:",
+        "options": [
+            "Velocity is constant",
+            "Acceleration changes at a constant rate",
+            "Velocity changes by equal amounts in equal intervals of time",
+            "Speed is constant but velocity is changing"
+        ],
+        "answer": "Velocity changes by equal amounts in equal intervals of time",
+        "explanation": "Uniform acceleration implies that the acceleration vector (magnitude and direction) is constant. This means the velocity vector changes by the same amount in every equal time interval."
+    },
+    {
+        "question": "Q8. Newton's First Law of Motion is also known as the Law of:",
+        "options": [
+            "Action-Reaction",
+            "Inertia",
+            "Conservation of Momentum",
+            "Gravitation"
+        ],
+        "answer": "Inertia",
+        "explanation": "Newton's First Law describes inertia - the tendency of an object to resist changes in its state of motion."
+    },
+    {
+        "question": "Q9. Inertia of an object depends primarily on its:",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Mass",
+            "Volume"
+        ],
+        "answer": "Mass",
+        "explanation": "Inertia is the resistance to changes in motion. The more massive an object is, the harder it is to change its state of motion, meaning it has greater inertia. Mass is the quantitative measure of inertia."
+    },
+    {
+        "question": "Q10. Which of the following is a vector quantity?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Mass",
+            "Force"
+        ],
+        "answer": "Force",
+        "explanation": "Force is a vector quantity because it has both magnitude and direction. Speed, distance, and mass are scalar quantities."
+    },
+    {
+        "question": "Q11. Newton's Second Law of Motion relates net force (F_net), mass (m), and acceleration (a) by the equation:",
+        "options": [
+            "F_net = m/a",
+            "a = F_net / m",
+            "m = F_net * a",
+            "F_net = mv"
+        ],
+        "answer": "a = F_net / m",
+        "explanation": "Newton's Second Law states that the acceleration (a) of an object is directly proportional to the net force (F_net) acting on it and inversely proportional to its mass (m). F_net = ma, or a = F_net / m."
+    },
+    {
+        "question": "Q12. One Newton (1 N) is the force that gives a mass of 1 kg an acceleration of:",
+        "options": [
+            "1 m/s",
+            "1 cm/s²",
+            "1 m/s²",
+            "9.8 m/s²"
+        ],
+        "answer": "1 m/s²",
+        "explanation": "Using F=ma, if F=1 N and m=1 kg, then a = F/m = 1 N / 1 kg = 1 m/s². So, 1 Newton is the force that gives a 1 kg mass an acceleration of 1 m/s²."
+    },
+    {
+        "question": "Q13. According to Newton's Third Law, action and reaction forces:",
+        "options": [
+            "Act on the same body and cancel each other",
+            "Act on different bodies and are equal in magnitude and opposite in direction",
+            "Are always perpendicular to each other",
+            "Are equal in magnitude but act in the same direction"
+        ],
+        "answer": "Act on different bodies and are equal in magnitude and opposite in direction",
+        "explanation": "The key aspects of Newton's Third Law are that action-reaction forces act on different objects, are equal in size, and opposite in direction."
+    },
+    {
+        "question": "Q14. Why don't action and reaction forces cancel each other out?",
+        "options": [
+            "They are not always equal.",
+            "They act on different bodies.",
+            "They act in the same direction.",
+            "Reaction force occurs later than action force."
+        ],
+        "answer": "They act on different bodies.",
+        "explanation": "Forces can only cancel if they act on the same object. Since action and reaction forces act on different objects, they cannot cancel each other's effect on motion."
+    },
+    {
+        "question": "Q15. A book is resting on a table. The reaction force to the weight of the book (force of gravity by Earth on the book) is:",
+        "options": [
+            "The force exerted by the table on the book (Normal force)",
+            "The force exerted by the book on the table",
+            "The force exerted by the book on the Earth",
+            "The frictional force between the book and table"
+        ],
+        "answer": "The force exerted by the book on the Earth",
+        "explanation": "Action: Earth pulls book (weight). Reaction: Book pulls Earth. The normal force by the table on the book is the reaction to the force the book exerts on the table."
+    },
+
+    {
+        "question": "Q16. Linear momentum (p) of an object is defined as:",
+        "options": [
+            "p = mass / velocity",
+            "p = mass × velocity",
+            "p = mass × acceleration",
+            "p = force × time"
+        ],
+        "answer": "p = mass × velocity",
+        "explanation": "Linear momentum (p) is a vector quantity defined as the product of an object's mass (m) and its velocity (v)."
+    },
+    {
+        "question": "Q17. The SI unit of linear momentum is:",
+        "options": [
+            "kg·m/s²",
+            "N·m",
+            "kg·m/s",
+            "Joule"
+        ],
+        "answer": "kg·m/s",
+        "explanation": "Momentum p = mv. Unit = (unit of mass) × (unit of velocity) = kg × (m/s) = kg·m/s."
+    },
+    {
+        "question": "Q18. The Law of Conservation of Linear Momentum states that the total momentum of an isolated system:",
+        "options": [
+            "Always increases",
+            "Always decreases",
+            "Remains constant",
+            "Is always zero"
+        ],
+        "answer": "Remains constant",
+        "explanation": "An isolated system is one where the net external force is zero. In such a system, the total linear momentum does not change over time."
+    },
+    {
+        "question": "Q19. Impulse (J) is defined as the product of:",
+        "options": [
+            "Force and displacement",
+            "Force and velocity",
+            "Force and time interval",
+            "Mass and velocity"
+        ],
+        "answer": "Force and time interval",
+        "explanation": "Impulse is the product of the average force acting on an object and the time interval over which the force acts (J = F_avg × Δt)."
+    },
+    {
+        "question": "Q20. The Impulse-Momentum Theorem states that:",
+        "options": [
+            "Impulse = Final momentum",
+            "Impulse = Initial momentum",
+            "Impulse = Change in kinetic energy",
+            "Impulse = Change in momentum"
+        ],
+        "answer": "Impulse = Change in momentum",
+        "explanation": "The theorem provides a direct link: the impulse applied to an object equals the change in that object's linear momentum (J = Δp)."
+    },
+    {
+        "question": "Q21. Which quantity has the same SI unit as Impulse?",
+        "options": [
+            "Force",
+            "Work",
+            "Power",
+            "Momentum"
+        ],
+        "answer": "Momentum",
+        "explanation": "Impulse (N·s) and Momentum (kg·m/s) have the same units because J = Δp. (1 N·s = 1 (kg·m/s²)·s = 1 kg·m/s)."
+    },
+    {
+        "question": "Q22. A large truck and a small car collide head-on. During the collision, the magnitude of the force exerted by the truck on the car is ____ the magnitude of the force exerted by the car on the truck.",
+        "options": [
+            "greater than",
+            "less than",
+            "equal to",
+            "zero compared to"
+        ],
+        "answer": "equal to",
+        "explanation": "This is a direct application of Newton's Third Law. The forces form an action-reaction pair, so they must be equal in magnitude (though opposite in direction)."
+    },
+    {
+        "question": "Q23. The slope of a position-time (x-t) graph at any instant gives:",
+        "options": [
+            "Instantaneous acceleration",
+            "Average velocity",
+            "Instantaneous velocity",
+            "Displacement"
+        ],
+        "answer": "Instantaneous velocity",
+        "explanation": "Slope represents the rate of change. The rate of change of position (Δx/Δt) is velocity. The slope at a specific point gives the instantaneous velocity."
+    },
+    {
+        "question": "Q24. The slope of a velocity-time (v-t) graph at any instant gives:",
+        "options": [
+            "Instantaneous velocity",
+            "Instantaneous acceleration",
+            "Displacement",
+            "Average acceleration"
+        ],
+        "answer": "Instantaneous acceleration",
+        "explanation": "The rate of change of velocity (Δv/Δt) is acceleration. The slope of the v-t graph at a specific point gives the instantaneous acceleration."
+    },
+    {
+        "question": "Q25. The area under a velocity-time (v-t) graph between two time instants represents:",
+        "options": [
+            "Acceleration",
+            "Average velocity",
+            "Change in position (Displacement)",
+            "Distance travelled"
+        ],
+        "answer": "Change in position (Displacement)",
+        "explanation": "Area calculation involves multiplying velocity and time (∫v dt). This integral gives the change in position, or displacement. Distance travelled is the magnitude of this area only if velocity is always positive."
+    },
+    {
+        "question": "Q26. An object is moving with uniform velocity. Its position-time (x-t) graph will be:",
+        "options": [
+            "A horizontal line",
+            "A vertical line",
+            "A straight line inclined to the time axis",
+            "A parabola"
+        ],
+        "answer": "A straight line inclined to the time axis",
+        "explanation": "Uniform velocity means constant slope on the x-t graph. A non-zero constant slope results in a straight line inclined to the time axis (x = vt + x₀)."
+    },
+    {
+        "question": "Q27. An object is moving with uniform acceleration starting from rest. Its velocity-time (v-t) graph will be:",
+        "options": [
+            "A horizontal line not on the axis",
+            "A straight line passing through the origin",
+            "A parabola passing through the origin",
+            "A straight line parallel to the velocity axis"
+        ],
+        "answer": "A straight line passing through the origin",
+        "explanation": "For uniform acceleration from rest, v = u + at becomes v = at (since u=0). This is the equation of a straight line passing through the origin with slope 'a'."
+    },
+    {
+        "question": "Q28. If the velocity-time graph of a particle is a horizontal line parallel to the time axis, the particle is moving with:",
+        "options": [
+            "Constant speed",
+            "Constant velocity",
+            "Constant acceleration",
+            "Variable acceleration"
+        ],
+        "answer": "Constant velocity",
+        "explanation": "A horizontal line on the v-t graph means velocity (v) is constant (slope = acceleration = 0)."
+    },
+    {
+        "question": "Q29. A ball is thrown vertically upwards. Taking the upward direction as positive, its velocity-time (v-t) graph during its flight (neglecting air resistance) is a:",
+        "options": [
+            "Horizontal line",
+            "Straight line with positive slope",
+            "Straight line with negative slope",
+            "Parabola"
+        ],
+        "answer": "Straight line with negative slope",
+        "explanation": "The ball experiences constant downward acceleration (-g). v = u + at becomes v = u - gt. This is a straight line with a negative slope (-g) starting from a positive initial velocity 'u'."
+    },
+    {
+        "question": "Q30. The area under a Force-time (F-t) graph gives:",
+        "options": [
+            "Work done",
+            "Change in acceleration",
+            "Impulse",
+            "Power"
+        ],
+        "answer": "Impulse",
+        "explanation": "Area = ∫F dt, which is the definition of Impulse. By the Impulse-Momentum theorem, this also equals the change in momentum."
+    },
+
+    {
+        "question": "Q31. A body starts from rest and accelerates uniformly at 5 m/s² for 4 seconds. Its final velocity is:",
+        "options": [
+            "1.25 m/s",
+            "9 m/s",
+            "20 m/s",
+            "16 m/s"
+        ],
+        "answer": "20 m/s",
+        "explanation": "Using v = u + at. Given u = 0, a = 5 m/s², t = 4 s. v = 0 + (5)(4) = 20 m/s."
+    },
+    {
+        "question": "Q32. What distance does the body in Q31 cover during these 4 seconds?",
+        "options": [
+            "20 m",
+            "40 m",
+            "80 m",
+            "10 m"
+        ],
+        "answer": "40 m",
+        "explanation": "Using s = ut + (1/2)at². Given u = 0, a = 5 m/s², t = 4 s. s = (0)(4) + (1/2)(5)(4)² = 0 + (1/2)(5)(16) = 40 m. Alternatively, s = ((u+v)/2)t = ((0+20)/2)*4 = 10*4 = 40 m."
+    },
+    {
+        "question": "Q33. A car moving at 90 km/h applies brakes to stop in 5 seconds. Assuming uniform retardation, find the retardation.",
+        "options": [
+            "-5 m/s²",
+            "-18 m/s²",
+            "-9 m/s²",
+            "-2.5 m/s²"
+        ],
+        "answer": "-5 m/s²",
+        "explanation": "Initial velocity u = 90 km/h = 90 * (1000/3600) m/s = 25 m/s. Final velocity v = 0. Time t = 5 s. Use v = u + at. 0 = 25 + a(5). 5a = -25. a = -5 m/s². Retardation is 5 m/s²."
+    },
+    {
+        "question": "Q34. What distance did the car in Q33 travel before stopping?",
+        "options": [
+            "62.5 m",
+            "125 m",
+            "50 m",
+            "225 m"
+        ],
+        "answer": "62.5 m",
+        "explanation": "Using v² = u² + 2as. 0² = (25)² + 2(-5)s. 0 = 625 - 10s. 10s = 625. s = 62.5 m. Alternatively, s = ((u+v)/2)t = ((25+0)/2)*5 = 12.5*5 = 62.5 m."
+    },
+    {
+        "question": "Q35. A stone is dropped from rest from a height. It hits the ground after 2 seconds. What was the height? (Use g = 10 m/s²)",
+        "options": [
+            "10 m",
+            "20 m",
+            "30 m",
+            "40 m"
+        ],
+        "answer": "20 m",
+        "explanation": "Dropped means u = 0. Acceleration a = g = 10 m/s². Time t = 2 s. Use s = ut + (1/2)at². s = (0)(2) + (1/2)(10)(2)² = 0 + (1/2)(10)(4) = 20 m."
+    },
+    {
+        "question": "Q36. With what velocity does the stone in Q35 hit the ground? (Use g = 10 m/s²)",
+        "options": [
+            "10 m/s",
+            "20 m/s",
+            "5 m/s",
+            "40 m/s"
+        ],
+        "answer": "20 m/s",
+        "explanation": "Using v = u + at. u = 0, a = 10 m/s², t = 2 s. v = 0 + (10)(2) = 20 m/s."
+    },
+    {
+        "question": "Q37. A particle covers 15 m in the 3rd second and 25 m in the 5th second of its motion under uniform acceleration. What is the acceleration?",
+        "options": [
+            "2 m/s²",
+            "3 m/s²",
+            "5 m/s²",
+            "10 m/s²"
+        ],
+        "answer": "5 m/s²",
+        "explanation": "Distance in nth second: s_nth = u + a/2(2n-1). s_3rd = u + a/2(2*3 - 1) => 15 = u + 2.5a. s_5th = u + a/2(2*5 - 1) => 25 = u + 4.5a. Subtracting: (25 - 15) = (u + 4.5a) - (u + 2.5a) => 10 = 2a => a = 5 m/s²."
+    },
+    {
+        "question": "Q38. What is the initial velocity (u) for the particle in Q37?",
+        "options": [
+            "0 m/s",
+            "2.5 m/s",
+            "5 m/s",
+            "7.5 m/s"
+        ],
+        "answer": "2.5 m/s",
+        "explanation": "Using the first equation from Q37: 15 = u + 2.5a. We found a = 5 m/s². So, 15 = u + 2.5(5) = u + 12.5. u = 15 - 12.5 = 2.5 m/s."
+    },
+    {
+        "question": "Q39. A force of 20 N acts on a body of mass 4 kg. The acceleration produced is:",
+        "options": [
+            "80 m/s²",
+            "0.2 m/s²",
+            "5 m/s²",
+            "16 m/s²"
+        ],
+        "answer": "5 m/s²",
+        "explanation": "Using F = ma. Given F = 20 N, m = 4 kg. a = F/m = 20 / 4 = 5 m/s²."
+    },
+    {
+        "question": "Q40. A body of mass 2 kg is moving with an acceleration of 1.5 m/s². The net force acting on it is:",
+        "options": [
+            "1.33 N",
+            "3 N",
+            "0.75 N",
+            "3.5 N"
+        ],
+        "answer": "3 N",
+        "explanation": "Using F = ma. Given m = 2 kg, a = 1.5 m/s². F = (2)(1.5) = 3 N."
+    },
+    {
+        "question": "Q41. A constant force acts on a body of mass 5 kg and changes its velocity from 2 m/s to 8 m/s in 3 seconds. The magnitude of the force is:",
+        "options": [
+            "6 N",
+            "10 N",
+            "15 N",
+            "30 N"
+        ],
+        "answer": "10 N",
+        "explanation": "First find acceleration: a = (v - u) / t = (8 - 2) / 3 = 6 / 3 = 2 m/s². Then find force: F = ma = (5 kg)(2 m/s²) = 10 N."
+    },
+    {
+        "question": "Q42. What is the weight of a 10 kg mass on the surface of the Earth? (Use g = 9.8 m/s²)",
+        "options": [
+            "10 N",
+            "1 N",
+            "9.8 N",
+            "98 N"
+        ],
+        "answer": "98 N",
+        "explanation": "Weight is the force of gravity, W = mg. W = (10 kg)(9.8 m/s²) = 98 N."
+    },
+    {
+        "question": "Q43. An object weighs 49 N on Earth. What is its mass? (Use g = 9.8 m/s²)",
+        "options": [
+            "0.2 kg",
+            "5 kg",
+            "49 kg",
+            "480.2 kg"
+        ],
+        "answer": "5 kg",
+        "explanation": "Weight W = mg. Mass m = W/g = 49 N / 9.8 m/s² = 5 kg."
+    },
+    {
+        "question": "Q44. A 50 kg astronaut is in a spaceship accelerating upwards (away from Earth) at 5 m/s². What is the net force on the astronaut? (Ignore gravity for simplicity or assume far from Earth)",
+        "options": [
+            "10 N",
+            "50 N",
+            "250 N",
+            "500 N"
+        ],
+        "answer": "250 N",
+        "explanation": "The net force required to cause the acceleration is F_net = ma = (50 kg)(5 m/s²) = 250 N."
+    },
+    {
+        "question": "Q45. A 70 kg person stands on a weighing scale in a lift accelerating downwards at 3 m/s². What reading does the scale show? (Use g = 10 m/s²)",
+        "options": [
+            "700 N",
+            "210 N",
+            "490 N",
+            "910 N"
+        ],
+        "answer": "490 N",
+        "explanation": "The scale reading shows the apparent weight (Normal force N). For downward acceleration 'a', N = m(g - a). N = 70(10 - 3) = 70(7) = 490 N."
+    },
+
+    {
+        "question": "Q46. What is the apparent weight of a 50 kg person in a lift moving down with a constant velocity of 2 m/s? (Use g = 10 m/s²)",
+        "options": [
+            "500 N",
+            "400 N",
+            "600 N",
+            "0 N"
+        ],
+        "answer": "500 N",
+        "explanation": "Constant velocity means acceleration a = 0. Apparent weight N = m(g ± a) = mg = (50 kg)(10 m/s²) = 500 N. Apparent weight equals true weight."
+    },
+    {
+        "question": "Q47. If the cable of the lift in Q45 breaks and it falls freely, what will be the reading on the weighing scale?",
+        "options": [
+            "700 N",
+            "0 N",
+            "490 N",
+            "Infinite"
+        ],
+        "answer": "0 N",
+        "explanation": "Free fall means downward acceleration a = g. Apparent weight N = m(g - a) = m(g - g) = 0 N. This is weightlessness."
+    },
+    {
+        "question": "Q48. Two blocks of masses 2 kg and 4 kg are connected by a string and placed on a smooth horizontal surface. A horizontal force of 12 N is applied to the 4 kg block. Find the acceleration of the system.",
+        "options": [
+            "1 m/s²",
+            "2 m/s²",
+            "3 m/s²",
+            "6 m/s²"
+        ],
+        "answer": "2 m/s²",
+        "explanation": "Total mass M = 2 kg + 4 kg = 6 kg. Net external force F = 12 N. Acceleration a = F / M = 12 N / 6 kg = 2 m/s²."
+    },
+    {
+        "question": "Q49. In the system described in Q48, what is the tension in the string connecting the two blocks?",
+        "options": [
+            "12 N",
+            "8 N",
+            "6 N",
+            "4 N"
+        ],
+        "answer": "4 N",
+        "explanation": "Consider the FBD of the 2 kg block. The only horizontal force is the tension T. Using F=ma for the 2 kg block: T = m₂kg * a = (2 kg)(2 m/s²) = 4 N."
+    },
+    {
+        "question": "Q50. If the 12 N force in Q48 was applied to the 2 kg block instead, the acceleration would be ____ and the tension would be ____.",
+        "options": [
+            "2 m/s², 4 N",
+            "2 m/s², 8 N",
+            "3 m/s², 6 N",
+            "3 m/s², 9 N"
+        ],
+        "answer": "2 m/s², 8 N",
+        "explanation": "Acceleration remains the same (a = 2 m/s²) as total mass and net force are unchanged. Now consider FBD of the 4 kg block. Tension T pulls it. T = m₄kg * a = (4 kg)(2 m/s²) = 8 N."
+    },
+    {
+        "question": "Q51. A block of mass 'm' slides down a smooth incline angled at θ to the horizontal. Its acceleration is:",
+        "options": [
+            "g",
+            "mg sin(θ)",
+            "g sin(θ)",
+            "g cos(θ)"
+        ],
+        "answer": "g sin(θ)",
+        "explanation": "The net force down the incline is the component of gravity along the incline, F = mg sin(θ). Using F=ma, we get ma = mg sin(θ), so a = g sin(θ)."
+    },
+    {
+        "question": "Q52. The normal force on the block in Q51 is:",
+        "options": [
+            "mg",
+            "mg sin(θ)",
+            "mg cos(θ)",
+            "0"
+        ],
+        "answer": "mg cos(θ)",
+        "explanation": "The normal force is perpendicular to the inclined surface and balances the component of gravity perpendicular to the surface, which is mg cos(θ)."
+    },
+    {
+        "question": "Q53. A 2000 kg truck travelling at 54 km/h has a momentum of:",
+        "options": [
+            "108000 kg·m/s",
+            "30000 kg·m/s",
+            "37 kg·m/s",
+            "54000 kg·m/s"
+        ],
+        "answer": "30000 kg·m/s",
+        "explanation": "Velocity v = 54 km/h = 54 * (1000/3600) m/s = 15 m/s. Momentum p = mv = (2000 kg)(15 m/s) = 30000 kg·m/s."
+    },
+    {
+        "question": "Q54. A cricket ball of mass 0.15 kg moving at 20 m/s is caught by a player in 0.1 s. What is the magnitude of the average force exerted by the player?",
+        "options": [
+            "3 N",
+            "30 N",
+            "0.3 N",
+            "15 N"
+        ],
+        "answer": "30 N",
+        "explanation": "Initial momentum p_i = mv = (0.15 kg)(20 m/s) = 3 kg·m/s. Final momentum p_f = 0. Change in momentum |Δp| = 3 kg·m/s. Average force F_avg = |Δp| / Δt = 3 / 0.1 = 30 N."
+    },
+    {
+        "question": "Q55. An impulse of 8 N·s is applied to a 4 kg object initially at rest. What is its final velocity?",
+        "options": [
+            "0.5 m/s",
+            "2 m/s",
+            "4 m/s",
+            "32 m/s"
+        ],
+        "answer": "2 m/s",
+        "explanation": "Impulse J = Δp = m(v_f - v_i). Given J = 8 N·s, m = 4 kg, v_i = 0. 8 = 4(v_f - 0). 8 = 4v_f. v_f = 8 / 4 = 2 m/s."
+    },
+    {
+        "question": "Q56. A bullet of mass 10 g (0.01 kg) travelling at 400 m/s strikes a stationary block of wood (mass 1.99 kg) and embeds in it. Find the velocity of the block+bullet system immediately after impact.",
+        "options": [
+            "1 m/s",
+            "2 m/s",
+            "4 m/s",
+            "0.5 m/s"
+        ],
+        "answer": "2 m/s",
+        "explanation": "Perfectly inelastic collision. Use conservation of momentum. P_initial = m_b*u_b + m_w*u_w = (0.01)(400) + (1.99)(0) = 4 kg·m/s. P_final = (m_b + m_w)v_f = (0.01 + 1.99)v_f = 2v_f. P_initial = P_final => 4 = 2v_f => v_f = 2 m/s."
+    },
+    {
+        "question": "Q57. In an elastic collision between two bodies, which of the following is conserved?",
+        "options": [
+            "Kinetic energy only",
+            "Momentum only",
+            "Both kinetic energy and momentum",
+            "Neither kinetic energy nor momentum"
+        ],
+        "answer": "Both kinetic energy and momentum",
+        "explanation": "By definition, an elastic collision is one in which both total linear momentum and total kinetic energy of the system are conserved."
+    },
+    {
+        "question": "Q58. In an inelastic collision between two bodies, which of the following is conserved?",
+        "options": [
+            "Kinetic energy only",
+            "Momentum only",
+            "Both kinetic energy and momentum",
+            "Neither kinetic energy nor momentum"
+        ],
+        "answer": "Momentum only",
+        "explanation": "In any collision (elastic or inelastic), total linear momentum is conserved (assuming no external forces). However, kinetic energy is *not* conserved in an inelastic collision (some KE is lost)."
+    },
+    {
+        "question": "Q59. A 3 kg ball moving at 2 m/s collides head-on with a 1 kg ball moving at 4 m/s in the opposite direction. They stick together. What is their common velocity after collision?",
+        "options": [
+            "0.5 m/s",
+            "1 m/s",
+            "1.5 m/s",
+            "2.5 m/s"
+        ],
+        "answer": "0.5 m/s",
+        "explanation": "Let initial direction of 3kg ball be positive. P_initial = m₁u₁ + m₂u₂ = (3)(+2) + (1)(-4) = 6 - 4 = 2 kg·m/s. P_final = (m₁ + m₂)v_f = (3+1)v_f = 4v_f. P_initial = P_final => 2 = 4v_f => v_f = 2/4 = 0.5 m/s. (Positive sign means combined mass moves in the initial direction of the 3kg ball)."
+    },
+    {
+        "question": "Q60. A machine gun fires 120 bullets per minute, each of mass 10 g, with a velocity of 600 m/s. The average recoil force experienced by the person holding the gun is:",
+        "options": [
+            "6 N",
+            "12 N",
+            "72 N",
+            "1.2 N"
+        ],
+        "answer": "12 N",
+        "explanation": "Rate of firing = 120 bullets/min = 120/60 = 2 bullets/sec. Momentum of one bullet p = mv = (0.01 kg)(600 m/s) = 6 kg·m/s. Rate of change of momentum = (Momentum per bullet) * (Bullets per second) = 6 * 2 = 12 kg·m/s². This rate of change of momentum equals the average force (F = Δp/Δt). So, recoil force = 12 N."
+    },
+
+    {
+        "question": "Q61. Uniform circular motion is an example of motion with:",
+        "options": [
+            "Constant velocity",
+            "Zero acceleration",
+            "Constant acceleration",
+            "Constant speed but variable velocity"
+        ],
+        "answer": "Constant speed but variable velocity",
+        "explanation": "In UCM, the magnitude of velocity (speed) is constant, but the direction of velocity continuously changes, meaning velocity is variable. This change in velocity requires an acceleration (centripetal)."
+    },
+    {
+        "question": "Q62. The angular displacement is measured in:",
+        "options": [
+            "Meters",
+            "Radians",
+            "Hertz",
+            "Meters per second"
+        ],
+        "answer": "Radians",
+        "explanation": "The standard unit for measuring angles and angular displacement in physics calculations is the radian."
+    },
+    {
+        "question": "Q63. The relation between linear speed (v), radius (r), and angular speed (ω) is:",
+        "options": [
+            "ω = vr",
+            "r = vω",
+            "v = rω",
+            "v = ω/r"
+        ],
+        "answer": "v = rω",
+        "explanation": "For an object moving in a circle of radius r with angular speed ω (in rad/s), its linear (tangential) speed v is given by v = rω."
+    },
+    {
+        "question": "Q64. If an object completes 5 revolutions in 10 seconds, its average angular velocity is:",
+        "options": [
+            "0.5 rad/s",
+            "π rad/s",
+            "2π rad/s",
+            "5 rad/s"
+        ],
+        "answer": "π rad/s",
+        "explanation": "Total angular displacement Δθ = 5 revolutions = 5 * 2π radians = 10π radians. Time Δt = 10 s. Average angular velocity ω_avg = Δθ / Δt = 10π / 10 = π rad/s."
+    },
+    {
+        "question": "Q65. Centripetal acceleration (a<0xE2><0x82><0x9C>) is always directed:",
+        "options": [
+            "Tangent to the path",
+            "Opposite to the velocity",
+            "Towards the center of the circular path",
+            "Away from the center of the circular path"
+        ],
+        "answer": "Towards the center of the circular path",
+        "explanation": "Centripetal means 'center-seeking'. This acceleration is responsible for changing the direction of the velocity vector, keeping the object on the circular path."
+    },
+    {
+        "question": "Q66. Which formula correctly represents centripetal acceleration?",
+        "options": [
+            "a<0xE2><0x82><0x9C> = vr",
+            "a<0xE2><0x82><0x9C> = v/r",
+            "a<0xE2><0x82><0x9C> = r²/v",
+            "a<0xE2><0x82><0x9C> = v²/r = rω²"
+        ],
+        "answer": "a<0xE2><0x82><0x9C> = v²/r = rω²",
+        "explanation": "Centripetal acceleration can be expressed either in terms of linear speed v (a<0xE2><0x82><0x9C> = v²/r) or angular speed ω (a<0xE2><0x82><0x9C> = rω²)."
+    },
+    {
+        "question": "Q67. Centripetal force (F<0xE2><0x82><0x9C>) is the force required to:",
+        "options": [
+            "Increase the speed of the object",
+            "Decrease the speed of the object",
+            "Keep the object moving in a straight line",
+            "Keep the object moving in a circular path"
+        ],
+        "answer": "Keep the object moving in a circular path",
+        "explanation": "Centripetal force is the net inward force that causes the centripetal acceleration necessary for circular motion."
+    },
+    {
+        "question": "Q68. Which formula correctly represents centripetal force?",
+        "options": [
+            "F<0xE2><0x82><0x9C> = mv/r",
+            "F<0xE2><0x82><0x9C> = mvr",
+            "F<0xE2><0x82><0x9C> = mv²/r = mrω²",
+            "F<0xE2><0x82><0x9C> = mr/v²"
+        ],
+        "answer": "F<0xE2><0x82><0x9C> = mv²/r = mrω²",
+        "explanation": "Centripetal force is mass times centripetal acceleration: F<0xE2><0x82><0x9C> = ma<0xE2><0x82><0x9C>. Substituting the formulas for a<0xE2><0x82><0x9C> gives F<0xE2><0x82><0x9C> = m(v²/r) or F<0xE2><0x82><0x9C> = m(rω²)."
+    },
+    {
+        "question": "Q69. When a car turns on a level road, the centripetal force is provided by:",
+        "options": [
+            "Engine thrust",
+            "Weight of the car",
+            "Normal reaction",
+            "Friction between tyres and road"
+        ],
+        "answer": "Friction between tyres and road",
+        "explanation": "The static friction between the tyres and the road provides the necessary inward force for the car to make the turn."
+    },
+    {
+        "question": "Q70. Centrifugal force is experienced in which frame of reference?",
+        "options": [
+            "Inertial frame",
+            "Non-inertial frame (rotating frame)",
+            "Frame moving with constant velocity",
+            "Any frame of reference"
+        ],
+        "answer": "Non-inertial frame (rotating frame)",
+        "explanation": "Centrifugal force is a pseudo force (fictitious force) that appears to act outwards on objects in a rotating (non-inertial) frame of reference."
+    },
+    {
+        "question": "Q71. Banking of roads helps in providing the necessary centripetal force primarily through:",
+        "options": [
+            "Increasing the friction",
+            "A component of the vehicle's weight",
+            "A component of the normal reaction force",
+            "Reducing the vehicle's speed"
+        ],
+        "answer": "A component of the normal reaction force",
+        "explanation": "Banking tilts the normal force so that its horizontal component points towards the center of the curve, contributing to the required centripetal force."
+    },
+    {
+        "question": "Q72. Angular acceleration (α) is defined as the rate of change of:",
+        "options": [
+            "Angular displacement",
+            "Angular velocity",
+            "Linear velocity",
+            "Centripetal acceleration"
+        ],
+        "answer": "Angular velocity",
+        "explanation": "Angular acceleration (α) is the time rate of change of angular velocity (ω), i.e., α = dω/dt."
+    },
+    {
+        "question": "Q73. The SI unit of angular acceleration is:",
+        "options": [
+            "rad/s",
+            "rad/s²",
+            "rev/s²",
+            "m/s²"
+        ],
+        "answer": "rad/s²",
+        "explanation": "Unit of α = (Unit of ω) / (Unit of time) = (rad/s) / s = rad/s²."
+    },
+    {
+        "question": "Q74. If angular acceleration is zero, the object is rotating with:",
+        "options": [
+            "Zero angular velocity",
+            "Constant angular velocity",
+            "Increasing angular velocity",
+            "Decreasing angular velocity"
+        ],
+        "answer": "Constant angular velocity",
+        "explanation": "Zero angular acceleration means the angular velocity is not changing, hence it is constant (or zero, which is a special case of constant)."
+    },
+    {
+        "question": "Q75. The relationship between tangential acceleration (aₜ) and angular acceleration (α) is:",
+        "options": [
+            "aₜ = α/r",
+            "aₜ = rα",
+            "aₜ = r/α",
+            "aₜ = r²α"
+        ],
+        "answer": "aₜ = rα",
+        "explanation": "Tangential acceleration, which is the rate of change of linear speed, is related to angular acceleration by aₜ = rα."
+    },
+
+    {
+        "question": "Q76. A wheel rotates at 1200 RPM. Its angular velocity in rad/s is approximately: (Use π ≈ 3.14)",
+        "options": [
+            "20 rad/s",
+            "40π rad/s (≈125.6 rad/s)",
+            "1200 rad/s",
+            "60 rad/s"
+        ],
+        "answer": "40π rad/s (≈125.6 rad/s)",
+        "explanation": "Frequency f = 1200 rev/min = (1200 / 60) rev/s = 20 rev/s. Angular velocity ω = 2πf = 2π(20) = 40π rad/s ≈ 40 * 3.14 = 125.6 rad/s."
+    },
+    {
+        "question": "Q77. An object of mass 2 kg moves in a circle of radius 4 m at a constant speed of 6 m/s. The centripetal force required is:",
+        "options": [
+            "12 N",
+            "18 N",
+            "36 N",
+            "72 N"
+        ],
+        "answer": "18 N",
+        "explanation": "Centripetal force F<0xE2><0x82><0x9C> = mv²/r = (2 kg)(6 m/s)² / (4 m) = 2 * 36 / 4 = 72 / 4 = 18 N."
+    },
+    {
+        "question": "Q78. A stone of mass 0.5 kg is tied to a string of length 2 m and whirled in a horizontal circle with angular velocity 3 rad/s. The tension in the string is:",
+        "options": [
+            "3 N",
+            "4.5 N",
+            "9 N",
+            "18 N"
+        ],
+        "answer": "9 N",
+        "explanation": "Tension provides the centripetal force. F<0xE2><0x82><0x9C> = Tension = mrω² = (0.5 kg)(2 m)(3 rad/s)² = 0.5 * 2 * 9 = 9 N."
+    },
+    {
+        "question": "Q79. For a car to safely negotiate a banked curve of radius 100 m at an optimum speed of 20 m/s (no friction), the banking angle θ should be such that: (Use g = 10 m/s²)",
+        "options": [
+            "tan(θ) = 0.1",
+            "tan(θ) = 0.2",
+            "tan(θ) = 0.4",
+            "tan(θ) = 0.5"
+        ],
+        "answer": "tan(θ) = 0.4",
+        "explanation": "For optimum speed on a banked curve, tan(θ) = v²/rg = (20)² / (100 * 10) = 400 / 1000 = 0.4."
+    },
+    {
+        "question": "Q80. A flywheel rotating at 10 rad/s is brought to rest in 5 seconds by a constant angular deceleration. The angular deceleration is:",
+        "options": [
+            "-1 rad/s²",
+            "-2 rad/s²",
+            "-5 rad/s²",
+            "-10 rad/s²"
+        ],
+        "answer": "-2 rad/s²",
+        "explanation": "Using ω_f = ω_i + αt. Final ω_f = 0. Initial ω_i = 10 rad/s. Time t = 5 s. 0 = 10 + α(5). 5α = -10. α = -2 rad/s². (Deceleration is 2 rad/s²)."
+    },
+    {
+        "question": "Q81. How many revolutions did the flywheel in Q80 make before stopping?",
+        "options": [
+            "25 / π rev",
+            "25 / (2π) rev",
+            "25 rev",
+            "50 / π rev"
+        ],
+        "answer": "25 / (2π) rev",
+        "explanation": "Use θ = ω_i*t + 0.5*α*t². θ = (10)(5) + 0.5*(-2)*(5)² = 50 - 25 = 25 radians. Number of revolutions = Total angle / (Angle per revolution) = 25 rad / (2π rad/rev) = 25 / (2π) revolutions."
+    },
+    {
+        "question": "Q82. A point on the rim of a wheel of radius 0.5 m has a tangential acceleration of 2 m/s². The angular acceleration of the wheel is:",
+        "options": [
+            "1 rad/s²",
+            "2 rad/s²",
+            "4 rad/s²",
+            "0.4 rad/s²"
+        ],
+        "answer": "4 rad/s²",
+        "explanation": "Using aₜ = rα. Given aₜ = 2 m/s², r = 0.5 m. α = aₜ / r = 2 / 0.5 = 4 rad/s²."
+    },
+    {
+        "question": "Q83. An object moving in a circle of radius 'r' at constant speed 'v'. If the radius is doubled keeping the speed constant, the centripetal force becomes:",
+        "options": [
+            "Double",
+            "Half",
+            "Four times",
+            "One fourth"
+        ],
+        "answer": "Half",
+        "explanation": "Centripetal force F = mv²/r. If r becomes 2r, the new force F' = mv²/(2r) = (1/2)(mv²/r) = F/2. Force becomes half."
+    },
+    {
+        "question": "Q84. An object moving in a circle of radius 'r' at constant speed 'v'. If the speed is doubled keeping the radius constant, the centripetal force becomes:",
+        "options": [
+            "Double",
+            "Half",
+            "Four times",
+            "One fourth"
+        ],
+        "answer": "Four times",
+        "explanation": "Centripetal force F = mv²/r. If v becomes 2v, the new force F' = m(2v)²/r = m(4v²)/r = 4(mv²/r) = 4F. Force becomes four times."
+    },
+    {
+        "question": "Q85. Work is said to be done by a force only when:",
+        "options": [
+            "The force is strong",
+            "The force causes a displacement",
+            "The force acts perpendicular to the displacement",
+            "The object accelerates"
+        ],
+        "answer": "The force causes a displacement",
+        "explanation": "The physical definition of work requires a force acting on an object and the object undergoing a displacement. W = Fd cos(θ); if d=0, W=0."
+    },
+    {
+        "question": "Q86. The SI unit of Work, the Joule (J), is equivalent to:",
+        "options": [
+            "kg·m/s",
+            "N/m",
+            "N·m",
+            "W/s"
+        ],
+        "answer": "N·m",
+        "explanation": "Work = Force × Displacement (in direction of force). Unit = Unit of Force × Unit of Displacement = Newton × meter = N·m. This unit is named Joule."
+    },
+    {
+        "question": "Q87. When you lift a book upwards at a constant velocity, the work done by your lifting force is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on the book's mass"
+        ],
+        "answer": "Positive",
+        "explanation": "Your lifting force is upwards, and the displacement is upwards. Since force and displacement are in the same direction (θ=0°), the work done by the lifting force is positive (W = Fd)."
+    },
+    {
+        "question": "Q88. In the scenario of Q87 (lifting a book upwards at constant velocity), the work done by the force of gravity on the book is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Equal to work done by lifting force"
+        ],
+        "answer": "Negative",
+        "explanation": "The force of gravity (weight) acts downwards, while the displacement is upwards. Since force and displacement are in opposite directions (θ=180°, cos180°=-1), the work done by gravity is negative (W = mg*d*(-1) = -mgh)."
+    },
+    {
+        "question": "Q89. Kinetic Energy is the energy possessed by a body due to its:",
+        "options": [
+            "Position",
+            "Configuration",
+            "Motion",
+            "Temperature"
+        ],
+        "answer": "Motion",
+        "explanation": "Kinetic energy (KE = ½mv²) is directly associated with the motion (speed) of an object."
+    },
+    {
+        "question": "Q90. Potential Energy is stored energy associated with:",
+        "options": [
+            "Speed",
+            "Motion",
+            "Temperature",
+            "Position or Configuration (due to conservative forces)"
+        ],
+        "answer": "Position or Configuration (due to conservative forces)",
+        "explanation": "Potential energy arises from the position of an object within a conservative force field (like gravity, PE=mgh) or the configuration of a system (like a stretched spring, PE=½kx²)."
+    },
+
+    {
+        "question": "Q91. The formula for Gravitational Potential Energy relative to Earth's surface (h=0) is PE = mgh. This formula is valid when:",
+        "options": [
+            "The object is very far from Earth",
+            "The object is close to Earth's surface (g is approx. constant)",
+            "The object is in circular motion",
+            "The object is moving at high speed"
+        ],
+        "answer": "The object is close to Earth's surface (g is approx. constant)",
+        "explanation": "PE = mgh assumes 'g' is constant, which is a good approximation only near the Earth's surface."
+    },
+    {
+        "question": "Q92. A spring with spring constant 'k' is stretched by a distance 'x'. The force exerted by the spring is:",
+        "options": [
+            "F = kx (in direction of stretch)",
+            "F = -kx (opposite to displacement x)",
+            "F = kx²/2",
+            "F = k/x"
+        ],
+        "answer": "F = -kx (opposite to displacement x)",
+        "explanation": "This is Hooke's Law. The spring exerts a restoring force proportional to the displacement 'x' from equilibrium, and in the direction opposite to the displacement."
+    },
+    {
+        "question": "Q93. The Work-Energy Theorem states that the net work done on an object equals:",
+        "options": [
+            "Its final kinetic energy",
+            "The change in its potential energy",
+            "The change in its kinetic energy",
+            "The total mechanical energy"
+        ],
+        "answer": "The change in its kinetic energy",
+        "explanation": "W_net = ΔKE = KE_final - KE_initial. This theorem relates the work done by all forces to the change in the object's kinetic energy."
+    },
+    {
+        "question": "Q94. Which force is conservative?",
+        "options": [
+            "Kinetic friction",
+            "Air drag",
+            "Viscous force",
+            "Elastic spring force"
+        ],
+        "answer": "Elastic spring force",
+        "explanation": "Conservative forces (like gravity, electrostatic force, ideal spring force) have an associated potential energy, and the work done by them is path-independent."
+    },
+    {
+        "question": "Q95. Work done by a non-conservative force (like friction) typically results in:",
+        "options": [
+            "Increase in mechanical energy",
+            "Decrease in mechanical energy (dissipation as heat/sound)",
+            "No change in mechanical energy",
+            "Conversion to potential energy"
+        ],
+        "answer": "Decrease in mechanical energy (dissipation as heat/sound)",
+        "explanation": "Non-conservative forces are dissipative; they convert mechanical energy into other forms, primarily thermal energy."
+    },
+    {
+        "question": "Q96. The principle of Conservation of Mechanical Energy states that if only conservative forces do work:",
+        "options": [
+            "Kinetic energy remains constant",
+            "Potential energy remains constant",
+            "The sum of kinetic and potential energy remains constant",
+            "Momentum remains constant"
+        ],
+        "answer": "The sum of kinetic and potential energy remains constant",
+        "explanation": "In the absence of work done by non-conservative forces, the total mechanical energy E = KE + PE is conserved (E_initial = E_final)."
+    },
+    {
+        "question": "Q97. Power is defined as the rate of:",
+        "options": [
+            "Change of momentum",
+            "Change of velocity",
+            "Doing work (or energy transfer)",
+            "Applying force"
+        ],
+        "answer": "Doing work (or energy transfer)",
+        "explanation": "Power measures how quickly work is done or energy is transferred. P = W/Δt or P = dE/dt."
+    },
+    {
+        "question": "Q98. The SI unit of Power is Watt (W), which is equivalent to:",
+        "options": [
+            "Joule / meter (J/m)",
+            "Newton / second (N/s)",
+            "Joule × second (J·s)",
+            "Joule / second (J/s)"
+        ],
+        "answer": "Joule / second (J/s)",
+        "explanation": "Power P = Work / Time. Unit = Unit of Work / Unit of Time = Joule / second = J/s. This unit is named Watt."
+    },
+    {
+        "question": "Q99. Instantaneous Power can also be calculated as the dot product of:",
+        "options": [
+            "Force and displacement (F · d)",
+            "Force and time (F · t)",
+            "Force and velocity (F · v)",
+            "Mass and acceleration (m · a)"
+        ],
+        "answer": "Force and velocity (F · v)",
+        "explanation": "Instantaneous power P = dW/dt = d(F·dx)/dt = F·(dx/dt) = F · v. (Assuming force is constant over dt)."
+    },
+    {
+        "question": "Q100. If a force F acts on an object moving with velocity v at an angle θ between them, the instantaneous power is:",
+        "options": [
+            "Fv",
+            "Fv sin(θ)",
+            "Fv cos(θ)",
+            "Fv tan(θ)"
+        ],
+        "answer": "Fv cos(θ)",
+        "explanation": "Power P = F · v (dot product). The magnitude of the dot product is |F||v|cos(θ), where θ is the angle between the force and velocity vectors."
+    },
+    {
+        "question": "Q101. If the kinetic energy of a body becomes four times its initial value, its new momentum will be (assuming mass is constant):",
+        "options": [
+            "Half the initial value",
+            "Double the initial value",
+            "Four times the initial value",
+            "Remains same"
+        ],
+        "answer": "Double the initial value",
+        "explanation": "KE = p²/2m, so p = √(2m*KE). If KE' = 4*KE, then p' = √(2m*KE') = √(2m * 4*KE) = √4 * √(2m*KE) = 2 * p. Momentum doubles."
+    },
+    {
+        "question": "Q102. If the linear momentum of a body is increased by 50%, its kinetic energy will increase by:",
+        "options": [
+            "50%",
+            "100%",
+            "125%",
+            "225%"
+        ],
+        "answer": "125%",
+        "explanation": "Let initial momentum be p. New momentum p' = p + 0.5p = 1.5p. Initial KE = p²/2m. New KE' = (p')²/2m = (1.5p)²/2m = 2.25 * (p²/2m) = 2.25 * KE. The increase is KE' - KE = 2.25KE - KE = 1.25KE. Percentage increase = (Increase / Initial) * 100% = (1.25KE / KE) * 100% = 125%."
+    },
+    {
+        "question": "Q103. The area under a Force-Displacement graph represents:",
+        "options": [
+            "Impulse",
+            "Power",
+            "Work Done",
+            "Change in Momentum"
+        ],
+        "answer": "Work Done",
+        "explanation": "Work done by a variable force is W = ∫F dx. This integral corresponds to the area under the F vs x curve."
+    },
+    {
+        "question": "Q104. A force of 10 N acts on a body, displacing it by 5 m. If the work done is 25 J, the angle between the force and displacement is:",
+        "options": [
+            "0°",
+            "30°",
+            "60°",
+            "90°"
+        ],
+        "answer": "60°",
+        "explanation": "Work W = Fd cos(θ). 25 J = (10 N)(5 m) cos(θ). 25 = 50 cos(θ). cos(θ) = 25/50 = 0.5. The angle whose cosine is 0.5 is 60°."
+    },
+    {
+        "question": "Q105. Work done by the force of static friction is:",
+        "options": [
+            "Always positive",
+            "Always negative",
+            "Always zero",
+            "Can be positive, negative, or zero"
+        ],
+        "answer": "Can be positive, negative, or zero",
+        "explanation": "Static friction prevents relative motion. If you push a box on a truck and the truck accelerates, static friction from the truck pushes the box forward (positive work). If you walk, static friction pushes you forward (positive work). If an object is held stationary on an incline by static friction, displacement is zero, work done is zero. Work done *by* static friction is often zero in simple textbook cases where it just prevents slipping, but it *can* do work."
+    },
+    {
+        "question": "Q106. A block is pulled horizontally by a force of 30 N over a distance of 5 m. If the work done is 150 J, the force acted:",
+        "options": [
+            "In the direction of displacement",
+            "Opposite to the direction of displacement",
+            "Perpendicular to the direction of displacement",
+            "At an angle of 30° to displacement"
+        ],
+        "answer": "In the direction of displacement",
+        "explanation": "Work W = Fd cos(θ). Given W=150 J, F=30 N, d=5 m. 150 = (30)(5) cos(θ) = 150 cos(θ). cos(θ) = 1, which means θ = 0°."
+    },
+    {
+        "question": "Q107. A 2 kg mass moving at 5 m/s has its speed increased to 10 m/s. The work done on the mass is:",
+        "options": [
+            "25 J",
+            "50 J",
+            "75 J",
+            "100 J"
+        ],
+        "answer": "75 J",
+        "explanation": "Use Work-Energy Theorem: W_net = ΔKE = KE_final - KE_initial. KE_i = ½m(u)² = ½(2)(5)² = 25 J. KE_f = ½m(v)² = ½(2)(10)² = 100 J. W_net = 100 J - 25 J = 75 J."
+    },
+    {
+        "question": "Q108. A person lifts a 20 kg mass vertically upwards by 2 meters in 4 seconds. The average power exerted by the person against gravity is: (Use g = 10 m/s²)",
+        "options": [
+            "10 W",
+            "40 W",
+            "100 W",
+            "400 W"
+        ],
+        "answer": "100 W",
+        "explanation": "Work done against gravity W = mgh = (20 kg)(10 m/s²)(2 m) = 400 J. Time t = 4 s. Average Power P = W / t = 400 J / 4 s = 100 W."
+    },
+    {
+        "question": "Q109. A spring stores 50 J of potential energy when compressed by 0.1 m. What is the spring constant 'k'?",
+        "options": [
+            "500 N/m",
+            "1000 N/m",
+            "5000 N/m",
+            "10000 N/m"
+        ],
+        "answer": "10000 N/m",
+        "explanation": "Elastic PE = ½kx². 50 J = ½ * k * (0.1 m)². 50 = 0.5 * k * 0.01. 50 = 0.005 * k. k = 50 / 0.005 = 50000 / 5 = 10000 N/m."
+    },
+    {
+        "question": "Q110. A 1 kg block falls from a height of 5 m. Its kinetic energy just before hitting the ground is: (Use g = 10 m/s²)",
+        "options": [
+            "5 J",
+            "10 J",
+            "25 J",
+            "50 J"
+        ],
+        "answer": "50 J",
+        "explanation": "By conservation of energy (assuming start from rest, neglecting air resistance), the initial PE is converted entirely into KE just before impact. KE_final = PE_initial = mgh = (1 kg)(10 m/s²)(5 m) = 50 J."
+    },
+    {
+        "question": "Q111. A simple pendulum bob is pulled aside so its height increases by 0.2 m and then released. Its maximum speed at the bottom of the swing is: (Use g = 10 m/s²)",
+        "options": [
+            "1 m/s",
+            "2 m/s",
+            "√2 m/s (≈1.4 m/s)",
+            "4 m/s"
+        ],
+        "answer": "2 m/s",
+        "explanation": "Conservation of energy: Loss in PE = Gain in KE. mgh = ½mv². gh = ½v². (10)(0.2) = ½v². 2 = ½v². v² = 4. v = 2 m/s."
+    },
+    {
+        "question": "Q112. An engine applies a constant force of 500 N to a car moving at a constant velocity of 10 m/s. The power developed by the engine is:",
+        "options": [
+            "50 W",
+            "500 W",
+            "5000 W (5 kW)",
+            "0.02 W"
+        ],
+        "answer": "5000 W (5 kW)",
+        "explanation": "Power P = Force × Velocity (when force and velocity are in same direction). P = (500 N)(10 m/s) = 5000 W = 5 kW."
+    },
+    {
+        "question": "Q113. A pump lifts 100 kg of water per minute to a height of 6 m. The power output of the pump is: (Use g = 10 m/s²)",
+        "options": [
+            "10 W",
+            "60 W",
+            "100 W",
+            "600 W"
+        ],
+        "answer": "100 W",
+        "explanation": "Mass lifted per second = 100 kg / 60 s. Work done per second (Power) = (mass/sec) * g * h = (100/60) * 10 * 6 = (100/60) * 60 = 100 W."
+    },
+    {
+        "question": "Q114. If the net work done on a moving object is positive, its kinetic energy:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": "Increases",
+        "explanation": "According to the Work-Energy Theorem, W_net = ΔKE. If W_net is positive, ΔKE is positive, meaning KE_final > KE_initial, so kinetic energy increases."
+    },
+    {
+        "question": "Q115. If the net work done on a moving object is negative, its kinetic energy:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes positive"
+        ],
+        "answer": "Decreases",
+        "explanation": "According to the Work-Energy Theorem, W_net = ΔKE. If W_net is negative, ΔKE is negative, meaning KE_final < KE_initial, so kinetic energy decreases."
+    },
+    {
+        "question": "Q116. A ball dropped from height H reaches the ground with speed v. If it is dropped from height 2H, it will reach the ground with speed:",
+        "options": [
+            "v",
+            "√2 v",
+            "2 v",
+            "4 v"
+        ],
+        "answer": "√2 v",
+        "explanation": "From conservation of energy, mgh = ½mv². So, v² = 2gh, or v = √(2gh). If height becomes 2H, new speed v' = √(2g(2H)) = √2 * √(2gH) = √2 * v."
+    },
+    {
+        "question": "Q117. A block slides down a rough inclined plane (with friction). Comparing initial potential energy (PE_i) and final kinetic energy (KE_f):",
+        "options": [
+            "KE_f = PE_i",
+            "KE_f > PE_i",
+            "KE_f < PE_i",
+            "KE_f = 0"
+        ],
+        "answer": "KE_f < PE_i",
+        "explanation": "Due to work done by friction (which is negative work, dissipating energy as heat), the final kinetic energy will be less than the initial potential energy. PE_i = KE_f + |Work done by friction|."
+    },
+    {
+        "question": "Q118. A crane lifts a 500 kg load upwards by 10 m in 5 seconds. The average power developed by the crane is: (Use g = 10 m/s²)",
+        "options": [
+            "1 kW",
+            "5 kW",
+            "10 kW",
+            "25 kW"
+        ],
+        "answer": "10 kW",
+        "explanation": "Work done W = mgh = (500 kg)(10 m/s²)(10 m) = 50000 J. Time t = 5 s. Power P = W / t = 50000 J / 5 s = 10000 W = 10 kW."
+    },
+    {
+        "question": "Q119. Power required to maintain a speed 'v' against a resistive force 'F' is:",
+        "options": [
+            "F/v",
+            "Fv",
+            "Fv²",
+            "F²v"
+        ],
+        "answer": "Fv",
+        "explanation": "To maintain constant speed, the applied force must equal the resistive force. Power = Applied Force × Velocity = Fv."
+    },
+    {
+        "question": "Q120. An electric motor with 75% efficiency uses 4 kW of input power. What is the useful output power?",
+        "options": [
+            "1 kW",
+            "3 kW",
+            "4 kW",
+            "5.33 kW"
+        ],
+        "answer": "3 kW",
+        "explanation": "Efficiency = (Output Power / Input Power). Output Power = Efficiency × Input Power = 0.75 * 4 kW = 3 kW."
+    },
+    {
+        "question": "Q121. Minimum speed required at the highest point of a vertical circle of radius 'r' for a mass 'm' attached to a string to complete the loop is:",
+        "options": [
+            "√(gr)",
+            "√(2gr)",
+            "√(3gr)",
+            "√(5gr)"
+        ],
+        "answer": "√(gr)",
+        "explanation": "At the highest point, T + mg = mv²/r. For minimum speed, tension T ≈ 0. So, mg = mv²/r => v² = gr => v_min_top = √(gr)."
+    },
+    {
+        "question": "Q122. Minimum speed required at the lowest point of a vertical circle of radius 'r' for a mass 'm' attached to a string to complete the loop is:",
+        "options": [
+            "√(gr)",
+            "√(2gr)",
+            "√(3gr)",
+            "√(5gr)"
+        ],
+        "answer": "√(5gr)",
+        "explanation": "Use conservation of energy between lowest (L) and highest (H) points. KE_L + PE_L = KE_H + PE_H. ½mv_L² + 0 = ½mv_H² + mg(2r). Substitute v_H = v_min_top = √(gr). ½mv_L² = ½m(gr) + 2mgr = (5/2)mgr. v_L² = 5gr. v_min_bottom = √(5gr)."
+    },
+    {
+        "question": "Q123. A 2 kg block slides 5 m down a 30° incline with friction. If the work done by friction is -20 J, the change in the block's potential energy is: (Use g = 10 m/s²)",
+        "options": [
+            "-20 J",
+            "-50 J",
+            "-100 J",
+            "+50 J"
+        ],
+        "answer": "-50 J",
+        "explanation": "Vertical height fallen h = d sin(θ) = 5 m * sin(30°) = 5 * 0.5 = 2.5 m. Change in PE = PE_final - PE_initial = 0 - mgh = -(2 kg)(10 m/s²)(2.5 m) = -50 J."
+    },
+    {
+        "question": "Q124. An object moving with velocity 'v' stops after travelling distance 's' under uniform retardation 'a'. Which equation is applicable?",
+        "options": [
+            "v = u + at",
+            "s = ut + 0.5at²",
+            "0 = v² - 2as",
+            "v² = u² + 2as"
+        ],
+        "answer": "0 = v² - 2as",
+        "explanation": "Using v_final² = v_initial² + 2as. Here v_final=0, v_initial=v, and acceleration is -a (retardation). So, 0² = v² + 2(-a)s => 0 = v² - 2as."
+    },
+    {
+        "question": "Q125. A force F = (2i + 3j) N acts on a body causing a displacement d = (4i - 1j) m. The work done is:",
+        "options": [
+            "5 J",
+            "8 J",
+            "11 J",
+            "3 J"
+        ],
+        "answer": "5 J",
+        "explanation": "Work done W = F · d (dot product). W = (2i + 3j) · (4i - 1j) = (2)(4) + (3)(-1) = 8 - 3 = 5 J."
+    },
+    {
+        "question": "Q126. A block of mass 5 kg is kept on a rough horizontal surface (μ_s = 0.4, μ_k = 0.3). The minimum horizontal force required to just move the block is: (Use g=10 m/s²)",
+        "options": [
+            "15 N",
+            "20 N",
+            "50 N",
+            "40 N"
+        ],
+        "answer": "20 N",
+        "explanation": "The minimum force to start motion must overcome maximum static friction (f_s_max). f_s_max = μ_s * N = μ_s * mg = (0.4)(5 kg)(10 m/s²) = 20 N."
+    },
+    {
+        "question": "Q127. If a horizontal force of 25 N is applied to the block in Q126, its acceleration will be: (Use g=10 m/s²)",
+        "options": [
+            "1 m/s²",
+            "2 m/s²",
+            "5 m/s²",
+            "0.5 m/s²"
+        ],
+        "answer": "2 m/s²",
+        "explanation": "Since applied force (25 N) > max static friction (20 N), the block moves. Kinetic friction f_k = μ_k * N = μ_k * mg = (0.3)(5)(10) = 15 N. Net force F_net = Applied Force - f_k = 25 N - 15 N = 10 N. Acceleration a = F_net / m = 10 N / 5 kg = 2 m/s²."
+    },
+    {
+        "question": "Q128. Two bodies A (mass 1 kg) and B (mass 3 kg) have equal kinetic energies. The ratio of their linear momenta (p_A / p_B) is:",
+        "options": [
+            "1 : 3",
+            "3 : 1",
+            "1 : √3",
+            "√3 : 1"
+        ],
+        "answer": "1 : √3",
+        "explanation": "KE = p²/2m, so p = √(2m*KE). Since KE_A = KE_B = KE, p_A = √(2*m_A*KE) and p_B = √(2*m_B*KE). Ratio p_A / p_B = √(2*m_A*KE) / √(2*m_B*KE) = √(m_A / m_B) = √(1 / 3) = 1 / √3. So the ratio is 1 : √3."
+    },
+    {
+        "question": "Q129. Two bodies A (mass 1 kg) and B (mass 4 kg) have equal linear momenta. The ratio of their kinetic energies (KE_A / KE_B) is:",
+        "options": [
+            "1 : 4",
+            "4 : 1",
+            "1 : 2",
+            "2 : 1"
+        ],
+        "answer": "4 : 1",
+        "explanation": "KE = p²/2m. Since p_A = p_B = p, KE_A = p²/ (2*m_A) and KE_B = p²/ (2*m_B). Ratio KE_A / KE_B = [p²/ (2*m_A)] / [p²/ (2*m_B)] = m_B / m_A = 4 / 1. So the ratio is 4 : 1."
+    },
+    {
+        "question": "Q130. A body is dropped from height H. The ratio of distances covered in the 1st, 2nd, and 3rd seconds of fall is:",
+        "options": [
+            "1 : 2 : 3",
+            "1 : 4 : 9",
+            "1 : 3 : 5",
+            "1 : 1 : 1"
+        ],
+        "answer": "1 : 3 : 5",
+        "explanation": "Distance in nth second for object starting from rest under constant acceleration 'a' is s_nth ∝ (2n-1). So, s_1st : s_2nd : s_3rd = (2*1-1) : (2*2-1) : (2*3-1) = 1 : 3 : 5."
+    },
+
+    {
+        "question": "Q131. A particle moves in a circle with constant angular velocity. Its linear velocity is:",
+        "options": [
+            "Constant in magnitude only",
+            "Constant in direction only",
+            "Constant in both magnitude and direction",
+            "Variable in both magnitude and direction"
+        ],
+        "answer": "Constant in magnitude only",
+        "explanation": "Constant angular velocity implies constant linear speed (magnitude of linear velocity). However, the direction of linear velocity (tangent to the circle) is continuously changing."
+    },
+    {
+        "question": "Q132. A car is moving on a circular path of radius R. If the coefficient of friction is μ, the maximum velocity with which the car can turn without skidding on a level road is proportional to:",
+        "options": [
+            "√R",
+            "R",
+            "1/√R",
+            "R²"
+        ],
+        "answer": "√R",
+        "explanation": "Max friction provides centripetal force: μmg = mv²/R. So, v² = μgR. v_max = √(μgR). Since μ and g are constant, v_max is proportional to √R."
+    },
+    {
+        "question": "Q133. The angular speed of the minute hand of a clock is:",
+        "options": [
+            "π/1800 rad/s",
+            "π/3600 rad/s",
+            "π/30 rad/s",
+            "2π rad/s"
+        ],
+        "answer": "π/1800 rad/s",
+        "explanation": "The minute hand completes one revolution (2π radians) in 60 minutes (3600 seconds). ω = Δθ / Δt = 2π rad / 3600 s = π/1800 rad/s."
+    },
+    {
+        "question": "Q134. In non-uniform circular motion, the net acceleration of the particle is:",
+        "options": [
+            "Only centripetal (radial)",
+            "Only tangential",
+            "The vector sum of centripetal and tangential acceleration",
+            "Zero"
+        ],
+        "answer": "The vector sum of centripetal and tangential acceleration",
+        "explanation": "In non-UCM, speed changes, so there is tangential acceleration (aₜ = dv/dt) in addition to the centripetal acceleration (a<0xE2><0x82><0x9C> = v²/r) which changes direction. The net acceleration is the vector sum a = a<0xE2><0x82><0x9C> + aₜ."
+    },
+    {
+        "question": "Q135. A stone tied to a string is whirled in a vertical circle. The tension in the string is maximum at:",
+        "options": [
+            "The highest point",
+            "The lowest point",
+            "The horizontal position",
+            "Tension is constant everywhere"
+        ],
+        "answer": "The lowest point",
+        "explanation": "At the lowest point, T - mg = mv²/r => T = mg + mv²/r. At the highest point, T + mg = mv²/r => T = mv²/r - mg. Speed is also maximum at the lowest point, further increasing tension there."
+    },
+
+    {
+        "question": "Q136. Work done by a variable force F(x) from x1 to x2 is given by:",
+        "options": [
+            "F(x2 - x1)",
+            "Average Force * (x2 - x1)",
+            "Integral of F(x) dx from x1 to x2",
+            "Derivative of F(x) at x1"
+        ],
+        "answer": "Integral of F(x) dx from x1 to x2",
+        "explanation": "For a variable force, work is calculated by integrating the force over the displacement: W = ∫(from x1 to x2) F(x) dx."
+    },
+    {
+        "question": "Q137. A force F = (3x² + 2) N acts on a particle. Work done in moving the particle from x=0 to x=2 m is:",
+        "options": [
+            "8 J",
+            "12 J",
+            "14 J",
+            "16 J"
+        ],
+        "answer": "12 J",
+        "explanation": "Work W = ∫(from 0 to 2) (3x² + 2) dx = [x³ + 2x] (from 0 to 2) = (2³ + 2*2) - (0³ + 2*0) = (8 + 4) - 0 = 12 J."
+    },
+    {
+        "question": "Q138. Which of the following is NOT a unit of energy?",
+        "options": [
+            "Joule (J)",
+            "calorie (cal)",
+            "electron-volt (eV)",
+            "Watt (W)"
+        ],
+        "answer": "Watt (W)",
+        "explanation": "Joule, calorie, and electron-volt are all units of energy. Watt is the unit of power (energy per unit time)."
+    },
+    {
+        "question": "Q139. If work is done on a system by non-conservative forces, its total mechanical energy:",
+        "options": [
+            "Always increases",
+            "Always decreases",
+            "Remains constant",
+            "May increase or decrease depending on the work done"
+        ],
+        "answer": "May increase or decrease depending on the work done",
+        "explanation": "Work done BY non-conservative forces like friction usually decreases mechanical energy (W_nc is negative). But if an external non-conservative force does positive work (like an engine pushing a car), mechanical energy can increase. W_nc = ΔE_mech."
+    },
+    {
+        "question": "Q140. A ball is dropped onto a floor from height h. It rebounds to a height h/2. The ratio of final KE to initial KE just before/after impact is roughly:",
+        "options": [
+            "1 : 1",
+            "1 : 2",
+            "1 : 4",
+            "2 : 1"
+        ],
+        "answer": "1 : 2",
+        "explanation": "Just before impact, KE_i = PE_initial = mgh. Just after impact, the KE allows it to reach height h/2, so KE_f = PE_final_max = mg(h/2). The ratio KE_f / KE_i = [mg(h/2)] / [mgh] = 1/2. The collision is inelastic."
+    },
+    {
+        "question": "Q141. Kilowatt-hour (kWh) is the unit of:",
+        "options": [
+            "Power",
+            "Energy",
+            "Time",
+            "Force"
+        ],
+        "answer": "Energy",
+        "explanation": "Kilowatt (kW) is power. Hour (h) is time. Power × Time = Energy. 1 kWh = (1000 W) × (3600 s) = 3.6 × 10⁶ J. It's the commercial unit of electrical energy."
+    },
+    {
+        "question": "Q142. A force F acting on a body increases its kinetic energy from 100 J to 300 J over a distance d. The work done by the force is:",
+        "options": [
+            "100 J",
+            "200 J",
+            "300 J",
+            "400 J"
+        ],
+        "answer": "200 J",
+        "explanation": "By the Work-Energy Theorem, the net work done equals the change in kinetic energy. W_net = ΔKE = KE_final - KE_initial = 300 J - 100 J = 200 J."
+    },
+    {
+        "question": "Q143. A coolie lifts a luggage of 15 kg from the ground and puts it on his head 1.5 m above the ground. Calculate the work done by him on the luggage. (g=10 m/s²)",
+        "options": [
+            "150 J",
+            "22.5 J",
+            "225 J",
+            "0 J"
+        ],
+        "answer": "225 J",
+        "explanation": "Work done W = Force × distance = (Weight) × height = (mg)h = (15 kg)(10 m/s²)(1.5 m) = 150 * 1.5 = 225 J."
+    },
+    {
+        "question": "Q144. A 5 N force is required to keep a block moving at a constant velocity of 2 m/s on a rough surface. The rate at which work is being done against friction is:",
+        "options": [
+            "2.5 W",
+            "5 W",
+            "10 W",
+            "7 W"
+        ],
+        "answer": "10 W",
+        "explanation": "Since velocity is constant, the applied force equals the friction force (F_applied = Friction = 5 N). Power (rate of work) = Force × Velocity = (5 N)(2 m/s) = 10 W."
+    },
+    {
+        "question": "Q145. Two springs A and B have spring constants k_A and k_B such that k_A = 2k_B. If they are stretched by the same force, the ratio of potential energy stored in A to B (PE_A / PE_B) is:",
+        "options": [
+            "1 : 2",
+            "2 : 1",
+            "1 : 4",
+            "4 : 1"
+        ],
+        "answer": "1 : 2",
+        "explanation": "Force F = kx, so x = F/k. PE = ½kx² = ½k(F/k)² = F²/2k. Since F is the same for both, PE is inversely proportional to k. PE_A / PE_B = k_B / k_A = k_B / (2k_B) = 1/2. Ratio is 1 : 2."
+    },
+    {
+        "question": "Q146. Two springs A and B have spring constants k_A and k_B such that k_A > k_B. If they are stretched by the same amount (x), which spring stores more potential energy?",
+        "options": [
+            "Spring A",
+            "Spring B",
+            "Both store same energy",
+            "Cannot be determined"
+        ],
+        "answer": "Spring A",
+        "explanation": "Potential Energy PE = ½kx². If x is the same for both, PE is directly proportional to k. Since k_A > k_B, Spring A (the stiffer spring) stores more energy for the same stretch."
+    },
+    {
+        "question": "Q147. A particle moves under a conservative force. Which statement is true?",
+        "options": [
+            "Its kinetic energy is always constant.",
+            "Its potential energy is always constant.",
+            "Its total mechanical energy is always constant.",
+            "Its linear momentum is always constant."
+        ],
+        "answer": "Its total mechanical energy is always constant.",
+        "explanation": "The defining property related to conservative forces is the conservation of total mechanical energy (KE + PE)."
+    },
+    {
+        "question": "Q148. Work done by centripetal force in uniform circular motion is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on speed"
+        ],
+        "answer": "Zero",
+        "explanation": "Centripetal force is always directed towards the center, while the instantaneous displacement (velocity direction) is tangential. The angle between force and displacement is always 90°. Work W = Fd cos(90°) = 0."
+    },
+    {
+        "question": "Q149. A man pushes a wall with a force of 100 N for 10 seconds, but the wall does not move. The work done by the man is:",
+        "options": [
+            "1000 J",
+            "10 J",
+            "0 J",
+            "100 J"
+        ],
+        "answer": "0 J",
+        "explanation": "Work requires displacement (W = Fd cosθ). Since the wall's displacement d = 0, the work done on the wall is zero, irrespective of the force or time."
+    },
+    {
+        "question": "Q150. Which physical quantity is represented by the product of force and velocity?",
+        "options": [
+            "Work",
+            "Impulse",
+            "Momentum",
+            "Power"
+        ],
+        "answer": "Power",
+        "explanation": "Instantaneous Power P = F · v (dot product of force and velocity)."
+    }
+]

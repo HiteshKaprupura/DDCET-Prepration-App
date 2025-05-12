@@ -1,0 +1,1652 @@
+[
+    {
+        "question": "Q1. The study of the interactions between organisms and their environment is called:",
+        "options": [
+            "Ecology",
+            "Biology",
+            "Geology",
+            "Botany"
+        ],
+        "answer": "Ecology",
+        "explanation": "Ecology is the scientific study of the relationships that living organisms have with each other and with their abiotic environment."
+    },
+    {
+        "question": "Q2. What is an ecosystem?",
+        "options": [
+            "Only the living organisms in an area",
+            "Only the physical environment (air, water, soil)",
+            "A community of living organisms interacting with their physical environment",
+            "A single species living in isolation"
+        ],
+        "answer": "A community of living organisms interacting with their physical environment",
+        "explanation": "An ecosystem includes all biotic (living) factors and abiotic (non-living) factors functioning together as a unit."
+    },
+    {
+        "question": "Q3. Which term refers to the living components of an ecosystem?",
+        "options": [
+            "Abiotic factors",
+            "Biotic factors",
+            "Climatic factors",
+            "Geological factors"
+        ],
+        "answer": "Biotic factors",
+        "explanation": "Biotic factors are all the living or once-living organisms in an ecosystem, including plants, animals, fungi, and bacteria."
+    },
+    {
+        "question": "Q4. Which term refers to the non-living physical and chemical components of an ecosystem?",
+        "options": [
+            "Biotic factors",
+            "Abiotic factors",
+            "Community factors",
+            "Population factors"
+        ],
+        "answer": "Abiotic factors",
+        "explanation": "Abiotic factors are the non-living parts, such as sunlight, temperature, water, atmospheric gases, soil composition, and pH."
+    },
+    {
+        "question": "Q5. Organisms that can produce their own food, usually through photosynthesis, are called:",
+        "options": [
+            "Consumers",
+            "Decomposers",
+            "Producers (Autotrophs)",
+            "Heterotrophs"
+        ],
+        "answer": "Producers (Autotrophs)",
+        "explanation": "Producers form the base of food chains by converting light or chemical energy into organic matter."
+    },
+    {
+        "question": "Q6. An organism that feeds on producers is called a:",
+        "options": [
+            "Secondary consumer",
+            "Primary consumer (Herbivore)",
+            "Tertiary consumer",
+            "Producer"
+        ],
+        "answer": "Primary consumer (Herbivore)",
+        "explanation": "Primary consumers are herbivores that obtain energy by eating plants (producers)."
+    },
+    {
+        "question": "Q7. An organism that feeds on primary consumers is called a:",
+        "options": [
+            "Producer",
+            "Herbivore",
+            "Secondary consumer (Carnivore/Omnivore)",
+            "Decomposer"
+        ],
+        "answer": "Secondary consumer (Carnivore/Omnivore)",
+        "explanation": "Secondary consumers obtain energy by eating primary consumers (herbivores)."
+    },
+    {
+        "question": "Q8. An organism that feeds on secondary consumers is called a:",
+        "options": [
+            "Producer",
+            "Primary consumer",
+            "Tertiary consumer (Carnivore/Omnivore)",
+            "Decomposer"
+        ],
+        "answer": "Tertiary consumer (Carnivore/Omnivore)",
+        "explanation": "Tertiary consumers feed on secondary consumers, occupying a higher trophic level."
+    },
+    {
+        "question": "Q9. Fungi and bacteria that break down dead organic matter are examples of:",
+        "options": [
+            "Producers",
+            "Consumers",
+            "Decomposers",
+            "Autotrophs"
+        ],
+        "answer": "Decomposers",
+        "explanation": "Decomposers recycle essential nutrients back into the ecosystem by breaking down dead organisms and waste products."
+    },
+    {
+        "question": "Q10. A linear sequence representing the flow of energy from producers through various consumers is a:",
+        "options": [
+            "Food web",
+            "Ecological pyramid",
+            "Food chain",
+            "Trophic level"
+        ],
+        "answer": "Food chain",
+        "explanation": "A food chain shows a single pathway of energy transfer (e.g., Grass -> Grasshopper -> Frog -> Snake)."
+    },
+    {
+        "question": "Q11. A complex network of interconnected food chains is known as a:",
+        "options": [
+            "Food chain",
+            "Food web",
+            "Energy pyramid",
+            "Ecosystem structure"
+        ],
+        "answer": "Food web",
+        "explanation": "Food webs illustrate the multiple feeding relationships and complex energy flow within an ecosystem."
+    },
+    {
+        "question": "Q12. Each step or feeding level in a food chain or food web is called a:",
+        "options": [
+            "Niche",
+            "Habitat",
+            "Trophic level",
+            "Biome"
+        ],
+        "answer": "Trophic level",
+        "explanation": "Trophic levels represent the position an organism occupies in the energy transfer sequence (e.g., producer, primary consumer, secondary consumer)."
+    },
+    {
+        "question": "Q13. According to the 10% rule, how much energy is typically transferred from one trophic level to the next?",
+        "options": [
+            "1%",
+            "10%",
+            "50%",
+            "90%"
+        ],
+        "answer": "10%",
+        "explanation": "Only about 10% of the energy consumed at one trophic level is converted into biomass at the next level; the rest is lost primarily as metabolic heat."
+    },
+    {
+        "question": "Q14. Which ecological pyramid represents the total dry weight of organisms at each trophic level?",
+        "options": [
+            "Pyramid of numbers",
+            "Pyramid of energy",
+            "Pyramid of biomass",
+            "Food web pyramid"
+        ],
+        "answer": "Pyramid of biomass",
+        "explanation": "A pyramid of biomass shows the total mass of living organic matter at each trophic level, usually decreasing at higher levels."
+    },
+    {
+        "question": "Q15. Which ecological pyramid always has an upright shape, showing the decrease in energy at successive levels?",
+        "options": [
+            "Pyramid of numbers",
+            "Pyramid of energy",
+            "Pyramid of biomass",
+            "Inverted pyramid"
+        ],
+        "answer": "Pyramid of energy",
+        "explanation": "Due to the loss of energy at each transfer (10% rule), the pyramid of energy, representing energy flow, is always upright."
+    },
+    {
+        "question": "Q16. Which ecological pyramid can sometimes be inverted (e.g., one large tree supporting many insects)?",
+        "options": [
+            "Pyramid of energy",
+            "Pyramid of numbers",
+            "Pyramid of flow",
+            "Pyramid of productivity"
+        ],
+        "answer": "Pyramid of numbers",
+        "explanation": "A pyramid of numbers shows the number of individual organisms at each trophic level and can be inverted if producers are large (like a tree) and primary consumers are small and numerous (like insects feeding on the tree)."
+    },
+    {
+        "question": "Q17. The process by which water changes from liquid to gas (vapor) is called:",
+        "options": [
+            "Condensation",
+            "Precipitation",
+            "Evaporation",
+            "Infiltration"
+        ],
+        "answer": "Evaporation",
+        "explanation": "Evaporation is the transformation of liquid water into water vapor, driven primarily by solar energy."
+    },
+    {
+        "question": "Q18. The process by which water vapor changes into liquid water, forming clouds, is called:",
+        "options": [
+            "Evaporation",
+            "Condensation",
+            "Transpiration",
+            "Runoff"
+        ],
+        "answer": "Condensation",
+        "explanation": "As moist air cools, water vapor condenses into tiny liquid water droplets or ice crystals, forming clouds."
+    },
+    {
+        "question": "Q19. Water falling back to Earth from the atmosphere as rain, snow, sleet, or hail is called:",
+        "options": [
+            "Evaporation",
+            "Condensation",
+            "Precipitation",
+            "Transpiration"
+        ],
+        "answer": "Precipitation",
+        "explanation": "Precipitation is the primary mechanism for water returning from the atmosphere to the Earth's surface."
+    },
+    {
+        "question": "Q20. The release of water vapor from plants into the atmosphere is known as:",
+        "options": [
+            "Respiration",
+            "Photosynthesis",
+            "Transpiration",
+            "Evaporation"
+        ],
+        "answer": "Transpiration",
+        "explanation": "Transpiration is the process where plants absorb water through the roots and then give off water vapor through pores in their leaves."
+    },
+    {
+        "question": "Q21. Which process in the carbon cycle removes carbon dioxide from the atmosphere?",
+        "options": [
+            "Respiration",
+            "Combustion",
+            "Decomposition",
+            "Photosynthesis"
+        ],
+        "answer": "Photosynthesis",
+        "explanation": "Plants and other photosynthetic organisms take in CO2 from the atmosphere and convert it into organic compounds using sunlight."
+    },
+    {
+        "question": "Q22. Which processes release carbon dioxide into the atmosphere?",
+        "options": [
+            "Photosynthesis and Nitrogen Fixation",
+            "Respiration, Combustion, and Decomposition",
+            "Transpiration and Condensation",
+            "Evaporation and Precipitation"
+        ],
+        "answer": "Respiration, Combustion, and Decomposition",
+        "explanation": "Cellular respiration by organisms, burning of fossil fuels and biomass (combustion), and the breakdown of organic matter by decomposers all release CO2."
+    },
+    {
+        "question": "Q23. The conversion of atmospheric nitrogen gas (N2) into ammonia (NH3) or related nitrogenous compounds is called:",
+        "options": [
+            "Denitrification",
+            "Nitrification",
+            "Nitrogen fixation",
+            "Ammonification"
+        ],
+        "answer": "Nitrogen fixation",
+        "explanation": "Nitrogen fixation, primarily by specialized bacteria, converts inert N2 gas into forms usable by plants."
+    },
+    {
+        "question": "Q24. The process where bacteria convert ammonia (NH3) into nitrites (NO2-) and then nitrates (NO3-) is called:",
+        "options": [
+            "Denitrification",
+            "Nitrification",
+            "Nitrogen fixation",
+            "Ammonification"
+        ],
+        "answer": "Nitrification",
+        "explanation": "Nitrification involves two steps, carried out by different groups of bacteria, converting ammonia into nitrates, which plants can readily absorb."
+    },
+    {
+        "question": "Q25. The process where bacteria convert nitrates (NO3-) back into nitrogen gas (N2), returning it to the atmosphere, is called:",
+        "options": [
+            "Denitrification",
+            "Nitrification",
+            "Nitrogen fixation",
+            "Ammonification"
+        ],
+        "answer": "Denitrification",
+        "explanation": "Denitrifying bacteria, often under anaerobic conditions, complete the nitrogen cycle by returning nitrogen to the atmosphere as N2 gas."
+    },
+    {
+        "question": "Q26. Which biome is characterized by high rainfall, high temperatures year-round, and extremely high biodiversity?",
+        "options": [
+            "Desert",
+            "Tundra",
+            "Tropical Rainforest",
+            "Temperate Grassland"
+        ],
+        "answer": "Tropical Rainforest",
+        "explanation": "Tropical rainforests, found near the equator, have stable warm temperatures, abundant rainfall, and support the highest diversity of life on Earth."
+    },
+    {
+        "question": "Q27. Which biome is characterized by grasses as the dominant vegetation, moderate rainfall, and distinct wet and dry seasons?",
+        "options": [
+            "Desert",
+            "Tundra",
+            "Forest",
+            "Grassland (Savanna/Prairie)"
+        ],
+        "answer": "Grassland (Savanna/Prairie)",
+        "explanation": "Grasslands receive enough rain to support grasses but not extensive forests, and often support large grazing mammals."
+    },
+    {
+        "question": "Q28. Which biome is defined by extremely low rainfall, sparse vegetation, and often extreme temperatures?",
+        "options": [
+            "Forest",
+            "Grassland",
+            "Desert",
+            "Tundra"
+        ],
+        "answer": "Desert",
+        "explanation": "Deserts are characterized by their aridity, leading to specialized adaptations in plants (like cacti) and animals."
+    },
+    {
+        "question": "Q29. The physical place where an organism lives is its:",
+        "options": [
+            "Niche",
+            "Habitat",
+            "Trophic level",
+            "Biome"
+        ],
+        "answer": "Habitat",
+        "explanation": "A habitat provides the specific conditions (food, water, shelter) an organism needs to survive."
+    },
+    {
+        "question": "Q30. The functional role or 'profession' of an organism within its ecosystem, including its interactions and resource use, is its:",
+        "options": [
+            "Niche",
+            "Habitat",
+            "Community",
+            "Population"
+        ],
+        "answer": "Niche",
+        "explanation": "An organism's niche describes how it fits into the ecosystem – what it eats, where it lives, how it interacts with other species."
+    },
+    {
+        "question": "Q31. The variety of life forms within a given ecosystem, biome, or the entire Earth is termed:",
+        "options": [
+            "Ecology",
+            "Habitat",
+            "Niche",
+            "Biodiversity"
+        ],
+        "answer": "Biodiversity",
+        "explanation": "Biodiversity includes genetic diversity within species, the variety of species, and the diversity of ecosystems."
+    },
+    {
+        "question": "Q32. Which aquatic ecosystem is characterized by saltwater?",
+        "options": [
+            "Lake",
+            "River",
+            "Pond",
+            "Ocean (Marine Ecosystem)"
+        ],
+        "answer": "Ocean (Marine Ecosystem)",
+        "explanation": "Marine ecosystems cover the vast majority of Earth's surface and are based on saltwater environments."
+    },
+    {
+        "question": "Q33. Which aquatic ecosystem is characterized by freshwater?",
+        "options": [
+            "Ocean",
+            "Coral Reef",
+            "Estuary",
+            "Lake/River (Freshwater Ecosystem)"
+        ],
+        "answer": "Lake/River (Freshwater Ecosystem)",
+        "explanation": "Freshwater ecosystems include lakes, ponds, rivers, streams, and wetlands, all characterized by low salt concentration."
+    },
+    {
+        "question": "Q34. An organism that hunts and kills other animals for food is a:",
+        "options": [
+            "Prey",
+            "Predator",
+            "Herbivore",
+            "Producer"
+        ],
+        "answer": "Predator",
+        "explanation": "Predators are carnivores or omnivores that actively hunt other organisms (prey)."
+    },
+    {
+        "question": "Q35. An organism that is hunted and killed by another organism for food is:",
+        "options": [
+            "Predator",
+            "Consumer",
+            "Prey",
+            "Decomposer"
+        ],
+        "answer": "Prey",
+        "explanation": "Prey are the organisms consumed by predators."
+    },
+    {
+        "question": "Q36. Any substance introduced into the environment that adversely affects the usefulness of a resource or the health of organisms is a:",
+        "options": [
+            "Nutrient",
+            "Resource",
+            "Pollutant",
+            "Byproduct"
+        ],
+        "answer": "Pollutant",
+        "explanation": "Pollutants are harmful contaminants that degrade the quality of air, water, or soil."
+    },
+    {
+        "question": "Q37. The contamination of air by harmful gases, dust, and smoke which affects plants, animals, and humans is known as:",
+        "options": [
+            "Water Pollution",
+            "Soil Pollution",
+            "Noise Pollution",
+            "Air Pollution"
+        ],
+        "answer": "Air Pollution",
+        "explanation": "Air pollution involves the release of harmful substances into the atmosphere."
+    },
+    {
+        "question": "Q38. Burning of fossil fuels (coal, oil, gas) is a major source of which air pollutants?",
+        "options": [
+            "Oxygen and Nitrogen",
+            "Water Vapor and Helium",
+            "SO2, NOx, CO, CO2, Particulate Matter",
+            "Ozone and CFCs"
+        ],
+        "answer": "SO2, NOx, CO, CO2, Particulate Matter",
+        "explanation": "Combustion of fossil fuels releases a cocktail of pollutants that contribute to smog, acid rain, health problems, and climate change."
+    },
+    {
+        "question": "Q39. Which gas, emitted mainly from vehicle exhaust, contributes to the formation of ground-level ozone?",
+        "options": [
+            "Sulfur dioxide (SO2)",
+            "Carbon monoxide (CO)",
+            "Nitrogen oxides (NOx)",
+            "Methane (CH4)"
+        ],
+        "answer": "Nitrogen oxides (NOx)",
+        "explanation": "NOx, along with Volatile Organic Compounds (VOCs), reacts in sunlight to form tropospheric (ground-level) ozone, a major component of smog."
+    },
+    {
+        "question": "Q40. What is acid rain?",
+        "options": [
+            "Rain containing high levels of salt",
+            "Rain with a naturally low pH due to CO2",
+            "Rain made acidic by atmospheric pollutants like SO2 and NOx",
+            "Rain mixed with industrial chemicals"
+        ],
+        "answer": "Rain made acidic by atmospheric pollutants like SO2 and NOx",
+        "explanation": "SO2 and NOx react with water and oxygen in the atmosphere to form sulfuric and nitric acids, lowering the pH of precipitation."
+    },
+    {
+        "question": "Q41. A mixture of smoke, fog, and chemical pollutants, often seen over urban areas, is called:",
+        "options": [
+            "Acid Rain",
+            "Smog",
+            "Haze",
+            "Cloud"
+        ],
+        "answer": "Smog",
+        "explanation": "Smog (smoke + fog) reduces visibility and contains harmful pollutants like ozone and particulate matter."
+    },
+    {
+        "question": "Q42. Which air pollutant can reduce the blood's ability to carry oxygen?",
+        "options": [
+            "Ozone (O3)",
+            "Carbon Dioxide (CO2)",
+            "Sulfur Dioxide (SO2)",
+            "Carbon Monoxide (CO)"
+        ],
+        "answer": "Carbon Monoxide (CO)",
+        "explanation": "CO binds to hemoglobin more effectively than oxygen, impairing oxygen transport and potentially causing serious health effects."
+    },
+    {
+        "question": "Q43. Tiny solid particles or liquid droplets suspended in the air are known as:",
+        "options": [
+            "Greenhouse gases",
+            "Ozone",
+            "Particulate Matter (PM)",
+            "Acid rain components"
+        ],
+        "answer": "Particulate Matter (PM)",
+        "explanation": "PM pollution (like dust, soot, smoke) can cause respiratory and cardiovascular problems, especially fine particles (PM2.5)."
+    },
+    {
+        "question": "Q44. Good ozone is found in the _____, while bad ozone is found in the ____.",
+        "options": [
+            "Troposphere, Stratosphere",
+            "Stratosphere, Troposphere",
+            "Mesosphere, Stratosphere",
+            "Troposphere, Mesosphere"
+        ],
+        "answer": "Stratosphere, Troposphere",
+        "explanation": "Stratospheric ozone protects us from UV radiation ('good'). Tropospheric (ground-level) ozone is a harmful air pollutant ('bad')."
+    },
+    {
+        "question": "Q45. The contamination of water bodies (lakes, rivers, oceans, groundwater) is called:",
+        "options": [
+            "Air Pollution",
+            "Soil Pollution",
+            "Water Pollution",
+            "Noise Pollution"
+        ],
+        "answer": "Water Pollution",
+        "explanation": "Water pollution occurs when harmful substances contaminate water sources, making them unsuitable for use."
+    },
+    {
+        "question": "Q46. Discharge of untreated sewage into rivers is a major source of which type of water pollution?",
+        "options": [
+            "Thermal pollution",
+            "Chemical pollution (heavy metals)",
+            "Pathogen and Nutrient pollution",
+            "Sediment pollution"
+        ],
+        "answer": "Pathogen and Nutrient pollution",
+        "explanation": "Sewage contains harmful bacteria/viruses (pathogens) and excess nutrients (nitrogen, phosphorus) that cause health risks and eutrophication."
+    },
+    {
+        "question": "Q47. Runoff from agricultural fields often contributes significantly to:",
+        "options": [
+            "Oil pollution",
+            "Thermal pollution",
+            "Nutrient pollution (fertilizers) and Pesticide pollution",
+            "Radioactive pollution"
+        ],
+        "answer": "Nutrient pollution (fertilizers) and Pesticide pollution",
+        "explanation": "Excess fertilizers and pesticides applied to crops can be washed into waterways by rain, causing eutrophication and harming aquatic life."
+    },
+    {
+        "question": "Q48. The enrichment of water bodies with nutrients, leading to excessive algal growth and oxygen depletion, is called:",
+        "options": [
+            "Acidification",
+            "Biomagnification",
+            "Eutrophication",
+            "Sedimentation"
+        ],
+        "answer": "Eutrophication",
+        "explanation": "Excess nitrogen and phosphorus cause algal blooms. When these algae die and decompose, the process consumes large amounts of dissolved oxygen, creating 'dead zones'."
+    },
+    {
+        "question": "Q49. The increase in concentration of toxins (like mercury or DDT) at successive trophic levels is known as:",
+        "options": [
+            "Eutrophication",
+            "Biodegradation",
+            "Biomagnification",
+            "Bioaccumulation"
+        ],
+        "answer": "Biomagnification",
+        "explanation": "Persistent toxins accumulate in organisms and become more concentrated as they move up the food chain."
+    },
+    {
+        "question": "Q50. Discharge of heated water from power plants into rivers can cause:",
+        "options": [
+            "Chemical pollution",
+            "Thermal pollution",
+            "Nutrient pollution",
+            "Sediment pollution"
+        ],
+        "answer": "Thermal pollution",
+        "explanation": "Raising water temperature can decrease dissolved oxygen levels and negatively impact aquatic organisms sensitive to temperature changes."
+    },
+    {
+        "question": "Q51. The contamination of land by harmful chemicals or waste materials is:",
+        "options": [
+            "Air Pollution",
+            "Water Pollution",
+            "Soil Pollution",
+            "Noise Pollution"
+        ],
+        "answer": "Soil Pollution",
+        "explanation": "Soil pollution degrades soil quality and can affect plant growth and human health through contaminated food or water."
+    },
+    {
+        "question": "Q52. Excessive use of pesticides and herbicides in agriculture can lead to:",
+        "options": [
+            "Improved soil fertility",
+            "Increased biodiversity",
+            "Soil and water pollution",
+            "Reduced erosion"
+        ],
+        "answer": "Soil and water pollution",
+        "explanation": "These chemicals can persist in the soil, harm beneficial organisms, and leach into groundwater or run off into surface water."
+    },
+    {
+        "question": "Q53. Unwanted or disturbing sound that interferes with normal activities or disrupts the balance of human or animal life is:",
+        "options": [
+            "Light Pollution",
+            "Sound Waves",
+            "Noise Pollution",
+            "Thermal Pollution"
+        ],
+        "answer": "Noise Pollution",
+        "explanation": "Major sources include transportation (traffic, aircraft), industrial machinery, and construction activities."
+    },
+    {
+        "question": "Q54. Waste material discarded by households and businesses is generally referred to as:",
+        "options": [
+            "Industrial waste",
+            "Hazardous waste",
+            "Municipal Solid Waste (MSW)",
+            "Agricultural waste"
+        ],
+        "answer": "Municipal Solid Waste (MSW)",
+        "explanation": "MSW includes everyday items like packaging, food scraps, paper, plastics, etc., generated from homes, schools, and commercial establishments."
+    },
+    {
+        "question": "Q55. A major environmental problem associated with plastic waste is that it is:",
+        "options": [
+            "Easily biodegradable",
+            "A source of nutrients",
+            "Extremely persistent and non-biodegradable",
+            "Easily recycled into any other material"
+        ],
+        "answer": "Extremely persistent and non-biodegradable",
+        "explanation": "Most plastics take hundreds or thousands of years to decompose, leading to accumulation in landfills and natural environments, harming wildlife."
+    },
+    {
+        "question": "Q56. Discarded electronic devices like computers, phones, and televisions are known as:",
+        "options": [
+            "Municipal solid waste",
+            "Biodegradable waste",
+            "Electronic waste (e-waste)",
+            "Recyclable metals"
+        ],
+        "answer": "Electronic waste (e-waste)",
+        "explanation": "E-waste poses a significant challenge due to its volume and the presence of hazardous materials like lead, mercury, and cadmium."
+    },
+    {
+        "question": "Q57. A substance that can be broken down naturally by microorganisms is called:",
+        "options": [
+            "Non-biodegradable",
+            "Persistent",
+            "Toxic",
+            "Biodegradable"
+        ],
+        "answer": "Biodegradable",
+        "explanation": "Biodegradable materials, like food scraps and paper, decompose relatively quickly through natural processes."
+    },
+    {
+        "question": "Q58. Materials like plastic, glass, and heavy metals that do not decompose easily by natural processes are:",
+        "options": [
+            "Biodegradable",
+            "Organic",
+            "Non-biodegradable",
+            "Compostable"
+        ],
+        "answer": "Non-biodegradable",
+        "explanation": "These materials persist in the environment for very long periods, contributing to long-term pollution problems."
+    },
+    {
+        "question": "Q59. The principle of 'Reduce, Reuse, Recycle' aims to:",
+        "options": [
+            "Increase resource consumption",
+            "Maximize waste generation",
+            "Minimize waste and promote resource conservation",
+            "Eliminate the need for landfills"
+        ],
+        "answer": "Minimize waste and promote resource conservation",
+        "explanation": "It provides a hierarchy for managing waste, prioritizing reduction and reuse over recycling and disposal."
+    },
+    {
+        "question": "Q60. Using catalytic converters in vehicles helps reduce emissions of which pollutants?",
+        "options": [
+            "CO2 and SO2",
+            "Particulate matter and Ozone",
+            "CO, NOx, and unburnt hydrocarbons",
+            "Lead and Mercury"
+        ],
+        "answer": "CO, NOx, and unburnt hydrocarbons",
+        "explanation": "Catalytic converters use catalysts to convert harmful pollutants in exhaust gas into less harmful substances like CO2, N2, and H2O."
+    },
+    {
+        "question": "Q61. The long-term increase in Earth's average surface temperature is known as:",
+        "options": [
+            "Ozone depletion",
+            "Acidification",
+            "Global Warming",
+            "Weathering"
+        ],
+        "answer": "Global Warming",
+        "explanation": "Global warming specifically refers to the observed century-scale rise in the average temperature of the Earth's climate system."
+    },
+    {
+        "question": "Q62. Broader, long-term changes in average weather patterns, including temperature, precipitation, and extreme events, are referred to as:",
+        "options": [
+            "Global Warming",
+            "Weather",
+            "Climate Change",
+            "Greenhouse Effect"
+        ],
+        "answer": "Climate Change",
+        "explanation": "Climate change encompasses global warming but also includes other long-term changes in climate phenomena."
+    },
+    {
+        "question": "Q63. The natural process where certain gases in the atmosphere trap heat, keeping the Earth warm enough for life, is the:",
+        "options": [
+            "Ozone Layer Effect",
+            "Greenhouse Effect",
+            "Albedo Effect",
+            "Carbon Cycle"
+        ],
+        "answer": "Greenhouse Effect",
+        "explanation": "Without the natural greenhouse effect, Earth's average temperature would be significantly colder."
+    },
+    {
+        "question": "Q64. The enhancement of the natural greenhouse effect due to increased concentrations of greenhouse gases from human activities is called:",
+        "options": [
+            "Natural Greenhouse Effect",
+            "Enhanced (or Anthropogenic) Greenhouse Effect",
+            "Ozone Depletion",
+            "Solar Flares"
+        ],
+        "answer": "Enhanced (or Anthropogenic) Greenhouse Effect",
+        "explanation": "Human activities release additional greenhouse gases, trapping more heat and causing global warming."
+    },
+    {
+        "question": "Q65. Which is the most significant greenhouse gas contributing to current climate change due to its abundance and persistence?",
+        "options": [
+            "Water Vapor (H2O)",
+            "Methane (CH4)",
+            "Nitrous Oxide (N2O)",
+            "Carbon Dioxide (CO2)"
+        ],
+        "answer": "Carbon Dioxide (CO2)",
+        "explanation": "While water vapor is the most abundant greenhouse gas overall, CO2 emissions from human activities (especially burning fossil fuels) are the primary driver of recent warming due to the large increase in its concentration."
+    },
+    {
+        "question": "Q66. Besides burning fossil fuels, a major human activity contributing to increased atmospheric CO2 is:",
+        "options": [
+            "Planting trees",
+            "Using solar power",
+            "Deforestation",
+            "Recycling"
+        ],
+        "answer": "Deforestation",
+        "explanation": "Removing forests reduces the planet's capacity to absorb CO2 and releases stored carbon when trees are burned or decompose."
+    },
+    {
+        "question": "Q67. Which greenhouse gas is largely produced by livestock digestion (enteric fermentation) and decomposition in landfills?",
+        "options": [
+            "Carbon Dioxide (CO2)",
+            "Methane (CH4)",
+            "Nitrous Oxide (N2O)",
+            "CFCs"
+        ],
+        "answer": "Methane (CH4)",
+        "explanation": "Agriculture and waste decomposition are significant sources of methane, a potent greenhouse gas."
+    },
+    {
+        "question": "Q68. Which greenhouse gas is primarily released from agricultural soils due to fertilizer use?",
+        "options": [
+            "Carbon Dioxide (CO2)",
+            "Methane (CH4)",
+            "Nitrous Oxide (N2O)",
+            "Ozone (O3)"
+        ],
+        "answer": "Nitrous Oxide (N2O)",
+        "explanation": "Microbial processes in soils, particularly those treated with nitrogen-based fertilizers, are a major source of N2O emissions."
+    },
+    {
+        "question": "Q69. A major observed impact of global warming is:",
+        "options": [
+            "Expansion of Arctic sea ice",
+            "Lowering of global sea levels",
+            "Melting of glaciers and ice sheets",
+            "Global cooling trend"
+        ],
+        "answer": "Melting of glaciers and ice sheets",
+        "explanation": "Rising global temperatures are causing widespread melting of land-based ice, contributing to sea level rise."
+    },
+    {
+        "question": "Q70. Rising sea levels due to climate change are caused by melting land ice and:",
+        "options": [
+            "Increased rainfall",
+            "Decreased ocean salinity",
+            "Thermal expansion of ocean water",
+            "Stronger ocean currents"
+        ],
+        "answer": "Thermal expansion of ocean water",
+        "explanation": "As ocean water warms, it expands in volume, which is a significant contributor to sea level rise along with meltwater from glaciers and ice sheets."
+    },
+    {
+        "question": "Q71. Climate change is expected to increase the frequency and intensity of:",
+        "options": [
+            "Mild winters globally",
+            "Predictable rainfall patterns",
+            "Extreme weather events (heatwaves, droughts, heavy rainfall)",
+            "Stable sea levels"
+        ],
+        "answer": "Extreme weather events (heatwaves, droughts, heavy rainfall)",
+        "explanation": "Warming temperatures provide more energy for weather systems, leading to more intense heatwaves, altered precipitation patterns (more droughts in some areas, more floods in others), and potentially stronger storms."
+    },
+    {
+        "question": "Q72. The absorption of excess atmospheric CO2 by oceans leads to:",
+        "options": [
+            "Ocean warming only",
+            "Increased marine biodiversity",
+            "Ocean acidification",
+            "Decreased sea levels"
+        ],
+        "answer": "Ocean acidification",
+        "explanation": "When CO2 dissolves in seawater, it forms carbonic acid, lowering the pH (making it more acidic), which harms organisms with calcium carbonate shells or skeletons (like corals and shellfish)."
+    },
+    {
+        "question": "Q73. Actions taken to reduce greenhouse gas emissions, like switching to renewable energy, fall under:",
+        "options": [
+            "Climate Change Adaptation",
+            "Climate Change Mitigation",
+            "Geoengineering",
+            "Climate Monitoring"
+        ],
+        "answer": "Climate Change Mitigation",
+        "explanation": "Mitigation strategies aim to limit the extent of future climate change by addressing its root cause – greenhouse gas emissions."
+    },
+    {
+        "question": "Q74. Building sea walls to protect coastal areas from rising sea levels is an example of:",
+        "options": [
+            "Climate Change Adaptation",
+            "Climate Change Mitigation",
+            "Carbon Sequestration",
+            "Renewable Energy Deployment"
+        ],
+        "answer": "Climate Change Adaptation",
+        "explanation": "Adaptation strategies focus on adjusting to the impacts of climate change that are already happening or are expected to happen."
+    },
+    {
+        "question": "Q75. The main goal of the Paris Agreement (2015) is related to:",
+        "options": [
+            "Ozone layer protection",
+            "Biodiversity conservation",
+            "Limiting global warming",
+            "Controlling water pollution"
+        ],
+        "answer": "Limiting global warming",
+        "explanation": "The Paris Agreement aims to keep the global average temperature rise well below 2°C (preferably 1.5°C) compared to pre-industrial levels."
+    },
+    {
+        "question": "Q76. The measure of the total greenhouse gases emitted directly or indirectly by an individual, organization, or product is its:",
+        "options": [
+            "Ecological Footprint",
+            "Water Footprint",
+            "Carbon Footprint",
+            "Energy Rating"
+        ],
+        "answer": "Carbon Footprint",
+        "explanation": "It quantifies the climate change impact associated with specific activities or entities."
+    },
+    {
+        "question": "Q77. Energy sources that are finite and consumed much faster than they are formed are:",
+        "options": [
+            "Renewable Resources",
+            "Sustainable Resources",
+            "Non-renewable Resources",
+            "Clean Resources"
+        ],
+        "answer": "Non-renewable Resources",
+        "explanation": "Fossil fuels (coal, oil, natural gas) and nuclear fuels (uranium) are examples of non-renewable resources."
+    },
+    {
+        "question": "Q78. Hydroelectric power generates electricity using the energy of:",
+        "options": [
+            "Wind",
+            "Sunlight",
+            "Flowing or falling water",
+            "Earth's internal heat"
+        ],
+        "answer": "Flowing or falling water",
+        "explanation": "The potential and kinetic energy of water moving from a higher elevation to a lower one drives turbines."
+    },
+    {
+        "question": "Q79. An advantage of hydroelectric power is:",
+        "options": [
+            "Low initial construction cost",
+            "No environmental impact",
+            "Availability in all locations",
+            "Low greenhouse gas emissions during operation"
+        ],
+        "answer": "Low greenhouse gas emissions during operation",
+        "explanation": "Once built, hydro dams produce electricity without burning fossil fuels, making it a clean energy source in terms of air emissions."
+    },
+    {
+        "question": "Q80. A major limitation of large hydroelectric dams is:",
+        "options": [
+            "Intermittent power generation",
+            "High fuel costs",
+            "Significant impact on river ecosystems and potential displacement of people",
+            "Dependence on wind speed"
+        ],
+        "answer": "Significant impact on river ecosystems and potential displacement of people",
+        "explanation": "Dam construction alters river flow, blocks fish migration, traps sediment, and floods large areas, affecting habitats and communities."
+    },
+    {
+        "question": "Q81. Solar panels that convert sunlight directly into electricity use which technology?",
+        "options": [
+            "Concentrated Solar Power (CSP)",
+            "Photovoltaic (PV) effect",
+            "Solar thermal heating",
+            "Geothermal conversion"
+        ],
+        "answer": "Photovoltaic (PV) effect",
+        "explanation": "PV cells made of semiconductor materials generate electricity when photons from sunlight strike them."
+    },
+    {
+        "question": "Q82. An advantage of solar energy is:",
+        "options": [
+            "Consistent power output 24/7",
+            "No land area requirement",
+            "Abundant global resource and zero emissions during operation",
+            "Low manufacturing energy"
+        ],
+        "answer": "Abundant global resource and zero emissions during operation",
+        "explanation": "Sunlight is a vast and widely available resource, and PV panels generate electricity without producing pollutants or greenhouse gases."
+    },
+    {
+        "question": "Q83. A major limitation of solar PV energy is:",
+        "options": [
+            "High operating emissions",
+            "Dependence on water flow",
+            "Intermittency (only generates when the sun shines)",
+            "Scarcity of silicon"
+        ],
+        "answer": "Intermittency (only generates when the sun shines)",
+        "explanation": "Solar power output varies with time of day, weather, and season, necessitating energy storage or backup for continuous supply."
+    },
+    {
+        "question": "Q84. Wind turbines generate electricity by capturing:",
+        "options": [
+            "Heat energy from the air",
+            "Potential energy of air",
+            "Kinetic energy of moving air",
+            "Chemical energy in the air"
+        ],
+        "answer": "Kinetic energy of moving air",
+        "explanation": "The moving air (wind) pushes the turbine blades, causing rotation that drives a generator."
+    },
+    {
+        "question": "Q85. An advantage of wind energy is:",
+        "options": [
+            "Predictable output",
+            "No visual impact",
+            "Low operating emissions and potential for land co-use (e.g., farming)",
+            "Suitable for all locations"
+        ],
+        "answer": "Low operating emissions and potential for land co-use (e.g., farming)",
+        "explanation": "Wind turbines produce no direct air pollution or greenhouse gases during operation, and the land between turbines can often still be used for agriculture."
+    },
+    {
+        "question": "Q86. A limitation of wind energy is:",
+        "options": [
+            "Requires large amounts of water",
+            "High fuel consumption",
+            "Variable wind speeds (intermittency) and potential noise/visual impacts",
+            "Causes water pollution"
+        ],
+        "answer": "Variable wind speeds (intermittency) and potential noise/visual impacts",
+        "explanation": "Wind power generation depends on sufficient wind speed. Wind farms can also face concerns about aesthetics, noise, and impacts on wildlife."
+    },
+    {
+        "question": "Q87. Energy derived from organic matter like wood, crops, or waste is:",
+        "options": [
+            "Geothermal Energy",
+            "Solar Energy",
+            "Tidal Energy",
+            "Biomass Energy"
+        ],
+        "answer": "Biomass Energy",
+        "explanation": "Biomass contains stored chemical energy originally captured from sunlight via photosynthesis."
+    },
+    {
+        "question": "Q88. An advantage of biomass energy is:",
+        "options": [
+            "It is completely emission-free when burned",
+            "It can utilize waste materials and be potentially carbon-neutral if sourced sustainably",
+            "It does not require land",
+            "It is available consistently regardless of weather"
+        ],
+        "answer": "It can utilize waste materials and be potentially carbon-neutral if sourced sustainably",
+        "explanation": "Using waste biomass avoids landfill issues. If biomass is regrown at the same rate it's harvested, the CO2 released on burning is offset by the CO2 absorbed during growth."
+    },
+    {
+        "question": "Q89. A limitation of biomass energy is:",
+        "options": [
+            "It only works during high tides",
+            "Potential for land use conflicts (food vs. fuel), deforestation, and air pollution if not managed properly",
+            "Requires geologically active sites",
+            "Very high energy density compared to fossil fuels"
+        ],
+        "answer": "Potential for land use conflicts (food vs. fuel), deforestation, and air pollution if not managed properly",
+        "explanation": "Unsustainable harvesting, competition with food production, and inefficient combustion methods can negate the benefits of biomass energy."
+    },
+    {
+        "question": "Q90. Tidal energy harnesses the power of:",
+        "options": [
+            "Wind blowing over the ocean",
+            "Ocean waves",
+            "Temperature differences in ocean water",
+            "The rise and fall of sea levels due to gravitational forces"
+        ],
+        "answer": "The rise and fall of sea levels due to gravitational forces",
+        "explanation": "Tidal power systems capture the kinetic energy of water moving in and out with the tides."
+    },
+    {
+        "question": "Q91. An advantage of tidal energy is:",
+        "options": [
+            "Low installation cost",
+            "Suitable for all coastal areas",
+            "Highly predictable power generation",
+            "No impact on marine life"
+        ],
+        "answer": "Highly predictable power generation",
+        "explanation": "Tides are driven by predictable astronomical cycles, making tidal power output very reliable compared to wind or solar."
+    },
+    {
+        "question": "Q92. A major limitation of tidal energy is:",
+        "options": [
+            "Unpredictable output",
+            "Dependence on sunlight",
+            "Limited number of suitable sites with high tidal ranges and high cost",
+            "High air emissions"
+        ],
+        "answer": "Limited number of suitable sites with high tidal ranges and high cost",
+        "explanation": "Only locations with large differences between high and low tide are economically viable, and building tidal barrages or turbines is expensive."
+    },
+    {
+        "question": "Q93. Geothermal energy utilizes heat from:",
+        "options": [
+            "The Sun",
+            "Burning biomass",
+            "Radioactive decay within the Earth's core and mantle",
+            "Ocean currents"
+        ],
+        "answer": "Radioactive decay within the Earth's core and mantle",
+        "explanation": "The Earth's internal heat originates from residual heat from planetary formation and ongoing radioactive decay."
+    },
+    {
+        "question": "Q94. An advantage of geothermal power plants is:",
+        "options": [
+            "Can be built anywhere",
+            "Very low initial cost",
+            "Provide a stable, baseload power supply (not intermittent)",
+            "Require no water"
+        ],
+        "answer": "Provide a stable, baseload power supply (not intermittent)",
+        "explanation": "Unlike solar and wind, geothermal energy is available 24/7, making it suitable for providing continuous, reliable power."
+    },
+    {
+        "question": "Q95. A limitation of geothermal energy is:",
+        "options": [
+            "Highly intermittent",
+            "Requires constant sunlight",
+            "Availability is largely restricted to specific geographic locations (near tectonic plate boundaries)",
+            "Produces large amounts of CO2"
+        ],
+        "answer": "Availability is largely restricted to specific geographic locations (near tectonic plate boundaries)",
+        "explanation": "Accessible, high-temperature geothermal resources needed for large-scale electricity generation are not uniformly distributed across the globe."
+    },
+    {
+        "question": "Q96. Which energy source is considered non-renewable?",
+        "options": [
+            "Wind",
+            "Solar",
+            "Coal",
+            "Hydro"
+        ],
+        "answer": "Coal",
+        "explanation": "Coal is a fossil fuel formed over millions of years and is consumed far faster than it is created, making it non-renewable."
+    },
+    {
+        "question": "Q97. Concentrated Solar Power (CSP) systems typically use:",
+        "options": [
+            "Photovoltaic cells",
+            "Mirrors or lenses to concentrate sunlight onto a receiver",
+            "Wind turbines",
+            "Tidal barrages"
+        ],
+        "answer": "Mirrors or lenses to concentrate sunlight onto a receiver",
+        "explanation": "CSP technology focuses sunlight to create high temperatures, which are then used to generate steam and drive a turbine."
+    },
+    {
+        "question": "Q98. Which process directly converts biomass into biogas (mostly methane and CO2) using anaerobic bacteria?",
+        "options": [
+            "Combustion",
+            "Gasification",
+            "Anaerobic digestion",
+            "Pyrolysis"
+        ],
+        "answer": "Anaerobic digestion",
+        "explanation": "Anaerobic digestion breaks down organic matter in the absence of oxygen, producing biogas which can be burned for energy."
+    },
+    {
+        "question": "Q99. What is a major environmental impact associated with the construction phase of many large renewable energy projects (like hydro dams or large solar/wind farms)?",
+        "options": [
+            "Increased air pollution",
+            "Habitat disruption and land use changes",
+            "Depletion of fossil fuels",
+            "Ocean acidification"
+        ],
+        "answer": "Habitat disruption and land use changes",
+        "explanation": "Building large energy facilities often requires significant land area, which can lead to habitat loss or fragmentation."
+    },
+    {
+        "question": "Q100. Which renewable energy source is most dependent on specific geological formations near tectonic plate boundaries?",
+        "options": [
+            "Solar",
+            "Wind",
+            "Geothermal",
+            "Biomass"
+        ],
+        "answer": "Geothermal",
+        "explanation": "High-temperature geothermal resources suitable for electricity generation are typically found in volcanically or tectonically active regions."
+    },
+    {
+        "question": "Q101. The decomposition of organic waste in landfills produces which significant greenhouse gas?",
+        "options": [
+            "Carbon Dioxide (CO2)",
+            "Nitrous Oxide (N2O)",
+            "Methane (CH4)",
+            "Ozone (O3)"
+        ],
+        "answer": "Methane (CH4)",
+        "explanation": "Anaerobic decomposition (breakdown without oxygen) of organic matter in landfills is a major source of methane emissions."
+    },
+    {
+        "question": "Q102. What does the BOD (Biochemical Oxygen Demand) of water indicate?",
+        "options": [
+            "The amount of dissolved oxygen present",
+            "The amount of oxygen needed by microorganisms to decompose organic matter",
+            "The water temperature",
+            "The water acidity (pH)"
+        ],
+        "answer": "The amount of oxygen needed by microorganisms to decompose organic matter",
+        "explanation": "A high BOD indicates a large amount of organic pollution, as decomposers will consume significant oxygen to break it down, potentially harming aquatic life."
+    },
+    {
+        "question": "Q103. Which pollutant is measured by the Air Quality Index (AQI) and is a major component of summer smog?",
+        "options": [
+            "Carbon Monoxide (CO)",
+            "Sulfur Dioxide (SO2)",
+            "Ground-level Ozone (O3)",
+            "Lead (Pb)"
+        ],
+        "answer": "Ground-level Ozone (O3)",
+        "explanation": "Ozone is a key component of smog and a major factor in AQI readings, especially during sunny conditions."
+    },
+    {
+        "question": "Q104. The preservation and careful management of the environment and natural resources is known as:",
+        "options": [
+            "Pollution",
+            "Conservation",
+            "Deforestation",
+            "Exploitation"
+        ],
+        "answer": "Conservation",
+        "explanation": "Conservation focuses on protecting resources from loss, waste, or damage, often involving sustainable use."
+    },
+    {
+        "question": "Q105. The process where soil loses its fertility and ability to support plant life, often in arid regions, is called:",
+        "options": [
+            "Eutrophication",
+            "Desertification",
+            "Acidification",
+            "Sedimentation"
+        ],
+        "answer": "Desertification",
+        "explanation": "Desertification is land degradation in dryland areas resulting from various factors, including climate variations and human activities like overgrazing or deforestation."
+    },
+    {
+        "question": "Q106. Which energy source relies on the temperature difference between surface and deep ocean water?",
+        "options": [
+            "Tidal energy",
+            "Wave energy",
+            "Ocean Thermal Energy Conversion (OTEC)",
+            "Hydroelectric energy"
+        ],
+        "answer": "Ocean Thermal Energy Conversion (OTEC)",
+        "explanation": "OTEC systems use the temperature gradient in tropical oceans to drive a heat engine and generate electricity, though it's still largely experimental."
+    },
+    {
+        "question": "Q107. Afforestation refers to:",
+        "options": [
+            "Cutting down forests",
+            "Planting trees on land that was not previously forested",
+            "Managing existing forests sustainably",
+            "Burning forest land for agriculture"
+        ],
+        "answer": "Planting trees on land that was not previously forested",
+        "explanation": "Afforestation aims to create new forests, while reforestation involves replanting trees on land that was recently harvested or cleared."
+    },
+    {
+        "question": "Q108. Which pollutant causes Minamata disease, a neurological syndrome?",
+        "options": [
+            "Lead",
+            "Cadmium",
+            "Mercury",
+            "Arsenic"
+        ],
+        "answer": "Mercury",
+        "explanation": "Minamata disease is caused by severe mercury poisoning, first discovered in Japan due to industrial wastewater contamination."
+    },
+    {
+        "question": "Q109. The layer of the atmosphere closest to the Earth's surface, where weather occurs, is the:",
+        "options": [
+            "Stratosphere",
+            "Mesosphere",
+            "Troposphere",
+            "Thermosphere"
+        ],
+        "answer": "Troposphere",
+        "explanation": "The troposphere extends from the surface up to about 7-20 km and contains most of the atmosphere's mass and weather systems."
+    },
+    {
+        "question": "Q110. Using solar panels on rooftops to generate electricity for a home is an example of:",
+        "options": [
+            "Large-scale hydro power",
+            "Concentrated Solar Power (CSP)",
+            "Distributed generation (Solar PV)",
+            "Geothermal heating"
+        ],
+        "answer": "Distributed generation (Solar PV)",
+        "explanation": "Distributed generation refers to producing electricity at or near the point of consumption, such as rooftop solar PV systems."
+    },
+    {
+        "question": "Q111. A key challenge for integrating high levels of intermittent renewables (solar, wind) into the electricity grid is:",
+        "options": [
+            "Lack of fuel",
+            "Excessive air pollution",
+            "Managing variability and ensuring grid stability (need for storage/flexible backup)",
+            "High water consumption"
+        ],
+        "answer": "Managing variability and ensuring grid stability (need for storage/flexible backup)",
+        "explanation": "The grid must balance supply and demand constantly. The variable output of wind and solar requires solutions like energy storage, demand response, and flexible generation to maintain reliability."
+    },
+    {
+        "question": "Q112. The gradual accumulation of sediments (soil, sand, silt) in water bodies, often due to erosion, is called:",
+        "options": [
+            "Eutrophication",
+            "Sedimentation",
+            "Acidification",
+            "Salinization"
+        ],
+        "answer": "Sedimentation",
+        "explanation": "Excessive sedimentation can cloud water, harm aquatic habitats (e.g., smothering coral reefs), and reduce the storage capacity of reservoirs."
+    },
+    {
+        "question": "Q113. The measure of acidity or alkalinity of a solution is its:",
+        "options": [
+            "Temperature",
+            "Turbidity",
+            "pH",
+            "Salinity"
+        ],
+        "answer": "pH",
+        "explanation": "The pH scale ranges from 0 (very acidic) to 14 (very alkaline), with 7 being neutral. Acid rain has a pH lower than normal rain (typically below 5.6)."
+    },
+    {
+        "question": "Q114. Which of these is a primary air pollutant (emitted directly)?",
+        "options": [
+            "Ground-level Ozone (O3)",
+            "Acid Rain",
+            "Carbon Monoxide (CO) from vehicle exhaust",
+            "Smog"
+        ],
+        "answer": "Carbon Monoxide (CO) from vehicle exhaust",
+        "explanation": "Primary pollutants are emitted directly from a source (like CO from incomplete combustion). Secondary pollutants (like ozone, acid rain) form in the atmosphere through chemical reactions."
+    },
+    {
+        "question": "Q115. Which of these is a secondary air pollutant (formed in the atmosphere)?",
+        "options": [
+            "Sulfur Dioxide (SO2) from power plants",
+            "Particulate Matter (PM) from construction",
+            "Nitrogen Oxides (NOx) from vehicles",
+            "Ground-level Ozone (O3) formed from NOx and VOCs"
+        ],
+        "answer": "Ground-level Ozone (O3) formed from NOx and VOCs",
+        "explanation": "Ozone is not typically emitted directly but forms through reactions involving primary pollutants and sunlight."
+    },
+    {
+        "question": "Q116. The ability of an ecosystem to resist disturbance and maintain its structure and function is called:",
+        "options": [
+            "Resilience",
+            "Resistance",
+            "Succession",
+            "Adaptation"
+        ],
+        "answer": "Resistance",
+        "explanation": "Resistance is the property of communities or populations to remain essentially unchanged when subject to disturbance."
+    },
+    {
+        "question": "Q117. The ability of an ecosystem to recover quickly after a disturbance is called:",
+        "options": [
+            "Resilience",
+            "Resistance",
+            "Stability",
+            "Equilibrium"
+        ],
+        "answer": "Resilience",
+        "explanation": "Resilience measures how rapidly an ecosystem returns to its prior state after being disturbed."
+    },
+    {
+        "question": "Q118. Which renewable energy source currently provides the largest share of global renewable electricity generation?",
+        "options": [
+            "Solar PV",
+            "Wind",
+            "Hydroelectric",
+            "Geothermal"
+        ],
+        "answer": "Hydroelectric",
+        "explanation": "Globally, hydropower has historically been and currently remains the largest source of renewable electricity, although wind and solar are growing much faster."
+    },
+    {
+        "question": "Q119. The water cycle is primarily driven by energy from:",
+        "options": [
+            "The Earth's core",
+            "The Moon's gravity",
+            "Wind",
+            "The Sun"
+        ],
+        "answer": "The Sun",
+        "explanation": "Solar energy drives evaporation and transpiration, which are key processes lifting water into the atmosphere to continue the cycle."
+    },
+    {
+        "question": "Q120. In the context of pollution, what does 'point source' mean?",
+        "options": [
+            "Pollution from a large area",
+            "Pollution that is difficult to trace",
+            "Pollution originating from a single, identifiable source (e.g., a factory discharge pipe)",
+            "Air pollution only"
+        ],
+        "answer": "Pollution originating from a single, identifiable source (e.g., a factory discharge pipe)",
+        "explanation": "Point source pollution is contrasted with non-point source pollution, which comes from diffuse sources (e.g., agricultural runoff)."
+    },
+    {
+        "question": "Q121. Runoff from city streets containing oil and chemicals is an example of:",
+        "options": [
+            "Point source pollution",
+            "Non-point source pollution",
+            "Thermal pollution",
+            "Air pollution"
+        ],
+        "answer": "Non-point source pollution",
+        "explanation": "Urban runoff collects pollutants from a wide area (streets, parking lots) rather than a single pipe, making it non-point source pollution."
+    },
+    {
+        "question": "Q122. Ocean acidification primarily affects marine organisms that:",
+        "options": [
+            "Perform photosynthesis",
+            "Live in deep ocean trenches",
+            "Build shells or skeletons from calcium carbonate",
+            "Migrate long distances"
+        ],
+        "answer": "Build shells or skeletons from calcium carbonate",
+        "explanation": "Lower pH (increased acidity) makes it harder for organisms like corals, oysters, clams, and pteropods to form and maintain their calcium carbonate structures."
+    },
+    {
+        "question": "Q123. Which fossil fuel combustion is the largest source of anthropogenic CO2 emissions?",
+        "options": [
+            "Natural Gas",
+            "Oil (Petroleum)",
+            "Coal",
+            "Wood"
+        ],
+        "answer": "Coal",
+        "explanation": "Coal combustion, particularly for electricity generation and industrial processes, releases more CO2 per unit of energy compared to oil or natural gas, making it the largest single source."
+    },
+    {
+        "question": "Q124. Which of these renewable energy sources does NOT ultimately depend on solar energy?",
+        "options": [
+            "Wind Energy",
+            "Hydroelectric Energy",
+            "Biomass Energy",
+            "Geothermal Energy"
+        ],
+        "answer": "Geothermal Energy",
+        "explanation": "Wind (uneven solar heating), Hydro (solar-driven water cycle), and Biomass (photosynthesis) all trace back to the sun. Geothermal energy originates from the Earth's internal heat."
+    },
+    {
+        "question": "Q125. Converting organic waste (like food scraps and yard trimmings) into a soil conditioner through controlled decomposition is called:",
+        "options": [
+            "Recycling",
+            "Incineration",
+            "Landfilling",
+            "Composting"
+        ],
+        "answer": "Composting",
+        "explanation": "Composting is a form of recycling organic matter, producing a valuable soil amendment while diverting waste from landfills."
+    },
+    {
+        "question": "Q126. Which organism is at the bottom (first trophic level) of a typical food chain?",
+        "options": [
+            "Herbivore",
+            "Carnivore",
+            "Producer (e.g., Plant)",
+            "Decomposer"
+        ],
+        "answer": "Producer (e.g., Plant)",
+        "explanation": "Producers form the base of the food chain as they create their own food, providing energy for all other trophic levels."
+    },
+    {
+        "question": "Q127. What type of pollution is significantly reduced by using unleaded gasoline?",
+        "options": [
+            "Sulfur dioxide pollution",
+            "Ozone pollution",
+            "Lead pollution",
+            "Carbon monoxide pollution"
+        ],
+        "answer": "Lead pollution",
+        "explanation": "Lead additives were phased out of gasoline primarily because lead is a toxic heavy metal that caused significant air and soil pollution with serious health impacts."
+    },
+    {
+        "question": "Q128. The gradual process of change in species composition and community structure over time in an ecosystem is called:",
+        "options": [
+            "Evolution",
+            "Ecological Succession",
+            "Biomagnification",
+            "Population Dynamics"
+        ],
+        "answer": "Ecological Succession",
+        "explanation": "Succession describes the predictable changes in an ecological community following a disturbance or the creation of new habitat."
+    },
+    {
+        "question": "Q129. Which renewable energy technology might involve drilling deep wells into the Earth?",
+        "options": [
+            "Solar PV",
+            "Wind Turbines",
+            "Geothermal Power",
+            "Tidal Barrage"
+        ],
+        "answer": "Geothermal Power",
+        "explanation": "Geothermal systems access underground reservoirs of steam or hot water by drilling wells."
+    },
+    {
+        "question": "Q130. Climate models predict that global warming will likely cause precipitation patterns to change, generally resulting in:",
+        "options": [
+            "Uniform rainfall increase everywhere",
+            "Uniform rainfall decrease everywhere",
+            "More intense rainfall events and potentially longer droughts (wet areas wetter, dry areas drier)",
+            "No significant change in precipitation"
+        ],
+        "answer": "More intense rainfall events and potentially longer droughts (wet areas wetter, dry areas drier)",
+        "explanation": "Climate change is expected to intensify the water cycle, leading to more extreme precipitation patterns rather than uniform changes."
+    },
+    {
+        "question": "Q131. What is the primary role of decomposers in nutrient cycling?",
+        "options": [
+            "To produce energy from sunlight",
+            "To consume producers",
+            "To return essential nutrients from dead organic matter back to the soil/water",
+            "To fix atmospheric nitrogen"
+        ],
+        "answer": "To return essential nutrients from dead organic matter back to the soil/water",
+        "explanation": "Decomposers break down complex organic compounds into simpler inorganic substances that producers can absorb and use again."
+    },
+    {
+        "question": "Q132. Which type of pollution poses a direct threat through ingestion or entanglement for marine animals like turtles and seabirds?",
+        "options": [
+            "Noise pollution",
+            "Thermal pollution",
+            "Plastic pollution",
+            "Light pollution"
+        ],
+        "answer": "Plastic pollution",
+        "explanation": "Animals can mistake plastic debris for food, leading to internal injuries or starvation, or they can become entangled in larger plastic items like nets."
+    },
+    {
+        "question": "Q133. The term 'carbon sequestration' refers to:",
+        "options": [
+            "The release of carbon into the atmosphere",
+            "The process of capturing and storing atmospheric carbon dioxide",
+            "The measurement of a carbon footprint",
+            "The burning of carbon-based fuels"
+        ],
+        "answer": "The process of capturing and storing atmospheric carbon dioxide",
+        "explanation": "Carbon sequestration aims to remove CO2 from the atmosphere and store it long-term (e.g., in forests, soils, or geological formations) to mitigate climate change."
+    },
+    {
+        "question": "Q134. Which source provides the energy for wind formation?",
+        "options": [
+            "Geothermal heat",
+            "Gravitational pull",
+            "Uneven heating of the Earth's surface by the sun",
+            "Chemical reactions in the atmosphere"
+        ],
+        "answer": "Uneven heating of the Earth's surface by the sun",
+        "explanation": "Differences in solar heating create temperature and pressure gradients in the atmosphere, causing air to move (wind)."
+    },
+    {
+        "question": "Q135. A disadvantage of run-of-the-river hydro systems compared to large dams is:",
+        "options": [
+            "Greater environmental impact",
+            "Less ability to store water and regulate power output",
+            "Higher operating emissions",
+            "Requires more land area"
+        ],
+        "answer": "Less ability to store water and regulate power output",
+        "explanation": "Without large reservoirs, run-of-the-river hydro generation fluctuates more directly with the river's natural flow."
+    },
+    {
+        "question": "Q136. Which atmospheric layer contains the majority of Earth's weather phenomena?",
+        "options": [
+            "Stratosphere",
+            "Mesosphere",
+            "Thermosphere",
+            "Troposphere"
+        ],
+        "answer": "Troposphere",
+        "explanation": "The troposphere is the lowest layer, containing most of the atmosphere's water vapor and experiencing the temperature and pressure variations that drive weather."
+    },
+    {
+        "question": "Q137. Which strategy is an example of climate change adaptation?",
+        "options": [
+            "Switching from coal power plants to wind farms",
+            "Developing drought-resistant crop varieties",
+            "Improving vehicle fuel efficiency",
+            "Implementing a carbon tax"
+        ],
+        "answer": "Developing drought-resistant crop varieties",
+        "explanation": "This adjusts agricultural practices to cope with the expected impacts of climate change (potentially more frequent droughts), whereas the other options are mitigation strategies focused on reducing emissions."
+    },
+    {
+        "question": "Q138. An energy source that is replenished by natural processes at a rate comparable to its consumption rate is considered:",
+        "options": [
+            "Finite",
+            "Non-renewable",
+            "Fossil Fuel",
+            "Renewable"
+        ],
+        "answer": "Renewable",
+        "explanation": "Renewable resources like solar, wind, and hydro are naturally replenished within human timescales."
+    },
+    {
+        "question": "Q139. Which environmental issue was successfully addressed by the international cooperation under the Montreal Protocol?",
+        "options": [
+            "Acid Rain",
+            "Global Warming",
+            "Ozone Layer Depletion",
+            "Deforestation"
+        ],
+        "answer": "Ozone Layer Depletion",
+        "explanation": "The Montreal Protocol led to a global phase-out of ozone-depleting substances like CFCs, and the ozone layer is showing signs of recovery."
+    },
+    {
+        "question": "Q140. What is the main component of natural gas?",
+        "options": [
+            "Ethane",
+            "Propane",
+            "Methane",
+            "Butane"
+        ],
+        "answer": "Methane",
+        "explanation": "Natural gas is primarily composed of methane (CH4), although it may contain smaller amounts of other hydrocarbons."
+    },
+    {
+        "question": "Q141. What is a significant advantage of using natural gas over coal for electricity generation in terms of emissions?",
+        "options": [
+            "Emits no CO2",
+            "Emits significantly less CO2 and air pollutants (like SO2, PM)",
+            "Emits more methane",
+            "Requires no water"
+        ],
+        "answer": "Emits significantly less CO2 and air pollutants (like SO2, PM)",
+        "explanation": "Burning natural gas is cleaner than burning coal, producing about half the CO2 and much lower levels of sulfur dioxide and particulate matter per unit of energy."
+    },
+    {
+        "question": "Q142. Which ecosystem service is provided by forests absorbing carbon dioxide?",
+        "options": [
+            "Water purification",
+            "Pollination",
+            "Climate regulation",
+            "Soil formation"
+        ],
+        "answer": "Climate regulation",
+        "explanation": "By removing CO2, a major greenhouse gas, from the atmosphere, forests play a vital role in regulating the global climate."
+    },
+    {
+        "question": "Q143. Bioaccumulation refers to the:",
+        "options": [
+            "Increase in concentration of a substance in different organisms up the food chain",
+            "Breakdown of substances by organisms",
+            "Accumulation of substances within a single organism over time",
+            "Movement of substances through an ecosystem"
+        ],
+        "answer": "Accumulation of substances within a single organism over time",
+        "explanation": "Bioaccumulation is the build-up of a substance (like a toxin) in an organism's tissues faster than it can be removed. Biomagnification refers to the increase across trophic levels."
+    },
+    {
+        "question": "Q144. Which of these energy sources requires the process of photosynthesis to store energy?",
+        "options": [
+            "Geothermal",
+            "Tidal",
+            "Biomass",
+            "Hydroelectric"
+        ],
+        "answer": "Biomass",
+        "explanation": "The energy in biomass ultimately comes from sunlight captured by plants during photosynthesis."
+    },
+    {
+        "question": "Q145. Reducing energy consumption by turning off lights when leaving a room is an example of:",
+        "options": [
+            "Energy efficiency",
+            "Energy conservation (behavioral)",
+            "Renewable energy generation",
+            "Energy storage"
+        ],
+        "answer": "Energy conservation (behavioral)",
+        "explanation": "Energy conservation involves both using less energy through efficient technologies and through changing habits to reduce waste."
+    },
+    {
+        "question": "Q146. A landfill site primarily deals with which type of pollution?",
+        "options": [
+            "Air pollution",
+            "Noise pollution",
+            "Solid waste pollution (and potential soil/water pollution)",
+            "Thermal pollution"
+        ],
+        "answer": "Solid waste pollution (and potential soil/water pollution)",
+        "explanation": "Landfills are designated areas for disposing of solid waste. Improper management can lead to leachate contaminating soil and groundwater."
+    },
+    {
+        "question": "Q147. Which international agreement specifically targets greenhouse gas emission reductions?",
+        "options": [
+            "Montreal Protocol",
+            "Basel Convention",
+            "Kyoto Protocol / Paris Agreement",
+            "Ramsar Convention"
+        ],
+        "answer": "Kyoto Protocol / Paris Agreement",
+        "explanation": "Both the Kyoto Protocol and its successor, the Paris Agreement, are international treaties focused on addressing climate change by curbing greenhouse gas emissions."
+    },
+    {
+        "question": "Q148. What type of energy is harnessed from the movement of ocean surface water caused by wind?",
+        "options": [
+            "Tidal Energy",
+            "Wave Energy",
+            "Ocean Thermal Energy",
+            "Hydroelectric Energy"
+        ],
+        "answer": "Wave Energy",
+        "explanation": "Wave energy converters capture the energy present in ocean surface waves, which are generated by wind."
+    },
+    {
+        "question": "Q149. A limitation of solar thermal water heaters is their dependence on:",
+        "options": [
+            "Wind speed",
+            "Tidal range",
+            "Geothermal activity",
+            "Sunlight availability"
+        ],
+        "answer": "Sunlight availability",
+        "explanation": "Solar water heaters use sunlight to directly heat water, so their effectiveness depends on sufficient solar radiation."
+    },
+    {
+        "question": "Q150. The variety of genes within a particular species contributes to:",
+        "options": [
+            "Ecosystem diversity",
+            "Species diversity",
+            "Genetic diversity",
+            "Habitat diversity"
+        ],
+        "answer": "Genetic diversity",
+        "explanation": "Genetic diversity is the range of different inherited traits within a species, which is crucial for adaptation and resilience."
+    }
+]

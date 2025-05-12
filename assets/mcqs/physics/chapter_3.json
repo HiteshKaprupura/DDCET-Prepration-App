@@ -1,0 +1,902 @@
+[
+    {
+        "question": "Q1. Ohm's law states that, under constant physical conditions, the potential difference (V) across the ends of a conductor is directly proportional to the:",
+        "options": ["Resistance (R)", "Charge (Q) flowing through it", "Electric current (I) flowing through it", "Power (P) dissipated in it"],
+        "answer": "Electric current (I) flowing through it",
+        "explanation": "According to Ohm's law, V ∝ I, or V = IR, where R is the resistance of the conductor."
+    },
+    {
+        "question": "Q2. What is the SI unit of electric charge?",
+        "options": ["Ampere (A)", "Volt (V)", "Ohm (Ω)", "Coulomb (C)"],
+        "answer": "Coulomb (C)",
+        "explanation": "Electric charge is measured in Coulombs (C)."
+    },
+    {
+        "question": "Q3. What type of interaction occurs between two positive charges?",
+        "options": ["Attraction", "Repulsion", "No interaction", "Neutralization"],
+        "answer": "Repulsion",
+        "explanation": "Like charges (such as two positive or two negative charges) repel each other."
+    },
+    {
+        "question": "Q4. The electrostatic force between two point charges is given by which law?",
+        "options": ["Newton's Law", "Ohm's Law", "Gauss's Law", "Coulomb's Law"],
+        "answer": "Coulomb's Law",
+        "explanation": "Coulomb's law describes the magnitude and direction of the force between two point charges."
+    },
+    {
+        "question": "Q5. Electric field intensity is defined as the force experienced per unit:",
+        "options": ["Length", "Charge", "Time", "Potential difference"],
+        "answer": "Charge",
+        "explanation": "Electric field intensity (E) is defined as the force (F) experienced by a test charge (q₀) placed at that point, divided by the magnitude of the test charge: E = F/q₀."
+    },
+    {
+        "question": "Q6. What is the SI unit of electric potential?",
+        "options": ["Newton (N)", "Farad (F)", "Volt (V)", "Ampere (A)"],
+        "answer": "Volt (V)",
+        "explanation": "Electric potential, or potential difference, is measured in Volts (V), which is equivalent to Joules per Coulomb (J/C)."
+    },
+    {
+        "question": "Q7. Electric flux is a measure of the number of electric field lines passing perpendicularly through a given:",
+        "options": ["Volume", "Point", "Length", "Area"],
+        "answer": "Area",
+        "explanation": "Electric flux (Φ) quantifies the number of electric field lines passing through a specified surface area."
+    },
+    {
+        "question": "Q8. What is the rate of flow of electric charge called?",
+        "options": ["Electric potential", "Resistance", "Electric field", "Electric current"],
+        "answer": "Electric current",
+        "explanation": "Electric current (I) is defined as the amount of charge (Q) flowing per unit time (t): I = Q/t."
+    },
+    {
+        "question": "Q9. What is the SI unit of resistance?",
+        "options": ["Siemens (S)", "Volt (V)", "Ohm (Ω)", "Ampere (A)"],
+        "answer": "Ohm (Ω)",
+        "explanation": "Electrical resistance is measured in Ohms (Ω)."
+    },
+    {
+        "question": "Q10. Conductance is the reciprocal of:",
+        "options": ["Resistivity", "Current", "Resistance", "Conductivity"],
+        "answer": "Resistance",
+        "explanation": "Conductance (G) is the inverse of resistance (R): G = 1/R."
+    },
+    {
+        "question": "Q11. Resistivity is an intrinsic property of a:",
+        "options": ["Resistor's shape", "Resistor's length", "Material", "Temperature only"],
+        "answer": "Material",
+        "explanation": "Resistivity (ρ) depends on the nature of the material and its temperature, not its dimensions."
+    },
+    {
+        "question": "Q12. What is the SI unit of conductivity?",
+        "options": ["Ohm-meter (Ω·m)", "Ohm (Ω)", "Siemens per meter (S/m)", "Siemens (S)"],
+        "answer": "Siemens per meter (S/m)",
+        "explanation": "Conductivity (σ), the reciprocal of resistivity, is measured in Siemens per meter (S/m)."
+    },
+    {
+        "question": "Q13. When resistors are connected in series, the equivalent resistance is:",
+        "options": ["The reciprocal of the sum of reciprocals", "Less than the smallest individual resistance", "The sum of individual resistances", "The average of individual resistances"],
+        "answer": "The sum of individual resistances",
+        "explanation": "For resistors in series, Req = R1 + R2 + R3 + ..."
+    },
+    {
+        "question": "Q14. When resistors are connected in parallel, the equivalent resistance is:",
+        "options": ["Always greater than the largest individual resistance", "The sum of individual resistances", "The average of individual resistances", "Always less than the smallest individual resistance"],
+        "answer": "Always less than the smallest individual resistance",
+        "explanation": "For resistors in parallel, 1/Req = 1/R1 + 1/R2 + 1/R3 + ..., which results in Req being smaller than the smallest R."
+    },
+    {
+        "question": "Q15. The ability of a component to store electric charge is called:",
+        "options": ["Resistance", "Inductance", "Conductance", "Capacitance"],
+        "answer": "Capacitance",
+        "explanation": "Capacitance (C) is the measure of a capacitor's ability to store charge."
+    },
+    {
+        "question": "Q16. What is the SI unit of capacitance?",
+        "options": ["Henry (H)", "Weber (Wb)", "Farad (F)", "Tesla (T)"],
+        "answer": "Farad (F)",
+        "explanation": "Capacitance is measured in Farads (F)."
+    },
+    {
+        "question": "Q17. A parallel plate capacitor consists of two parallel conducting plates separated by a:",
+        "options": ["Conductor", "Semiconductor", "Vacuum only", "Dielectric (insulator)"],
+        "answer": "Dielectric (insulator)",
+        "explanation": "The space between the plates of a parallel plate capacitor is filled with a dielectric material or vacuum."
+    },
+    {
+        "question": "Q18. When capacitors are connected in series, the total capacitance:",
+        "options": ["Increases", "Remains the same", "Decreases", "Becomes zero"],
+        "answer": "Decreases",
+        "explanation": "For capacitors in series, 1/Ceq = 1/C1 + 1/C2 + 1/C3 + ..., resulting in Ceq being smaller than the smallest C."
+    },
+    {
+        "question": "Q19. When capacitors are connected in parallel, the equivalent capacitance is:",
+        "options": ["Less than the smallest individual capacitance", "The reciprocal of the sum of reciprocals", "The average of individual capacitances", "The sum of individual capacitances"],
+        "answer": "The sum of individual capacitances",
+        "explanation": "For capacitors in parallel, Ceq = C1 + C2 + C3 + ..."
+    },
+    {
+        "question": "Q20. If a voltage of 12 V is applied across a 4 Ω resistor, what is the current flowing through it?",
+        "options": ["3 A", "0.33 A", "48 A", "8 A"],
+        "answer": "3 A",
+        "explanation": "Using Ohm's Law, I = V/R = 12 V / 4 Ω = 3 A."
+    },
+    {
+        "question": "Q21. The property of electric charge that states charge can only exist as integer multiples of the elementary charge 'e' is called:",
+        "options": ["Conservation of charge", "Quantization of charge", "Additivity of charge", "Invariance of charge"],
+        "answer": "Quantization of charge",
+        "explanation": "Quantization means charge (Q) exists in discrete packets: Q = ne, where n is an integer and e is the elementary charge."
+    },
+    {
+        "question": "Q22. If the distance between two point charges is halved, the Coulomb's force between them becomes:",
+        "options": ["Double", "Half", "One-fourth", "Four times"],
+        "answer": "Four times",
+        "explanation": "Coulomb's force F ∝ 1/r². If r becomes r/2, then F' ∝ 1/(r/2)² = 1/(r²/4) = 4/r². So the force becomes four times."
+    },
+    {
+        "question": "Q23. The direction of the electric field due to a negative point charge is:",
+        "options": ["Radially outwards", "Circular", "Radially inwards", "Parallel to the charge"],
+        "answer": "Radially inwards",
+        "explanation": "Electric field lines point towards a negative charge."
+    },
+    {
+        "question": "Q24. The work done in moving a unit positive charge from infinity to a point in an electric field is defined as:",
+        "options": ["Electric current", "Electric field strength", "Electric potential at that point", "Electric flux"],
+        "answer": "Electric potential at that point",
+        "explanation": "This is the definition of electric potential (V = W/q)."
+    },
+    {
+        "question": "Q25. What is the SI unit of electric flux?",
+        "options": ["Volt per meter (V/m)", "Newton per Coulomb (N/C)", "Volt-meter (V·m)", "Coulomb (C)"],
+        "answer": "Volt-meter (V·m)",
+        "explanation": "Electric flux (Φ = E·A) has units of (N/C)·m² or (V/m)·m² = V·m."
+    },
+    {
+        "question": "Q26. The conventional direction of electric current is the direction of flow of:",
+        "options": ["Electrons", "Negative ions", "Positive charge", "Neutral particles"],
+        "answer": "Positive charge",
+        "explanation": "By convention, current direction is taken as the direction positive charge would flow, even though in most conductors, electrons (negative charge) are the actual carriers."
+    },
+    {
+        "question": "Q27. If the length of a wire is halved and its cross-sectional area is doubled, its resistance becomes:",
+        "options": ["Half", "Double", "Four times", "One-fourth"],
+        "answer": "One-fourth",
+        "explanation": "Resistance R = ρL/A. New resistance R' = ρ(L/2)/(2A) = ρL/(4A) = R/4."
+    },
+    {
+        "question": "Q28. What is the equivalent resistance of two 6 Ω resistors connected in parallel?",
+        "options": ["12 Ω", "6 Ω", "3 Ω", "1/3 Ω"],
+        "answer": "3 Ω",
+        "explanation": "For parallel resistors, 1/Req = 1/R1 + 1/R2 = 1/6 + 1/6 = 2/6 = 1/3. So, Req = 3 Ω."
+    },
+    {
+        "question": "Q29. How does the capacitance of a parallel plate capacitor change if the area of the plates is doubled?",
+        "options": ["Doubles", "Halves", "Becomes four times", "Remains the same"],
+        "answer": "Doubles",
+        "explanation": "Capacitance C = ε₀A/d. If area A is doubled, C' = ε₀(2A)/d = 2C."
+    },
+    {
+        "question": "Q30. What is the equivalent capacitance of a 3 F and a 6 F capacitor connected in series?",
+        "options": ["9 F", "3 F", "2 F", "1/2 F"],
+        "answer": "2 F",
+        "explanation": "For series capacitors, 1/Ceq = 1/C1 + 1/C2 = 1/3 + 1/6 = 2/6 + 1/6 = 3/6 = 1/2. So, Ceq = 2 F."
+    },
+    {
+        "question": "Q31. Ohm's law is NOT applicable to:",
+        "options": ["Metals at constant temperature", "Carbon resistors", "Electrolytes", "Semiconductors and vacuum tubes"],
+        "answer": "Semiconductors and vacuum tubes",
+        "explanation": "Ohm's law applies to ohmic conductors where V is directly proportional to I. Semiconductors and vacuum tubes are non-ohmic devices."
+    },
+    {
+        "question": "Q32. The property that the total charge in an isolated system remains constant is known as:",
+        "options": ["Quantization of charge", "Additivity of charge", "Conservation of charge", "Invariance of charge"],
+        "answer": "Conservation of charge",
+        "explanation": "Conservation of charge means that charge can neither be created nor destroyed, only transferred."
+    },
+    {
+        "question": "Q33. The force between two charges is 100 N. If the distance between the charges is doubled, the force will be:",
+        "options": ["100 N", "50 N", "25 N", "400 N"],
+        "answer": "25 N",
+        "explanation": "Force is inversely proportional to the square of the distance (F ∝ 1/r²). If distance is doubled (r -> 2r), the force becomes 1/(2²) = 1/4th. F' = 100 N / 4 = 25 N."
+    },
+    {
+        "question": "Q34. Electric field lines originate from _______ charges and terminate on _______ charges.",
+        "options": ["Negative, Positive", "Positive, Negative", "Positive, Positive", "Negative, Negative"],
+        "answer": "Positive, Negative",
+        "explanation": "By convention, electric field lines point away from positive charges and towards negative charges."
+    },
+    {
+        "question": "Q35. The work done in moving a charge of 2 C between two points having a potential difference of 10 V is:",
+        "options": ["5 J", "0.2 J", "20 J", "12 J"],
+        "answer": "20 J",
+        "explanation": "Work done W = q * ΔV = 2 C * 10 V = 20 J."
+    },
+    {
+        "question": "Q36. The SI unit of electric current is:",
+        "options": ["Coulomb (C)", "Volt (V)", "Ohm (Ω)", "Ampere (A)"],
+        "answer": "Ampere (A)",
+        "explanation": "Electric current is measured in Amperes (A), which is Coulombs per second (C/s)."
+    },
+    {
+        "question": "Q37. A wire of resistance R is stretched to double its length. Assuming the volume remains constant, the new resistance will be:",
+        "options": ["R/2", "R", "2R", "4R"],
+        "answer": "4R",
+        "explanation": "When length is doubled (L' = 2L), the area becomes half (A' = A/2) to keep volume constant. R' = ρL'/A' = ρ(2L)/(A/2) = 4(ρL/A) = 4R."
+    },
+    {
+        "question": "Q38. Three resistors of 2 Ω, 3 Ω, and 6 Ω are connected in series. The equivalent resistance is:",
+        "options": ["1 Ω", "11 Ω", "1/11 Ω", "6 Ω"],
+        "answer": "11 Ω",
+        "explanation": "In series, Req = R1 + R2 + R3 = 2 Ω + 3 Ω + 6 Ω = 11 Ω."
+    },
+    {
+        "question": "Q39. Introducing a dielectric slab between the plates of a parallel plate capacitor, while the battery remains connected, causes the charge on the plates to:",
+        "options": ["Decrease", "Increase", "Remain the same", "Become zero"],
+        "answer": "Increase",
+        "explanation": "With the battery connected, V remains constant. Introducing a dielectric increases C (C' = KC). Since Q = CV, the charge Q' = C'V = (KC)V = K(CV) = KQ. As K > 1, the charge increases."
+    },
+    {
+        "question": "Q40. Two capacitors of 4 F and 4 F are connected in parallel. The equivalent capacitance is:",
+        "options": ["2 F", "4 F", "8 F", "1/8 F"],
+        "answer": "8 F",
+        "explanation": "In parallel, Ceq = C1 + C2 = 4 F + 4 F = 8 F."
+    },
+    {
+        "question": "Q41. The slope of the Voltage (V) vs Current (I) graph for an ohmic conductor represents:",
+        "options": ["Resistivity", "Conductance", "Resistance", "Power"],
+        "answer": "Resistance",
+        "explanation": "From Ohm's Law, V = IR. Plotting V on y-axis and I on x-axis, the slope (ΔV/ΔI) is equal to the resistance R."
+    },
+    {
+        "question": "Q42. If a glass rod is rubbed with silk, the glass rod acquires a positive charge because:",
+        "options": ["Protons are transferred from silk to glass", "Electrons are transferred from glass to silk", "Protons are transferred from glass to silk", "Electrons are transferred from silk to glass"],
+        "answer": "Electrons are transferred from glass to silk",
+        "explanation": "Charging by friction involves the transfer of electrons. Glass loses electrons to silk, making the glass positive and the silk negative."
+    },
+    {
+        "question": "Q43. Coulomb's law is valid for:",
+        "options": ["Point charges only", "Spherical charges only", "Any charged bodies", "Point charges at rest"],
+        "answer": "Point charges at rest",
+        "explanation": "Coulomb's law precisely describes the force between static (non-moving) point charges."
+    },
+    {
+        "question": "Q44. Electric field lines never intersect each other because:",
+        "options": ["They are parallel", "They are imaginary lines", "At the point of intersection, there would be two directions of electric field, which is impossible", "They repel each other"],
+        "answer": "At the point of intersection, there would be two directions of electric field, which is impossible",
+        "explanation": "The tangent to an electric field line at any point gives the direction of the electric field at that point. If two lines intersected, there would be two tangents and hence two directions of the field at the same point, which is physically impossible."
+    },
+    {
+        "question": "Q45. An equipotential surface is a surface where:",
+        "options": ["Electric field is constant", "Electric potential is constant", "Electric charge is constant", "Electric flux is constant"],
+        "answer": "Electric potential is constant",
+        "explanation": "By definition, all points on an equipotential surface have the same electric potential."
+    },
+    {
+        "question": "Q46. The relation between electric field (E) and electric potential (V) is:",
+        "options": ["E = -dV/dr", "V = -dE/dr", "E = V/r", "V = E/r"],
+        "answer": "E = -dV/dr",
+        "explanation": "Electric field is the negative gradient of the electric potential. The negative sign indicates that the electric field points in the direction of decreasing potential."
+    },
+    {
+        "question": "Q47. Drift velocity of electrons is of the order of:",
+        "options": ["10^6 m/s", "10^-4 m/s", "3 x 10^8 m/s (speed of light)", "10^2 m/s"],
+        "answer": "10^-4 m/s",
+        "explanation": "Despite high random thermal velocities, the net drift velocity of electrons in a conductor under an electric field is very small, typically around mm/s or 10⁻⁴ m/s."
+    },
+    {
+        "question": "Q48. The resistance of a conductor increases with:",
+        "options": ["Decrease in length", "Increase in cross-sectional area", "Decrease in temperature", "Increase in temperature (for most metals)"],
+        "answer": "Increase in temperature (for most metals)",
+        "explanation": "For metallic conductors, resistivity (and hence resistance) generally increases with an increase in temperature due to increased collisions of electrons with vibrating ions."
+    },
+    {
+        "question": "Q49. What is the SI unit of resistivity?",
+        "options": ["Ohm (Ω)", "Siemens (S)", "Ohm-meter (Ω·m)", "Siemens per meter (S/m)"],
+        "answer": "Ohm-meter (Ω·m)",
+        "explanation": "Resistivity (ρ) is defined from R = ρL/A, so ρ = RA/L. The unit is Ω·m²/m = Ω·m."
+    },
+    {
+        "question": "Q50. In a parallel combination of resistors, which quantity remains the same across all resistors?",
+        "options": ["Current", "Voltage", "Resistance", "Power dissipated"],
+        "answer": "Voltage",
+        "explanation": "Components connected in parallel share the same two nodes, hence the voltage difference across them is identical."
+    },
+    {
+        "question": "Q51. The energy stored in a capacitor is given by:",
+        "options": ["QV", "½ C V²", "I² R", "V²/R"],
+        "answer": "½ C V²",
+        "explanation": "The energy (U) stored in a capacitor can be expressed as U = ½ Q²/C = ½ C V² = ½ QV."
+    },
+    {
+        "question": "Q52. A parallel plate capacitor has capacitance C. If the distance between the plates is halved and the area is doubled, the new capacitance will be:",
+        "options": ["C/4", "C", "2C", "4C"],
+        "answer": "4C",
+        "explanation": "C = ε₀A/d. New capacitance C' = ε₀(2A)/(d/2) = 4(ε₀A/d) = 4C."
+    },
+    {
+        "question": "Q53. In a series combination of capacitors, which quantity is the same for all capacitors?",
+        "options": ["Voltage across each capacitor", "Charge on each capacitor", "Capacitance", "Energy stored"],
+        "answer": "Charge on each capacitor",
+        "explanation": "When capacitors are in series, the charge stored on each plate must be the same due to charge conservation and induction."
+    },
+    {
+        "question": "Q54. The constant 'k' in Coulomb's law (F = k|q1q2|/r²) depends on:",
+        "options": ["The magnitude of the charges", "The distance between the charges", "The nature of the medium between the charges", "The units of charge"],
+        "answer": "The nature of the medium between the charges",
+        "explanation": "k = 1/(4πε), where ε is the permittivity of the medium. For vacuum/air, ε = ε₀."
+    },
+    {
+        "question": "Q55. If 5 A of current flows through a wire for 2 minutes, the total charge that passes through any cross-section is:",
+        "options": ["10 C", "150 C", "600 C", "2.5 C"],
+        "answer": "600 C",
+        "explanation": "Charge Q = Current I × Time t. Time t = 2 minutes = 2 × 60 seconds = 120 s. Q = 5 A × 120 s = 600 C."
+    },
+    {
+        "question": "Q56. The resistivity of semiconductors:",
+        "options": ["Increases with temperature", "Decreases with temperature", "Is independent of temperature", "Is zero"],
+        "answer": "Decreases with temperature",
+        "explanation": "In semiconductors, increasing temperature generates more free charge carriers (electrons and holes), which decreases resistivity (increases conductivity)."
+    },
+    {
+        "question": "Q57. Two resistors R1 and R2 are connected in parallel. If R1 > R2, the equivalent resistance Req is:",
+        "options": ["Req > R1", "Req < R2", "R2 < Req < R1", "Req = (R1+R2)/2"],
+        "answer": "Req < R2",
+        "explanation": "The equivalent resistance in a parallel combination is always less than the smallest individual resistance."
+    },
+    {
+        "question": "Q58. A dielectric material is inserted between the plates of an isolated parallel plate capacitor (charge Q remains constant). The potential difference between the plates:",
+        "options": ["Increases", "Decreases", "Remains the same", "Becomes zero"],
+        "answer": "Decreases",
+        "explanation": "For an isolated capacitor, Q is constant. Inserting a dielectric increases C (C' = KC). Since V = Q/C, the new potential V' = Q/C' = Q/(KC) = (1/K)(Q/C) = V/K. As K > 1, the potential difference decreases."
+    },
+    {
+        "question": "Q59. What is the net charge on a capacitor?",
+        "options": ["+Q", "-Q", "2Q", "Zero"],
+        "answer": "Zero",
+        "explanation": "A capacitor stores equal amounts of positive (+Q) and negative (-Q) charge on its two plates, making the net charge zero."
+    },
+    {
+        "question": "Q60. A material which offers very high resistance to the flow of electric current is called:",
+        "options": ["Conductor", "Insulator", "Semiconductor", "Superconductor"],
+        "answer": "Insulator",
+        "explanation": "Insulators have very high resistivity and thus offer high resistance to current flow."
+    },
+    {
+        "question": "Q61. The force per unit charge is known as:",
+        "options": ["Electric current", "Electric potential", "Electric field", "Electric flux"],
+        "answer": "Electric field",
+        "explanation": "Electric field strength (E) is defined as the electrostatic force (F) per unit test charge (q₀), E = F/q₀."
+    },
+    {
+        "question": "Q62. Dimension of electric potential is:",
+        "options": ["[MLT⁻³A⁻¹]", "[ML²T⁻³A⁻¹]", "[ML²T⁻²A⁻¹]", "[ML²T⁻³A⁻²]"],
+        "answer": "[ML²T⁻³A⁻¹]",
+        "explanation": "Potential V = Work/Charge = [ML²T⁻²] / [AT] = [ML²T⁻³A⁻¹]."
+    },
+    {
+        "question": "Q63. Kirchhoff's first law (Junction Rule) is based on the conservation of:",
+        "options": ["Energy", "Momentum", "Charge", "Mass"],
+        "answer": "Charge",
+        "explanation": "The junction rule states that the sum of currents entering a junction equals the sum of currents leaving it, which reflects the conservation of charge."
+    },
+    {
+        "question": "Q64. A 4 Ω resistor and a 6 Ω resistor are connected in parallel. This combination is connected in series with a 7 Ω resistor. The equivalent resistance of the circuit is:",
+        "options": ["17 Ω", "9.4 Ω", "2.4 Ω", "10 Ω"],
+        "answer": "9.4 Ω",
+        "explanation": "Parallel combination: 1/Rp = 1/4 + 1/6 = (3+2)/12 = 5/12 => Rp = 12/5 = 2.4 Ω. Series combination: Req = Rp + 7 Ω = 2.4 Ω + 7 Ω = 9.4 Ω."
+    },
+    {
+        "question": "Q65. Capacitance of a parallel plate capacitor does NOT depend on:",
+        "options": ["Area of the plates", "Distance between the plates", "Medium between the plates", "Charge on the plates"],
+        "answer": "Charge on the plates",
+        "explanation": "Capacitance (C = εA/d or C = Kε₀A/d) depends on the physical dimensions and the dielectric material, not on the charge stored or the potential difference applied (C = Q/V is the definition, not dependency)."
+    },
+    {
+        "question": "Q66. The unit Volt/meter is equivalent to:",
+        "options": ["Newton/Coulomb", "Joule/Coulomb", "Ampere/Ohm", "Farad/meter"],
+        "answer": "Newton/Coulomb",
+        "explanation": "Electric field (E) has units of N/C. Since E = -dV/dr, its unit is also V/m. Thus, V/m = N/C."
+    },
+    {
+        "question": "Q67. If the charge on each of two point charges is doubled and their separation is also doubled, the force between them:",
+        "options": ["Remains unchanged", "Is doubled", "Is halved", "Becomes four times"],
+        "answer": "Remains unchanged",
+        "explanation": "F = k(q1q2)/r². New force F' = k(2q1)(2q2)/(2r)² = k(4 q1q2)/(4 r²) = k(q1q2)/r² = F."
+    },
+    {
+        "question": "Q68. The electric potential inside a charged hollow conducting sphere is:",
+        "options": ["Zero", "Constant and same as on the surface", "Varies inversely with distance from the center", "Varies directly with distance from the center"],
+        "answer": "Constant and same as on the surface",
+        "explanation": "The electric field inside a hollow conductor is zero. Since E = -dV/dr, zero field implies that the potential (V) is constant inside and equal to the potential on the surface."
+    },
+    {
+        "question": "Q69. The SI unit of conductance is:",
+        "options": ["Ohm (Ω)", "Ohm-meter (Ω·m)", "Siemens (S) or mho", "Ampere (A)"],
+        "answer": "Siemens (S) or mho",
+        "explanation": "Conductance (G = 1/R) is measured in Siemens (S), formerly called mho (ohm spelled backwards)."
+    },
+    {
+        "question": "Q70. Three capacitors of capacitance 3 μF each are connected in series. The equivalent capacitance is:",
+        "options": ["9 μF", "3 μF", "1 μF", "1/3 μF"],
+        "answer": "1 μF",
+        "explanation": "For identical capacitors C in series, Ceq = C/n. Here, Ceq = 3 μF / 3 = 1 μF."
+    },
+    {
+        "question": "Q71. Which device is used to measure potential difference between two points in a circuit?",
+        "options": ["Ammeter", "Galvanometer", "Voltmeter", "Potentiometer"],
+        "answer": "Voltmeter",
+        "explanation": "A voltmeter is designed to measure potential difference (voltage) and is connected in parallel across the points."
+    },
+    {
+        "question": "Q72. The value of elementary charge 'e' is approximately:",
+        "options": ["1.6 x 10⁻¹⁹ C", "9.1 x 10⁻³¹ C", "6.02 x 10²³ C", "1 C"],
+        "answer": "1.6 x 10⁻¹⁹ C",
+        "explanation": "The elementary charge (charge of a proton or magnitude of charge of an electron) is e ≈ 1.602 x 10⁻¹⁹ Coulombs."
+    },
+    {
+        "question": "Q73. Coulomb's force between two charges is a:",
+        "options": ["Nuclear force", "Weak force", "Central force", "Non-central force"],
+        "answer": "Central force",
+        "explanation": "The electrostatic force acts along the line joining the centers of the two charges, making it a central force."
+    },
+    {
+        "question": "Q74. Electric field lines are:",
+        "options": ["Always straight lines", "Always closed loops", "Imaginary lines representing the direction of force on a positive test charge", "Real paths followed by electrons"],
+        "answer": "Imaginary lines representing the direction of force on a positive test charge",
+        "explanation": "Electric field lines are a visual tool used to map the electric field. The tangent at any point gives the direction of the field (and the force on a +ve charge)."
+    },
+    {
+        "question": "Q75. One Volt is equivalent to:",
+        "options": ["One Joule per Coulomb", "One Coulomb per Joule", "One Ampere per Ohm", "One Ohm per Ampere"],
+        "answer": "One Joule per Coulomb",
+        "explanation": "Potential difference V is defined as work done W per unit charge q (V = W/q). So, 1 Volt = 1 Joule / 1 Coulomb."
+    },
+    {
+        "question": "Q76. Unit of electric current density (J = I/A) is:",
+        "options": ["A/m", "A/m²", "C/m", "A·m"],
+        "answer": "A/m²",
+        "explanation": "Current density is current per unit cross-sectional area, so its unit is Ampere per square meter (A/m²)."
+    },
+    {
+        "question": "Q77. The reciprocal of resistivity is called:",
+        "options": ["Resistance", "Conductance", "Conductivity", "Capacitance"],
+        "answer": "Conductivity",
+        "explanation": "Conductivity (σ) is the inverse of resistivity (ρ): σ = 1/ρ."
+    },
+    {
+        "question": "Q78. In a series circuit containing resistors, the current is:",
+        "options": ["Different through each resistor", "Same through all resistors", "Highest in the largest resistor", "Highest in the smallest resistor"],
+        "answer": "Same through all resistors",
+        "explanation": "Components in series form a single path for the current, so the current is the same through each component."
+    },
+    {
+        "question": "Q79. The capacitance of a parallel plate capacitor increases if:",
+        "options": ["Distance between plates increases", "Area of plates decreases", "A dielectric material is inserted between the plates", "Potential difference increases"],
+        "answer": "A dielectric material is inserted between the plates",
+        "explanation": "Capacitance C = Kε₀A/d. Inserting a dielectric (K>1) increases C. Increasing d decreases C. Decreasing A decreases C. Changing V changes Q, but C remains constant (for a given capacitor)."
+    },
+    {
+        "question": "Q80. Three capacitors 2 F, 3 F, and 6 F are connected in parallel. The equivalent capacitance is:",
+        "options": ["1 F", "11 F", "1/11 F", "6 F"],
+        "answer": "11 F",
+        "explanation": "In parallel, Ceq = C1 + C2 + C3 = 2 F + 3 F + 6 F = 11 F."
+    },
+    {
+        "question": "Q81. Which of the following materials has negative temperature coefficient of resistance?",
+        "options": ["Copper", "Aluminum", "Carbon (Semiconductor)", "Tungsten"],
+        "answer": "Carbon (Semiconductor)",
+        "explanation": "Semiconductors like carbon, silicon, and germanium typically have negative temperature coefficients, meaning their resistance decreases as temperature increases."
+    },
+    {
+        "question": "Q82. The net electric flux through any closed surface enclosing a net charge Q is given by:",
+        "options": ["Q/ε₀", "ε₀Q", "Zero", "Q/A"],
+        "answer": "Q/ε₀",
+        "explanation": "This is Gauss's Law in electrostatics, relating the total electric flux (Φ) through a closed surface to the net charge (Q_enclosed) inside: Φ = Q_enclosed / ε₀."
+    },
+    {
+        "question": "Q83. Charging a body by bringing a charged body near it without touching is called:",
+        "options": ["Charging by friction", "Charging by conduction", "Charging by induction", "Charging by polarization"],
+        "answer": "Charging by induction",
+        "explanation": "Induction involves rearranging charges within a neutral object using a nearby charged object, followed by grounding or separation to leave a net charge."
+    },
+    {
+        "question": "Q84. The energy stored per unit volume in an electric field E is:",
+        "options": ["½ ε₀ E", "ε₀ E²", "½ ε₀ E²", "E²/ (2ε₀)"],
+        "answer": "½ ε₀ E²",
+        "explanation": "The energy density (energy per unit volume) stored in an electric field in vacuum or air is given by u = ½ ε₀ E²."
+    },
+    {
+        "question": "Q85. A current of 0.5 A flows through a resistor when connected to a 3 V battery. The resistance of the resistor is:",
+        "options": ["1.5 Ω", "0.167 Ω", "6 Ω", "3.5 Ω"],
+        "answer": "6 Ω",
+        "explanation": "Using Ohm's Law, R = V/I = 3 V / 0.5 A = 6 Ω."
+    },
+    {
+        "question": "Q86. If n identical resistors, each of resistance R, are connected in parallel, the equivalent resistance is:",
+        "options": ["nR", "R/n", "R", "n²/R"],
+        "answer": "R/n",
+        "explanation": "1/Req = 1/R + 1/R + ... (n times) = n/R. So, Req = R/n."
+    },
+    {
+        "question": "Q87. Dielectric constant (K) of a material is defined as the ratio of:",
+        "options": ["Capacitance with dielectric to capacitance without dielectric", "Permittivity of medium to permittivity of free space", "Force in vacuum to force in medium between same charges", "All of the above"],
+        "answer": "All of the above",
+        "explanation": "K = C_medium / C_vacuum = ε / ε₀ = F_vacuum / F_medium. All these definitions are equivalent for the dielectric constant (relative permittivity)."
+    },
+    {
+        "question": "Q88. 1 Farad is equal to:",
+        "options": ["1 Coulomb / Volt", "1 Volt / Coulomb", "1 Joule / Coulomb", "1 Coulomb / Joule"],
+        "answer": "1 Coulomb / Volt",
+        "explanation": "From the definition of capacitance C = Q/V, 1 Farad = 1 Coulomb / 1 Volt."
+    },
+    {
+        "question": "Q89. Electric potential is a:",
+        "options": ["Scalar quantity", "Vector quantity", "Neither scalar nor vector", "Tensor quantity"],
+        "answer": "Scalar quantity",
+        "explanation": "Electric potential represents energy per unit charge and has magnitude but no direction associated with it, making it a scalar."
+    },
+    {
+        "question": "Q90. The resistance of an ideal ammeter should be:",
+        "options": ["Infinite", "Very high", "Zero", "Equal to circuit resistance"],
+        "answer": "Zero",
+        "explanation": "An ideal ammeter is connected in series and should not affect the current it measures, hence it should have zero resistance."
+    },
+    {
+        "question": "Q91. The resistance of an ideal voltmeter should be:",
+        "options": ["Zero", "Very low", "Infinite", "Equal to circuit resistance"],
+        "answer": "Infinite",
+        "explanation": "An ideal voltmeter is connected in parallel and should draw no current from the circuit, hence it should have infinite resistance."
+    },
+    {
+        "question": "Q92. Power dissipated in a resistor is given by P = I²R. If the current is doubled, the power dissipated becomes:",
+        "options": ["Half", "Double", "Four times", "Remains same"],
+        "answer": "Four times",
+        "explanation": "P ∝ I². If current I becomes 2I, then P' ∝ (2I)² = 4I². The power becomes four times."
+    },
+    {
+        "question": "Q93. Unit of resistivity is Ohm-meter (Ω·m). Unit of conductivity is:",
+        "options": ["Ohm/meter (Ω/m)", "Siemens/meter (S/m)", "Ohm-meter² (Ω·m²)", "Siemens-meter (S·m)"],
+        "answer": "Siemens/meter (S/m)",
+        "explanation": "Conductivity σ = 1/ρ. So unit is 1/(Ω·m) = (1/Ω) * (1/m) = S/m."
+    },
+    {
+        "question": "Q94. A capacitor blocks:",
+        "options": ["Alternating current (AC)", "Direct current (DC)", "Both AC and DC", "Neither AC nor DC"],
+        "answer": "Direct current (DC)",
+        "explanation": "In a DC circuit, once the capacitor is fully charged, the flow of current stops because the dielectric between the plates is an insulator. It allows AC to pass (offers capacitive reactance)."
+    },
+    {
+        "question": "Q95. If n identical capacitors, each of capacitance C, are connected in parallel, the equivalent capacitance is:",
+        "options": ["nC", "C/n", "C", "n²/C"],
+        "answer": "nC",
+        "explanation": "Ceq = C + C + ... (n times) = nC."
+    },
+    {
+        "question": "Q96. The direction of electric force on a negative charge placed in an electric field E is:",
+        "options": ["In the direction of E", "Opposite to the direction of E", "Perpendicular to E", "Zero"],
+        "answer": "Opposite to the direction of E",
+        "explanation": "The force F on a charge q in field E is F = qE. If q is negative, the force vector F points in the opposite direction to the field vector E."
+    },
+    {
+        "question": "Q97. Which quantity is conserved when resistors are connected in parallel?",
+        "options": ["Voltage across each resistor", "Current through each resistor", "Total resistance", "Total power"],
+        "answer": "Voltage across each resistor",
+        "explanation": "In a parallel connection, all components are connected across the same two points, so the potential difference (voltage) across each is the same."
+    },
+    {
+        "question": "Q98. How many electrons constitute a charge of 1 Coulomb?",
+        "options": ["1.6 x 10¹⁹", "6.25 x 10¹⁸", "1", "9.1 x 10³¹"],
+        "answer": "6.25 x 10¹⁸",
+        "explanation": "Charge Q = ne. Number of electrons n = Q/e = 1 C / (1.602 x 10⁻¹⁹ C) ≈ 6.24 x 10¹⁸ electrons."
+    },
+    {
+        "question": "Q99. The purpose of a dielectric in a capacitor is to:",
+        "options": ["Decrease capacitance", "Increase capacitance", "Conduct charge between plates", "Decrease potential difference only"],
+        "answer": "Increase capacitance",
+        "explanation": "Inserting a dielectric material between the plates increases the capacitance compared to having vacuum or air, allowing more charge storage for the same voltage."
+    },
+    {
+        "question": "Q100. Ohm's law relates:",
+        "options": ["Charge and Current", "Current and Potential Difference", "Potential Difference and Resistance", "Current, Potential Difference, and Resistance"],
+        "answer": "Current, Potential Difference, and Resistance",
+        "explanation": "Ohm's law (V=IR) provides the fundamental relationship between voltage (potential difference), current, and resistance in many electrical circuits."
+    },
+    {
+        "question": "Q101. If the temperature of a metallic conductor increases, its conductivity:",
+        "options": ["Increases", "Decreases", "Remains the same", "First increases then decreases"],
+        "answer": "Decreases",
+        "explanation": "For metals, resistance increases with temperature (positive temperature coefficient). Since conductivity is the reciprocal of resistivity (related to resistance), conductivity decreases as temperature increases."
+    },
+    {
+        "question": "Q102. A 2μF and a 4μF capacitor are connected in series. A potential difference of 90V is applied across the combination. The potential difference across the 2μF capacitor is:",
+        "options": ["30V", "45V", "60V", "90V"],
+        "answer": "60V",
+        "explanation": "In series, charge Q is same. 1/Ceq = 1/2 + 1/4 = 3/4 => Ceq = 4/3 μF. Total charge Q = Ceq * V = (4/3 μF) * 90V = 120 μC. Voltage across 2μF capacitor V1 = Q / C1 = 120 μC / 2 μF = 60V."
+    },
+    {
+        "question": "Q103. Electric field inside a charged conductor is always:",
+        "options": ["Zero", "Constant but non-zero", "Varies with distance", "Infinite"],
+        "answer": "Zero",
+        "explanation": "In electrostatic equilibrium, the net electric field inside the material of a conductor must be zero. Any field would cause charges to move until the field is cancelled out."
+    },
+    {
+        "question": "Q104. What happens to the force between two charges if the medium between them is replaced by water (dielectric constant K ≈ 80)?",
+        "options": ["Increases by 80 times", "Decreases by 80 times", "Remains the same", "Becomes zero"],
+        "answer": "Decreases by 80 times",
+        "explanation": "Force in a medium F_medium = F_vacuum / K. Since K=80 for water, the force decreases by a factor of 80."
+    },
+    {
+        "question": "Q105. The specific resistance of a wire depends upon its:",
+        "options": ["Length", "Cross-sectional area", "Mass", "Material"],
+        "answer": "Material",
+        "explanation": "Specific resistance, or resistivity (ρ), is an intrinsic property of the material the wire is made of (and temperature), not its geometric dimensions."
+    },
+    {
+        "question": "Q106. A charge Q is placed at the center of a cube. The electric flux through one face of the cube is:",
+        "options": ["Q/ε₀", "Q/(2ε₀)", "Q/(4ε₀)", "Q/(6ε₀)"],
+        "answer": "Q/(6ε₀)",
+        "explanation": "By Gauss's law, total flux through the closed cube is Q/ε₀. Since the charge is at the center and the cube has 6 identical faces, the flux through one face is (1/6) of the total flux, i.e., Q/(6ε₀)."
+    },
+    {
+        "question": "Q107. Kirchhoff's second law (Loop Rule) is based on the conservation of:",
+        "options": ["Charge", "Energy", "Momentum", "Mass"],
+        "answer": "Energy",
+        "explanation": "The loop rule states that the algebraic sum of changes in potential around any closed loop in a circuit must be zero, which reflects the conservation of energy (potential is energy per unit charge)."
+    },
+    {
+        "question": "Q108. A parallel plate capacitor is charged and then the battery is disconnected. If the plates are pulled further apart, the potential difference between the plates:",
+        "options": ["Increases", "Decreases", "Remains the same", "Becomes zero"],
+        "answer": "Increases",
+        "explanation": "Battery disconnected means charge Q remains constant. Pulling plates apart increases distance d, which decreases capacitance C (C = ε₀A/d). Since V = Q/C, as C decreases, V increases."
+    },
+    {
+        "question": "Q109. Which of the following is a vector quantity?",
+        "options": ["Electric Potential", "Electric Charge", "Electric Field Intensity", "Resistance"],
+        "answer": "Electric Field Intensity",
+        "explanation": "Electric field intensity has both magnitude and direction, making it a vector. Potential, charge, and resistance are scalar quantities."
+    },
+    {
+        "question": "Q110. The equivalent resistance of 'n' identical resistors connected in series is R_s and in parallel is R_p. The ratio R_s / R_p is:",
+        "options": ["1", "n", "1/n²", "n²"],
+        "answer": "n²",
+        "explanation": "Let each resistor be R. In series, R_s = nR. In parallel, R_p = R/n. The ratio R_s / R_p = (nR) / (R/n) = n²."
+    },
+    {
+        "question": "Q111. If a dielectric slab of thickness 't' and dielectric constant K is inserted between the plates of a parallel plate capacitor of plate separation 'd' (t < d), the capacitance becomes:",
+        "options": ["ε₀A / (d - t)", "ε₀A / (d + t)", "ε₀A / (d - t + t/K)", "ε₀A / (d + t - t/K)"],
+        "answer": "ε₀A / (d - t + t/K)",
+        "explanation": "The effective air separation becomes (d-t) and the equivalent air thickness of the dielectric is t/K. The total effective separation is (d - t + t/K)."
+    },
+    {
+        "question": "Q112. The work done to move a charge of 1μC from point A (potential 10V) to point B (potential 50V) is:",
+        "options": ["40 μJ", "-40 μJ", "60 μJ", "500 μJ"],
+        "answer": "40 μJ",
+        "explanation": "Work done W = q * (V_B - V_A) = 1 μC * (50V - 10V) = 1 μC * 40V = 40 μJ."
+    },
+    {
+        "question": "Q113. The electric field lines due to an isolated positive point charge are:",
+        "options": ["Radially inward", "Radially outward", "Circular", "Parallel straight lines"],
+        "answer": "Radially outward",
+        "explanation": "Field lines originate from positive charges and extend outwards to infinity (or terminate on negative charges)."
+    },
+    {
+        "question": "Q114. Superconductors are materials that offer:",
+        "options": ["Very high resistance", "Zero resistance", "Negative resistance", "Variable resistance"],
+        "answer": "Zero resistance",
+        "explanation": "Superconductors exhibit zero electrical resistance below a certain critical temperature."
+    },
+    {
+        "question": "Q115. When three identical capacitors are connected in parallel, the equivalent capacitance is C_p. When connected in series, it is C_s. The ratio C_p / C_s is:",
+        "options": ["1", "3", "1/9", "9"],
+        "answer": "9",
+        "explanation": "Let each capacitor be C. In parallel, C_p = 3C. In series, C_s = C/3. Ratio C_p / C_s = (3C) / (C/3) = 9."
+    },
+    {
+        "question": "Q116. An electric dipole consists of two equal and opposite charges separated by a small distance. The net charge of an electric dipole is:",
+        "options": ["+q", "-q", "2q", "Zero"],
+        "answer": "Zero",
+        "explanation": "An electric dipole consists of charges +q and -q, so the net charge is +q + (-q) = 0."
+    },
+    {
+        "question": "Q117. The unit N/C (Newton per Coulomb) is the unit of:",
+        "options": ["Electric Flux", "Electric Potential", "Electric Field Intensity", "Electric Charge"],
+        "answer": "Electric Field Intensity",
+        "explanation": "Electric Field E = Force/Charge, so its unit is N/C. It is also V/m."
+    },
+    {
+        "question": "Q118. Resistivity of a material depends on:",
+        "options": ["Length of the conductor", "Area of cross-section", "Temperature and nature of the material", "Shape of the conductor"],
+        "answer": "Temperature and nature of the material",
+        "explanation": "Resistivity is an intrinsic property determined by the material's atomic structure and temperature."
+    },
+    {
+        "question": "Q119. A capacitor stores 0.24 C at 10 V. Its capacitance is:",
+        "options": ["0.024 F", "2.4 F", "24 F", "0.4 F"],
+        "answer": "0.024 F",
+        "explanation": "Capacitance C = Q/V = 0.24 C / 10 V = 0.024 F."
+    },
+    {
+        "question": "Q120. The flow of charge in a conductor constitutes an electric:",
+        "options": ["Field", "Flux", "Potential", "Current"],
+        "answer": "Current",
+        "explanation": "Electric current is defined as the rate of flow of electric charge."
+    },
+    {
+        "question": "Q121. If the distance between two parallel plates of a capacitor is halved, its capacitance becomes:",
+        "options": ["Half", "Double", "One-fourth", "Four times"],
+        "answer": "Double",
+        "explanation": "C = ε₀A/d. If d becomes d/2, C' = ε₀A/(d/2) = 2(ε₀A/d) = 2C."
+    },
+    {
+        "question": "Q122. A wire has resistance R. If it is cut into two equal parts, the resistance of each part will be:",
+        "options": ["R", "2R", "R/2", "R/4"],
+        "answer": "R/2",
+        "explanation": "Resistance R = ρL/A. If length is halved (L/2), the resistance of each part becomes ρ(L/2)/A = (ρL/A)/2 = R/2."
+    },
+    {
+        "question": "Q123. The force experienced by a charge q moving with velocity v in a uniform electric field E is:",
+        "options": ["qvB", "qE", "Bqv sinθ", "Zero"],
+        "answer": "qE",
+        "explanation": "The electric force on a charge q in an electric field E is given by F = qE, regardless of its velocity (magnetic force depends on velocity)."
+    },
+    {
+        "question": "Q124. Equipotential surfaces are always _________ to the electric field lines.",
+        "options": ["Parallel", "Perpendicular", "At 45 degrees", "Coincident"],
+        "answer": "Perpendicular",
+        "explanation": "No work is done in moving a charge along an equipotential surface (ΔV=0). Since W = F·d = qE·d, if W=0, the force (and hence E) must be perpendicular to the displacement (d) along the surface."
+    },
+    {
+        "question": "Q125. The energy stored in a combination of three identical capacitors connected in series is U. If they are connected in parallel across the same voltage source, the energy stored will be:",
+        "options": ["U/9", "U/3", "3U", "9U"],
+        "answer": "9U",
+        "explanation": "Let each be C. Series: C_s = C/3. Energy U_s = ½ C_s V² = ½ (C/3) V². Parallel: C_p = 3C. Energy U_p = ½ C_p V² = ½ (3C) V². Ratio U_p / U_s = (½ * 3C * V²) / (½ * (C/3) * V²) = 3 / (1/3) = 9. So, U_p = 9U_s = 9U."
+    },
+    {
+        "question": "Q126. The property which differentiates charge from mass is:",
+        "options": ["Charge is quantized", "Charge is conserved", "Charge can be positive, negative or zero, while mass is always positive", "Charge is additive"],
+        "answer": "Charge can be positive, negative or zero, while mass is always positive",
+        "explanation": "While charge and mass share properties like quantization (though mass quantization is not usually discussed at this level) and conservation (in classical terms), the key difference is that charge exists in two polarities (positive and negative) and can be zero, whereas mass is only known to be positive."
+    },
+    {
+        "question": "Q127. The relation between electric current (I), electron drift velocity (vd), charge carrier density (n), elementary charge (e), and cross-sectional area (A) is:",
+        "options": ["I = neA/vd", "I = nvdA/e", "I = neAvd", "I = eAvd/n"],
+        "answer": "I = neAvd",
+        "explanation": "This fundamental relation connects the macroscopic current (I) to the microscopic motion (vd) of charge carriers (n, e) within the conductor's geometry (A)."
+    },
+    {
+        "question": "Q128. Mobility (μ) of a charge carrier is defined as the ratio of:",
+        "options": ["Drift velocity to electric field (vd/E)", "Electric field to drift velocity (E/vd)", "Current to electric field (I/E)", "Drift velocity to current (vd/I)"],
+        "answer": "Drift velocity to electric field (vd/E)",
+        "explanation": "Mobility measures how easily a charge carrier moves under the influence of an electric field. μ = vd / E."
+    },
+    {
+        "question": "Q129. The SI unit of mobility is:",
+        "options": ["m²/Vs", "Vs/m²", "m/Vs", "V/ms"],
+        "answer": "m²/Vs",
+        "explanation": "Unit of vd is m/s and unit of E is V/m. So, unit of μ = (m/s) / (V/m) = m²/Vs."
+    },
+    {
+        "question": "Q130. For ohmic conductors, the V-I graph is:",
+        "options": ["A curve bending towards V-axis", "A curve bending towards I-axis", "A straight line passing through the origin", "A straight line not passing through the origin"],
+        "answer": "A straight line passing through the origin",
+        "explanation": "Ohm's law states V ∝ I (or V=IR), which represents a linear relationship passing through the origin (0V, 0A)."
+    },
+    {
+        "question": "Q131. An example of a non-ohmic device is:",
+        "options": ["Copper wire", "Carbon resistor", "Semiconductor diode", "Aluminum wire"],
+        "answer": "Semiconductor diode",
+        "explanation": "Semiconductor diodes do not follow Ohm's law; their V-I characteristic is non-linear."
+    },
+    {
+        "question": "Q132. The color code for a 47 kΩ resistor with 10% tolerance would be:",
+        "options": ["Yellow, Violet, Orange, Silver", "Yellow, Violet, Red, Gold", "Orange, Yellow, Violet, Silver", "Yellow, Violet, Yellow, Silver"],
+        "answer": "Yellow, Violet, Orange, Silver",
+        "explanation": "Yellow=4, Violet=7, Orange=Multiplier(10³ or k), Silver=Tolerance(10%). So, 47 x 10³ Ω = 47 kΩ, ±10%."
+    },
+    {
+        "question": "Q133. In a balanced Wheatstone bridge, if the positions of the galvanometer and the battery are interchanged, the balance condition:",
+        "options": ["Is disturbed", "Remains unchanged", "Becomes inverted", "Depends on resistor values"],
+        "answer": "Remains unchanged",
+        "explanation": "The condition for balance (P/Q = R/S) remains the same even if the galvanometer and battery arms are swapped. This is a property of bridge circuits."
+    },
+    {
+        "question": "Q134. The potential energy of a system of two charges q1 and q2 separated by distance r in vacuum is:",
+        "options": ["k q1 q2 / r²", "k (q1 + q2) / r", "k q1 q2 / r", "k |q1 q2| / r"],
+        "answer": "k q1 q2 / r",
+        "explanation": "The electrostatic potential energy is U = k q1 q2 / r, where k = 1/(4πε₀). It can be positive (like charges) or negative (unlike charges)."
+    },
+    {
+        "question": "Q135. If an electron moves from a region of lower potential to a region of higher potential, its potential energy:",
+        "options": ["Increases", "Decreases", "Remains unchanged", "Becomes zero"],
+        "answer": "Decreases",
+        "explanation": "Potential energy U = qV. For an electron, charge q is negative (-e). If V increases (moves to higher potential), U = (-e) * (higher V) becomes more negative, meaning the potential energy decreases."
+    },
+    {
+        "question": "Q136. The electric field due to an infinitely long straight uniformly charged wire at a distance r is proportional to:",
+        "options": ["r", "1/r", "1/r²", "r²"],
+        "answer": "1/r",
+        "explanation": "Using Gauss's Law, the electric field E for a long charged wire varies as E ∝ λ/r, where λ is the linear charge density."
+    },
+    {
+        "question": "Q137. Gauss's law is particularly useful for calculating the electric field when the charge distribution has:",
+        "options": ["High complexity", "No symmetry", "High symmetry (spherical, cylindrical, planar)", "Only point charges"],
+        "answer": "High symmetry (spherical, cylindrical, planar)",
+        "explanation": "Gauss's law simplifies field calculations significantly for symmetric charge distributions where a suitable Gaussian surface can be chosen."
+    },
+    {
+        "question": "Q138. The capacitance of a spherical capacitor consisting of two concentric spheres of radii 'a' and 'b' (b>a) is proportional to:",
+        "options": ["b-a", "b+a", "ab/(b-a)", "(b-a)/ab"],
+        "answer": "ab/(b-a)",
+        "explanation": "The capacitance of a spherical capacitor is given by C = 4πε₀ [ab / (b-a)]."
+    },
+    {
+        "question": "Q139. When a dielectric slab is inserted between the plates of a parallel plate capacitor connected to a battery, the energy stored in the capacitor:",
+        "options": ["Decreases", "Increases", "Remains the same", "Becomes zero"],
+        "answer": "Increases",
+        "explanation": "Battery connected means V is constant. Inserting dielectric increases C (C'=KC). Energy U' = ½ C' V² = ½ (KC) V² = K (½ C V²) = KU. Since K>1, energy stored increases."
+    },
+    {
+        "question": "Q140. When a dielectric slab is inserted between the plates of an isolated charged parallel plate capacitor, the energy stored in the capacitor:",
+        "options": ["Decreases", "Increases", "Remains the same", "Becomes zero"],
+        "answer": "Decreases",
+        "explanation": "Isolated means charge Q is constant. Inserting dielectric increases C (C'=KC). Energy U' = ½ Q²/C' = ½ Q²/(KC) = (1/K) (½ Q²/C) = U/K. Since K>1, energy stored decreases. (Work is done by the field pulling the dielectric in)."
+    },
+    {
+        "question": "Q141. The temperature coefficient of resistance (α) is positive for:",
+        "options": ["Semiconductors", "Insulators", "Metals", "Electrolytes"],
+        "answer": "Metals",
+        "explanation": "For metals, resistance generally increases with temperature, meaning α is positive."
+    },
+    {
+        "question": "Q142. The temperature coefficient of resistance (α) is negative for:",
+        "options": ["Copper", "Aluminum", "Silver", "Silicon (Semiconductor)"],
+        "answer": "Silicon (Semiconductor)",
+        "explanation": "For semiconductors, resistance generally decreases with temperature, meaning α is negative."
+    },
+    {
+        "question": "Q143. Which of the following relations for power (P) dissipation in a resistor (R) carrying current (I) with voltage (V) across it is incorrect?",
+        "options": ["P = VI", "P = I²R", "P = V²/R", "P = V/I"],
+        "answer": "P = V/I",
+        "explanation": "Power dissipated is given by P = VI. Using Ohm's law (V=IR), we also get P = I(IR) = I²R and P = V(V/R) = V²/R. P = V/I is incorrect (V/I is resistance)."
+    },
+    {
+        "question": "Q144. The conservation of charge implies that:",
+        "options": ["Charge cannot be created", "Charge cannot be destroyed", "The net charge of an isolated system remains constant", "All of the above"],
+        "answer": "All of the above",
+        "explanation": "Conservation of charge is a fundamental principle stating that charge is neither created nor destroyed, only transferred, so the total charge in an isolated system is constant."
+    },
+    {
+        "question": "Q145. A charge +q is placed at the origin. The electric potential at a point (x, 0) is V. The potential at a point (0, x) is:",
+        "options": ["V", "-V", "V/x", "Vx"],
+        "answer": "V",
+        "explanation": "Potential due to a point charge depends only on the distance r from the charge (V = kq/r). The distance from (0,0) to (x,0) is x. The distance from (0,0) to (0,x) is also x. Hence, the potential is the same, V."
+    },
+    {
+        "question": "Q146. If five identical resistors are first connected in series and then in parallel to the same voltage source, the ratio of power dissipated in the parallel combination to the series combination is:",
+        "options": ["1:5", "5:1", "1:25", "25:1"],
+        "answer": "25:1",
+        "explanation": "Let each resistance be R. R_series = 5R. R_parallel = R/5. Power P = V²/Req. P_parallel = V²/(R/5) = 5V²/R. P_series = V²/(5R). Ratio P_parallel / P_series = (5V²/R) / (V²/5R) = 5 * 5 = 25. Ratio is 25:1."
+    },
+    {
+        "question": "Q147. A parallel plate capacitor is charged. The electric field between the plates is E. If the distance between the plates is doubled, the new electric field (assuming charge remains constant) will be:",
+        "options": ["E/2", "E", "2E", "E/4"],
+        "answer": "E",
+        "explanation": "For a parallel plate capacitor, the electric field between the plates E = σ/ε₀ = Q/(Aε₀). It depends on the surface charge density (Q/A), not the distance 'd', as long as the point is well between the plates and edge effects are ignored."
+    },
+    {
+        "question": "Q148. The dimensional formula for Capacitance is:",
+        "options": ["[M⁻¹L⁻²T⁴A²]", "[M¹L²T⁻³A⁻¹]", "[M⁻¹L⁻²T³A¹]", "[M¹L²T⁻⁴A⁻²]"],
+        "answer": "[M⁻¹L⁻²T⁴A²]",
+        "explanation": "C = Q/V. Q = [AT]. V = W/Q = [ML²T⁻²]/[AT] = [ML²T⁻³A⁻¹]. So C = [AT] / [ML²T⁻³A⁻¹] = [M⁻¹L⁻²T⁴A²]."
+    },
+    {
+        "question": "Q149. Conductance is the ease with which current flows. Its unit Siemens (S) is equivalent to:",
+        "options": ["Ohm⁻¹", "Volt/Ampere", "Ampere/Volt", "Both Ohm⁻¹ and Ampere/Volt"],
+        "answer": "Both Ohm⁻¹ and Ampere/Volt",
+        "explanation": "Conductance G = 1/R. Since R = V/I, G = I/V. The unit is 1/Ohm (Ohm⁻¹ or mho) or Ampere/Volt, which is named Siemens (S)."
+    },
+    {
+        "question": "Q150. Two capacitors C1 = 2F and C2 = 4F are connected in parallel. The equivalent capacitance Ceq is:",
+        "options": ["6 F", "2 F", "4/3 F", "3/4 F"],
+        "answer": "6 F",
+        "explanation": "For capacitors in parallel, the equivalent capacitance is the sum of individual capacitances: Ceq = C1 + C2 = 2F + 4F = 6F."
+    }
+]

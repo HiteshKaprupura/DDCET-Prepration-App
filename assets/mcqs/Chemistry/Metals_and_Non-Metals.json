@@ -1,0 +1,1157 @@
+[
+    {
+        "question": "Q1. Which property allows metals to be drawn into thin wires?",
+        "options": [
+            "Malleability",
+            "Ductility",
+            "Sonority",
+            "Lustre"
+        ],
+        "answer": "Ductility",
+        "explanation": "Ductility is the ability of a material to be drawn out into a thin wire under tension. Gold is the most ductile metal."
+    },
+    {
+        "question": "Q2. The property of metals by which they can be beaten into thin sheets is called:",
+        "options": [
+            "Conductivity",
+            "Sonority",
+            "Ductility",
+            "Malleability"
+        ],
+        "answer": "Malleability",
+        "explanation": "Malleability is the ability of a metal to deform under compressive stress, allowing it to be hammered or rolled into thin sheets. Gold and silver are highly malleable."
+    },
+    {
+        "question": "Q3. Which of the following is a non-metal that exists as a liquid at room temperature?",
+        "options": [
+            "Mercury",
+            "Bromine",
+            "Chlorine",
+            "Iodine"
+        ],
+        "answer": "Bromine",
+        "explanation": "Bromine (Br) is the only non-metal that is liquid at standard room temperature and pressure. Mercury (Hg) is a metal that is liquid at room temperature."
+    },
+    {
+        "question": "Q4. Which non-metal is essential for combustion and respiration?",
+        "options": [
+            "Nitrogen",
+            "Oxygen",
+            "Carbon",
+            "Sulfur"
+        ],
+        "answer": "Oxygen",
+        "explanation": "Oxygen is required for the process of combustion (burning) and is essential for aerobic respiration in most living organisms."
+    },
+    {
+        "question": "Q5. The shiny appearance of metals is known as:",
+        "options": [
+            "Hardness",
+            "Sonority",
+            "Lustre",
+            "Malleability"
+        ],
+        "answer": "Lustre",
+        "explanation": "Metals typically have a shiny surface when freshly cut or polished. This property is called metallic lustre."
+    },
+    {
+        "question": "Q6. Which non-metal is a good conductor of electricity?",
+        "options": [
+            "Sulfur",
+            "Phosphorus",
+            "Graphite (an allotrope of Carbon)",
+            "Silicon"
+        ],
+        "answer": "Graphite (an allotrope of Carbon)",
+        "explanation": "Most non-metals are poor conductors of electricity. Graphite is an exception due to the presence of delocalized electrons in its layered structure."
+    },
+    {
+        "question": "Q7. Metals produce a ringing sound when struck. This property is called:",
+        "options": [
+            "Ductility",
+            "Malleability",
+            "Lustre",
+            "Sonority"
+        ],
+        "answer": "Sonority",
+        "explanation": "Sonority is the property of metals that causes them to produce a ringing sound when hit."
+    },
+    {
+        "question": "Q8. Which of the following is generally NOT a physical property of non-metals?",
+        "options": [
+            "Poor conductors of heat and electricity",
+            "Low density",
+            "High melting and boiling points",
+            "Non-lustrous (dull appearance)"
+        ],
+        "answer": "High melting and boiling points",
+        "explanation": "Non-metals generally have low melting and boiling points compared to metals (exceptions exist, like diamond and graphite)."
+    },
+    {
+        "question": "Q9. Which metal is kept immersed in kerosene oil to prevent reaction with air and moisture?",
+        "options": [
+            "Iron",
+            "Copper",
+            "Sodium",
+            "Gold"
+        ],
+        "answer": "Sodium",
+        "explanation": "Sodium and Potassium are highly reactive alkali metals that react vigorously with oxygen and water in the air. They are stored under kerosene to prevent these reactions."
+    },
+    {
+        "question": "Q10. Metal oxides formed by the reaction of metals with oxygen are generally:",
+        "options": [
+            "Acidic in nature",
+            "Basic in nature",
+            "Neutral in nature",
+            "Gaseous"
+        ],
+        "answer": "Basic in nature",
+        "explanation": "Most metal oxides react with water to form bases (metal hydroxides) or react with acids to form salt and water, indicating their basic nature."
+    },
+    {
+        "question": "Q11. Which metal oxide shows both acidic and basic behaviour (amphoteric)?",
+        "options": [
+            "Sodium oxide (Na2O)",
+            "Magnesium oxide (MgO)",
+            "Aluminum oxide (Al2O3)",
+            "Calcium oxide (CaO)"
+        ],
+        "answer": "Aluminum oxide (Al2O3)",
+        "explanation": "Amphoteric oxides react with both acids and bases. Aluminum oxide (Al2O3) and Zinc oxide (ZnO) are common examples."
+    },
+    {
+        "question": "Q12. What happens when a basic metal oxide like Sodium Oxide (Na2O) dissolves in water?",
+        "options": [
+            "It forms an acid",
+            "It forms a base (alkali)",
+            "It forms a neutral salt",
+            "It releases hydrogen gas"
+        ],
+        "answer": "It forms a base (alkali)",
+        "explanation": "Soluble basic metal oxides (like Na2O, K2O, CaO) react with water to form metal hydroxides, which are bases (alkalis). Na2O(s) + H2O(l) -> 2NaOH(aq)."
+    },
+    {
+        "question": "Q13. Which metals react vigorously with cold water?",
+        "options": [
+            "Iron and Zinc",
+            "Copper and Silver",
+            "Sodium and Potassium",
+            "Aluminum and Lead"
+        ],
+        "answer": "Sodium and Potassium",
+        "explanation": "Alkali metals like Sodium (Na) and Potassium (K) are highly reactive and react explosively with cold water, producing metal hydroxide and hydrogen gas, releasing significant heat."
+    },
+    {
+        "question": "Q14. Which metal reacts with hot water but not cold water?",
+        "options": [
+            "Sodium",
+            "Calcium",
+            "Magnesium",
+            "Iron"
+        ],
+        "answer": "Magnesium",
+        "explanation": "Magnesium reacts slowly with cold water but reacts rapidly with hot water or steam to form magnesium hydroxide (or oxide with steam) and hydrogen gas."
+    },
+    {
+        "question": "Q15. Metals like Iron and Zinc react with which form of water?",
+        "options": [
+            "Cold water only",
+            "Hot water only",
+            "Steam only",
+            "Cold, hot water, and steam"
+        ],
+        "answer": "Steam only",
+        "explanation": "Less reactive metals like Iron, Zinc, and Aluminum do not react significantly with cold or hot water but react with steam at high temperatures to form the metal oxide and hydrogen gas."
+    },
+    {
+        "question": "Q16. Which metals generally do not react with water at all?",
+        "options": [
+            "Sodium, Potassium, Calcium",
+            "Magnesium, Aluminum, Zinc",
+            "Iron, Tin, Lead",
+            "Copper, Silver, Gold, Platinum"
+        ],
+        "answer": "Copper, Silver, Gold, Platinum",
+        "explanation": "Metals that are low in the reactivity series, such as Copper, Silver, Gold, and Platinum, do not react with water or steam under normal conditions."
+    },
+    {
+        "question": "Q17. What are the products when an active metal like Zinc reacts with dilute Hydrochloric acid (HCl)?",
+        "options": [
+            "Zinc chloride and Oxygen gas",
+            "Zinc oxide and Hydrogen gas",
+            "Zinc chloride and Hydrogen gas",
+            "Zinc hydroxide and Chlorine gas"
+        ],
+        "answer": "Zinc chloride and Hydrogen gas",
+        "explanation": "Metals above hydrogen in the reactivity series react with dilute acids (like HCl or H2SO4) to displace hydrogen, forming a metal salt and hydrogen gas. Zn(s) + 2HCl(aq) -> ZnCl2(aq) + H2(g)."
+    },
+    {
+        "question": "Q18. Which gas is produced when metals react with dilute acids?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Hydrogen",
+            "Nitrogen"
+        ],
+        "answer": "Hydrogen",
+        "explanation": "Active metals displace hydrogen from dilute non-oxidizing acids like HCl and H2SO4."
+    },
+    {
+        "question": "Q19. Why does Hydrogen gas generally not evolve when metals react with Nitric acid (HNO3)?",
+        "options": [
+            "Nitric acid is a weak acid",
+            "Nitric acid is a strong oxidizing agent",
+            "Nitric acid does not contain hydrogen",
+            "Metals do not react with nitric acid"
+        ],
+        "answer": "Nitric acid is a strong oxidizing agent",
+        "explanation": "Nitric acid oxidizes the hydrogen gas (H2) produced to water (H2O), while itself getting reduced to nitrogen oxides (like NO, NO2, N2O) or N2."
+    },
+    {
+        "question": "Q20. Which metals can react with very dilute Nitric acid to produce Hydrogen gas?",
+        "options": [
+            "Copper and Silver",
+            "Magnesium and Manganese",
+            "Gold and Platinum",
+            "Iron and Zinc"
+        ],
+        "answer": "Magnesium and Manganese",
+        "explanation": "Only very reactive metals like Magnesium (Mg) and Manganese (Mn) react with very dilute HNO3 (about 1%) to liberate H2 gas."
+    },
+    {
+        "question": "Q21. Aqua Regia is a mixture used to dissolve noble metals like Gold and Platinum. It consists of concentrated:",
+        "options": [
+            "HCl and H2SO4 (1:3 ratio)",
+            "HNO3 and H2SO4 (1:3 ratio)",
+            "HNO3 and HCl (1:3 ratio)",
+            "HNO3 and HCl (3:1 ratio)"
+        ],
+        "answer": "HNO3 and HCl (1:3 ratio)",
+        "explanation": "Aqua Regia is a highly corrosive, fuming yellow or red solution, made by mixing concentrated Nitric acid (HNO3) and concentrated Hydrochloric acid (HCl) in a volume ratio of 1:3."
+    },
+    {
+        "question": "Q22. The arrangement of metals in decreasing order of their reactivity is called:",
+        "options": [
+            "Periodic Table",
+            "Electrochemical Series",
+            "Reactivity Series (Activity Series)",
+            "Metal Alloy Chart"
+        ],
+        "answer": "Reactivity Series (Activity Series)",
+        "explanation": "The reactivity series lists metals based on their tendency to undergo chemical reactions, typically showing the most reactive at the top and the least reactive at the bottom."
+    },
+    {
+        "question": "Q23. In the reactivity series, metals above hydrogen:",
+        "options": [
+            "Can displace hydrogen from dilute acids",
+            "Cannot displace hydrogen from dilute acids",
+            "React with acids to form oxides",
+            "Are generally non-reactive"
+        ],
+        "answer": "Can displace hydrogen from dilute acids",
+        "explanation": "Metals more reactive than hydrogen (placed above H in the series) can displace H+ ions from dilute HCl or H2SO4 to form H2 gas."
+    },
+    {
+        "question": "Q24. Consider the reaction: CuSO4(aq) + Fe(s) -> FeSO4(aq) + Cu(s). This reaction occurs because:",
+        "options": [
+            "Copper is more reactive than Iron",
+            "Iron is more reactive than Copper",
+            "Both are equally reactive",
+            "Sulfur is displaced"
+        ],
+        "answer": "Iron is more reactive than Copper",
+        "explanation": "A more reactive metal can displace a less reactive metal from its salt solution. Iron is higher than Copper in the reactivity series, so it displaces Copper from Copper Sulfate solution."
+    },
+    {
+        "question": "Q25. Which of the following reactions will NOT occur?",
+        "options": [
+            "ZnSO4(aq) + Fe(s) -> FeSO4(aq) + Zn(s)",
+            "CuSO4(aq) + Zn(s) -> ZnSO4(aq) + Cu(s)",
+            "2AgNO3(aq) + Cu(s) -> Cu(NO3)2(aq) + 2Ag(s)",
+            "FeSO4(aq) + Zn(s) -> ZnSO4(aq) + Fe(s)"
+        ],
+        "answer": "ZnSO4(aq) + Fe(s) -> FeSO4(aq) + Zn(s)",
+        "explanation": "Iron (Fe) is less reactive than Zinc (Zn). Therefore, Iron cannot displace Zinc from Zinc Sulfate solution. The reactivity order involved is Zn > Fe > Cu > Ag."
+    },
+    {
+        "question": "Q26. How do metals typically react with non-metals?",
+        "options": [
+            "By sharing electrons (covalent bonding)",
+            "By transferring electrons (ionic bonding)",
+            "By forming metallic bonds",
+            "They generally do not react"
+        ],
+        "answer": "By transferring electrons (ionic bonding)",
+        "explanation": "Metals tend to lose electrons (form cations) and non-metals tend to gain electrons (form anions). This transfer of electrons leads to the formation of ionic bonds and ionic compounds."
+    },
+    {
+        "question": "Q27. When Sodium (Na) reacts with Chlorine (Cl), what happens to the electrons?",
+        "options": [
+            "Sodium gains an electron, Chlorine loses an electron",
+            "Both share electrons",
+            "Sodium loses an electron, Chlorine gains an electron",
+            "Both lose electrons"
+        ],
+        "answer": "Sodium loses an electron, Chlorine gains an electron",
+        "explanation": "Sodium (metal, group 1) readily loses its single valence electron to form Na+. Chlorine (non-metal, group 17) readily gains one electron to form Cl-. The electrostatic attraction forms NaCl."
+    },
+    {
+        "question": "Q28. Compounds formed by the transfer of electrons from a metal to a non-metal are called:",
+        "options": [
+            "Covalent compounds",
+            "Ionic compounds (Electrovalent compounds)",
+            "Metallic compounds",
+            "Coordinate compounds"
+        ],
+        "answer": "Ionic compounds (Electrovalent compounds)",
+        "explanation": "Ionic bonds are formed through the electrostatic attraction between positively charged ions (cations) and negatively charged ions (anions), resulting from electron transfer."
+    },
+    {
+        "question": "Q29. Which of the following is a typical property of ionic compounds?",
+        "options": [
+            "Low melting and boiling points",
+            "Generally soluble in organic solvents like kerosene",
+            "Exist as gases at room temperature",
+            "Conduct electricity in molten state or aqueous solution"
+        ],
+        "answer": "Conduct electricity in molten state or aqueous solution",
+        "explanation": "Ionic compounds have mobile ions when molten or dissolved in water, allowing them to conduct electricity. They typically have high melting/boiling points, are solids at room temp, and are soluble in water but not organic solvents."
+    },
+    {
+        "question": "Q30. Why do ionic compounds have high melting and boiling points?",
+        "options": [
+            "Weak forces between molecules",
+            "Strong electrostatic forces of attraction between ions",
+            "Presence of free electrons",
+            "Covalent bonding nature"
+        ],
+        "answer": "Strong electrostatic forces of attraction between ions",
+        "explanation": "A considerable amount of energy is required to overcome the strong forces of attraction between the positively and negatively charged ions in the crystal lattice of an ionic compound."
+    },
+    {
+        "question": "Q31. Why do ionic compounds generally dissolve in water but not in solvents like petrol or kerosene?",
+        "options": [
+            "Water is less dense",
+            "Petrol is flammable",
+            "Water is a polar solvent that can solvate ions, while petrol/kerosene are non-polar",
+            "Ionic compounds react with petrol/kerosene"
+        ],
+        "answer": "Water is a polar solvent that can solvate ions, while petrol/kerosene are non-polar",
+        "explanation": "Water molecules are polar and can surround the ions, weakening the electrostatic forces and dissolving the compound ('like dissolves like'). Non-polar solvents cannot effectively solvate the ions."
+    },
+    {
+        "question": "Q32. Do ionic compounds conduct electricity in the solid state?",
+        "options": [
+            "Yes, always",
+            "No, because ions are not free to move",
+            "Yes, because they contain charged ions",
+            "Only if they are heated"
+        ],
+        "answer": "No, because ions are not free to move",
+        "explanation": "In the solid state, ions are held in fixed positions within the crystal lattice and cannot move to carry an electric current."
+    },
+    {
+        "question": "Q33. The electronic configuration of Sodium (Na, Z=11) is 2,8,1. To achieve a stable octet, it will:",
+        "options": [
+            "Gain 7 electrons",
+            "Lose 1 electron",
+            "Share 1 electron",
+            "Lose 8 electrons"
+        ],
+        "answer": "Lose 1 electron",
+        "explanation": "Losing one valence electron is energetically more favourable than gaining seven. This results in the stable Na+ ion with configuration 2,8."
+    },
+    {
+        "question": "Q34. The electronic configuration of Chlorine (Cl, Z=17) is 2,8,7. To achieve a stable octet, it will:",
+        "options": [
+            "Lose 7 electrons",
+            "Gain 1 electron",
+            "Share 7 electrons",
+            "Lose 1 electron"
+        ],
+        "answer": "Gain 1 electron",
+        "explanation": "Gaining one electron to complete the valence shell is energetically more favourable than losing seven. This results in the stable Cl- ion with configuration 2,8,8."
+    },
+    {
+        "question": "Q35. Magnesium (Mg, Z=12) has electronic configuration 2,8,2. What ion does it form?",
+        "options": [
+            "Mg+",
+            "Mg2+",
+            "Mg-",
+            "Mg2-"
+        ],
+        "answer": "Mg2+",
+        "explanation": "Magnesium loses its two valence electrons to achieve a stable noble gas configuration (like Neon, 2,8), forming the Mg2+ cation."
+    },
+    {
+        "question": "Q36. Oxygen (O, Z=8) has electronic configuration 2,6. What ion does it form?",
+        "options": [
+            "O+",
+            "O-",
+            "O2-",
+            "O2+"
+        ],
+        "answer": "O2-",
+        "explanation": "Oxygen gains two electrons to complete its valence shell and achieve a stable noble gas configuration (like Neon, 2,8), forming the O2- anion (oxide ion)."
+    },
+    {
+        "question": "Q37. The formation of Magnesium Chloride (MgCl2) involves the transfer of:",
+        "options": [
+            "One electron from Mg to each of the two Cl atoms",
+            "One electron from each of the two Cl atoms to Mg",
+            "Two electrons from Mg to one Cl atom",
+            "One electron from Mg to one Cl atom"
+        ],
+        "answer": "One electron from Mg to each of the two Cl atoms",
+        "explanation": "Magnesium (Mg) loses two electrons (forming Mg2+). Each of the two Chlorine (Cl) atoms gains one electron (forming Cl-). The formula is MgCl2."
+    },
+    {
+        "question": "Q38. Which statement correctly describes the properties of Sodium Chloride (NaCl)?",
+        "options": [
+            "Low melting point, poor conductor when molten",
+            "High melting point, good conductor when solid",
+            "High melting point, good conductor when molten or dissolved",
+            "Low melting point, soluble in kerosene"
+        ],
+        "answer": "High melting point, good conductor when molten or dissolved",
+        "explanation": "NaCl is a typical ionic compound with a high melting point (~801 °C). It conducts electricity only when its ions are mobile (molten state or aqueous solution), not in the solid state."
+    },
+    {
+        "question": "Q39. The slow eating away of metals due to the action of atmospheric gases, moisture, or chemicals is called:",
+        "options": [
+            "Alloying",
+            "Galvanization",
+            "Corrosion",
+            "Refining"
+        ],
+        "answer": "Corrosion",
+        "explanation": "Corrosion is the gradual destruction of materials (usually metals) by chemical or electrochemical reaction with their environment."
+    },
+    {
+        "question": "Q40. Rusting of iron requires the presence of:",
+        "options": [
+            "Oxygen only",
+            "Water only",
+            "Both oxygen and water (or moisture)",
+            "Carbon dioxide and water"
+        ],
+        "answer": "Both oxygen and water (or moisture)",
+        "explanation": "Iron rusts (forms hydrated iron(III) oxide, Fe2O3.xH2O) only when exposed to both air (oxygen) and water."
+    },
+    {
+        "question": "Q41. What is the chemical formula for rust?",
+        "options": [
+            "FeO",
+            "Fe2O3",
+            "Fe3O4",
+            "Fe2O3.xH2O"
+        ],
+        "answer": "Fe2O3.xH2O",
+        "explanation": "Rust is hydrated iron(III) oxide, where 'x' indicates a variable number of water molecules."
+    },
+    {
+        "question": "Q42. The greenish coating formed on copper objects exposed to moist air is primarily:",
+        "options": [
+            "Copper oxide (CuO)",
+            "Copper sulfide (CuS)",
+            "Basic copper carbonate (CuCO3.Cu(OH)2)",
+            "Copper nitrate (Cu(NO3)2)"
+        ],
+        "answer": "Basic copper carbonate (CuCO3.Cu(OH)2)",
+        "explanation": "Copper reacts slowly with carbon dioxide and water in the air to form a green layer of basic copper carbonate."
+    },
+    {
+        "question": "Q43. Silver articles turn black after some time due to the formation of:",
+        "options": [
+            "Silver oxide (Ag2O)",
+            "Silver sulfide (Ag2S)",
+            "Silver carbonate (Ag2CO3)",
+            "Silver chloride (AgCl)"
+        ],
+        "answer": "Silver sulfide (Ag2S)",
+        "explanation": "Silver reacts with sulfur compounds (like Hydrogen Sulfide, H2S) present in the air to form a black coating of silver sulfide."
+    },
+    {
+        "question": "Q44. The process of coating iron articles with a layer of zinc to prevent rusting is called:",
+        "options": [
+            "Electroplating",
+            "Anodizing",
+            "Galvanization",
+            "Alloying"
+        ],
+        "answer": "Galvanization",
+        "explanation": "Galvanization involves applying a protective zinc coating to iron or steel. Zinc is more reactive than iron and corrodes preferentially (sacrificial protection)."
+    },
+    {
+        "question": "Q45. How does painting prevent the rusting of iron?",
+        "options": [
+            "Makes the iron stronger",
+            "Reacts with the rust",
+            "Provides a protective layer cutting off contact with air and moisture",
+            "Makes the iron surface smoother"
+        ],
+        "answer": "Provides a protective layer cutting off contact with air and moisture",
+        "explanation": "Paint acts as a physical barrier, preventing oxygen and water from reaching the iron surface, thus inhibiting rust formation."
+    },
+    {
+        "question": "Q46. An alloy is a:",
+        "options": [
+            "Pure metal",
+            "Pure non-metal",
+            "Homogeneous mixture of a metal with other metals or non-metals",
+            "Compound of a metal and a non-metal"
+        ],
+        "answer": "Homogeneous mixture of a metal with other metals or non-metals",
+        "explanation": "Alloys are made by melting and mixing two or more elements, at least one of which is a metal. They often have properties different from their constituent elements."
+    },
+    {
+        "question": "Q47. Stainless steel is an alloy of iron primarily mixed with:",
+        "options": [
+            "Copper and Tin",
+            "Nickel and Chromium",
+            "Zinc and Copper",
+            "Aluminum and Magnesium"
+        ],
+        "answer": "Nickel and Chromium",
+        "explanation": "Stainless steel is resistant to corrosion because it contains chromium, which forms a passive, protective oxide layer. Nickel is also added to improve its properties."
+    },
+    {
+        "question": "Q48. Brass is an alloy of:",
+        "options": [
+            "Copper and Tin",
+            "Copper and Zinc",
+            "Iron and Carbon",
+            "Lead and Tin"
+        ],
+        "answer": "Copper and Zinc",
+        "explanation": "Brass is a widely used alloy composed mainly of copper and zinc."
+    },
+    {
+        "question": "Q49. Bronze is an alloy of:",
+        "options": [
+            "Copper and Tin",
+            "Copper and Zinc",
+            "Iron and Nickel",
+            "Aluminum and Copper"
+        ],
+        "answer": "Copper and Tin",
+        "explanation": "Bronze is an alloy consisting primarily of copper, commonly with about 12–12.5% tin as the main additive."
+    },
+    {
+        "question": "Q50. Solder is an alloy used for welding electrical wires together. It is typically made of:",
+        "options": [
+            "Lead and Tin",
+            "Copper and Zinc",
+            "Iron and Chromium",
+            "Aluminum and Magnesium"
+        ],
+        "answer": "Lead and Tin",
+        "explanation": "Solder has a low melting point due to its composition (usually lead and tin), making it suitable for joining metals without melting them."
+    },
+    {
+        "question": "Q51. Why is alloying often preferred over using pure metals?",
+        "options": [
+            "Alloys are always cheaper",
+            "Alloys can have improved properties like hardness, strength, and corrosion resistance",
+            "Alloys are easier to extract",
+            "Alloys are pure substances"
+        ],
+        "answer": "Alloys can have improved properties like hardness, strength, and corrosion resistance",
+        "explanation": "Alloying allows modification of the properties of metals to make them more suitable for specific applications (e.g., pure iron is soft, but steel is hard)."
+    },
+    {
+        "question": "Q52. Which non-metal has a high melting point and is known for its hardness?",
+        "options": [
+            "Sulfur",
+            "Phosphorus",
+            "Diamond (an allotrope of Carbon)",
+            "Bromine"
+        ],
+        "answer": "Diamond (an allotrope of Carbon)",
+        "explanation": "Diamond is an allotrope of carbon where atoms are bonded in a strong tetrahedral lattice, making it extremely hard and giving it a very high melting/sublimation point."
+    },
+    {
+        "question": "Q53. Which metal is the best conductor of heat and electricity?",
+        "options": [
+            "Iron",
+            "Aluminum",
+            "Copper",
+            "Silver"
+        ],
+        "answer": "Silver",
+        "explanation": "Silver has the highest electrical and thermal conductivity of all metals, followed closely by copper."
+    },
+    {
+        "question": "Q54. Why are electrical wires commonly made of copper or aluminum?",
+        "options": [
+            "They are the cheapest metals",
+            "They are insulators",
+            "They have good conductivity, ductility, and are relatively abundant/cost-effective",
+            "They are very hard and brittle"
+        ],
+        "answer": "They have good conductivity, ductility, and are relatively abundant/cost-effective",
+        "explanation": "While silver is the best conductor, copper and aluminum offer a good balance of high conductivity, ductility (can be drawn into wires), and lower cost/weight compared to silver."
+    },
+    {
+        "question": "Q55. Metals are generally _____ at room temperature, except for ____.",
+        "options": [
+            "Gases, Helium",
+            "Liquids, Bromine",
+            "Solids, Mercury",
+            "Solids, Gallium"
+        ],
+        "answer": "Solids, Mercury",
+        "explanation": "Most metals are solid at standard room temperature (around 25°C). Mercury (Hg) is the primary exception, being a liquid. Gallium and Cesium have low melting points near room temperature."
+    },
+    {
+        "question": "Q56. Non-metals are generally found in which state(s) at room temperature?",
+        "options": [
+            "Solids only",
+            "Liquids only",
+            "Gases only",
+            "Solids, Liquids, or Gases"
+        ],
+        "answer": "Solids, Liquids, or Gases",
+        "explanation": "Non-metals exist in all three states: Solids (e.g., Carbon, Sulfur, Phosphorus, Iodine), Liquid (Bromine), and Gases (e.g., Oxygen, Nitrogen, Hydrogen, Chlorine)."
+    },
+    {
+        "question": "Q57. Which metal has the lowest density (is the lightest)?",
+        "options": [
+            "Aluminum",
+            "Magnesium",
+            "Lithium",
+            "Sodium"
+        ],
+        "answer": "Lithium",
+        "explanation": "Lithium is the least dense solid element, light enough to float on water (though it reacts with it)."
+    },
+    {
+        "question": "Q58. Which metal has the highest melting point?",
+        "options": [
+            "Iron",
+            "Tungsten",
+            "Platinum",
+            "Titanium"
+        ],
+        "answer": "Tungsten",
+        "explanation": "Tungsten (W) has the highest melting point of all metallic elements (3422 °C), making it suitable for use in light bulb filaments."
+    },
+    {
+        "question": "Q59. Oxides of non-metals are generally:",
+        "options": [
+            "Acidic or Neutral",
+            "Basic or Neutral",
+            "Only Basic",
+            "Only Amphoteric"
+        ],
+        "answer": "Acidic or Neutral",
+        "explanation": "Most non-metal oxides (like CO2, SO2, P4O10) are acidic, reacting with water to form acids or with bases. Some non-metal oxides (like CO, N2O, NO) are neutral."
+    },
+    {
+        "question": "Q60. Which of the following is a neutral oxide?",
+        "options": [
+            "Carbon dioxide (CO2)",
+            "Sulfur dioxide (SO2)",
+            "Carbon monoxide (CO)",
+            "Phosphorus pentoxide (P4O10)"
+        ],
+        "answer": "Carbon monoxide (CO)",
+        "explanation": "Carbon monoxide (CO), Nitrous oxide (N2O), and Nitric oxide (NO) are examples of neutral non-metal oxides; they do not show significant acidic or basic properties."
+    },
+    {
+        "question": "Q61. Anodizing is a process used to prevent corrosion, particularly for which metal?",
+        "options": [
+            "Iron",
+            "Copper",
+            "Aluminum",
+            "Zinc"
+        ],
+        "answer": "Aluminum",
+        "explanation": "Anodizing is an electrolytic process that creates a thick, protective, and often decorative oxide layer on the surface of aluminum."
+    },
+    {
+        "question": "Q62. The property responsible for metals being good conductors of heat is primarily due to:",
+        "options": [
+            "Tightly packed atoms",
+            "High density",
+            "Presence of free (delocalized) electrons",
+            "High melting points"
+        ],
+        "answer": "Presence of free (delocalized) electrons",
+        "explanation": "The mobile valence electrons in the metallic lattice can easily transfer kinetic energy (heat) throughout the metal structure."
+    },
+    {
+        "question": "Q63. When magnesium burns in air, it forms:",
+        "options": [
+            "Magnesium oxide only",
+            "Magnesium nitride only",
+            "Magnesium oxide and Magnesium nitride",
+            "Magnesium carbonate"
+        ],
+        "answer": "Magnesium oxide and Magnesium nitride",
+        "explanation": "Magnesium is reactive enough to react with both oxygen (forming MgO) and nitrogen (forming Mg3N2) in the air when burned."
+    },
+    {
+        "question": "Q64. Which non-metal is used in the vulcanization of rubber?",
+        "options": [
+            "Phosphorus",
+            "Sulfur",
+            "Carbon",
+            "Silicon"
+        ],
+        "answer": "Sulfur",
+        "explanation": "Vulcanization involves heating rubber with sulfur to form cross-links between polymer chains, improving its strength, elasticity, and durability."
+    },
+    {
+        "question": "Q65. Iodine is a non-metal, but it possesses which property usually associated with metals?",
+        "options": [
+            "Ductility",
+            "Malleability",
+            "Lustre",
+            "High conductivity"
+        ],
+        "answer": "Lustre",
+        "explanation": "Iodine is a solid non-metal that exhibits a characteristic purple-black lustre, unlike most dull non-metals."
+    },
+    {
+        "question": "Q66. Alkali metals like Sodium and Potassium are soft and can be cut with a knife. This is an exception to which general property of metals?",
+        "options": [
+            "High density",
+            "High melting point",
+            "Hardness",
+            "Ductility"
+        ],
+        "answer": "Hardness",
+        "explanation": "Metals are generally hard, but alkali metals (Group 1) are notably soft."
+    },
+    {
+        "question": "Q67. Why are ionic compounds generally brittle?",
+        "options": [
+            "They have low melting points",
+            "Their ions are mobile",
+            "Applying force causes ions of like charge to align and repel, fracturing the crystal",
+            "They contain non-metals"
+        ],
+        "answer": "Applying force causes ions of like charge to align and repel, fracturing the crystal",
+        "explanation": "When stress is applied to an ionic crystal, layers of ions can shift. If ions with the same charge come close together, the strong repulsion forces cause the crystal to break or shatter."
+    },
+    {
+        "question": "Q68. The process where a metal higher in the reactivity series displaces a metal lower in the series from its salt solution is a type of:",
+        "options": [
+            "Combination reaction",
+            "Decomposition reaction",
+            "Single displacement reaction",
+            "Double displacement reaction"
+        ],
+        "answer": "Single displacement reaction",
+        "explanation": "In a single displacement reaction, one element replaces another element in a compound. Example: A + BC -> AC + B."
+    },
+    {
+        "question": "Q69. Which method is suitable for preventing corrosion of underground iron pipes?",
+        "options": [
+            "Painting only",
+            "Oiling only",
+            "Sacrificial protection (e.g., attaching blocks of Magnesium)",
+            "Alloying with gold"
+        ],
+        "answer": "Sacrificial protection (e.g., attaching blocks of Magnesium)",
+        "explanation": "Magnesium is more reactive than iron. When connected to the iron pipe, the magnesium corrodes preferentially (acts as a sacrificial anode), protecting the iron."
+    },
+    {
+        "question": "Q70. What type of bonding exists in a piece of pure copper metal?",
+        "options": [
+            "Ionic bonding",
+            "Covalent bonding",
+            "Metallic bonding",
+            "Hydrogen bonding"
+        ],
+        "answer": "Metallic bonding",
+        "explanation": "Metallic bonding involves a lattice of positive metal ions surrounded by a 'sea' of delocalized valence electrons, holding the structure together."
+    },
+    {
+        "question": "Q71. Which element is added to gold to make it harder and suitable for jewellery?",
+        "options": [
+            "Silver or Copper",
+            "Zinc",
+            "Lead",
+            "Iron"
+        ],
+        "answer": "Silver or Copper",
+        "explanation": "Pure gold (24 carat) is very soft. It is alloyed, usually with copper, silver, or zinc, to increase its hardness and durability. The carat rating indicates the purity (e.g., 18 carat is 18/24 parts gold)."
+    },
+    {
+        "question": "Q72. Which non-metal is used in disinfectants and water purification?",
+        "options": [
+            "Sulfur",
+            "Chlorine",
+            "Phosphorus",
+            "Carbon"
+        ],
+        "answer": "Chlorine",
+        "explanation": "Chlorine is a powerful oxidizing agent used to kill bacteria and other microorganisms in drinking water and swimming pools."
+    },
+    {
+        "question": "Q73. Metals react with oxygen to form oxides. Non-metals react with oxygen to form oxides. How do these oxides generally differ in their chemical nature?",
+        "options": [
+            "Metal oxides are acidic, Non-metal oxides are basic",
+            "Metal oxides are basic/amphoteric, Non-metal oxides are acidic/neutral",
+            "Both are generally neutral",
+            "Both are generally amphoteric"
+        ],
+        "answer": "Metal oxides are basic/amphoteric, Non-metal oxides are acidic/neutral",
+        "explanation": "This is a key chemical difference: Metal oxides tend to be basic (Na2O, MgO) or amphoteric (Al2O3, ZnO), while non-metal oxides tend to be acidic (CO2, SO2) or neutral (CO, NO)."
+    },
+    {
+        "question": "Q74. Formation of an ionic bond involves a _____ in potential energy.",
+        "options": [
+            "Large increase",
+            "Small increase",
+            "Large decrease",
+            "No change"
+        ],
+        "answer": "Large decrease",
+        "explanation": "The formation of stable ionic compounds from individual atoms or ions is an exothermic process, meaning the potential energy of the system decreases significantly due to the strong electrostatic attractions."
+    },
+    {
+        "question": "Q75. What property of metals makes them useful for making cooking utensils?",
+        "options": [
+            "Low density and sonority",
+            "Good thermal conductivity and high melting point",
+            "Brittleness and lustre",
+            "Poor electrical conductivity and malleability"
+        ],
+        "answer": "Good thermal conductivity and high melting point",
+        "explanation": "Cooking utensils need to conduct heat efficiently to the food and withstand high temperatures without melting."
+    },
+    {
+        "question": "Q76. Which metal readily reacts with steam but shows almost no reaction with cold water?",
+        "options": [
+            "K",
+            "Ca",
+            "Fe",
+            "Cu"
+        ],
+        "answer": "Fe",
+        "explanation": "Iron (Fe) is significantly less reactive than K or Ca. It requires the higher energy of steam to react, forming iron oxide (Fe3O4) and H2. Copper (Cu) does not react with steam."
+    },
+    {
+        "question": "Q77. In the formation of Sodium Fluoride (NaF) from Na and F atoms, how many electrons are transferred?",
+        "options": [
+            "1 electron from Na to F",
+            "1 electron from F to Na",
+            "2 electrons from Na to F",
+            "2 electrons from F to Na"
+        ],
+        "answer": "1 electron from Na to F",
+        "explanation": "Sodium (Na, group 1) loses 1 electron to form Na+. Fluorine (F, group 17) gains 1 electron to form F-. One electron is transferred."
+    },
+    {
+        "question": "Q78. An element reacts with oxygen to give a compound with a high melting point. This compound is also soluble in water. The element is likely to be:",
+        "options": [
+            "Calcium (Ca)",
+            "Carbon (C)",
+            "Silicon (Si)",
+            "Iron (Fe)"
+        ],
+        "answer": "Calcium (Ca)",
+        "explanation": "Calcium is a metal. It forms Calcium Oxide (CaO) with oxygen, which has a high melting point and reacts with water to form Ca(OH)2 (soluble/sparingly soluble alkali). Carbon and Silicon oxides are acidic/solid with complex structures, and Iron oxide is basic but insoluble."
+    },
+    {
+        "question": "Q79. Which pair consists of one metal and one non-metal?",
+        "options": [
+            "Sodium and Chlorine",
+            "Carbon and Silicon",
+            "Oxygen and Nitrogen",
+            "Iron and Copper"
+        ],
+        "answer": "Sodium and Chlorine",
+        "explanation": "Sodium (Na) is an alkali metal. Chlorine (Cl) is a halogen non-metal."
+    },
+    {
+        "question": "Q80. The most abundant metal in the Earth's crust is:",
+        "options": [
+            "Iron",
+            "Aluminum",
+            "Calcium",
+            "Silicon"
+        ],
+        "answer": "Aluminum",
+        "explanation": "Oxygen is the most abundant element overall, followed by Silicon. Among metals, Aluminum is the most abundant, followed by Iron."
+    },
+    {
+        "question": "Q81. The most abundant non-metal in the Earth's crust is:",
+        "options": [
+            "Carbon",
+            "Nitrogen",
+            "Oxygen",
+            "Silicon"
+        ],
+        "answer": "Oxygen",
+        "explanation": "Oxygen is the most abundant element by mass in the Earth's crust, primarily found in silicate and oxide minerals."
+    },
+    {
+        "question": "Q82. The ability of carbon to form strong bonds with itself, leading to long chains and rings, is called:",
+        "options": [
+            "Catenation",
+            "Allotropy",
+            "Isomerism",
+            "Conductivity"
+        ],
+        "answer": "Catenation",
+        "explanation": "Catenation is the unique ability of carbon atoms to link together to form long chains and complex rings, which is the basis of organic chemistry."
+    },
+    {
+        "question": "Q83. Diamond and Graphite are different forms of the same element (Carbon). They are called:",
+        "options": [
+            "Isotopes",
+            "Isomers",
+            "Allotropes",
+            "Alloys"
+        ],
+        "answer": "Allotropes",
+        "explanation": "Allotropes are different structural forms of the same element in the same physical state. Carbon exists as diamond, graphite, fullerenes, etc."
+    },
+    {
+        "question": "Q84. Corrosion is essentially a process of:",
+        "options": [
+            "Reduction of metal",
+            "Oxidation of metal",
+            "Neutralization",
+            "Melting"
+        ],
+        "answer": "Oxidation of metal",
+        "explanation": "During corrosion, the metal atoms lose electrons (get oxidized) typically forming metal ions, which then combine with other elements (like oxygen) to form oxides, sulfides, etc."
+    },
+    {
+        "question": "Q85. Which of these metals is most likely to be found in its native (uncombined) state in nature?",
+        "options": [
+            "Sodium",
+            "Iron",
+            "Aluminum",
+            "Gold"
+        ],
+        "answer": "Gold",
+        "explanation": "Very unreactive metals, like Gold (Au), Platinum (Pt), and Silver (Ag - sometimes), are found uncombined in nature because they do not readily react with their environment."
+    },
+    {
+        "question": "Q86. Electroplating iron with chromium prevents rust because:",
+        "options": [
+            "Chromium is cheaper than iron",
+            "Chromium is magnetic",
+            "Chromium forms a protective, passive oxide layer and acts as a barrier",
+            "Chromium reacts with iron"
+        ],
+        "answer": "Chromium forms a protective, passive oxide layer and acts as a barrier",
+        "explanation": "Chromium provides a hard, decorative finish and is corrosion-resistant due to the formation of a thin, adherent, and non-porous oxide layer. It also acts as a physical barrier."
+    },
+    {
+        "question": "Q87. A metal M forms an oxide M2O3. The metal M belongs to which group of the periodic table?",
+        "options": [
+            "Group 1",
+            "Group 2",
+            "Group 13",
+            "Group 14"
+        ],
+        "answer": "Group 13",
+        "explanation": "Oxygen typically has an oxidation state of -2. In M2O3, the total negative charge is 3 * (-2) = -6. To balance this, the two M atoms must have a total charge of +6, meaning each M ion is M3+. Metals forming +3 ions are typically found in Group 13 (e.g., Al forms Al2O3)."
+    },
+    {
+        "question": "Q88. Which physical property is characteristic of non-metals but NOT metals?",
+        "options": [
+            "Lustre",
+            "Brittleness (if solid)",
+            "Ductility",
+            "Good thermal conductivity"
+        ],
+        "answer": "Brittleness (if solid)",
+        "explanation": "Solid non-metals (like sulfur, phosphorus) are typically brittle, meaning they break or shatter easily when hammered. Metals are generally malleable and ductile, not brittle."
+    },
+    {
+        "question": "Q89. Food cans are often coated with tin rather than zinc because:",
+        "options": [
+            "Tin is cheaper than zinc",
+            "Zinc reacts with oxygen",
+            "Tin is less reactive than zinc and does not contaminate the food",
+            "Tin is stronger than zinc"
+        ],
+        "answer": "Tin is less reactive than zinc and does not contaminate the food",
+        "explanation": "Zinc is more reactive than tin. If zinc were used, it could potentially react with acidic components in food. Tin is less reactive and provides a safe barrier."
+    },
+    {
+        "question": "Q90. When non-metals react with hydrogen, they typically form:",
+        "options": [
+            "Ionic hydrides",
+            "Covalent hydrides",
+            "Metallic hydrides",
+            "Basic hydrides"
+        ],
+        "answer": "Covalent hydrides",
+        "explanation": "Non-metals share electrons with hydrogen to form covalent compounds called covalent hydrides (e.g., H2O, NH3, HCl, CH4)."
+    },
+    {
+        "question": "Q91. Metals like Gold and Platinum are called 'noble metals' because:",
+        "options": [
+            "They are very expensive",
+            "They are very unreactive",
+            "They are good conductors",
+            "They are used by royalty"
+        ],
+        "answer": "They are very unreactive",
+        "explanation": "Noble metals resist corrosion and oxidation because they have low chemical reactivity, hence they remain 'noble' or unchanged over time."
+    },
+    {
+        "question": "Q92. Amalgam is an alloy where one of the constituent metals is always:",
+        "options": [
+            "Iron",
+            "Copper",
+            "Mercury",
+            "Aluminum"
+        ],
+        "answer": "Mercury",
+        "explanation": "An amalgam is an alloy of mercury with one or more other metals. Dental amalgam is a common example."
+    },
+    {
+        "question": "Q93. Which statement about the reaction of calcium with water is correct?",
+        "options": [
+            "It does not react with water",
+            "It reacts violently with cold water like sodium",
+            "It reacts less violently with water, forming Ca(OH)2 and H2, and the heat evolved is not sufficient for H2 to catch fire",
+            "It reacts only with steam"
+        ],
+        "answer": "It reacts less violently with water, forming Ca(OH)2 and H2, and the heat evolved is not sufficient for H2 to catch fire",
+        "explanation": "Calcium reacts readily with cold water, but the reaction is less vigorous than that of Na or K. Hydrogen gas is evolved, and calcium hydroxide is formed. Calcium often appears to float because the bubbles of hydrogen gas stick to its surface."
+    },
+    {
+        "question": "Q94. Which non-metal is used in matchsticks?",
+        "options": [
+            "Sulfur",
+            "Phosphorus (Red)",
+            "Carbon",
+            "Silicon"
+        ],
+        "answer": "Phosphorus (Red)",
+        "explanation": "The head of safety matches contains an oxidizing agent (like potassium chlorate) and sulfur/fillers, while the striking surface on the box contains red phosphorus. Friction converts red P to white P which ignites."
+    },
+    {
+        "question": "Q95. The electronic configuration of an element is 2, 8, 5. This element is likely a:",
+        "options": [
+            "Metal",
+            "Non-metal",
+            "Metalloid",
+            "Noble gas"
+        ],
+        "answer": "Non-metal",
+        "explanation": "Having 5 valence electrons means the element needs to gain 3 electrons (or share) to achieve an octet. Elements with 5, 6, or 7 valence electrons are typically non-metals (e.g., Phosphorus, Z=15)."
+    },
+    {
+        "question": "Q96. Which process involves heating an ore strongly in the presence of excess air?",
+        "options": [
+            "Calcination",
+            "Roasting",
+            "Smelting",
+            "Refining"
+        ],
+        "answer": "Roasting",
+        "explanation": "Roasting is typically used for sulfide ores, converting them into oxides by heating with excess air. Calcination involves heating in limited or no air, often for carbonate or hydrated ores."
+    },
+    {
+        "question": "Q97. What is the main reason for the difference in physical properties between diamond and graphite?",
+        "options": [
+            "Different number of protons",
+            "Different isotopes of carbon",
+            "Different arrangement of carbon atoms (crystal structure)",
+            "Presence of impurities"
+        ],
+        "answer": "Different arrangement of carbon atoms (crystal structure)",
+        "explanation": "Both are pure carbon, but in diamond, each carbon is bonded to four others tetrahedrally (strong 3D network), while in graphite, carbons are in hexagonal layers with weaker forces between layers."
+    },
+    {
+        "question": "Q98. Which of the following metals is protected from further corrosion by a thin, tough, non-porous layer of its own oxide?",
+        "options": [
+            "Iron",
+            "Sodium",
+            "Aluminum",
+            "Magnesium"
+        ],
+        "answer": "Aluminum",
+        "explanation": "Aluminum quickly forms a very thin but very effective layer of aluminum oxide (Al2O3) upon exposure to air. This passive layer prevents further oxidation/corrosion."
+    },
+    {
+        "question": "Q99. Ionic compounds are formed between elements with:",
+        "options": [
+            "Similar electronegativity",
+            "Low ionization energy only",
+            "High electron affinity only",
+            "Large difference in electronegativity (typically metal and non-metal)"
+        ],
+        "answer": "Large difference in electronegativity (typically metal and non-metal)",
+        "explanation": "A large difference in electronegativity leads to the transfer of electrons rather than sharing. Metals have low electronegativity (tend to lose e-) and non-metals have high electronegativity (tend to gain e-)."
+    },
+    {
+        "question": "Q100. Which statement is FALSE regarding metals?",
+        "options": [
+            "They are generally good reducing agents (lose electrons easily)",
+            "They form positive ions (cations)",
+            "Their oxides are generally acidic",
+            "They possess metallic lustre"
+        ],
+        "answer": "Their oxides are generally acidic",
+        "explanation": "Metal oxides are generally basic or amphoteric, not acidic. Acidic oxides are typically formed by non-metals."
+    },
+    {
+        "question": "Q101. Alloying iron with carbon produces:",
+        "options": [
+            "Brass",
+            "Bronze",
+            "Steel",
+            "Solder"
+        ],
+        "answer": "Steel",
+        "explanation": "Steel is an alloy of iron, with carbon being the primary alloying element, which significantly increases its strength and hardness compared to pure iron."
+    },
+    {
+        "question": "Q102. The process of coating a thin layer of a desired metal onto another material using electrolysis is called:",
+        "options": [
+            "Galvanization",
+            "Anodizing",
+            "Electroplating",
+            "Alloying"
+        ],
+        "answer": "Electroplating",
+        "explanation": "Electroplating uses electric current to reduce dissolved metal cations so that they form a thin coherent metal coating on an electrode (the object to be plated)."
+    },
+    {
+        "question": "Q103. Which of the following shows the correct order of reactivity?",
+        "options": [
+            "Cu > Zn > Mg > Na",
+            "Na > Mg > Zn > Cu",
+            "Mg > Na > Cu > Zn",
+            "Zn > Cu > Na > Mg"
+        ],
+        "answer": "Na > Mg > Zn > Cu",
+        "explanation": "Based on the reactivity series, Sodium (Na) is most reactive, followed by Magnesium (Mg), then Zinc (Zn), and Copper (Cu) is one of the least reactive among these."
+    },
+    {
+        "question": "Q104. Metals are electropositive because they:",
+        "options": [
+            "Tend to gain electrons",
+            "Tend to lose electrons",
+            "Are good conductors",
+            "Have high melting points"
+        ],
+        "answer": "Tend to lose electrons",
+        "explanation": "Electropositivity refers to the tendency of an atom to lose valence electrons and form positive ions (cations)."
+    },
+    {
+        "question": "Q105. Non-metals are electronegative because they:",
+        "options": [
+            "Tend to lose electrons",
+            "Tend to gain or share electrons",
+            "Are poor conductors",
+            "Have low melting points"
+        ],
+        "answer": "Tend to gain or share electrons",
+        "explanation": "Electronegativity refers to the tendency of an atom to attract electrons towards itself. Non-metals have a relatively high tendency to gain or share electrons to achieve a stable electron configuration."
+    }
+]

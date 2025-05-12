@@ -1,0 +1,1509 @@
+[
+    {
+        "question": "Q1. In a chemical equation, the symbol '(aq)' represents:",
+        "options": [
+            "Solid state",
+            "Aqueous solution (dissolved in water)",
+            "Liquid state",
+            "Gaseous state"
+        ],
+        "answer": "Aqueous solution (dissolved in water)",
+        "explanation": "The symbol '(aq)' stands for 'aqueous', indicating that the substance is dissolved in water."
+    },
+    {
+        "question": "Q2. What does the symbol '→' in a chemical equation indicate?",
+        "options": [
+            "Reversible reaction",
+            "Heat is supplied",
+            "Yields or produces",
+            "Catalyst is used"
+        ],
+        "answer": "Yields or produces",
+        "explanation": "The arrow '→' separates reactants from products and indicates the direction of the reaction, meaning 'yields' or 'produces'."
+    },
+    {
+        "question": "Q3. Substances written on the left side of the arrow in a chemical equation are called:",
+        "options": [
+            "Products",
+            "Catalysts",
+            "Reactants",
+            "Intermediates"
+        ],
+        "answer": "Reactants",
+        "explanation": "Reactants are the starting materials in a chemical reaction and are always written on the left side of the reaction arrow."
+    },
+    {
+        "question": "Q4. The symbol '∆' written above the arrow in a chemical equation signifies:",
+        "options": [
+            "Gas is evolved",
+            "Precipitation occurs",
+            "Heat is supplied to the reaction",
+            "Reaction occurs in sunlight"
+        ],
+        "answer": "Heat is supplied to the reaction",
+        "explanation": "The delta symbol '∆' over the reaction arrow indicates that heat is required for the reaction to occur (often meaning heating is applied)."
+    },
+    {
+        "question": "Q5. What state does the symbol '(g)' represent in a chemical equation?",
+        "options": [
+            "Solid",
+            "Liquid",
+            "Gas",
+            "Aqueous"
+        ],
+        "answer": "Gas",
+        "explanation": "The symbol '(g)' after a chemical formula indicates that the substance is in the gaseous state."
+    },
+    {
+        "question": "Q6. Magnesium ribbon burns in air to form magnesium oxide. Which is the correct skeletal equation?",
+        "options": [
+            "Mg + O → MgO",
+            "Mg + O₂ → MgO₂",
+            "Mg + O₂ → MgO",
+            "Mg₂ + O₂ → 2MgO"
+        ],
+        "answer": "Mg + O₂ → MgO",
+        "explanation": "Magnesium (Mg) reacts with oxygen gas (O₂) to form magnesium oxide (MgO). Oxygen exists as diatomic molecules (O₂). This is the unbalanced or skeletal equation."
+    },
+    {
+        "question": "Q7. Identify the reactants in the equation: Zn + H₂SO₄ → ZnSO₄ + H₂",
+        "options": [
+            "Zn and H₂SO₄",
+            "ZnSO₄ and H₂",
+            "Zn and ZnSO₄",
+            "H₂SO₄ and H₂"
+        ],
+        "answer": "Zn and H₂SO₄",
+        "explanation": "Reactants are the substances present before the reaction starts, located on the left side of the arrow. Here, they are Zinc (Zn) and Sulfuric acid (H₂SO₄)."
+    },
+    {
+        "question": "Q8. Identify the products in the equation: CaCO₃(s) → CaO(s) + CO₂(g)",
+        "options": [
+            "CaCO₃ only",
+            "CaO only",
+            "CO₂ only",
+            "CaO and CO₂"
+        ],
+        "answer": "CaO and CO₂",
+        "explanation": "Products are the substances formed during the reaction, located on the right side of the arrow. Here, they are Calcium oxide (CaO) and Carbon dioxide (CO₂)."
+    },
+    {
+        "question": "Q9. The reaction 'Hydrogen sulfide gas reacts with oxygen gas to form solid sulfur and liquid water' is represented by which skeletal equation?",
+        "options": [
+            "H₂S(g) + O₂(g) → S(s) + H₂O(l)",
+            "HS(g) + O(g) → S(s) + H₂O(l)",
+            "H₂S(g) + O(g) → S(g) + H₂O(g)",
+            "H₂S(aq) + O₂(g) → S(s) + H₂O(aq)"
+        ],
+        "answer": "H₂S(g) + O₂(g) → S(s) + H₂O(l)",
+        "explanation": "Translate the names into formulas and states: Hydrogen sulfide gas is H₂S(g), Oxygen gas is O₂(g), solid Sulfur is S(s), liquid Water is H₂O(l)."
+    },
+    {
+        "question": "Q10. What information is NOT typically conveyed by a simple chemical equation?",
+        "options": [
+            "The physical states of reactants and products",
+            "The relative number of moles of reactants and products",
+            "The speed or rate of the reaction",
+            "The identity of the reactants and products"
+        ],
+        "answer": "The speed or rate of the reaction",
+        "explanation": "A chemical equation shows reactants, products, stoichiometry (moles), and physical states, but it does not indicate how fast the reaction occurs (reaction rate)."
+    },
+    {
+        "question": "Q11. The symbol '(l)' indicates that the substance is in the:",
+        "options": [
+            "Solid state",
+            "Liquid state",
+            "Gaseous state",
+            "Aqueous state"
+        ],
+        "answer": "Liquid state",
+        "explanation": "The symbol '(l)' after a chemical formula denotes that the substance is in the liquid state."
+    },
+    {
+        "question": "Q12. What does the symbol '(s)' represent?",
+        "options": [
+            "Solution",
+            "Gas",
+            "Solid",
+            "Liquid"
+        ],
+        "answer": "Solid",
+        "explanation": "The symbol '(s)' after a chemical formula indicates that the substance is in the solid state."
+    },
+    {
+        "question": "Q13. Translating 'Barium chloride reacts with aluminium sulphate to give aluminium chloride and barium sulphate' into a skeletal equation gives:",
+        "options": [
+            "BaCl + AlSO₄ → AlCl + BaSO₄",
+            "BaCl₂ + Al₂(SO₄)₃ → AlCl₃ + BaSO₄",
+            "BaCl₂ + AlSO₄ → AlCl₃ + BaSO₄",
+            "BaCl + Al₂(SO₄)₃ → AlCl + BaSO₄"
+        ],
+        "answer": "BaCl₂ + Al₂(SO₄)₃ → AlCl₃ + BaSO₄",
+        "explanation": "Correct chemical formulas are: Barium chloride (BaCl₂), Aluminium sulphate (Al₂(SO₄)₃), Aluminium chloride (AlCl₃), Barium sulphate (BaSO₄). Skeletal equation lists these correctly."
+    },
+    {
+        "question": "Q14. In the equation Fe + O₂ → Fe₂O₃, Fe and O₂ are:",
+        "options": [
+            "Products",
+            "Reactants",
+            "Catalysts",
+            "Spectator ions"
+        ],
+        "answer": "Reactants",
+        "explanation": "Iron (Fe) and Oxygen (O₂) are on the left side of the arrow, meaning they are the reactants that combine to form the product."
+    },
+    {
+        "question": "Q15. In the equation Fe + O₂ → Fe₂O₃, Fe₂O₃ is the:",
+        "options": [
+            "Product",
+            "Reactant",
+            "Catalyst",
+            "Intermediate"
+        ],
+        "answer": "Product",
+        "explanation": "Iron(III) oxide (Fe₂O₃) is on the right side of the arrow, meaning it is the substance formed, i.e., the product."
+    },
+    {
+        "question": "Q16. What does a downward arrow (↓) sometimes used in equations signify?",
+        "options": [
+            "Gas evolved",
+            "Heat released",
+            "Precipitate formed",
+            "Catalyst added"
+        ],
+        "answer": "Precipitate formed",
+        "explanation": "A downward arrow (↓) written after a product's formula indicates that the product is an insoluble solid that settles down, i.e., a precipitate."
+    },
+    {
+        "question": "Q17. What does an upward arrow (↑) sometimes used in equations signify?",
+        "options": [
+            "Gas evolved",
+            "Heat absorbed",
+            "Precipitate formed",
+            "Liquid reactant"
+        ],
+        "answer": "Gas evolved",
+        "explanation": "An upward arrow (↑) written after a product's formula indicates that the product is a gas that is escaping from the reaction mixture."
+    },
+    {
+        "question": "Q18. A skeletal chemical equation is:",
+        "options": [
+            "Always balanced",
+            "An equation showing only the symbols and formulas, but not necessarily balanced",
+            "An equation showing the reaction mechanism",
+            "An equation representing only physical changes"
+        ],
+        "answer": "An equation showing only the symbols and formulas, but not necessarily balanced",
+        "explanation": "A skeletal equation correctly represents the reactants and products using symbols and formulas but does not have coefficients adjusted to balance the atoms."
+    },
+    {
+        "question": "Q19. Chemical equations are balanced to satisfy the law of:",
+        "options": [
+            "Conservation of Energy",
+            "Conservation of Mass",
+            "Constant Proportions",
+            "Multiple Proportions"
+        ],
+        "answer": "Conservation of Mass",
+        "explanation": "The Law of Conservation of Mass states that mass is neither created nor destroyed in a chemical reaction, so the total mass (and number of atoms of each element) must be equal on both sides."
+    },
+    {
+        "question": "Q20. Which of the following equations is balanced?",
+        "options": [
+            "H₂ + Cl₂ → HCl",
+            "Mg + O₂ → MgO",
+            "H₂ + O₂ → H₂O",
+            "Zn + H₂SO₄ → ZnSO₄ + H₂"
+        ],
+        "answer": "Zn + H₂SO₄ → ZnSO₄ + H₂",
+        "explanation": "Check atom counts: A) 2H, 2Cl -> 1H, 1Cl (Unbalanced). B) 1Mg, 2O -> 1Mg, 1O (Unbalanced). C) 2H, 2O -> 2H, 1O (Unbalanced). D) 1Zn, 2H, 1S, 4O -> 1Zn, 1S, 4O, 2H (Balanced)."
+    },
+    {
+        "question": "Q21. What coefficient is needed for O₂ to balance the equation: C + O₂ → CO",
+        "options": [
+            "1",
+            "1/2 (or 1 for 2C + O₂ → 2CO)",
+            "2",
+            "3"
+        ],
+        "answer": "1/2 (or 1 for 2C + O₂ → 2CO)",
+        "explanation": "To balance C + O₂ → CO, we need 1 O atom on the right. We start with O₂. Using 1/2 O₂ gives 1 O atom. Alternatively, balance as 2C + O₂ → 2CO, where the coefficient for O₂ is 1."
+    },
+    {
+        "question": "Q22. Balance the equation: N₂ + H₂ → NH₃. The coefficients are:",
+        "options": [
+            "1, 1, 1",
+            "1, 3, 2",
+            "2, 3, 1",
+            "1, 2, 3"
+        ],
+        "answer": "1, 3, 2",
+        "explanation": "To balance N: N₂ → 2NH₃. Now balance H: We need 2*3=6 H atoms on the right. So, use 3H₂ on the left. The balanced equation is N₂ + 3H₂ → 2NH₃. Coefficients are 1, 3, 2."
+    },
+    {
+        "question": "Q23. What is the coefficient of H₂O when the equation C₃H₈ + O₂ → CO₂ + H₂O is balanced?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "4",
+        "explanation": "Balance C: C₃H₈ → 3CO₂. Balance H: C₃H₈ → 4H₂O (8 H atoms on both sides). Balance O: Right side has 3*2 + 4*1 = 10 O atoms. Left side needs 5O₂. Balanced: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O. Coefficient of H₂O is 4."
+    },
+    {
+        "question": "Q24. Which equation is NOT balanced?",
+        "options": [
+            "2H₂ + O₂ → 2H₂O",
+            "CH₄ + 2O₂ → CO₂ + 2H₂O",
+            "Fe + S → FeS",
+            "KClO₃ → KCl + O₂"
+        ],
+        "answer": "KClO₃ → KCl + O₂",
+        "explanation": "Check atoms: A) 4H, 2O -> 4H, 2O (Balanced). B) 1C, 4H, 4O -> 1C, 4H, 4O (Balanced). C) 1Fe, 1S -> 1Fe, 1S (Balanced). D) 1K, 1Cl, 3O -> 1K, 1Cl, 2O (Unbalanced - Oxygen)."
+    },
+    {
+        "question": "Q25. Balance the equation: Al + HCl → AlCl₃ + H₂. What is the coefficient for HCl?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "6"
+        ],
+        "answer": "6",
+        "explanation": "Balance Al: Al → AlCl₃. Balance Cl: Need 3 Cl, so use 3HCl: Al + 3HCl → AlCl₃ + H₂. Balance H: Right side has H₂, left has 3H. To make H even, try doubling AlCl₃ and Al: 2Al + HCl → 2AlCl₃ + H₂. Balance Cl: Need 2*3=6 Cl, so use 6HCl: 2Al + 6HCl → 2AlCl₃ + H₂. Balance H: Left has 6H. Need 3H₂ on right. Balanced: 2Al + 6HCl → 2AlCl₃ + 3H₂. Coefficient of HCl is 6."
+    },
+    {
+        "question": "Q26. What is the sum of the coefficients on the product side for the balanced equation: P₄ + O₂ → P₄O₁₀?",
+        "options": [
+            "1",
+            "5",
+            "6",
+            "2"
+        ],
+        "answer": "1",
+        "explanation": "Balance P: P₄ → P₄O₁₀ (P is balanced). Balance O: Right has 10 O atoms. Left needs 5O₂. Balanced: P₄ + 5O₂ → P₄O₁₀. The product is P₄O₁₀, its coefficient is 1. The sum of coefficients on the product side is 1."
+    },
+    {
+        "question": "Q27. Balance: Fe₂O₃ + C → Fe + CO. The coefficient for Carbon (C) is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "3",
+        "explanation": "Balance Fe: Fe₂O₃ → 2Fe. Balance O: Left has 3 O. Need 3 CO on the right: Fe₂O₃ + C → 2Fe + 3CO. Balance C: Right has 3 C. Need 3 C on the left. Balanced: Fe₂O₃ + 3C → 2Fe + 3CO. Coefficient of C is 3."
+    },
+    {
+        "question": "Q28. The law of conservation of mass states that:",
+        "options": [
+            "Mass can be created but not destroyed.",
+            "Mass can be destroyed but not created.",
+            "Mass can neither be created nor destroyed in a chemical reaction.",
+            "The total energy remains constant."
+        ],
+        "answer": "Mass can neither be created nor destroyed in a chemical reaction.",
+        "explanation": "This is the fundamental principle behind balancing chemical equations - the total mass of reactants must equal the total mass of products."
+    },
+    {
+        "question": "Q29. In the balanced equation a Na + b Cl₂ → c NaCl, the coefficients a, b, c are:",
+        "options": [
+            "1, 1, 1",
+            "2, 1, 2",
+            "1, 2, 2",
+            "2, 2, 1"
+        ],
+        "answer": "2, 1, 2",
+        "explanation": "Balance Cl: Cl₂ → 2NaCl. Balance Na: Need 2 Na on the left. Balanced: 2Na + Cl₂ → 2NaCl. Coefficients are a=2, b=1, c=2."
+    },
+    {
+        "question": "Q30. What is the coefficient of O₂ when balancing: FeS₂ + O₂ → Fe₂O₃ + SO₂?",
+        "options": [
+            "4",
+            "8",
+            "11",
+            "2"
+        ],
+        "answer": "11",
+        "explanation": "Balance Fe: 2FeS₂ → Fe₂O₃. Balance S: 2FeS₂ gives 4 S atoms. Need 4SO₂ on the right: 2FeS₂ + O₂ → Fe₂O₃ + 4SO₂. Balance O: Right side has 3 + (4*2) = 11 O atoms. Left side needs 11/2 O₂. Multiply by 2 for whole numbers: 4FeS₂ + 11O₂ → 2Fe₂O₃ + 8SO₂. The coefficient for O₂ is 11."
+    },
+    {
+        "question": "Q31. Identify the balanced equation for the reaction of barium chloride with aluminium sulphate.",
+        "options": [
+            "BaCl₂ + Al₂(SO₄)₃ → AlCl₃ + BaSO₄",
+            "3BaCl₂ + Al₂(SO₄)₃ → 2AlCl₃ + 3BaSO₄",
+            "BaCl₂ + AlSO₄ → AlCl + BaSO₄",
+            "2BaCl₂ + Al₂(SO₄)₃ → 2AlCl₃ + 2BaSO₄"
+        ],
+        "answer": "3BaCl₂ + Al₂(SO₄)₃ → 2AlCl₃ + 3BaSO₄",
+        "explanation": "Check atoms in option B: Left: 3Ba, 6Cl, 2Al, 3S, 12O. Right: 2Al, 6Cl, 3Ba, 3S, 12O. Atoms are balanced."
+    },
+    {
+        "question": "Q32. Balancing ensures that the number of _______ of each element is the same on both sides.",
+        "options": [
+            "Molecules",
+            "Atoms",
+            "Ions",
+            "Compounds"
+        ],
+        "answer": "Atoms",
+        "explanation": "Balancing chemical equations ensures that the number of atoms of each element remains the same before and after the reaction, conserving mass."
+    },
+    {
+        "question": "Q33. Balance the equation: NaOH + H₂SO₄ → Na₂SO₄ + H₂O. The coefficient for NaOH is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "2",
+        "explanation": "Balance Na: Need 2 NaOH on the left for Na₂SO₄ on the right: 2NaOH + H₂SO₄ → Na₂SO₄ + H₂O. Balance H: Left has 2*1 + 2 = 4 H. Right needs 2H₂O. Check O: Left has 2*1 + 4 = 6 O. Right has 4 + 2*1 = 6 O. Balanced: 2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O. Coefficient of NaOH is 2."
+    },
+    {
+        "question": "Q34. Balance: KClO₃ → KCl + O₂. The coefficients are:",
+        "options": [
+            "1, 1, 1",
+            "2, 2, 3",
+            "1, 1, 3",
+            "2, 1, 3"
+        ],
+        "answer": "2, 2, 3",
+        "explanation": "Balance O: Left has 3 O, Right has 2 O. LCM is 6. Need 2KClO₃ on left and 3O₂ on right: 2KClO₃ → KCl + 3O₂. Balance K and Cl: Need 2KCl on right. Balanced: 2KClO₃ → 2KCl + 3O₂. Coefficients are 2, 2, 3."
+    },
+    {
+        "question": "Q35. What is the sum of all coefficients (reactants and products) in the balanced equation: N₂ + H₂ → NH₃?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "6",
+        "explanation": "The balanced equation is N₂ + 3H₂ → 2NH₃. The coefficients are 1, 3, and 2. The sum is 1 + 3 + 2 = 6."
+    },
+    {
+        "question": "Q36. Which element is unbalanced in the equation: AgNO₃ + Cu → Cu(NO₃)₂ + Ag?",
+        "options": [
+            "Ag",
+            "N",
+            "O",
+            "Cu"
+        ],
+        "answer": "N",
+        "explanation": "Check atoms: Left: 1 Ag, 1 N, 3 O, 1 Cu. Right: 1 Cu, 2 N, 6 O, 1 Ag. Nitrogen (N) and Oxygen (O) are unbalanced (because N is part of the nitrate group which is unbalanced)."
+    },
+    {
+        "question": "Q37. Balance: C₂H₆ + O₂ → CO₂ + H₂O. The coefficient for O₂ is:",
+        "options": [
+            "2",
+            "3",
+            "5/2 (or 7 for 2C₂H₆ + 7O₂ → ...)",
+            "7/2 (or 7 for 2C₂H₆ + 7O₂ → ...)"
+        ],
+        "answer": "7/2 (or 7 for 2C₂H₆ + 7O₂ → ...)",
+        "explanation": "Balance C: C₂H₆ → 2CO₂. Balance H: C₂H₆ → 3H₂O. Balance O: Right side has 2*2 + 3*1 = 7 O atoms. Left side needs 7/2 O₂. Equation: C₂H₆ + 7/2 O₂ → 2CO₂ + 3H₂O. Multiply by 2: 2C₂H₆ + 7O₂ → 4CO₂ + 6H₂O. Coefficient for O₂ is 7/2 (or 7 if integers used)."
+    },
+    {
+        "question": "Q38. Balance: Mg₃N₂ + H₂O → Mg(OH)₂ + NH₃. The coefficient for H₂O is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "6"
+        ],
+        "answer": "6",
+        "explanation": "Balance Mg: Mg₃N₂ → 3Mg(OH)₂. Balance N: Mg₃N₂ → 2NH₃. Equation: Mg₃N₂ + H₂O → 3Mg(OH)₂ + 2NH₃. Balance O: Right side has 3*2 = 6 O atoms. Need 6H₂O on left. Check H: Left has 6*2 = 12 H. Right has 3*2 + 2*3 = 6 + 6 = 12 H. Balanced: Mg₃N₂ + 6H₂O → 3Mg(OH)₂ + 2NH₃. Coefficient for H₂O is 6."
+    },
+    {
+        "question": "Q39. What is the ratio of coefficients of H₂ : N₂ in the balanced formation of ammonia (NH₃)?",
+        "options": [
+            "1:3",
+            "3:1",
+            "2:1",
+            "1:2"
+        ],
+        "answer": "3:1",
+        "explanation": "The balanced equation is N₂ + 3H₂ → 2NH₃. The coefficient of H₂ is 3, and the coefficient of N₂ is 1. The ratio H₂ : N₂ is 3:1."
+    },
+    {
+        "question": "Q40. Is the equation P₄ + 5O₂ → P₄O₁₀ balanced?",
+        "options": [
+            "Yes",
+            "No, Oxygen is unbalanced",
+            "No, Phosphorus is unbalanced",
+            "No, both are unbalanced"
+        ],
+        "answer": "Yes",
+        "explanation": "Check atoms: Left: 4 P, 5*2=10 O. Right: 4 P, 10 O. The number of atoms of each element is the same on both sides, so the equation is balanced."
+    },
+    {
+        "question": "Q41. Balance: Al₂(SO₄)₃ + NaOH → Al(OH)₃ + Na₂SO₄. The coefficient for NaOH is:",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+        ],
+        "answer": "6",
+        "explanation": "Balance Al: Al₂(SO₄)₃ → 2Al(OH)₃. Balance SO₄ groups: Al₂(SO₄)₃ has 3 SO₄. Need 3Na₂SO₄ on the right: Al₂(SO₄)₃ + NaOH → 2Al(OH)₃ + 3Na₂SO₄. Balance Na: Right has 3*2 = 6 Na. Need 6NaOH on left. Check OH/O and H: Left has 6 OH. Right has 2*3=6 OH. Balanced: Al₂(SO₄)₃ + 6NaOH → 2Al(OH)₃ + 3Na₂SO₄. Coefficient of NaOH is 6."
+    },
+    {
+        "question": "Q42. What is the coefficient for Hydrogen (H₂) when Aluminium reacts with Sulphuric acid: Al + H₂SO₄ → Al₂(SO₄)₃ + H₂?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "6"
+        ],
+        "answer": "3",
+        "explanation": "Balance Al: 2Al + H₂SO₄ → Al₂(SO₄)₃ + H₂. Balance SO₄ groups: Need 3 H₂SO₄ on left: 2Al + 3H₂SO₄ → Al₂(SO₄)₃ + H₂. Balance H: Left has 3*2=6 H. Need 3H₂ on right. Balanced: 2Al + 3H₂SO₄ → Al₂(SO₄)₃ + 3H₂. Coefficient of H₂ is 3."
+    },
+    {
+        "question": "Q43. A reaction in which two or more reactants combine to form a single product is called:",
+        "options": [
+            "Decomposition reaction",
+            "Displacement reaction",
+            "Combination reaction",
+            "Double displacement reaction"
+        ],
+        "answer": "Combination reaction",
+        "explanation": "This is the definition of a combination (or synthesis) reaction. Example: A + B → AB."
+    },
+    {
+        "question": "Q44. Which of the following is an example of a combination reaction?",
+        "options": [
+            "CaCO₃ → CaO + CO₂",
+            "Zn + CuSO₄ → ZnSO₄ + Cu",
+            "2H₂ + O₂ → 2H₂O",
+            "AgNO₃ + NaCl → AgCl + NaNO₃"
+        ],
+        "answer": "2H₂ + O₂ → 2H₂O",
+        "explanation": "In this reaction, two reactants (H₂ and O₂) combine to form a single product (H₂O). A is decomposition, B is displacement, D is double displacement."
+    },
+    {
+        "question": "Q45. The reaction of quicklime (CaO) with water to form slaked lime (Ca(OH)₂) is:",
+        "options": [
+            "Endothermic combination",
+            "Exothermic combination",
+            "Decomposition",
+            "Displacement"
+        ],
+        "answer": "Exothermic combination",
+        "explanation": "CaO combines with H₂O to form a single product Ca(OH)₂, so it's a combination reaction. This reaction releases a significant amount of heat, making it exothermic."
+    },
+    {
+        "question": "Q46. Burning of coal (Carbon) in sufficient air produces:",
+        "options": [
+            "Carbon monoxide (CO)",
+            "Carbon dioxide (CO₂)",
+            "Carbon suboxide (C₃O₂)",
+            "No reaction"
+        ],
+        "answer": "Carbon dioxide (CO₂)",
+        "explanation": "In sufficient air (oxygen), carbon undergoes complete combustion, forming carbon dioxide. C(s) + O₂(g) → CO₂(g). This is a combination reaction."
+    },
+    {
+        "question": "Q47. Identify the product 'X' in the reaction: Mg(s) + O₂(g) → X(s)",
+        "options": [
+            "MgO₂",
+            "Mg₂O",
+            "MgO",
+            "Mg(OH)₂"
+        ],
+        "answer": "MgO",
+        "explanation": "Magnesium (Mg) combines with Oxygen (O₂) to form the ionic compound Magnesium Oxide, which has the formula MgO."
+    },
+    {
+        "question": "Q48. Which gas combines with hydrogen to form ammonia (NH₃)?",
+        "options": [
+            "Oxygen (O₂)",
+            "Nitrogen (N₂)",
+            "Chlorine (Cl₂)",
+            "Carbon dioxide (CO₂)"
+        ],
+        "answer": "Nitrogen (N₂)",
+        "explanation": "The synthesis of ammonia (Haber process) involves the combination reaction between Nitrogen gas (N₂) and Hydrogen gas (H₂): N₂ + 3H₂ ⇌ 2NH₃."
+    },
+    {
+        "question": "Q49. The reaction H₂(g) + Cl₂(g) → 2HCl(g) is a:",
+        "options": [
+            "Decomposition",
+            "Displacement",
+            "Combination",
+            "Double displacement"
+        ],
+        "answer": "Combination",
+        "explanation": "Two reactants, Hydrogen (H₂) and Chlorine (Cl₂), combine to form a single product, Hydrogen Chloride (HCl)."
+    },
+    {
+        "question": "Q50. What type of reaction is 2Na(s) + Cl₂(g) → 2NaCl(s)?",
+        "options": [
+            "Decomposition",
+            "Combination",
+            "Displacement",
+            "Precipitation"
+        ],
+        "answer": "Combination",
+        "explanation": "Two elements, Sodium (Na) and Chlorine (Cl₂), combine to form a single compound, Sodium Chloride (NaCl)."
+    },
+    {
+        "question": "Q51. Formation of slaked lime from quick lime is characterized by:",
+        "options": [
+            "Absorption of heat",
+            "Evolution of heat",
+            "Evolution of hydrogen gas",
+            "Formation of a precipitate"
+        ],
+        "answer": "Evolution of heat",
+        "explanation": "The reaction CaO(s) + H₂O(l) → Ca(OH)₂(aq) is highly exothermic, releasing heat which can cause the water to boil."
+    },
+    {
+        "question": "Q52. When sulfur dioxide reacts with oxygen, what is formed?",
+        "options": [
+            "Sulfur (S)",
+            "Sulfur trioxide (SO₃)",
+            "Sulfuric acid (H₂SO₄)",
+            "Hydrogen sulfide (H₂S)"
+        ],
+        "answer": "Sulfur trioxide (SO₃)",
+        "explanation": "Sulfur dioxide (SO₂) combines with oxygen (O₂), usually in the presence of a catalyst, to form sulfur trioxide (SO₃). 2SO₂(g) + O₂(g) ⇌ 2SO₃(g)."
+    },
+    {
+        "question": "Q53. NH₃(g) + HCl(g) → ?",
+        "options": [
+            "N₂(g) + H₂(g) + Cl₂(g)",
+            "NH₄Cl(s)",
+            "NH₂Cl(g) + H₂(g)",
+            "NCl₃(l) + H₂(g)"
+        ],
+        "answer": "NH₄Cl(s)",
+        "explanation": "Ammonia gas (NH₃) reacts with Hydrogen Chloride gas (HCl) in a combination reaction to form solid Ammonium Chloride (NH₄Cl)."
+    },
+    {
+        "question": "Q54. Which general form represents a combination reaction?",
+        "options": [
+            "AB → A + B",
+            "A + B → AB",
+            "A + BC → AC + B",
+            "AB + CD → AD + CB"
+        ],
+        "answer": "A + B → AB",
+        "explanation": "A combination reaction involves two or more reactants (A and B) forming a single product (AB)."
+    },
+    {
+        "question": "Q55. Rusting of iron involves the combination of iron with:",
+        "options": [
+            "Oxygen only",
+            "Water only",
+            "Oxygen and water",
+            "Carbon dioxide"
+        ],
+        "answer": "Oxygen and water",
+        "explanation": "Rusting is the corrosion of iron, forming hydrated iron(III) oxide (Fe₂O₃·xH₂O). It requires both oxygen (from air) and water."
+    },
+    {
+        "question": "Q56. Which reactants form calcium carbonate (CaCO₃) in a combination reaction?",
+        "options": [
+            "Ca + C + O₂",
+            "CaO + CO₂",
+            "Ca(OH)₂ + CO₂",
+            "Ca + CO₃"
+        ],
+        "answer": "CaO + CO₂",
+        "explanation": "Calcium oxide (CaO) combines directly with Carbon dioxide (CO₂) to form Calcium carbonate (CaCO₃). CaO + CO₂ → CaCO₃. Note: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O is double displacement/neutralization, not combination."
+    },
+    {
+        "question": "Q57. Is respiration, where glucose breaks down, a combination reaction?",
+        "options": [
+            "Yes, it combines glucose and oxygen",
+            "No, it breaks down glucose",
+            "Yes, it forms ATP",
+            "No, it's a physical process"
+        ],
+        "answer": "No, it breaks down glucose",
+        "explanation": "Respiration (C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy) involves breaking down a complex molecule (glucose) into simpler ones (CO₂, H₂O). It's exothermic but not combination; it's closer to combustion/oxidation, the opposite of combination."
+    },
+    {
+        "question": "Q58. What product is formed when hydrogen gas burns in oxygen?",
+        "options": [
+            "Hydrogen peroxide (H₂O₂)",
+            "Water (H₂O)",
+            "Hydroxide (OH⁻)",
+            "Ozone (O₃)"
+        ],
+        "answer": "Water (H₂O)",
+        "explanation": "Hydrogen (H₂) combines with Oxygen (O₂) during burning (combustion) to form Water (H₂O). 2H₂(g) + O₂(g) → 2H₂O(g)."
+    },
+    {
+        "question": "Q59. Combination reactions are often:",
+        "options": [
+            "Endothermic",
+            "Exothermic",
+            "Neutral",
+            "Reversible"
+        ],
+        "answer": "Exothermic",
+        "explanation": "Many combination reactions, especially those forming stable compounds like oxides or salts from elements, release energy in the form of heat, making them exothermic. However, not all are exothermic."
+    },
+    {
+        "question": "Q60. A reaction in which a single reactant breaks down into two or more simpler products is called:",
+        "options": [
+            "Combination reaction",
+            "Decomposition reaction",
+            "Displacement reaction",
+            "Redox reaction"
+        ],
+        "answer": "Decomposition reaction",
+        "explanation": "This is the definition of a decomposition reaction. Example: AB → A + B."
+    },
+    {
+        "question": "Q61. Which of the following is a decomposition reaction?",
+        "options": [
+            "NaOH + HCl → NaCl + H₂O",
+            "2Mg + O₂ → 2MgO",
+            "2KClO₃ → 2KCl + 3O₂",
+            "Zn + FeSO₄ → ZnSO₄ + Fe"
+        ],
+        "answer": "2KClO₃ → 2KCl + 3O₂",
+        "explanation": "In this reaction, a single reactant (KClO₃) breaks down into simpler products (KCl and O₂). A is double displacement, B is combination, D is displacement."
+    },
+    {
+        "question": "Q62. Decomposition reactions carried out by heating are called:",
+        "options": [
+            "Electrolytic decomposition",
+            "Photolytic decomposition",
+            "Thermal decomposition",
+            "Catalytic decomposition"
+        ],
+        "answer": "Thermal decomposition",
+        "explanation": "'Thermal' refers to heat. Thermal decomposition uses heat energy to break down a compound."
+    },
+    {
+        "question": "Q63. Heating of limestone (CaCO₃) produces:",
+        "options": [
+            "Ca and CO₃",
+            "CaO and CO₂",
+            "Ca(OH)₂ and CO₂",
+            "CaO and CO"
+        ],
+        "answer": "CaO and CO₂",
+        "explanation": "Limestone (Calcium carbonate, CaCO₃) undergoes thermal decomposition when heated strongly to produce quicklime (Calcium oxide, CaO) and Carbon dioxide gas (CO₂). CaCO₃(s) --Heat--> CaO(s) + CO₂(g)."
+    },
+    {
+        "question": "Q64. Electrolysis of water produces:",
+        "options": [
+            "H₂ and O₂ gases",
+            "H₂ gas only",
+            "O₂ gas only",
+            "H₂O₂"
+        ],
+        "answer": "H₂ and O₂ gases",
+        "explanation": "Electrolysis uses electrical energy to decompose water (H₂O) into its constituent elements, Hydrogen gas (H₂) and Oxygen gas (O₂). 2H₂O(l) --Electricity--> 2H₂(g) + O₂(g)."
+    },
+    {
+        "question": "Q65. Which type of energy is used in the decomposition of silver chloride (AgCl)?",
+        "options": [
+            "Heat energy",
+            "Light energy",
+            "Electrical energy",
+            "Chemical energy"
+        ],
+        "answer": "Light energy",
+        "explanation": "Silver chloride (AgCl) is sensitive to light and decomposes when exposed to sunlight (photolysis or photolytic decomposition). 2AgCl(s) --Light--> 2Ag(s) + Cl₂(g)."
+    },
+    {
+        "question": "Q66. When lead nitrate (Pb(NO₃)₂) is heated, the brown gas evolved is:",
+        "options": [
+            "Oxygen (O₂)",
+            "Nitrogen dioxide (NO₂)",
+            "Nitrogen (N₂)",
+            "Nitrous oxide (N₂O)"
+        ],
+        "answer": "Nitrogen dioxide (NO₂)",
+        "explanation": "Thermal decomposition of lead nitrate yields lead(II) oxide (PbO), oxygen gas (O₂), and brown nitrogen dioxide gas (NO₂). 2Pb(NO₃)₂(s) --Heat--> 2PbO(s) + 4NO₂(g) + O₂(g)."
+    },
+    {
+        "question": "Q67. What is the colour change observed when ferrous sulphate crystals (FeSO₄·7H₂O) are heated?",
+        "options": [
+            "Blue to green",
+            "Green to white, then to brown",
+            "White to yellow",
+            "Green to black"
+        ],
+        "answer": "Green to white, then to brown",
+        "explanation": "Hydrated ferrous sulphate (FeSO₄·7H₂O) is green. On heating, it first loses water of crystallization to become anhydrous FeSO₄ (white). On further strong heating, FeSO₄ decomposes to Fe₂O₃ (brown solid), SO₂ gas, and SO₃ gas."
+    },
+    {
+        "question": "Q68. Decomposition of silver bromide (AgBr) is used in:",
+        "options": [
+            "Paints",
+            "Fertilizers",
+            "Black and white photography",
+            "Medicines"
+        ],
+        "answer": "Black and white photography",
+        "explanation": "Both AgCl and AgBr undergo photolytic decomposition. This property is utilized in black and white photographic films and papers, where light exposure causes decomposition and image formation."
+    },
+    {
+        "question": "Q69. The general form AB → A + B represents which type of reaction?",
+        "options": [
+            "Combination",
+            "Decomposition",
+            "Displacement",
+            "Double Displacement"
+        ],
+        "answer": "Decomposition",
+        "explanation": "Decomposition reactions involve a single compound (AB) breaking down into two or more simpler substances (A and B)."
+    },
+    {
+        "question": "Q70. In the electrolysis of water, hydrogen gas is collected at the:",
+        "options": [
+            "Anode",
+            "Cathode",
+            "Bottom of the beaker",
+            "Surface of the water"
+        ],
+        "answer": "Cathode",
+        "explanation": "Water decomposes into H⁺ and OH⁻ ions (or H₃O⁺). Positively charged H⁺ ions are attracted to the negative electrode (cathode), where they gain electrons (reduction) to form H₂ gas. 2H⁺ + 2e⁻ → H₂."
+    },
+    {
+        "question": "Q71. In the electrolysis of water, oxygen gas is collected at the:",
+        "options": [
+            "Anode",
+            "Cathode",
+            "Bottom of the beaker",
+            "Surface of the water"
+        ],
+        "answer": "Anode",
+        "explanation": "Negatively charged OH⁻ ions (or H₂O molecules) are attracted to the positive electrode (anode), where they lose electrons (oxidation) to form O₂ gas. 4OH⁻ → 2H₂O + O₂ + 4e⁻ (or 2H₂O → O₂ + 4H⁺ + 4e⁻)."
+    },
+    {
+        "question": "Q72. What is the ratio of volumes of H₂ gas to O₂ gas produced during electrolysis of water?",
+        "options": [
+            "1:1",
+            "1:2",
+            "2:1",
+            "1:3"
+        ],
+        "answer": "2:1",
+        "explanation": "The balanced equation is 2H₂O(l) → 2H₂(g) + O₂(g). The mole ratio of H₂ to O₂ is 2:1. By Avogadro's law, the volume ratio of gases at the same temperature and pressure is equal to their mole ratio. So, volume ratio H₂:O₂ is 2:1."
+    },
+    {
+        "question": "Q73. Which substance turns grey when exposed to sunlight?",
+        "options": [
+            "Copper sulphate (CuSO₄)",
+            "Silver chloride (AgCl)",
+            "Calcium carbonate (CaCO₃)",
+            "Sodium chloride (NaCl)"
+        ],
+        "answer": "Silver chloride (AgCl)",
+        "explanation": "White Silver Chloride (AgCl) decomposes in sunlight into grey Silver metal (Ag) and Chlorine gas (Cl₂). 2AgCl(s) --Light--> 2Ag(s) + Cl₂(g)."
+    },
+    {
+        "question": "Q74. Decomposition reactions generally require energy. Therefore, they are:",
+        "options": [
+            "Exothermic",
+            "Endothermic",
+            "Neutral",
+            "Spontaneous"
+        ],
+        "answer": "Endothermic",
+        "explanation": "Energy (in the form of heat, light, or electricity) must be supplied to break the bonds within the reactant molecule during decomposition. Reactions that absorb energy are endothermic."
+    },
+    {
+        "question": "Q75. Identify the products of thermal decomposition of lead nitrate: Pb(NO₃)₂(s) --Heat--> ?",
+        "options": [
+            "PbO, NO₂, O₂",
+            "Pb, NO₂, O₂",
+            "PbO, N₂, O₂",
+            "Pb, NO₃"
+        ],
+        "answer": "PbO, NO₂, O₂",
+        "explanation": "Heating lead nitrate produces solid lead(II) oxide (PbO), brown nitrogen dioxide gas (NO₂), and oxygen gas (O₂)."
+    },
+    {
+        "question": "Q76. What are the characteristic gases evolved on heating ferrous sulphate?",
+        "options": [
+            "O₂ and SO₃",
+            "SO₂ and SO₃ (smell of burning sulphur)",
+            "H₂S and SO₂",
+            "CO₂ and SO₂"
+        ],
+        "answer": "SO₂ and SO₃ (smell of burning sulphur)",
+        "explanation": "Anhydrous ferrous sulphate (FeSO₄) decomposes on strong heating: 2FeSO₄(s) --Heat--> Fe₂O₃(s) + SO₂(g) + SO₃(g). Both SO₂ and SO₃ have pungent smells associated with burning sulphur."
+    },
+    {
+        "question": "Q77. Identify the type of decomposition: 2H₂O(l) --Electricity--> 2H₂(g) + O₂(g)",
+        "options": [
+            "Thermal",
+            "Photolytic",
+            "Electrolytic",
+            "Catalytic"
+        ],
+        "answer": "Electrolytic",
+        "explanation": "The reaction is driven by passing electricity through water, hence it is electrolytic decomposition (electrolysis)."
+    },
+    {
+        "question": "Q78. Identify the type of decomposition: 2AgBr(s) --Sunlight--> 2Ag(s) + Br₂(g)",
+        "options": [
+            "Thermal",
+            "Photolytic",
+            "Electrolytic",
+            "Biological"
+        ],
+        "answer": "Photolytic",
+        "explanation": "The reaction occurs due to exposure to sunlight (light energy), hence it is photolytic decomposition (photolysis)."
+    },
+    {
+        "question": "Q79. The residue left after heating lead nitrate is:",
+        "options": [
+            "Lead (Pb), grey",
+            "Lead oxide (PbO), yellow",
+            "Lead dioxide (PbO₂), brown",
+            "Nothing, it sublimes"
+        ],
+        "answer": "Lead oxide (PbO), yellow",
+        "explanation": "The solid product of the thermal decomposition of lead nitrate is lead(II) oxide (PbO), which is yellow when hot and cools to a pale yellow/buff colour."
+    },
+    {
+        "question": "Q80. The solid residue left after strong heating of ferrous sulphate is:",
+        "options": [
+            "FeO (Black)",
+            "Fe₂O₃ (Brown)",
+            "Fe₃O₄ (Black)",
+            "Fe (Grey)"
+        ],
+        "answer": "Fe₂O₃ (Brown)",
+        "explanation": "The decomposition reaction is 2FeSO₄(s) --Heat--> Fe₂O₃(s) + SO₂(g) + SO₃(g). The solid residue is iron(III) oxide (Fe₂O₃), which is reddish-brown."
+    },
+    {
+        "question": "Q81. Which energy form causes the decomposition of CaCO₃?",
+        "options": [
+            "Light",
+            "Electricity",
+            "Heat",
+            "Sound"
+        ],
+        "answer": "Heat",
+        "explanation": "Calcium carbonate decomposes upon strong heating (thermal decomposition): CaCO₃(s) --Heat--> CaO(s) + CO₂(g)."
+    },
+    {
+        "question": "Q82. Decomposition of vegetable matter into compost is an example of:",
+        "options": [
+            "Endothermic reaction",
+            "Exothermic reaction",
+            "Displacement reaction",
+            "Photochemical reaction"
+        ],
+        "answer": "Exothermic reaction",
+        "explanation": "The biological decomposition of organic matter by microorganisms releases heat, making the composting process exothermic."
+    },
+    {
+        "question": "Q83. Why is a small amount of acid added to water before electrolysis?",
+        "options": [
+            "To increase the volume of gases",
+            "To make the water a better conductor of electricity",
+            "To change the color of water",
+            "To slow down the reaction"
+        ],
+        "answer": "To make the water a better conductor of electricity",
+        "explanation": "Pure water is a poor conductor of electricity as it ionizes very slightly. Adding a few drops of acid (like H₂SO₄) increases the concentration of ions (H⁺, SO₄²⁻), making the water conduct electricity much better and allowing electrolysis to proceed at a reasonable rate."
+    },
+    {
+        "question": "Q84. What colour is silver bromide (AgBr)?",
+        "options": [
+            "White",
+            "Pale Yellow",
+            "Grey",
+            "Black"
+        ],
+        "answer": "Pale Yellow",
+        "explanation": "Silver bromide (AgBr) is a pale yellow solid, photosensitive like silver chloride (which is white)."
+    },
+    {
+        "question": "Q85. A reaction in which a more reactive element displaces a less reactive element from its compound is called:",
+        "options": [
+            "Combination reaction",
+            "Decomposition reaction",
+            "Displacement reaction",
+            "Double displacement reaction"
+        ],
+        "answer": "Displacement reaction",
+        "explanation": "This is the definition of a single displacement reaction, governed by the reactivity series of elements. Example: A + BC → AC + B, where A is more reactive than B."
+    },
+    {
+        "question": "Q86. Which of the following is a displacement reaction?",
+        "options": [
+            "2KBr + Cl₂ → 2KCl + Br₂",
+            "CaO + H₂O → Ca(OH)₂",
+            "2H₂O → 2H₂ + O₂",
+            "NaOH + HCl → NaCl + H₂O"
+        ],
+        "answer": "2KBr + Cl₂ → 2KCl + Br₂",
+        "explanation": "Chlorine (Cl₂) is more reactive than Bromine (Br) and displaces it from Potassium Bromide (KBr). B is combination, C is decomposition, D is double displacement."
+    },
+    {
+        "question": "Q87. When an iron nail is dipped in copper sulphate solution, the colour of the solution changes from:",
+        "options": [
+            "Blue to green",
+            "Green to blue",
+            "Blue to colourless",
+            "Green to colourless"
+        ],
+        "answer": "Blue to green",
+        "explanation": "Iron (Fe) is more reactive than copper (Cu). It displaces copper from the blue copper sulphate (CuSO₄) solution, forming green iron(II) sulphate (FeSO₄) solution. Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s)."
+    },
+    {
+        "question": "Q88. Which metal will displace hydrogen from dilute acids (like HCl or H₂SO₄)?",
+        "options": [
+            "Copper (Cu)",
+            "Silver (Ag)",
+            "Zinc (Zn)",
+            "Gold (Au)"
+        ],
+        "answer": "Zinc (Zn)",
+        "explanation": "Metals above hydrogen in the reactivity series can displace hydrogen from dilute acids. Zn is above H, while Cu, Ag, and Au are below H."
+    },
+    {
+        "question": "Q89. What happens when zinc granules are added to copper sulphate solution?",
+        "options": [
+            "No reaction occurs",
+            "Zinc displaces copper, solution becomes colourless",
+            "Copper displaces zinc",
+            "Hydrogen gas is evolved"
+        ],
+        "answer": "Zinc displaces copper, solution becomes colourless",
+        "explanation": "Zinc (Zn) is more reactive than copper (Cu). It displaces copper from the blue CuSO₄ solution, forming colourless Zinc Sulphate (ZnSO₄) solution and depositing reddish-brown copper metal. Zn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s)."
+    },
+    {
+        "question": "Q90. Consider the reactivity series: K > Na > Ca > Mg > Al > Zn > Fe > Pb > H > Cu > Hg > Ag > Au. Will copper react with zinc sulphate solution?",
+        "options": [
+            "Yes, copper sulphate will form",
+            "Yes, hydrogen gas will evolve",
+            "No, because copper is less reactive than zinc",
+            "Yes, because copper is heavier than zinc"
+        ],
+        "answer": "No, because copper is less reactive than zinc",
+        "explanation": "According to the series, Zinc (Zn) is more reactive than Copper (Cu). Therefore, copper cannot displace zinc from zinc sulphate solution. Reactivity determines displacement, not density or weight."
+    },
+    {
+        "question": "Q91. The reaction Zn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s) is an example of:",
+        "options": [
+            "Combination",
+            "Decomposition",
+            "Displacement",
+            "Double displacement"
+        ],
+        "answer": "Displacement",
+        "explanation": "Zinc (Zn), an element, displaces Copper (Cu) from its compound (CuSO₄). This fits the pattern A + BC → AC + B."
+    },
+    {
+        "question": "Q92. What is the brown coating formed on the iron nail when dipped in CuSO₄ solution?",
+        "options": [
+            "Rust (Fe₂O₃·xH₂O)",
+            "Copper metal (Cu)",
+            "Iron sulphide (FeS)",
+            "Copper oxide (CuO)"
+        ],
+        "answer": "Copper metal (Cu)",
+        "explanation": "Iron displaces copper from the solution: Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s). The displaced copper metal deposits onto the iron nail as a reddish-brown coating."
+    },
+    {
+        "question": "Q93. Which reaction will NOT occur?",
+        "options": [
+            "Zn + CuSO₄ →",
+            "Fe + CuSO₄ →",
+            "Cu + ZnSO₄ →",
+            "Mg + CuSO₄ →"
+        ],
+        "answer": "Cu + ZnSO₄ →",
+        "explanation": "A displacement reaction only occurs if the elemental metal is more reactive than the metal in the compound. Cu is less reactive than Zn (check reactivity series), so it cannot displace Zn from ZnSO₄. Zn, Fe, and Mg are all more reactive than Cu."
+    },
+    {
+        "question": "Q94. The general form A + BC → AC + B represents which type of reaction?",
+        "options": [
+            "Combination",
+            "Decomposition",
+            "Displacement",
+            "Double Displacement"
+        ],
+        "answer": "Displacement",
+        "explanation": "This general form shows element A displacing element B from compound BC, which is characteristic of a single displacement reaction."
+    },
+    {
+        "question": "Q95. Which gas is produced when zinc reacts with dilute hydrochloric acid?",
+        "options": [
+            "Oxygen (O₂)",
+            "Chlorine (Cl₂)",
+            "Hydrogen (H₂)",
+            "Carbon dioxide (CO₂)"
+        ],
+        "answer": "Hydrogen (H₂)",
+        "explanation": "Zinc is more reactive than hydrogen. It displaces hydrogen from dilute acids like HCl. Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g)."
+    },
+    {
+        "question": "Q96. Complete the reaction: Fe(s) + H₂SO₄(dil) → ?",
+        "options": [
+            "FeSO₄(aq) + H₂(g)",
+            "Fe₂(SO₄)₃(aq) + H₂(g)",
+            "FeS(s) + H₂O(l) + O₂(g)",
+            "No reaction"
+        ],
+        "answer": "FeSO₄(aq) + H₂(g)",
+        "explanation": "Iron (Fe) is more reactive than hydrogen and displaces it from dilute sulfuric acid, forming iron(II) sulphate (FeSO₄) and hydrogen gas (H₂). Iron typically forms the +2 state with dilute acids."
+    },
+    {
+        "question": "Q97. Will silver (Ag) react with copper sulphate (CuSO₄) solution?",
+        "options": [
+            "Yes, Ag₂SO₄ will form",
+            "Yes, Cu will be deposited",
+            "No, silver is less reactive than copper",
+            "Yes, silver sulphate is soluble"
+        ],
+        "answer": "No, silver is less reactive than copper",
+        "explanation": "Silver (Ag) is below copper (Cu) in the reactivity series. Therefore, Ag cannot displace Cu from CuSO₄ solution."
+    },
+    {
+        "question": "Q98. Cl₂ + 2KI → 2KCl + I₂. In this reaction:",
+        "options": [
+            "Chlorine displaces potassium",
+            "Chlorine displaces iodine",
+            "Iodine displaces chlorine",
+            "Potassium displaces chlorine"
+        ],
+        "answer": "Chlorine displaces iodine",
+        "explanation": "Chlorine (Cl₂) is a more reactive halogen than Iodine (I). It displaces iodine from potassium iodide (KI) solution."
+    },
+    {
+        "question": "Q99. Arrange Zn, Fe, Cu, Mg in order of decreasing reactivity based on displacement reactions.",
+        "options": [
+            "Mg > Zn > Fe > Cu",
+            "Cu > Fe > Zn > Mg",
+            "Zn > Mg > Fe > Cu",
+            "Fe > Zn > Mg > Cu"
+        ],
+        "answer": "Mg > Zn > Fe > Cu",
+        "explanation": "Based on the standard reactivity series, Magnesium (Mg) is the most reactive, followed by Zinc (Zn), then Iron (Fe), and finally Copper (Cu) is the least reactive among these four."
+    },
+    {
+        "question": "Q100. What observation confirms that Zn is more reactive than Fe?",
+        "options": [
+            "Zn displaces Cu from CuSO₄",
+            "Fe displaces Cu from CuSO₄",
+            "Zn displaces Fe from FeSO₄",
+            "Fe displaces Zn from ZnSO₄"
+        ],
+        "answer": "Zn displaces Fe from FeSO₄",
+        "explanation": "If Zinc (Zn) can displace Iron (Fe) from its salt solution (like FeSO₄), it means Zn is more reactive than Fe. The reaction would be Zn(s) + FeSO₄(aq) → ZnSO₄(aq) + Fe(s)."
+    },
+    {
+        "question": "Q101. Why does the blue colour of copper sulphate fade when a zinc rod is dipped in it?",
+        "options": [
+            "Formation of colourless zinc sulphate",
+            "Deposition of blue zinc",
+            "Formation of copper oxide",
+            "Evaporation of water"
+        ],
+        "answer": "Formation of colourless zinc sulphate",
+        "explanation": "The blue colour is due to hydrated Cu²⁺ ions. When Zn displaces Cu, the Cu²⁺ ions are removed from the solution and replaced by Zn²⁺ ions. Zinc sulphate (ZnSO₄) solution is colourless, causing the blue colour to fade."
+    },
+    {
+        "question": "Q102. Complete the reaction: Mg(s) + 2HCl(aq) → ?",
+        "options": [
+            "MgCl₂(aq) + H₂(g)",
+            "MgH₂(s) + Cl₂(g)",
+            "Mg(OH)₂(s) + Cl₂(g)",
+            "No reaction"
+        ],
+        "answer": "MgCl₂(aq) + H₂(g)",
+        "explanation": "Magnesium (Mg) is highly reactive and lies above hydrogen in the reactivity series. It readily displaces hydrogen from HCl, forming magnesium chloride (MgCl₂) solution and hydrogen gas (H₂)."
+    },
+    {
+        "question": "Q103. Which metal among Al, Zn, Fe, Cu is the LEAST reactive?",
+        "options": [
+            "Al",
+            "Zn",
+            "Fe",
+            "Cu"
+        ],
+        "answer": "Cu",
+        "explanation": "Comparing their positions in the reactivity series (Al > Zn > Fe > H > Cu), Copper (Cu) is the lowest among the given options, hence the least reactive."
+    },
+    {
+        "question": "Q104. Which metal among Al, Zn, Fe, Cu is the MOST reactive?",
+        "options": [
+            "Al",
+            "Zn",
+            "Fe",
+            "Cu"
+        ],
+        "answer": "Al",
+        "explanation": "Comparing their positions in the reactivity series (Al > Zn > Fe > H > Cu), Aluminium (Al) is the highest among the given options, hence the most reactive."
+    },
+    {
+        "question": "Q105. Lead + Copper Chloride → Lead Chloride + Copper. The formula equation is:",
+        "options": [
+            "Pb + CuCl₂ → PbCl₂ + Cu",
+            "Pb + CuCl → PbCl + Cu",
+            "PbCl₂ + Cu → Pb + CuCl₂",
+            "Pb₂ + CuCl₂ → Pb₂Cl + Cu"
+        ],
+        "answer": "Pb + CuCl₂ → PbCl₂ + Cu",
+        "explanation": "Lead (Pb) displaces Copper (Cu) from Copper(II) Chloride (CuCl₂). Lead typically forms a +2 ion, so Lead(II) Chloride (PbCl₂) is formed. The balanced equation is Pb(s) + CuCl₂(aq) → PbCl₂(s/aq) + Cu(s)."
+    },
+    {
+        "question": "Q106. If Metal A displaces Metal B from its salt solution, it means:",
+        "options": [
+            "A is less reactive than B",
+            "A is more reactive than B",
+            "A and B have similar reactivity",
+            "The reaction is reversible"
+        ],
+        "answer": "A is more reactive than B",
+        "explanation": "The ability of a metal to displace another from its salt solution is determined by its reactivity. A more reactive metal can displace a less reactive metal."
+    },
+    {
+        "question": "Q107. What happens when Aluminium foil is put in Ferrous Sulphate solution?",
+        "options": [
+            "No reaction",
+            "Green solution turns colourless, grey deposit",
+            "Solution turns blue",
+            "Aluminium dissolves without colour change"
+        ],
+        "answer": "Green solution turns colourless, grey deposit",
+        "explanation": "Aluminium (Al) is more reactive than Iron (Fe). It will displace Fe from the green Ferrous Sulphate (FeSO₄) solution. 2Al(s) + 3FeSO₄(aq) → Al₂(SO₄)₃(aq) + 3Fe(s). Aluminium sulphate (Al₂(SO₄)₃) is colourless, and the displaced Iron (Fe) forms a grey deposit."
+    },
+    {
+        "question": "Q108. Can Iron displace Zinc from Zinc Sulphate solution?",
+        "options": [
+            "Yes",
+            "No",
+            "Only if heated",
+            "Only with a catalyst"
+        ],
+        "answer": "No",
+        "explanation": "Iron (Fe) is less reactive than Zinc (Zn) according to the reactivity series. Therefore, iron cannot displace zinc from zinc sulphate (ZnSO₄) solution."
+    },
+    {
+        "question": "Q109. Cu + 2AgNO₃ → Cu(NO₃)₂ + 2Ag. This shows:",
+        "options": [
+            "Ag is more reactive than Cu",
+            "Cu is more reactive than Ag",
+            "Cu and Ag are equally reactive",
+            "It is a decomposition reaction"
+        ],
+        "answer": "Cu is more reactive than Ag",
+        "explanation": "Since Copper (Cu) successfully displaces Silver (Ag) from Silver Nitrate (AgNO₃) solution, it proves that Copper is more reactive than Silver."
+    },
+    {
+        "question": "Q110. Displacement reactions are based on the difference in _______ of elements.",
+        "options": [
+            "Atomic mass",
+            "Density",
+            "Reactivity",
+            "Solubility"
+        ],
+        "answer": "Reactivity",
+        "explanation": "The driving force for displacement reactions is the difference in chemical reactivity between the displacing element and the element being displaced, as summarized in the reactivity series."
+    },
+    {
+        "question": "Q111. Will Magnesium react with Aluminium Sulphate solution?",
+        "options": [
+            "Yes",
+            "No",
+            "Forms MgO",
+            "Needs light energy"
+        ],
+        "answer": "Yes",
+        "explanation": "Magnesium (Mg) is higher than Aluminium (Al) in the reactivity series (Mg > Al). Therefore, Mg is more reactive and will displace Al from Aluminium Sulphate (Al₂(SO₄)₃) solution. 3Mg + Al₂(SO₄)₃ → 3MgSO₄ + 2Al."
+    },
+    {
+        "question": "Q112. A solution of CuSO₄ was kept in an iron pot. After a few days, the pot developed holes. Why?",
+        "options": [
+            "Iron rusts faster in blue solution",
+            "Iron displaced copper, forming FeSO₄ and dissolving the pot",
+            "Copper displaced iron",
+            "Sulphate ions corroded the pot"
+        ],
+        "answer": "Iron displaced copper, forming FeSO₄ and dissolving the pot",
+        "explanation": "Iron (Fe) is more reactive than Copper (Cu). The iron pot reacts with the CuSO₄ solution (Fe + CuSO₄ → FeSO₄ + Cu). As the iron from the pot reacts and dissolves into the solution as FeSO₄, holes develop over time."
+    },
+    {
+        "question": "Q113. Which is more reactive, Chlorine or Bromine?",
+        "options": [
+            "Bromine",
+            "Chlorine",
+            "Equally reactive",
+            "Depends on temperature"
+        ],
+        "answer": "Chlorine",
+        "explanation": "Among halogens, reactivity generally decreases down the group (F > Cl > Br > I). Therefore, Chlorine (Cl₂) is more reactive than Bromine (Br₂)."
+    },
+    {
+        "question": "Q114. A reaction in which there is an exchange of ions between the reactants is called:",
+        "options": [
+            "Combination reaction",
+            "Decomposition reaction",
+            "Displacement reaction",
+            "Double displacement reaction"
+        ],
+        "answer": "Double displacement reaction",
+        "explanation": "This is the definition of a double displacement reaction. Two ionic compounds in solution swap ions. Example: AB + CD → AD + CB."
+    },
+    {
+        "question": "Q115. Which of the following is a double displacement reaction?",
+        "options": [
+            "N₂ + 3H₂ → 2NH₃",
+            "CaCO₃ → CaO + CO₂",
+            "Zn + H₂SO₄ → ZnSO₄ + H₂",
+            "Na₂SO₄ + BaCl₂ → BaSO₄ + 2NaCl"
+        ],
+        "answer": "Na₂SO₄ + BaCl₂ → BaSO₄ + 2NaCl",
+        "explanation": "In this reaction, Sodium Sulphate (Na₂SO₄) and Barium Chloride (BaCl₂) exchange ions (Na⁺ with Ba²⁺, SO₄²⁻ with Cl⁻) to form Barium Sulphate (BaSO₄) and Sodium Chloride (NaCl). A is combination, B is decomposition, C is displacement."
+    },
+    {
+        "question": "Q116. The reaction between sodium sulphate solution and barium chloride solution forms a white precipitate of:",
+        "options": [
+            "Sodium chloride (NaCl)",
+            "Barium sulphate (BaSO₄)",
+            "Sodium sulphate (Na₂SO₄)",
+            "Barium chloride (BaCl₂)"
+        ],
+        "answer": "Barium sulphate (BaSO₄)",
+        "explanation": "Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s) + 2NaCl(aq). Barium sulphate (BaSO₄) is an insoluble solid that forms as a white precipitate."
+    },
+    {
+        "question": "Q117. A reaction that produces an insoluble solid (precipitate) is called a:",
+        "options": [
+            "Combination reaction",
+            "Neutralization reaction",
+            "Precipitation reaction",
+            "Redox reaction"
+        ],
+        "answer": "Precipitation reaction",
+        "explanation": "Precipitation reactions are characterized by the formation of an insoluble solid (precipitate) when two solutions are mixed. Many double displacement reactions are precipitation reactions."
+    },
+    {
+        "question": "Q118. What is the colour of the precipitate formed when lead nitrate solution reacts with potassium iodide solution?",
+        "options": [
+            "White",
+            "Yellow",
+            "Blue",
+            "Reddish-brown"
+        ],
+        "answer": "Yellow",
+        "explanation": "Pb(NO₃)₂(aq) + 2KI(aq) → PbI₂(s) + 2KNO₃(aq). Lead(II) Iodide (PbI₂) is formed as a bright yellow precipitate."
+    },
+    {
+        "question": "Q119. The precipitate formed in the reaction Pb(NO₃)₂(aq) + 2KI(aq) → ? + 2KNO₃(aq) is:",
+        "options": [
+            "PbI₂",
+            "KNO₃",
+            "Pb(NO₃)₂",
+            "KI"
+        ],
+        "answer": "PbI₂",
+        "explanation": "The ions exchange partners: Pb²⁺ combines with I⁻ to form Lead(II) Iodide (PbI₂), and K⁺ combines with NO₃⁻ to form Potassium Nitrate (KNO₃). PbI₂ is the insoluble precipitate."
+    },
+    {
+        "question": "Q120. The reaction between an acid and a base (e.g., HCl + NaOH → NaCl + H₂O) is also a type of:",
+        "options": [
+            "Decomposition reaction",
+            "Displacement reaction",
+            "Combination reaction",
+            "Double displacement reaction (Neutralization)"
+        ],
+        "answer": "Double displacement reaction (Neutralization)",
+        "explanation": "In neutralization, H⁺ from the acid combines with OH⁻ from the base to form H₂O, and the remaining ions (Na⁺ and Cl⁻) form a salt (NaCl). This involves an exchange of ions (H⁺ with Na⁺, Cl⁻ with OH⁻), fitting the double displacement pattern."
+    },
+    {
+        "question": "Q121. Identify the precipitate in the reaction: AgNO₃(aq) + NaCl(aq) → AgCl(?) + NaNO₃(aq)",
+        "options": [
+            "AgCl (White precipitate)",
+            "NaNO₃ (Soluble)",
+            "AgNO₃ (Soluble)",
+            "NaCl (Soluble)"
+        ],
+        "answer": "AgCl (White precipitate)",
+        "explanation": "Silver Nitrate (AgNO₃) reacts with Sodium Chloride (NaCl) in a double displacement reaction. Silver ions (Ag⁺) combine with Chloride ions (Cl⁻) to form Silver Chloride (AgCl), which is an insoluble white precipitate. Sodium Nitrate (NaNO₃) remains dissolved."
+    },
+    {
+        "question": "Q122. The general form AB + CD → AD + CB represents which type of reaction?",
+        "options": [
+            "Combination",
+            "Decomposition",
+            "Displacement",
+            "Double Displacement"
+        ],
+        "answer": "Double Displacement",
+        "explanation": "This general form shows the exchange of ions or partners between two compounds (A swaps with C, or B swaps with D), characteristic of a double displacement reaction."
+    },
+    {
+        "question": "Q123. What happens when copper sulphate solution reacts with hydrogen sulfide gas?",
+        "options": [
+            "White precipitate of CuS forms",
+            "Black precipitate of CuS forms",
+            "Blue precipitate of H₂SO₄ forms",
+            "No reaction"
+        ],
+        "answer": "Black precipitate of CuS forms",
+        "explanation": "Copper Sulphate (CuSO₄) reacts with Hydrogen Sulfide (H₂S) in a double displacement reaction: CuSO₄(aq) + H₂S(g) → CuS(s) + H₂SO₄(aq). Copper(II) Sulfide (CuS) is an insoluble black solid (precipitate)."
+    },
+    {
+        "question": "Q124. Select the correct products for: FeS(s) + H₂SO₄(aq) → ?",
+        "options": [
+            "FeSO₄(aq) + H₂S(g)",
+            "Fe(SO₄)(s) + H₂(g)",
+            "Fe₂(SO₄)₃(aq) + H₂S(g)",
+            "No reaction"
+        ],
+        "answer": "FeSO₄(aq) + H₂S(g)",
+        "explanation": "This is a double displacement reaction where Iron(II) Sulfide (FeS) reacts with Sulfuric Acid (H₂SO₄). Fe²⁺ pairs with SO₄²⁻ to form Iron(II) Sulphate (FeSO₄), and H⁺ pairs with S²⁻ to form Hydrogen Sulfide gas (H₂S)."
+    },
+    {
+        "question": "Q125. Are all double displacement reactions precipitation reactions?",
+        "options": [
+            "Yes, always",
+            "No, neutralization is also a type where precipitate may not form",
+            "No, only reactions forming white precipitates are",
+            "Yes, but the precipitate might dissolve again"
+        ],
+        "answer": "No, neutralization is also a type where precipitate may not form",
+        "explanation": "While many double displacement reactions result in a precipitate, neutralization reactions (acid + base → salt + water) are also double displacements, and the salt formed might be soluble, thus no precipitate forms."
+    },
+    {
+        "question": "Q126. What is the colour of Silver Chloride (AgCl) precipitate?",
+        "options": [
+            "Yellow",
+            "White",
+            "Black",
+            "Green"
+        ],
+        "answer": "White",
+        "explanation": "Silver chloride (AgCl) forms as a characteristic white precipitate in double displacement reactions involving Ag⁺ and Cl⁻ ions."
+    },
+    {
+        "question": "Q127. What is the colour of Barium Sulphate (BaSO₄) precipitate?",
+        "options": [
+            "Yellow",
+            "Blue",
+            "Green",
+            "White"
+        ],
+        "answer": "White",
+        "explanation": "Barium sulphate (BaSO₄) is a dense, highly insoluble white solid commonly formed as a precipitate in reactions involving Ba²⁺ and SO₄²⁻ ions."
+    },
+    {
+        "question": "Q128. Identify the ions exchanged in the reaction: Na₂SO₄ + BaCl₂ → BaSO₄ + 2NaCl",
+        "options": [
+            "Na⁺ and Ba²⁺",
+            "SO₄²⁻ and Cl⁻",
+            "Na⁺ and Cl⁻; Ba²⁺ and SO₄²⁻",
+            "Only anions are exchanged"
+        ],
+        "answer": "Na⁺ and Cl⁻; Ba²⁺ and SO₄²⁻",
+        "explanation": "In this double displacement, the cations (Na⁺ and Ba²⁺) exchange their anion partners (SO₄²⁻ and Cl⁻). Na⁺ pairs with Cl⁻, and Ba²⁺ pairs with SO₄²⁻."
+    },
+    {
+        "question": "Q129. Which pair of solutions will form a precipitate when mixed?",
+        "options": [
+            "NaCl(aq) and KNO₃(aq)",
+            "CuSO₄(aq) and NaOH(aq)",
+            "NH₄Cl(aq) and Na₂SO₄(aq)",
+            "MgCl₂(aq) and Ca(NO₃)₂(aq)"
+        ],
+        "answer": "CuSO₄(aq) and NaOH(aq)",
+        "explanation": "Consider potential products: A) NaNO₃, KCl (both soluble). B) Cu(OH)₂, Na₂SO₄ (Cu(OH)₂ is insoluble blue precipitate). C) NH₄₂SO₄, NaCl (both soluble). D) Mg(NO₃)₂, CaCl₂ (both soluble). Only B forms a precipitate."
+    },
+    {
+        "question": "Q130. What colour precipitate is Copper(II) hydroxide, Cu(OH)₂?",
+        "options": [
+            "White",
+            "Blue",
+            "Green",
+            "Black"
+        ],
+        "answer": "Blue",
+        "explanation": "Copper(II) hydroxide, Cu(OH)₂, typically forms as a pale blue or bluish-green gelatinous precipitate when a base is added to a Cu²⁺ solution."
+    },
+    {
+        "question": "Q131. What colour precipitate is Iron(III) hydroxide, Fe(OH)₃?",
+        "options": [
+            "Reddish-brown",
+            "Green",
+            "White",
+            "Black"
+        ],
+        "answer": "Reddish-brown",
+        "explanation": "Iron(III) hydroxide, Fe(OH)₃, forms as a characteristic reddish-brown gelatinous precipitate when a base is added to an Fe³⁺ solution."
+    },
+    {
+        "question": "Q132. Reaction of Aluminium Chloride (AlCl₃) with Ammonium Hydroxide (NH₄OH) gives a precipitate of:",
+        "options": [
+            "Al(OH)₃ (Gelatinous white)",
+            "NH₄Cl (Soluble)",
+            "Al(NH₄)₃",
+            "ClOH"
+        ],
+        "answer": "Al(OH)₃ (Gelatinous white)",
+        "explanation": "AlCl₃(aq) + 3NH₄OH(aq) → Al(OH)₃(s) + 3NH₄Cl(aq). Aluminium hydroxide (Al(OH)₃) is insoluble and forms as a gelatinous white precipitate. Ammonium chloride is soluble."
+    },
+    {
+        "question": "Q133. What drives a double displacement reaction to completion?",
+        "options": [
+            "Formation of a precipitate",
+            "Formation of a gas",
+            "Formation of water (neutralization)",
+            "All of the above"
+        ],
+        "answer": "All of the above",
+        "explanation": "Double displacement reactions proceed if one of the products is removed from the solution, either as an insoluble solid (precipitate), an escaping gas, or a weakly ionized molecule like water (in neutralization). This shifts the equilibrium forward."
+    },
+    {
+        "question": "Q134. Select the reactants that would form Lead(II) Sulphate precipitate.",
+        "options": [
+            "Pb(NO₃)₂(aq) + Na₂SO₄(aq)",
+            "PbCl₂(aq) + K₂SO₄(aq)",
+            "Both A and B",
+            "Neither A nor B"
+        ],
+        "answer": "Both A and B",
+        "explanation": "Lead(II) Sulphate (PbSO₄) is an insoluble white precipitate. Reaction A involves Pb²⁺ and SO₄²⁻ ions, forming PbSO₄. Reaction B also involves Pb²⁺ and SO₄²⁻ ions, forming PbSO₄. (Note: PbCl₂ has limited solubility, but enough Pb²⁺ is present in solution)."
+    },
+    {
+        "question": "Q135. What is the physical state of BaSO₄ formed in the reaction BaCl₂(aq) + Na₂SO₄(aq) → BaSO₄(?) + 2NaCl(aq)?",
+        "options": [
+            "(g)",
+            "(l)",
+            "(s)",
+            "(aq)"
+        ],
+        "answer": "(s)",
+        "explanation": "Barium sulphate (BaSO₄) is insoluble in water, meaning it forms as a solid precipitate. Its state symbol is (s)."
+    },
+    {
+        "question": "Q136. In a double displacement reaction between two ionic compounds in aqueous solution, what usually happens?",
+        "options": [
+            "Electrons are transferred",
+            "Cations swap places with anions",
+            "The positive ions (cations) swap partners (anions)",
+            "A single element displaces another"
+        ],
+        "answer": "The positive ions (cations) swap partners (anions)",
+        "explanation": "The defining feature of double displacement is the exchange of ions. The cation from the first compound pairs with the anion from the second, and vice versa. AB + CD → AD + CB."
+    },
+    {
+        "question": "Q137. Which is NOT typically a product that drives a double displacement reaction?",
+        "options": [
+            "An insoluble solid (precipitate)",
+            "A soluble ionic compound remaining in solution",
+            "A gas that escapes",
+            "Water (in neutralization)"
+        ],
+        "answer": "A soluble ionic compound remaining in solution",
+        "explanation": "For a double displacement reaction to occur effectively, at least one product must be removed from the ionic equilibrium. This happens if a precipitate forms (insoluble solid), a gas escapes, or a stable molecule like water forms. A soluble ionic compound remaining in solution means the ions are still dissociated and the reaction may not proceed significantly or might be reversible."
+    }
+]

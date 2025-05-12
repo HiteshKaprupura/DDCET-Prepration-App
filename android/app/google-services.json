@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817504572452",
+    "project_id": "ddcet-36b36",
+    "storage_bucket": "ddcet-36b36.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817504572452:android:32f6b41fea55ca5ad834b1",
+        "android_client_info": {
+          "package_name": "com.example.ddcet_preparation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIgADPeNEiCd_wwTMq4TSaPuyG4nyzb04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

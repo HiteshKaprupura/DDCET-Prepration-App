@@ -1,0 +1,1157 @@
+[
+    {
+        "question": "Q1. What does 'Internet' stand for?",
+        "options": [
+            "Internal Network",
+            "Interconnected Network",
+            "International Network",
+            "Interim Network"
+        ],
+        "answer": "Interconnected Network",
+        "explanation": "The Internet is a global system of interconnected computer networks that use the Internet Protocol suite (TCP/IP) to link devices worldwide."
+    },
+    {
+        "question": "Q2. What is the World Wide Web (WWW)?",
+        "options": [
+            "The same thing as the Internet",
+            "A system of interconnected documents and resources accessed via the Internet",
+            "A type of computer hardware",
+            "A global network of computers"
+        ],
+        "answer": "A system of interconnected documents and resources accessed via the Internet",
+        "explanation": "The WWW is one of the services that runs on the Internet. It uses HTTP to transfer web pages (documents formatted in HTML) and other resources linked by URLs."
+    },
+    {
+        "question": "Q3. Which software application is used to access and view websites on the World Wide Web?",
+        "options": [
+            "Word Processor",
+            "Web Browser",
+            "Operating System",
+            "Email Client"
+        ],
+        "answer": "Web Browser",
+        "explanation": "Web browsers like Google Chrome, Mozilla Firefox, Safari, and Microsoft Edge interpret HTML and other web technologies to display web pages."
+    },
+    {
+        "question": "Q4. What does URL stand for?",
+        "options": [
+            "Universal Resource Link",
+            "Uniform Resource Locator",
+            "Universal Resource Locator",
+            "Uniform Resource Linker"
+        ],
+        "answer": "Uniform Resource Locator",
+        "explanation": "A URL is the unique address used to locate a specific resource (like a web page, image, or file) on the internet."
+    },
+    {
+        "question": "Q5. Which part of the URL 'http://www.example.com/index.html' represents the protocol?",
+        "options": [
+            "http",
+            "www",
+            "example.com",
+            "index.html"
+        ],
+        "answer": "http",
+        "explanation": "The protocol (e.g., http, https, ftp) specifies the set of rules used to retrieve the resource."
+    },
+    {
+        "question": "Q6. Which part of the URL 'http://www.example.com/index.html' represents the domain name?",
+        "options": [
+            "http",
+            "www",
+            "example.com",
+            "index.html"
+        ],
+        "answer": "example.com",
+        "explanation": "The domain name identifies the specific website or server hosting the resource. 'www' is often a subdomain."
+    },
+    {
+        "question": "Q7. What does HTTP stand for?",
+        "options": [
+            "HyperText Transfer Protocol",
+            "HyperText Transmission Protocol",
+            "High Tech Transfer Protocol",
+            "Hyper Transfer Text Protocol"
+        ],
+        "answer": "HyperText Transfer Protocol",
+        "explanation": "HTTP is the underlying protocol used by the World Wide Web for transferring web pages and other resources between clients (browsers) and servers."
+    },
+    {
+        "question": "Q8. What does the 'S' in HTTPS stand for?",
+        "options": [
+            "System",
+            "Secure",
+            "Server",
+            "Standard"
+        ],
+        "answer": "Secure",
+        "explanation": "HTTPS (HyperText Transfer Protocol Secure) means the communication between your browser and the website server is encrypted for security."
+    },
+    {
+        "question": "Q9. What is the main function of DNS (Domain Name System)?",
+        "options": [
+            "To transfer files",
+            "To send emails",
+            "To translate human-readable domain names into numerical IP addresses",
+            "To secure web connections"
+        ],
+        "answer": "To translate human-readable domain names into numerical IP addresses",
+        "explanation": "DNS acts like the phonebook of the Internet, allowing users to access websites using easy-to-remember names instead of complex IP addresses."
+    },
+    {
+        "question": "Q10. What is an IP Address?",
+        "options": [
+            "A website's name",
+            "A unique numerical label assigned to each device connected to a computer network",
+            "A type of internet connection",
+            "A security protocol"
+        ],
+        "answer": "A unique numerical label assigned to each device connected to a computer network",
+        "explanation": "An IP (Internet Protocol) address serves to identify a device on a network and allows data packets to be routed to it."
+    },
+    {
+        "question": "Q11. Which organization provides connection to the Internet?",
+        "options": [
+            "Web Browser",
+            "Search Engine",
+            "ISP (Internet Service Provider)",
+            "DNS Server"
+        ],
+        "answer": "ISP (Internet Service Provider)",
+        "explanation": "ISPs are companies (like Comcast, AT&T, Jio, Airtel) that provide individuals and organizations access to the Internet and related services."
+    },
+    {
+        "question": "Q12. What is a Search Engine?",
+        "options": [
+            "A type of web browser",
+            "A hardware device for internet connection",
+            "A software system designed to search for information on the World Wide Web",
+            "An email service provider"
+        ],
+        "answer": "A software system designed to search for information on the World Wide Web",
+        "explanation": "Search engines like Google, Bing, and DuckDuckGo index web pages and allow users to find relevant information using keywords."
+    },
+    {
+        "question": "Q13. In a client-server model, what is the role of the client?",
+        "options": [
+            "To store all the data",
+            "To provide services and resources",
+            "To request services or resources from a server",
+            "To manage the network connection"
+        ],
+        "answer": "To request services or resources from a server",
+        "explanation": "The client (e.g., your web browser) initiates requests, and the server (e.g., the web server hosting a site) responds to those requests."
+    },
+    {
+        "question": "Q14. What does 'uploading' mean in the context of the internet?",
+        "options": [
+            "Receiving data from the internet to your device",
+            "Sending data from your device to the internet (e.g., to a server)",
+            "Searching for information online",
+            "Connecting to the internet"
+        ],
+        "answer": "Sending data from your device to the internet (e.g., to a server)",
+        "explanation": "Uploading involves transferring files or data from a local computer to a remote computer or server."
+    },
+    {
+        "question": "Q15. What does 'downloading' mean?",
+        "options": [
+            "Sending data from your device to the internet",
+            "Receiving data from the internet (e.g., from a server) to your device",
+            "Deleting files from the internet",
+            "Creating a website"
+        ],
+        "answer": "Receiving data from the internet (e.g., from a server) to your device",
+        "explanation": "Downloading involves transferring files or data from a remote computer or server to a local computer."
+    },
+    {
+        "question": "Q16. Which protocol is commonly used for sending email?",
+        "options": [
+            "HTTP",
+            "FTP",
+            "SMTP",
+            "POP3"
+        ],
+        "answer": "SMTP",
+        "explanation": "SMTP (Simple Mail Transfer Protocol) is the standard protocol for sending email messages between servers."
+    },
+    {
+        "question": "Q17. Which protocols are commonly used for receiving email?",
+        "options": [
+            "HTTP and HTTPS",
+            "FTP and SFTP",
+            "SMTP and DNS",
+            "POP3 and IMAP"
+        ],
+        "answer": "POP3 and IMAP",
+        "explanation": "POP3 (Post Office Protocol 3) and IMAP (Internet Message Access Protocol) are used by email clients to retrieve emails from a mail server."
+    },
+    {
+        "question": "Q18. What is 'Cloud Computing'?",
+        "options": [
+            "Using weather prediction software",
+            "Storing files only on your local computer",
+            "Delivering computing services over the Internet",
+            "A type of network cable"
+        ],
+        "answer": "Delivering computing services over the Internet",
+        "explanation": "Cloud computing involves accessing resources like storage, servers, databases, and software hosted on remote servers via the internet ('the cloud')."
+    },
+    {
+        "question": "Q19. Which network type typically covers the smallest geographical area, like a single room or building?",
+        "options": [
+            "WAN (Wide Area Network)",
+            "MAN (Metropolitan Area Network)",
+            "LAN (Local Area Network)",
+            "Internet"
+        ],
+        "answer": "LAN (Local Area Network)",
+        "explanation": "LANs connect devices within a limited physical space, such as a home, office, or school campus."
+    },
+    {
+        "question": "Q20. Which network type spans large geographical areas, often connecting cities or countries?",
+        "options": [
+            "LAN (Local Area Network)",
+            "PAN (Personal Area Network)",
+            "WAN (Wide Area Network)",
+            "WLAN (Wireless Local Area Network)"
+        ],
+        "answer": "WAN (Wide Area Network)",
+        "explanation": "WANs connect multiple LANs over long distances. The Internet itself is the largest example of a WAN."
+    },
+    {
+        "question": "Q21. Which hardware device connects a LAN to the internet and directs traffic between networks?",
+        "options": [
+            "Switch",
+            "Hub",
+            "Router",
+            "Modem"
+        ],
+        "answer": "Router",
+        "explanation": "A router determines the best path for data packets to travel between different networks, such as your home network and your ISP's network."
+    },
+    {
+        "question": "Q22. Which hardware device modulates and demodulates signals to allow computers to communicate over telephone or cable lines?",
+        "options": [
+            "Router",
+            "Switch",
+            "Network Card",
+            "Modem"
+        ],
+        "answer": "Modem",
+        "explanation": "A modem converts the digital signals from your computer into analog signals suitable for transmission over older infrastructure and vice-versa."
+    },
+    {
+        "question": "Q23. What does FTP stand for?",
+        "options": [
+            "File Transfer Protocol",
+            "File Transmission Program",
+            "Fast Transfer Protocol",
+            "File Text Protocol"
+        ],
+        "answer": "File Transfer Protocol",
+        "explanation": "FTP is a standard network protocol used for transferring computer files between a client and server on a computer network."
+    },
+    {
+        "question": "Q24. What is the purpose of a firewall?",
+        "options": [
+            "To increase internet speed",
+            "To store website data",
+            "To block unauthorized access to or from a private network",
+            "To translate domain names"
+        ],
+        "answer": "To block unauthorized access to or from a private network",
+        "explanation": "A firewall acts as a security barrier, monitoring and controlling network traffic based on predefined security rules."
+    },
+    {
+        "question": "Q25. An attempt to trick someone into revealing sensitive information online is called:",
+        "options": [
+            "Spamming",
+            "Phishing",
+            "Hacking",
+            "Downloading"
+        ],
+        "answer": "Phishing",
+        "explanation": "Phishing attacks often use deceptive emails or websites to lure victims into providing passwords, credit card numbers, etc."
+    },
+    {
+        "question": "Q26. What does HTML stand for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "High Tech Modern Language",
+            "Hyper Transfer Markup Language",
+            "Hyper Tool Makeup Language"
+        ],
+        "answer": "Hyper Text Markup Language",
+        "explanation": "HTML is the standard markup language used to create the structure and content of web pages."
+    },
+    {
+        "question": "Q27. What is the primary purpose of HTML?",
+        "options": [
+            "To style web pages",
+            "To add interactivity to web pages",
+            "To structure the content of web pages",
+            "To manage databases"
+        ],
+        "answer": "To structure the content of web pages",
+        "explanation": "HTML uses tags to define elements like headings, paragraphs, images, and links, giving semantic structure to the content."
+    },
+    {
+        "question": "Q28. Which tag is used to define the main content of an HTML document?",
+        "options": [
+            "<html>",
+            "<head>",
+            "<body>",
+            "<title>"
+        ],
+        "answer": "<body>",
+        "explanation": "The content visible to the user in the browser window (text, images, links, etc.) is placed within the <body> tags."
+    },
+    {
+        "question": "Q29. Which tag contains meta-information about the HTML document, like the title and links to stylesheets?",
+        "options": [
+            "<html>",
+            "<head>",
+            "<body>",
+            "<footer>"
+        ],
+        "answer": "<head>",
+        "explanation": "The <head> section contains information about the document itself, which is not directly displayed on the page (except for the <title>)."
+    },
+    {
+        "question": "Q30. What tag is used to define the title that appears in the browser tab or window title bar?",
+        "options": [
+            "<head>",
+            "<h1>",
+            "<title>",
+            "<meta>"
+        ],
+        "answer": "<title>",
+        "explanation": "The content inside the <title> tag, placed within the <head> section, defines the document's title."
+    },
+    {
+        "question": "Q31. Which tag represents the root element of an HTML page?",
+        "options": [
+            "<body>",
+            "<head>",
+            "<html>",
+            "DOCTYPE"
+        ],
+        "answer": "<html>",
+        "explanation": "The <html> tag encloses all other content on the entire page (except for the <!DOCTYPE> declaration)."
+    },
+    {
+        "question": "Q32. What is the correct HTML tag for the largest heading?",
+        "options": [
+            "<heading>",
+            "<h6>",
+            "<head>",
+            "<h1>"
+        ],
+        "answer": "<h1>",
+        "explanation": "HTML provides six levels of headings, <h1> through <h6>. <h1> represents the most important/largest heading, and <h6> the least important/smallest."
+    },
+    {
+        "question": "Q33. Which tag is used to define a paragraph?",
+        "options": [
+            "<para>",
+            "<p>",
+            "<paragraph>",
+            "<pg>"
+        ],
+        "answer": "<p>",
+        "explanation": "The <p> tag defines a block of text as a paragraph."
+    },
+    {
+        "question": "Q34. Which tag is used to create a hyperlink?",
+        "options": [
+            "<link>",
+            "<href>",
+            "<a>",
+            "<hyperlink>"
+        ],
+        "answer": "<a>",
+        "explanation": "The <a> tag (anchor tag) defines a hyperlink, used to link from one page to another or to a location within the same page."
+    },
+    {
+        "question": "Q35. Which attribute is used within the <a> tag to specify the URL of the page the link goes to?",
+        "options": [
+            "src",
+            "link",
+            "url",
+            "href"
+        ],
+        "answer": "href",
+        "explanation": "The 'href' (hypertext reference) attribute specifies the destination address of the link. Example: <a href=\"https://www.example.com\">Visit Example</a>."
+    },
+    {
+        "question": "Q36. Which tag is used to embed an image in an HTML page?",
+        "options": [
+            "<image>",
+            "<img>",
+            "<pic>",
+            "<picture>"
+        ],
+        "answer": "<img>",
+        "explanation": "The <img> tag is used to display images. It is an empty tag (no closing tag needed in HTML5)."
+    },
+    {
+        "question": "Q37. Which attribute specifies the path (URL) to the image file in an <img> tag?",
+        "options": [
+            "href",
+            "link",
+            "src",
+            "alt"
+        ],
+        "answer": "src",
+        "explanation": "The 'src' (source) attribute provides the URL or file path of the image to be displayed. Example: <img src=\"image.jpg\">."
+    },
+    {
+        "question": "Q38. What is the purpose of the 'alt' attribute in an <img> tag?",
+        "options": [
+            "To specify image alignment",
+            "To provide alternative text if the image cannot be displayed",
+            "To set the image width",
+            "To link the image to another page"
+        ],
+        "answer": "To provide alternative text if the image cannot be displayed",
+        "explanation": "The 'alt' attribute provides text that describes the image, which is shown if the image fails to load and is important for accessibility (screen readers)."
+    },
+    {
+        "question": "Q39. Which tag is used to create an unordered (bulleted) list?",
+        "options": [
+            "<ol>",
+            "<li>",
+            "<ul>",
+            "<list>"
+        ],
+        "answer": "<ul>",
+        "explanation": "The <ul> tag defines an unordered list. List items within it are defined using <li> tags."
+    },
+    {
+        "question": "Q40. Which tag is used to create an ordered (numbered) list?",
+        "options": [
+            "<ul>",
+            "<li>",
+            "<ol>",
+            "<numlist>"
+        ],
+        "answer": "<ol>",
+        "explanation": "The <ol> tag defines an ordered list. List items within it are defined using <li> tags and are typically numbered automatically."
+    },
+    {
+        "question": "Q41. Which tag defines a list item within both ordered (ol) and unordered (ul) lists?",
+        "options": [
+            "<item>",
+            "<li>",
+            "<dd>",
+            "<dt>"
+        ],
+        "answer": "<li>",
+        "explanation": "The <li> tag represents an individual item within a list defined by <ul> or <ol>."
+    },
+    {
+        "question": "Q42. HTML tags are enclosed within which characters?",
+        "options": [
+            "{}",
+            "[]",
+            "<>",
+            "()"
+        ],
+        "answer": "<>",
+        "explanation": "HTML tags consist of an element name surrounded by angle brackets, like <p> or <img>."
+    },
+    {
+        "question": "Q43. What does the <!DOCTYPE html> declaration do?",
+        "options": [
+            "Creates the main heading",
+            "Defines the document character set",
+            "Informs the browser that the document is an HTML5 document",
+            "Embeds an image"
+        ],
+        "answer": "Informs the browser that the document is an HTML5 document",
+        "explanation": "The DOCTYPE declaration is not an HTML tag but an instruction to the browser about the document type, ensuring it renders the page correctly according to standards."
+    },
+    {
+        "question": "Q44. How do you insert a comment in HTML?",
+        "options": [
+            "// This is a comment",
+            "/* This is a comment */",
+            "<!-- This is a comment -->",
+            "# This is a comment"
+        ],
+        "answer": "<!-- This is a comment -->",
+        "explanation": "HTML comments start with <!-- and end with -->. They are ignored by the browser but can be useful for developers."
+    },
+    {
+        "question": "Q45. Which tag is used to define a division or section in an HTML document, often used for styling with CSS?",
+        "options": [
+            "<section>",
+            "<span>",
+            "<div>",
+            "<group>"
+        ],
+        "answer": "<div>",
+        "explanation": "The <div> tag is a generic block-level container used to group other HTML elements, commonly used as a hook for CSS styling or JavaScript manipulation."
+    },
+    {
+        "question": "Q46. Which tag is used as an inline container for phrasing content, often used for styling parts of text?",
+        "options": [
+            "<div>",
+            "<span>",
+            "<p>",
+            "<inline>"
+        ],
+        "answer": "<span>",
+        "explanation": "The <span> tag is a generic inline container, typically used to apply styles (via CSS) or target specific parts of text within a larger block element like a paragraph."
+    },
+    {
+        "question": "Q47. Which tag is used to define a table?",
+        "options": [
+            "<tab>",
+            "<table>",
+            "<grid>",
+            "<tbl>"
+        ],
+        "answer": "<table>",
+        "explanation": "The <table> tag is the main container for creating tabular data."
+    },
+    {
+        "question": "Q48. Which tag defines a row within an HTML table?",
+        "options": [
+            "<td>",
+            "<th>",
+            "<tr>",
+            "<trow>"
+        ],
+        "answer": "<tr>",
+        "explanation": "The <tr> (table row) tag defines a horizontal row of cells within a table."
+    },
+    {
+        "question": "Q49. Which tag defines a standard data cell within an HTML table?",
+        "options": [
+            "<tr>",
+            "<th>",
+            "<cell>",
+            "<td>"
+        ],
+        "answer": "<td>",
+        "explanation": "The <td> (table data) tag defines a cell containing data within a table row."
+    },
+    {
+        "question": "Q50. Which tag defines a header cell within an HTML table?",
+        "options": [
+            "<td>",
+            "<th>",
+            "<headcell>",
+            "<thead>"
+        ],
+        "answer": "<th>",
+        "explanation": "The <th> (table header) tag defines a cell that acts as a header for a group of table cells (usually displayed as bold and centered)."
+    },
+    {
+        "question": "Q51. Which tag is used to create an HTML form for user input?",
+        "options": [
+            "<input>",
+            "<form>",
+            "<button>",
+            "<fieldset>"
+        ],
+        "answer": "<form>",
+        "explanation": "The <form> tag is used as a container for form controls like text fields, checkboxes, radio buttons, and submit buttons."
+    },
+    {
+        "question": "Q52. Which tag is used to create various types of input fields within a form (e.g., text box, password, checkbox)?",
+        "options": [
+            "<form>",
+            "<input>",
+            "<select>",
+            "<textarea>"
+        ],
+        "answer": "<input>",
+        "explanation": "The <input> tag is versatile and uses the 'type' attribute to specify the kind of input control (e.g., type=\"text\", type=\"password\", type=\"checkbox\", type=\"submit\")."
+    },
+    {
+        "question": "Q53. Which attribute of the <form> tag specifies where to send the form data when submitted?",
+        "options": [
+            "method",
+            "target",
+            "action",
+            "src"
+        ],
+        "answer": "action",
+        "explanation": "The 'action' attribute contains the URL of the server-side script or endpoint that will process the submitted form data."
+    },
+    {
+        "question": "Q54. Which attribute of the <form> tag specifies the HTTP method (GET or POST) to use when submitting?",
+        "options": [
+            "action",
+            "method",
+            "enctype",
+            "target"
+        ],
+        "answer": "method",
+        "explanation": "The 'method' attribute defines how the form data is sent. GET appends data to the URL, while POST sends it in the HTTP request body."
+    },
+    {
+        "question": "Q55. Which input type creates a clickable button that submits the form?",
+        "options": [
+            "<input type=\"button\">",
+            "<input type=\"text\">",
+            "<input type=\"submit\">",
+            "<input type=\"reset\">"
+        ],
+        "answer": "<input type=\"submit\">",
+        "explanation": "An input element with type=\"submit\" renders as a button that, when clicked, submits the enclosing form's data."
+    },
+    {
+        "question": "Q56. Which tag creates a multi-line text input area?",
+        "options": [
+            "<input type=\"text\">",
+            "<input type=\"multiline\">",
+            "<textarea>",
+            "<textbox>"
+        ],
+        "answer": "<textarea>",
+        "explanation": "The <textarea> tag defines a control for entering multiple lines of text."
+    },
+    {
+        "question": "Q57. Which tag is used to create a drop-down list?",
+        "options": [
+            "<input type=\"dropdown\">",
+            "<list>",
+            "<select>",
+            "<option>"
+        ],
+        "answer": "<select>",
+        "explanation": "The <select> tag creates a drop-down list. Individual items within the list are defined using <option> tags nested inside <select>."
+    },
+    {
+        "question": "Q58. Which attribute provides additional information about an HTML element and is always specified in the start tag?",
+        "options": [
+            "Tag",
+            "Element",
+            "Attribute",
+            "Value"
+        ],
+        "answer": "Attribute",
+        "explanation": "Attributes modify or provide extra details about elements. They appear as name=\"value\" pairs within the opening tag (e.g., <img src=\"pic.jpg\">)."
+    },
+    {
+        "question": "Q59. Which HTML tag is used to define emphasized text, typically displayed in italics?",
+        "options": [
+            "<i>",
+            "<em>",
+            "<italic>",
+            "<strong>"
+        ],
+        "answer": "<em>",
+        "explanation": "The <em> (emphasis) tag indicates stress emphasis semantically. While browsers usually render it as italics, <i> is purely presentational italics."
+    },
+    {
+        "question": "Q60. Which HTML tag is used to define strongly important text, typically displayed in bold?",
+        "options": [
+            "<b>",
+            "<bold>",
+            "<em>",
+            "<strong>"
+        ],
+        "answer": "<strong>",
+        "explanation": "The <strong> tag indicates strong importance semantically. While browsers usually render it as bold, <b> is purely presentational bold."
+    },
+    {
+        "question": "Q61. What is the purpose of semantic HTML tags like <header>, <footer>, <nav>, <article>, <section>?",
+        "options": [
+            "To make the text bold or italic",
+            "To define the structure and meaning of web content more clearly",
+            "To create hyperlinks",
+            "To embed images"
+        ],
+        "answer": "To define the structure and meaning of web content more clearly",
+        "explanation": "Semantic tags describe the meaning of the content they enclose (e.g., <nav> contains navigation links), improving accessibility, SEO, and code readability compared to generic <div> tags."
+    },
+    {
+        "question": "Q62. Which tag represents the main navigation links for a website?",
+        "options": [
+            "<header>",
+            "<menu>",
+            "<nav>",
+            "<aside>"
+        ],
+        "answer": "<nav>",
+        "explanation": "The <nav> tag is specifically intended to contain the primary navigation block for a site or section."
+    },
+    {
+        "question": "Q63. Which tag typically contains introductory content or navigational aids at the top of a page or section?",
+        "options": [
+            "<header>",
+            "<footer>",
+            "<main>",
+            "<article>"
+        ],
+        "answer": "<header>",
+        "explanation": "The <header> element represents introductory content, often containing headings, logos, search forms, or navigation."
+    },
+    {
+        "question": "Q64. Which tag typically contains closing information like copyright notices or contact details at the bottom of a page or section?",
+        "options": [
+            "<header>",
+            "<footer>",
+            "<bottom>",
+            "<info>"
+        ],
+        "answer": "<footer>",
+        "explanation": "The <footer> element represents the footer for its nearest sectioning content or root element."
+    },
+    {
+        "question": "Q65. Which tag represents a self-contained piece of content that could potentially be distributed independently, like a blog post or news article?",
+        "options": [
+            "<section>",
+            "<aside>",
+            "<article>",
+            "<div>"
+        ],
+        "answer": "<article>",
+        "explanation": "An <article> should make sense on its own and be suitable for syndication."
+    },
+    {
+        "question": "Q66. Which attribute is often used to uniquely identify an HTML element (used for CSS and JavaScript)?",
+        "options": [
+            "class",
+            "name",
+            "id",
+            "type"
+        ],
+        "answer": "id",
+        "explanation": "An 'id' attribute must be unique within the entire HTML document and provides a way to target a specific element."
+    },
+    {
+        "question": "Q67. Which attribute is used to specify one or more class names for an element (used for CSS styling)?",
+        "options": [
+            "id",
+            "class",
+            "style",
+            "group"
+        ],
+        "answer": "class",
+        "explanation": "The 'class' attribute allows multiple elements to share the same class name(s), enabling consistent styling via CSS."
+    },
+    {
+        "question": "Q68. How can you apply inline styles directly to an HTML element?",
+        "options": [
+            "Using the <style> tag inside the element",
+            "Using the 'css' attribute",
+            "Using the 'style' attribute",
+            "Using the 'link' attribute"
+        ],
+        "answer": "Using the 'style' attribute",
+        "explanation": "The 'style' attribute allows you to add CSS declarations directly within the HTML tag. Example: <p style=\"color:blue; font-size:16px;\">."
+    },
+    {
+        "question": "Q69. Which tag is used to link an external CSS stylesheet to an HTML document?",
+        "options": [
+            "<style>",
+            "<script>",
+            "<link>",
+            "<css>"
+        ],
+        "answer": "<link>",
+        "explanation": "The <link> tag, placed within the <head> section, is used to link external resources, most commonly CSS files (e.g., <link rel=\"stylesheet\" href=\"styles.css\">)."
+    },
+    {
+        "question": "Q70. Is HTML a programming language?",
+        "options": [
+            "Yes, it is used for complex logic",
+            "No, it is a markup language used for structuring content",
+            "Yes, it is used for server-side scripting",
+            "No, it is only used for styling"
+        ],
+        "answer": "No, it is a markup language used for structuring content",
+        "explanation": "HTML describes the structure and semantics of content. It does not have programming logic like loops, conditions, or variables. Languages like JavaScript add programming capabilities to web pages."
+    },
+    {
+        "question": "Q71. What does CSS stand for?",
+        "options": [
+            "Cascading Style Sheets",
+            "Computer Style Sheets",
+            "Creative Style Sheets",
+            "Colorful Style Sheets"
+        ],
+        "answer": "Cascading Style Sheets",
+        "explanation": "CSS is a stylesheet language used to describe the presentation (look and formatting) of a document written in HTML or XML."
+    },
+    {
+        "question": "Q72. Can you nest HTML tables (put a table inside a table cell)?",
+        "options": [
+            "No, it is forbidden by HTML standards",
+            "Yes, but it is generally discouraged for layout",
+            "Yes, it is the recommended way to create complex layouts",
+            "Only if using specific table attributes"
+        ],
+        "answer": "Yes, but it is generally discouraged for layout",
+        "explanation": "While technically possible to nest tables, using CSS for layout is the modern and preferred approach for better structure, accessibility, and maintainability. Tables should primarily be used for tabular data."
+    },
+    {
+        "question": "Q73. Which HTML element is used to specify a self-contained section of a document?",
+        "options": [
+            "<article>",
+            "<section>",
+            "<aside>",
+            "<div>"
+        ],
+        "answer": "<section>",
+        "explanation": "The <section> tag represents a thematic grouping of content, typically with a heading. It's more specific than <div> but less specific than <article>."
+    },
+    {
+        "question": "Q74. Which HTML element represents content that is tangentially related to the content around it (like a sidebar)?",
+        "options": [
+            "<section>",
+            "<article>",
+            "<aside>",
+            "<sidebar>"
+        ],
+        "answer": "<aside>",
+        "explanation": "The <aside> element is often used for sidebars, pull quotes, or advertising that relates indirectly to the main content."
+    },
+    {
+        "question": "Q75. What is the default display type for a <div> element?",
+        "options": [
+            "inline",
+            "block",
+            "inline-block",
+            "none"
+        ],
+        "answer": "block",
+        "explanation": "Block-level elements typically start on a new line and take up the full width available (e.g., <div>, <p>, <h1>)."
+    },
+    {
+        "question": "Q76. What is the default display type for a <span> element?",
+        "options": [
+            "inline",
+            "block",
+            "inline-block",
+            "none"
+        ],
+        "answer": "inline",
+        "explanation": "Inline elements do not start on a new line and only take up as much width as necessary (e.g., <span>, <a>, <img>, <em>, <strong>)."
+    },
+    {
+        "question": "Q77. Which input type allows the user to select one option from a predefined set (only one can be selected in a group)?",
+        "options": [
+            "<input type=\"checkbox\">",
+            "<input type=\"text\">",
+            "<input type=\"radio\">",
+            "<input type=\"select\">"
+        ],
+        "answer": "<input type=\"radio\">",
+        "explanation": "Radio buttons (type=\"radio\") within the same group (sharing the same 'name' attribute) allow only a single selection."
+    },
+    {
+        "question": "Q78. Which input type allows the user to select zero or more options from a predefined set?",
+        "options": [
+            "<input type=\"checkbox\">",
+            "<input type=\"radio\">",
+            "<input type=\"list\">",
+            "<input type=\"text\">"
+        ],
+        "answer": "<input type=\"checkbox\">",
+        "explanation": "Checkboxes (type=\"checkbox\") allow users to select multiple options independently."
+    },
+    {
+        "question": "Q79. Which tag is used to define preformatted text, preserving spaces and line breaks?",
+        "options": [
+            "<p>",
+            "<block>",
+            "<pre>",
+            "<code>"
+        ],
+        "answer": "<pre>",
+        "explanation": "The <pre> (preformatted text) tag displays content exactly as written in the HTML source code, including whitespace and line breaks, often using a monospace font."
+    },
+    {
+        "question": "Q80. Which tag is used to define a piece of computer code?",
+        "options": [
+            "<pre>",
+            "<kbd>",
+            "<samp>",
+            "<code>"
+        ],
+        "answer": "<code>",
+        "explanation": "The <code> tag is used to semantically mark up a fragment of computer code, typically displayed in a monospace font."
+    },
+    {
+        "question": "Q81. What is the purpose of the 'target=\"_blank\"' attribute in an <a> tag?",
+        "options": [
+            "To open the link in the same window/tab",
+            "To open the link in a new window or tab",
+            "To open the link in the parent frame",
+            "To specify the link color"
+        ],
+        "answer": "To open the link in a new window or tab",
+        "explanation": "target=\"_blank\" tells the browser to load the linked document in a new browsing context (usually a new tab or window)."
+    },
+    {
+        "question": "Q82. Which tag defines the main content of the document, distinct from headers, footers, sidebars, and navigation?",
+        "options": [
+            "<body>",
+            "<article>",
+            "<section>",
+            "<main>"
+        ],
+        "answer": "<main>",
+        "explanation": "The <main> tag represents the dominant content of the <body>. There should only be one <main> element per document that is not hidden."
+    },
+    {
+        "question": "Q83. Which HTML version introduced semantic elements like <article>, <section>, <header>, <footer>?",
+        "options": [
+            "HTML 3.2",
+            "HTML 4.01",
+            "XHTML 1.0",
+            "HTML5"
+        ],
+        "answer": "HTML5",
+        "explanation": "HTML5 significantly expanded the language, adding new semantic elements to improve document structure and meaning."
+    },
+    {
+        "question": "Q84. Can you include CSS styles directly within the <head> section of an HTML document?",
+        "options": [
+            "No, styles must be in external files",
+            "Yes, using the <style> tag",
+            "Yes, using the <css> tag",
+            "No, styles only go in the <body>"
+        ],
+        "answer": "Yes, using the <style> tag",
+        "explanation": "Internal stylesheets can be defined within the <head> section by placing CSS rules inside a <style> tag."
+    },
+    {
+        "question": "Q85. Empty elements in HTML (like <img>, <br>, <hr>) typically:",
+        "options": [
+            "Have both an opening and closing tag",
+            "Do not have a closing tag",
+            "Must contain text content",
+            "Are used for structuring sections"
+        ],
+        "answer": "Do not have a closing tag",
+        "explanation": "Empty or void elements represent simple, self-contained items and do not enclose content, hence they don't require a separate closing tag in HTML5 (e.g., <br>, <hr>, <img>, <input>)."
+    },
+    {
+        "question": "Q86. Which tag inserts a line break?",
+        "options": [
+            "<lb>",
+            "<break>",
+            "<br>",
+            "<newline>"
+        ],
+        "answer": "<br>",
+        "explanation": "The <br> (line break) tag forces the subsequent content to start on the next line within the same block element (like a paragraph)."
+    },
+    {
+        "question": "Q87. Which tag inserts a thematic break or horizontal rule?",
+        "options": [
+            "<line>",
+            "<rule>",
+            "<hr>",
+            "<separator>"
+        ],
+        "answer": "<hr>",
+        "explanation": "The <hr> (horizontal rule) tag represents a paragraph-level thematic break, often displayed as a horizontal line."
+    },
+    {
+        "question": "Q88. What is the default method for submitting form data if the 'method' attribute is not specified?",
+        "options": [
+            "POST",
+            "GET",
+            "PUT",
+            "DELETE"
+        ],
+        "answer": "GET",
+        "explanation": "If the method attribute is omitted from the <form> tag, the browser defaults to using the GET method."
+    },
+    {
+        "question": "Q89. Which HTML entity is used to display a less-than sign (<)?",
+        "options": [
+            "<",
+            ">",
+            "&",
+            ""
+        ],
+        "answer": "<",
+        "explanation": "Since '<' is used to start tags, you need to use the entity < (less than) to display it as literal text."
+    },
+    {
+        "question": "Q90. Which HTML entity is used to display a greater-than sign (>)?",
+        "options": [
+            "<",
+            ">",
+            "&",
+            "©"
+        ],
+        "answer": ">",
+        "explanation": "Similarly, to display the '>' character literally, use the entity > (greater than)."
+    },
+    {
+        "question": "Q91. Which HTML entity is used to display an ampersand (&)?",
+        "options": [
+            "<",
+            ">",
+            "&",
+            " "
+        ],
+        "answer": "&",
+        "explanation": "Since '&' starts an entity reference, use & (ampersand) to display a literal ampersand."
+    },
+    {
+        "question": "Q92. Which HTML entity is used to insert a non-breaking space?",
+        "options": [
+            "&",
+            " ",
+            "<",
+            "©"
+        ],
+        "answer": " ",
+        "explanation": "  (non-breaking space) prevents the browser from breaking a line at that space, keeping words together."
+    },
+    {
+        "question": "Q93. What is the file extension commonly used for HTML files?",
+        "options": [
+            ".css",
+            ".js",
+            ".html or .htm",
+            ".xml"
+        ],
+        "answer": ".html or .htm",
+        "explanation": "Web pages written in HTML are typically saved with the .html or (less commonly now) .htm extension."
+    },
+    {
+        "question": "Q94. Which attribute sets the character encoding for the HTML document?",
+        "options": [
+            "<meta charset=\"...\">",
+            "<meta encoding=\"...\">",
+            "<meta http-equiv=\"Content-Type\" content=\"...\">",
+            "<script charset=\"...\">"
+        ],
+        "answer": "<meta charset=\"...\">",
+        "explanation": "Placed within the <head>, <meta charset=\"UTF-8\"> is the standard way in HTML5 to declare the character encoding, ensuring text displays correctly."
+    },
+    {
+        "question": "Q95. Which HTML attribute makes an input field mandatory?",
+        "options": [
+            "mandatory",
+            "validate",
+            "required",
+            "needed"
+        ],
+        "answer": "required",
+        "explanation": "Adding the boolean attribute 'required' to an <input>, <select>, or <textarea> element prevents form submission if the field is empty."
+    },
+    {
+        "question": "Q96. Which input type provides a slider control?",
+        "options": [
+            "<input type=\"slider\">",
+            "<input type=\"range\">",
+            "<input type=\"number\">",
+            "<input type=\"level\">"
+        ],
+        "answer": "<input type=\"range\">",
+        "explanation": "The <input type=\"range\"> element allows users to select a value from a specified range using a slider."
+    },
+    {
+        "question": "Q97. Which input type allows the user to enter a date?",
+        "options": [
+            "<input type=\"calendar\">",
+            "<input type=\"date\">",
+            "<input type=\"day\">",
+            "<input type=\"datetime\">"
+        ],
+        "answer": "<input type=\"date\">",
+        "explanation": "The <input type=\"date\"> element provides a user interface for selecting a date (year, month, day), often appearing as a calendar picker."
+    },
+    {
+        "question": "Q98. What does W3C stand for?",
+        "options": [
+            "World Web Consortium",
+            "World Wide Web Consortium",
+            "Web World Consortium",
+            "World Wide Web Community"
+        ],
+        "answer": "World Wide Web Consortium",
+        "explanation": "The W3C is the main international standards organization for the World Wide Web, developing protocols and guidelines like HTML and CSS."
+    },
+    {
+        "question": "Q99. Which tag creates a clickable button that might not necessarily submit a form (often used with JavaScript)?",
+        "options": [
+            "<input type=\"submit\">",
+            "<input type=\"button\">",
+            "<button>",
+            "<a>"
+        ],
+        "answer": "<button>",
+        "explanation": "The <button> tag creates a more flexible button than <input type=\"button\"> or <input type=\"submit\">. Its default type is 'submit', but can be set to 'button' (for JavaScript actions) or 'reset'."
+    },
+    {
+        "question": "Q100. Are HTML tags case-sensitive?",
+        "options": [
+            "Yes, <h1> is different from <H1>",
+            "No, <h1> is the same as <H1>",
+            "Only attribute names are case-sensitive",
+            "Only attribute values are case-sensitive"
+        ],
+        "answer": "No, <h1> is the same as <H1>",
+        "explanation": "HTML tag and attribute names are case-insensitive according to the standard, although lowercase is the convention and recommended practice. Attribute values can sometimes be case-sensitive (e.g., IDs, classes)."
+    },
+    {
+        "question": "Q101. The structure of an HTML document is best described as a:",
+        "options": [
+            "Linear sequence of commands",
+            "Flat list of elements",
+            "Tree-like structure (DOM)",
+            "Grid system"
+        ],
+        "answer": "Tree-like structure (DOM)",
+        "explanation": "HTML documents are parsed by browsers into a Document Object Model (DOM), which represents the nested hierarchy of elements as a tree structure."
+    },
+    {
+        "question": "Q102. Which element contains all the visible content of an HTML document?",
+        "options": [
+            "<html>",
+            "<head>",
+            "<meta>",
+            "<body>"
+        ],
+        "answer": "<body>",
+        "explanation": "The <body> element acts as the container for all content intended for display in the main browser window."
+    },
+    {
+        "question": "Q103. Which tag should be used for short quotations?",
+        "options": [
+            "<quote>",
+            "<q>",
+            "<blockquote>",
+            "<quotation>"
+        ],
+        "answer": "<q>",
+        "explanation": "The <q> tag is used for short inline quotations. Browsers often add quotation marks automatically."
+    },
+    {
+        "question": "Q104. Which tag should be used for longer quotations that are displayed as block-level elements, often indented?",
+        "options": [
+            "<q>",
+            "<blockquote>",
+            "<quote>",
+            "<block>"
+        ],
+        "answer": "<blockquote>",
+        "explanation": "The <blockquote> tag is used for extended quotations that should be offset from the main text."
+    },
+    {
+        "question": "Q105. Which attribute is used to specify the language of the content within an element?",
+        "options": [
+            "language",
+            "charset",
+            "lang",
+            "locale"
+        ],
+        "answer": "lang",
+        "explanation": "The 'lang' attribute (e.g., <html lang=\"en\">) helps search engines and browsers understand the language of the page or a specific element, aiding accessibility and translation."
+    }
+]

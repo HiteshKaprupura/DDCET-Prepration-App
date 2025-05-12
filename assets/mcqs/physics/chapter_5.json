@@ -1,0 +1,1280 @@
+[
+    {
+        "question": "Q1. A wave that requires a material medium for its propagation is called a:",
+        "options": ["Mechanical wave", "Non-mechanical wave", "Electromagnetic wave", "Matter wave"],
+        "answer": "Mechanical wave",
+        "explanation": "Mechanical waves, like sound waves or waves on a string, need a medium (solid, liquid, or gas) to travel by disturbing its particles."
+    },
+    {
+        "question": "Q2. A wave that does not require a material medium for its propagation is called a:",
+        "options": ["Mechanical wave", "Transverse wave", "Longitudinal wave", "Non-mechanical wave (Electromagnetic wave)"],
+        "answer": "Non-mechanical wave (Electromagnetic wave)",
+        "explanation": "Non-mechanical waves, such as light and other electromagnetic waves, can travel through vacuum."
+    },
+    {
+        "question": "Q3. In which type of wave do the particles of the medium vibrate perpendicular to the direction of wave propagation?",
+        "options": ["Longitudinal wave", "Transverse wave", "Sound wave", "Stationary wave"],
+        "answer": "Transverse wave",
+        "explanation": "In transverse waves (e.g., light, wave on a string), particle displacement is perpendicular to the wave's direction of travel."
+    },
+    {
+        "question": "Q4. In which type of wave do the particles of the medium vibrate parallel to the direction of wave propagation?",
+        "options": ["Longitudinal wave", "Transverse wave", "Electromagnetic wave", "Progressive wave"],
+        "answer": "Longitudinal wave",
+        "explanation": "In longitudinal waves (e.g., sound waves in air), particle displacement is parallel to the wave's direction, creating compressions and rarefactions."
+    },
+    {
+        "question": "Q5. Sound waves in air are:",
+        "options": ["Transverse and mechanical", "Longitudinal and mechanical", "Transverse and non-mechanical", "Longitudinal and non-mechanical"],
+        "answer": "Longitudinal and mechanical",
+        "explanation": "Sound needs a medium (mechanical) and particles vibrate parallel to wave direction (longitudinal)."
+    },
+    {
+        "question": "Q6. Light waves are:",
+        "options": ["Transverse and mechanical", "Longitudinal and mechanical", "Transverse and non-mechanical (electromagnetic)", "Longitudinal and non-mechanical (electromagnetic)"],
+        "answer": "Transverse and non-mechanical (electromagnetic)",
+        "explanation": "Light does not need a medium (non-mechanical/electromagnetic) and the oscillations of electric and magnetic fields are perpendicular to the direction of propagation (transverse)."
+    },
+    {
+        "question": "Q7. A wave that transfers energy through a medium without the net transfer of matter is called a:",
+        "options": ["Stationary wave", "Progressive wave", "Mechanical wave", "Matter wave"],
+        "answer": "Progressive wave",
+        "explanation": "Progressive (or travelling) waves carry energy from one point to another through the medium."
+    },
+    {
+        "question": "Q8. A wave formed by the superposition of two identical progressive waves travelling in opposite directions is called a:",
+        "options": ["Transverse wave", "Longitudinal wave", "Progressive wave", "Stationary wave (Standing wave)"],
+        "answer": "Stationary wave (Standing wave)",
+        "explanation": "Stationary waves have points of zero amplitude (nodes) and maximum amplitude (antinodes), and energy is confined between the nodes."
+    },
+    {
+        "question": "Q9. Which of the following is NOT an example of a mechanical wave?",
+        "options": ["Sound wave", "Water wave", "Wave on a stretched string", "Radio wave"],
+        "answer": "Radio wave",
+        "explanation": "Radio waves are electromagnetic waves and do not require a material medium."
+    },
+    {
+        "question": "Q10. In stationary waves, the points of maximum displacement are called:",
+        "options": ["Nodes", "Antinodes", "Crests", "Troughs"],
+        "answer": "Antinodes",
+        "explanation": "Antinodes are points where the amplitude of oscillation is maximum in a standing wave."
+    },
+    {
+        "question": "Q11. The number of complete oscillations or cycles made by a wave particle per second is called:",
+        "options": ["Wavelength", "Frequency", "Periodic time", "Amplitude"],
+        "answer": "Frequency",
+        "explanation": "Frequency (f) measures how often the oscillation occurs, typically measured in Hertz (Hz)."
+    },
+    {
+        "question": "Q12. The distance between two consecutive points in the same phase of vibration (e.g., two consecutive crests or troughs) is called:",
+        "options": ["Wavelength", "Frequency", "Amplitude", "Period"],
+        "answer": "Wavelength",
+        "explanation": "Wavelength (λ) is the spatial period of the wave, the distance over which the wave's shape repeats."
+    },
+    {
+        "question": "Q13. The time taken for one complete oscillation or cycle of a wave particle is called:",
+        "options": ["Wavelength", "Frequency", "Periodic time (Period)", "Amplitude"],
+        "answer": "Periodic time (Period)",
+        "explanation": "Period (T) is the time duration of one full cycle of the wave."
+    },
+    {
+        "question": "Q14. The speed at which the wave disturbance propagates through the medium is called:",
+        "options": ["Particle speed", "Frequency", "Wave speed", "Amplitude"],
+        "answer": "Wave speed",
+        "explanation": "Wave speed (v) is how fast the wave pattern (energy/disturbance) travels."
+    },
+    {
+        "question": "Q15. The maximum displacement of a particle from its equilibrium position in a wave is called:",
+        "options": ["Wavelength", "Frequency", "Period", "Amplitude"],
+        "answer": "Amplitude",
+        "explanation": "Amplitude (A) represents the maximum extent of oscillation or vibration."
+    },
+    {
+        "question": "Q16. The SI unit of frequency is:",
+        "options": ["Second (s)", "Meter (m)", "Hertz (Hz)", "Meter per second (m/s)"],
+        "answer": "Hertz (Hz)",
+        "explanation": "Hertz (Hz) is defined as cycles per second (1 Hz = 1 s⁻¹)."
+    },
+    {
+        "question": "Q17. The SI unit of wavelength is:",
+        "options": ["Second (s)", "Meter (m)", "Hertz (Hz)", "Meter per second (m/s)"],
+        "answer": "Meter (m)",
+        "explanation": "Wavelength is a distance, so its SI unit is the meter (m)."
+    },
+    {
+        "question": "Q18. The SI unit of periodic time (Period) is:",
+        "options": ["Second (s)", "Meter (m)", "Hertz (Hz)", "Meter per second (m/s)"],
+        "answer": "Second (s)",
+        "explanation": "Period is a time duration, so its SI unit is the second (s)."
+    },
+    {
+        "question": "Q19. The intensity (I) of a wave is generally proportional to:",
+        "options": ["Amplitude (A)", "Square of amplitude (A²)", "Wavelength (λ)", "Frequency (f)"],
+        "answer": "Square of amplitude (A²)",
+        "explanation": "Intensity, which relates to the energy carried by the wave per unit area per unit time, is proportional to the square of the amplitude (I ∝ A²)."
+    },
+    {
+        "question": "Q20. Phase (φ) of a wave particle describes its:",
+        "options": ["Maximum displacement", "Speed of oscillation", "Position and direction of motion at a given instant", "Energy"],
+        "answer": "Position and direction of motion at a given instant",
+        "explanation": "Phase indicates the state of oscillation (position and direction of velocity) of a particle within its cycle."
+    },
+
+    {
+        "question": "Q21. The fundamental relationship between wave speed (v), frequency (f), and wavelength (λ) is:",
+        "options": ["v = f / λ", "v = λ / f", "v = f λ", "f = v λ"],
+        "answer": "v = f λ",
+        "explanation": "Wave speed equals frequency times wavelength. The wave travels one wavelength (λ) in one period (T), so v = λ/T. Since f = 1/T, v = fλ."
+    },
+    {
+        "question": "Q22. The relationship between frequency (f) and periodic time (T) is:",
+        "options": ["f = T", "f = 1 / T", "f = v T", "T = f"],
+        "answer": "f = 1 / T",
+        "explanation": "Frequency is the reciprocal of the period (number of cycles per second)."
+    },
+    {
+        "question": "Q23. If the frequency of a wave is doubled, while its speed remains constant, its wavelength becomes:",
+        "options": ["Double", "Half", "Same", "Four times"],
+        "answer": "Half",
+        "explanation": "From v = fλ, λ = v/f. If v is constant and f becomes 2f, then new wavelength λ' = v/(2f) = (1/2)(v/f) = λ/2."
+    },
+    {
+        "question": "Q24. If the wavelength of a wave is halved, while its speed remains constant, its frequency becomes:",
+        "options": ["Double", "Half", "Same", "One-fourth"],
+        "answer": "Double",
+        "explanation": "From v = fλ, f = v/λ. If v is constant and λ becomes λ/2, then new frequency f' = v/(λ/2) = 2(v/λ) = 2f."
+    },
+    {
+        "question": "Q25. The speed of a wave depends primarily on:",
+        "options": ["Its frequency", "Its wavelength", "Its amplitude", "The properties of the medium"],
+        "answer": "The properties of the medium",
+        "explanation": "Wave speed (e.g., speed of sound in air, speed of light in glass) is determined by the characteristics of the medium through which it travels (like elasticity, density, refractive index)."
+    },
+    {
+        "question": "Q26. When a wave passes from one medium to another, which quantity usually remains unchanged?",
+        "options": ["Speed", "Wavelength", "Frequency", "Amplitude"],
+        "answer": "Frequency",
+        "explanation": "The frequency of a wave is determined by the source and generally does not change when the wave enters a different medium. Speed and wavelength change such that v=fλ remains true in the new medium."
+    },
+    {
+        "question": "Q27. If the amplitude of a wave is doubled, its intensity becomes:",
+        "options": ["Double", "Half", "Four times", "Same"],
+        "answer": "Four times",
+        "explanation": "Intensity I ∝ A². If A becomes 2A, new intensity I' ∝ (2A)² = 4A². Intensity becomes four times."
+    },
+    {
+        "question": "Q28. If the intensity of a wave becomes 9 times, its amplitude becomes:",
+        "options": ["3 times", "9 times", "1/3 times", "81 times"],
+        "answer": "3 times",
+        "explanation": "I ∝ A², so A ∝ √I. If I becomes 9I, new amplitude A' ∝ √(9I) = 3√I = 3A. Amplitude becomes 3 times."
+    },
+    {
+        "question": "Q29. The relation v = fλ applies to:",
+        "options": ["Transverse waves only", "Longitudinal waves only", "Electromagnetic waves only", "All types of progressive waves"],
+        "answer": "All types of progressive waves",
+        "explanation": "This fundamental relationship holds true for any wave that propagates through space."
+    },
+    {
+        "question": "Q30. Time period T = 1/f. If frequency is 50 Hz, the time period is:",
+        "options": ["50 s", "0.2 s", "0.02 s", "1/50 Hz"],
+        "answer": "0.02 s",
+        "explanation": "T = 1 / f = 1 / 50 Hz = 0.02 s."
+    },
+
+    {
+        "question": "Q31. A standard equation for a progressive wave travelling along the +x axis is y = A sin(ωt - kx + φ). Here 'A' represents:",
+        "options": ["Wavelength", "Frequency", "Amplitude", "Wave speed"],
+        "answer": "Amplitude",
+        "explanation": "A is the coefficient multiplying the sine function, representing the maximum displacement."
+    },
+    {
+        "question": "Q32. In the wave equation y = A sin(ωt - kx + φ), 'ω' represents:",
+        "options": ["Wave number", "Angular frequency", "Phase constant", "Wave speed"],
+        "answer": "Angular frequency",
+        "explanation": "ω is the angular frequency, related to frequency f by ω = 2πf."
+    },
+    {
+        "question": "Q33. In the wave equation y = A sin(ωt - kx + φ), 'k' represents:",
+        "options": ["Wave number", "Angular frequency", "Boltzmann constant", "Spring constant"],
+        "answer": "Wave number",
+        "explanation": "k is the angular wave number (or propagation constant), related to wavelength λ by k = 2π/λ."
+    },
+    {
+        "question": "Q34. In the wave equation y = A sin(ωt - kx + φ), 'φ' represents:",
+        "options": ["Amplitude", "Frequency", "Initial phase (or phase constant)", "Wavelength"],
+        "answer": "Initial phase (or phase constant)",
+        "explanation": "φ determines the phase of the wave at x=0 and t=0."
+    },
+    {
+        "question": "Q35. The wave speed 'v' can be calculated from ω and k using the relation:",
+        "options": ["v = ωk", "v = ω/k", "v = k/ω", "v = ω²k"],
+        "answer": "v = ω/k",
+        "explanation": "v = fλ = (ω/2π) * (2π/k) = ω/k."
+    },
+    {
+        "question": "Q36. The sign between ωt and kx term (e.g., ωt - kx vs ωt + kx) in the wave equation determines:",
+        "options": ["Amplitude", "Frequency", "Wavelength", "Direction of wave propagation"],
+        "answer": "Direction of wave propagation",
+        "explanation": "Opposite signs (like ωt - kx or kx - ωt) mean wave travels in +x direction. Same signs (like ωt + kx) mean wave travels in -x direction."
+    },
+    {
+        "question": "Q37. For the wave y = 0.5 sin(10πt - 2πx), the amplitude is:",
+        "options": ["0.5", "10π", "2π", "5"],
+        "answer": "0.5",
+        "explanation": "Comparing with y = A sin(ωt - kx), A = 0.5 (assuming SI units)."
+    },
+    {
+        "question": "Q38. For the wave y = 0.5 sin(10πt - 2πx), the angular frequency ω is:",
+        "options": ["0.5", "10π", "2π", "5π"],
+        "answer": "10π",
+        "explanation": "Comparing with y = A sin(ωt - kx), ω = 10π rad/s."
+    },
+    {
+        "question": "Q39. For the wave y = 0.5 sin(10πt - 2πx), the wave number k is:",
+        "options": ["0.5", "10π", "2π", "π"],
+        "answer": "2π",
+        "explanation": "Comparing with y = A sin(ωt - kx), k = 2π rad/m."
+    },
+    {
+        "question": "Q40. For the wave y = 0.5 sin(10πt - 2πx), the wave speed v is:",
+        "options": ["0.5", "5", "10π", "20"],
+        "answer": "5",
+        "explanation": "v = ω/k = (10π) / (2π) = 5 m/s (assuming SI units)."
+    },
+    {
+        "question": "Q41. A wave has a frequency of 100 Hz and a wavelength of 3 m. Its speed is:",
+        "options": ["300 m/s", "33.3 m/s", "0.03 m/s", "100 m/s"],
+        "answer": "300 m/s",
+        "explanation": "v = fλ = (100 Hz)(3 m) = 300 m/s."
+    },
+    {
+        "question": "Q42. A sound wave travels at 340 m/s and has a frequency of 170 Hz. Its wavelength is:",
+        "options": ["0.5 m", "2 m", "57800 m", "170 m"],
+        "answer": "2 m",
+        "explanation": "λ = v/f = (340 m/s) / (170 Hz) = 2 m."
+    },
+    {
+        "question": "Q43. A radio wave travels at 3×10⁸ m/s and has a wavelength of 150 m. Its frequency is:",
+        "options": ["2 × 10⁶ Hz (2 MHz)", "0.5 × 10⁶ Hz (0.5 MHz)", "4.5 × 10¹⁰ Hz", "5 × 10⁻⁷ Hz"],
+        "answer": "2 × 10⁶ Hz (2 MHz)",
+        "explanation": "f = v/λ = (3×10⁸ m/s) / (150 m) = (300×10⁶) / 150 = 2 × 10⁶ Hz = 2 MHz."
+    },
+    {
+        "question": "Q44. The time period of a wave with frequency 200 Hz is:",
+        "options": ["200 s", "0.5 s", "0.05 s", "0.005 s"],
+        "answer": "0.005 s",
+        "explanation": "T = 1/f = 1 / 200 Hz = 0.005 s (or 5 ms)."
+    },
+    {
+        "question": "Q45. A wave has a time period of 0.01 s. Its frequency is:",
+        "options": ["0.01 Hz", "10 Hz", "100 Hz", "1 Hz"],
+        "answer": "100 Hz",
+        "explanation": "f = 1/T = 1 / 0.01 s = 100 Hz."
+    },
+    {
+        "question": "Q46. From the equation y = 2 sin(4πt + 0.02πx), find the frequency.",
+        "options": ["2 Hz", "4π Hz", "0.02π Hz", "4 Hz"],
+        "answer": "2 Hz",
+        "explanation": "Compare with y = A sin(ωt + kx). ω = 4π. Since ω = 2πf, f = ω/2π = 4π / 2π = 2 Hz."
+    },
+    {
+        "question": "Q47. From the equation y = 2 sin(4πt + 0.02πx), find the wavelength.",
+        "options": ["100 m", "0.02π m", "2 m", "50 m"],
+        "answer": "100 m",
+        "explanation": "Compare with y = A sin(ωt + kx). k = 0.02π. Since k = 2π/λ, λ = 2π/k = 2π / (0.02π) = 1 / 0.02 = 100 m."
+    },
+    {
+        "question": "Q48. From the equation y = 2 sin(4πt + 0.02πx), find the wave speed.",
+        "options": ["200 m/s", "8π m/s", "0.08π² m/s", "100 m/s"],
+        "answer": "200 m/s",
+        "explanation": "v = ω/k = (4π) / (0.02π) = 4 / 0.02 = 400 / 2 = 200 m/s. Alternatively, v = fλ = (2 Hz)(100 m) = 200 m/s."
+    },
+    {
+        "question": "Q49. In which direction is the wave y = 2 sin(4πt + 0.02πx) travelling?",
+        "options": ["+x direction", "-x direction", "+y direction", "-y direction"],
+        "answer": "-x direction",
+        "explanation": "The signs of the ωt term and the kx term are the same (both positive), indicating propagation in the negative x direction."
+    },
+    {
+        "question": "Q50. A light wave has frequency 5×10¹⁴ Hz. Its time period is:",
+        "options": ["2×10⁻¹⁵ s", "5×10⁻¹⁴ s", "0.2×10⁻¹⁵ s", "5×10¹⁴ s"],
+        "answer": "2×10⁻¹⁵ s",
+        "explanation": "T = 1/f = 1 / (5×10¹⁴ Hz) = (1/5) × 10⁻¹⁴ s = 0.2 × 10⁻¹⁴ s = 2 × 10⁻¹⁵ s."
+    },
+    {
+        "question": "Q51. Speed of sound in air is 330 m/s. Wavelength of sound of frequency 110 Hz is:",
+        "options": ["3 m", "0.3 m", "36300 m", "1/3 m"],
+        "answer": "3 m",
+        "explanation": "λ = v/f = (330 m/s) / (110 Hz) = 3 m."
+    },
+    {
+        "question": "Q52. Speed of light in vacuum is 3×10⁸ m/s. Wavelength of yellow light (f ≈ 5×10¹⁴ Hz) is:",
+        "options": ["6×10⁻⁷ m (600 nm)", "1.5×10²³ m", "0.6 m", "1.67×10⁻⁷ m (167 nm)"],
+        "answer": "6×10⁻⁷ m (600 nm)",
+        "explanation": "λ = v/f = (3×10⁸ m/s) / (5×10¹⁴ Hz) = (3/5) × 10⁻⁶ m = 0.6 × 10⁻⁶ m = 6 × 10⁻⁷ m = 600 nm."
+    },
+    {
+        "question": "Q53. A wave pulse travels 20 m in 4 seconds. Its speed is:",
+        "options": ["5 m/s", "80 m/s", "0.2 m/s", "4 m/s"],
+        "answer": "5 m/s",
+        "explanation": "Speed = Distance / Time = 20 m / 4 s = 5 m/s."
+    },
+    {
+        "question": "Q54. The period of oscillation is 0.002 s. The frequency in kHz is:",
+        "options": ["0.5 kHz", "5 kHz", "500 kHz", "0.002 kHz"],
+        "answer": "0.5 kHz",
+        "explanation": "f = 1/T = 1 / 0.002 s = 1000 / 2 = 500 Hz. 1 kHz = 1000 Hz, so 500 Hz = 0.5 kHz."
+    },
+    {
+        "question": "Q55. Wave equation: y = 10 sin(0.01x - 2t). Find wave velocity.",
+        "options": ["50 m/s", "100 m/s", "200 m/s", "0.02 m/s"],
+        "answer": "200 m/s",
+        "explanation": "Compare to y=A sin(kx - ωt). k=0.01, ω=2. Direction is +x. v = ω/k = 2 / 0.01 = 200 m/s."
+    },
+
+    {
+        "question": "Q56. If wave A has amplitude twice that of wave B (same frequency, medium), the ratio of intensity I_A / I_B is:",
+        "options": ["1 : 2", "2 : 1", "1 : 4", "4 : 1"],
+        "answer": "4 : 1",
+        "explanation": "I ∝ A². A_A = 2A_B. I_A / I_B = (A_A / A_B)² = (2A_B / A_B)² = 2² = 4. Ratio is 4:1."
+    },
+    {
+        "question": "Q57. If wave intensity is reduced to 1/16th of its value, the amplitude becomes:",
+        "options": ["1/4th", "1/16th", "4 times", "16 times"],
+        "answer": "1/4th",
+        "explanation": "A ∝ √I. If I' = I/16, then A' ∝ √(I/16) = (1/4)√I = A/4. Amplitude becomes 1/4th."
+    },
+    {
+        "question": "Q58. Two waves have amplitudes in the ratio 3:1. The ratio of their intensities is:",
+        "options": ["3 : 1", "1 : 3", "9 : 1", "1 : 9"],
+        "answer": "9 : 1",
+        "explanation": "A₁/A₂ = 3/1. I₁/I₂ = (A₁/A₂)² = (3/1)² = 9/1. Ratio is 9:1."
+    },
+    {
+        "question": "Q59. Two waves have intensities in the ratio 1:25. The ratio of their amplitudes is:",
+        "options": ["1 : 5", "1 : 25", "5 : 1", "25 : 1"],
+        "answer": "1 : 5",
+        "explanation": "I₁/I₂ = 1/25. A₁/A₂ = √(I₁/I₂) = √(1/25) = 1/5. Ratio is 1:5."
+    },
+    {
+        "question": "Q60. Intensity of a wave is related to energy flow per unit ____ per unit ____.",
+        "options": ["Length, Time", "Area, Time", "Volume, Time", "Area, Length"],
+        "answer": "Area, Time",
+        "explanation": "Intensity is defined as Power (Energy/Time) per unit Area perpendicular to the direction of energy flow. Unit is W/m²."
+    },
+
+    {
+        "question": "Q61. Two points on a wave are 'in phase' if their:",
+        "options": ["Amplitudes are equal", "Frequencies are equal", "Phase difference is zero or an integer multiple of 2π", "Positions are the same"],
+        "answer": "Phase difference is zero or an integer multiple of 2π",
+        "explanation": "Points in phase are oscillating exactly together. Their phase difference is 0, 2π, 4π, etc."
+    },
+    {
+        "question": "Q62. Two points on a wave are 'out of phase' if their phase difference is:",
+        "options": ["π/2", "π", "2π", "0"],
+        "answer": "π",
+        "explanation": "Completely out of phase means one point is at its positive maximum while the other is at its negative maximum. This corresponds to a phase difference of π radians (or 180°), or odd integer multiples like 3π, 5π etc."
+    },
+    {
+        "question": "Q63. The phase difference (Δφ) corresponding to a path difference (Δx) is given by:",
+        "options": ["Δφ = k/Δx", "Δφ = k Δx", "Δφ = Δx / k", "Δφ = ωΔx"],
+        "answer": "Δφ = k Δx",
+        "explanation": "Phase changes by 2π over one wavelength λ. Wave number k = 2π/λ. The phase difference for a path difference Δx is Δφ = (2π/λ)Δx = kΔx."
+    },
+    {
+        "question": "Q64. If the path difference between two points is λ/2, the phase difference is:",
+        "options": ["0", "π/2", "π", "2π"],
+        "answer": "π",
+        "explanation": "Δφ = kΔx = (2π/λ)(λ/2) = π radians. This corresponds to being out of phase."
+    },
+    {
+        "question": "Q65. If the phase difference between two points is π/2, the path difference is:",
+        "options": ["λ", "λ/2", "λ/4", "λ/8"],
+        "answer": "λ/4",
+        "explanation": "Δφ = kΔx => π/2 = (2π/λ)Δx => Δx = (π/2) * (λ/2π) = λ/4."
+    },
+    {
+        "question": "Q66. Which statement is true?",
+        "options": ["Sound waves are transverse, Light waves are longitudinal", "Sound waves are longitudinal, Light waves are transverse", "Both are transverse", "Both are longitudinal"],
+        "answer": "Sound waves are longitudinal, Light waves are transverse",
+        "explanation": "Sound involves compressions/rarefactions (longitudinal). Light involves oscillating E/B fields perpendicular to propagation (transverse)."
+    },
+    {
+        "question": "Q67. Which type of wave can travel through vacuum?",
+        "options": ["Sound waves", "Water waves", "Electromagnetic waves", "Waves on a string"],
+        "answer": "Electromagnetic waves",
+        "explanation": "EM waves (like light, radio waves) do not require a medium."
+    },
+    {
+        "question": "Q68. Which type of wave requires a material medium?",
+        "options": ["Light waves", "X-rays", "Radio waves", "Sound waves"],
+        "answer": "Sound waves",
+        "explanation": "Sound is a mechanical wave and needs a substance (solid, liquid, gas) to propagate."
+    },
+    {
+        "question": "Q69. Speed of sound is generally highest in:",
+        "options": ["Gases", "Liquids", "Solids", "Vacuum"],
+        "answer": "Solids",
+        "explanation": "Sound travels fastest in solids due to stronger intermolecular forces and efficient transfer of vibrations, followed by liquids, then gases. It cannot travel in vacuum."
+    },
+    {
+        "question": "Q70. Speed of light is highest in:",
+        "options": ["Gases", "Liquids", "Solids", "Vacuum"],
+        "answer": "Vacuum",
+        "explanation": "Light (EM waves) travels fastest in vacuum (speed 'c'). It slows down when passing through a material medium."
+    },
+    {
+        "question": "Q71. Sound waves cannot exhibit which phenomenon?",
+        "options": ["Reflection", "Refraction", "Diffraction", "Polarization"],
+        "answer": "Polarization",
+        "explanation": "Polarization (restricting oscillations to one plane) is characteristic of transverse waves only. Since sound is longitudinal, it cannot be polarized."
+    },
+    {
+        "question": "Q72. Light waves can exhibit which phenomenon that sound waves cannot?",
+        "options": ["Reflection", "Refraction", "Interference", "Polarization"],
+        "answer": "Polarization",
+        "explanation": "Light, being transverse, can be polarized. Sound, being longitudinal, cannot."
+    },
+    {
+        "question": "Q73. Which property is NOT characteristic of all wave motion?",
+        "options": ["Reflection", "Refraction", "Diffraction", "Polarization"],
+        "answer": "Polarization",
+        "explanation": "Reflection, refraction, diffraction, and interference are general wave phenomena. Polarization is specific to transverse waves."
+    },
+    {
+        "question": "Q74. The audible frequency range for a typical healthy young human is approximately:",
+        "options": ["0 Hz - 20 Hz", "20 Hz - 20,000 Hz (20 kHz)", "20 kHz - 100 kHz", "Above 100 kHz"],
+        "answer": "20 Hz - 20,000 Hz (20 kHz)",
+        "explanation": "This is the standard range of frequencies humans can typically hear."
+    },
+    {
+        "question": "Q75. Sound waves with frequencies below the audible range (< 20 Hz) are called:",
+        "options": ["Ultrasonic", "Infrasonic", "Supersonic", "Subsonic"],
+        "answer": "Infrasonic",
+        "explanation": "Frequencies below human hearing are infrasound."
+    },
+    {
+        "question": "Q76. Sound waves with frequencies above the audible range (> 20 kHz) are called:",
+        "options": ["Ultrasonic", "Infrasonic", "Supersonic", "Subsonic"],
+        "answer": "Ultrasonic",
+        "explanation": "Frequencies above human hearing are ultrasound."
+    },
+    {
+        "question": "Q77. Which animal is known to use ultrasonic waves for navigation and hunting (echolocation)?",
+        "options": ["Dog", "Elephant", "Bat", "Whale (some use infrasound)"],
+        "answer": "Bat",
+        "explanation": "Bats emit high-frequency ultrasonic pulses and listen for the echoes to locate objects and prey."
+    },
+    {
+        "question": "Q78. An application of ultrasonic waves in medicine is:",
+        "options": ["X-ray imaging", "MRI scanning", "Sonography (Ultrasound imaging)", "ECG"],
+        "answer": "Sonography (Ultrasound imaging)",
+        "explanation": "Ultrasound uses high-frequency sound waves to create images of internal body structures."
+    },
+    {
+        "question": "Q79. Other applications of ultrasonic waves include:",
+        "options": ["Cleaning delicate parts", "Detecting flaws in materials", "SONAR", "All of the above"],
+        "answer": "All of the above",
+        "explanation": "Ultrasound's high frequency and energy allow it to be used in cleaning (cavitation), non-destructive testing, and underwater ranging (SONAR)."
+    },
+    {
+        "question": "Q80. The speed of sound in air primarily depends on:",
+        "options": ["Frequency", "Amplitude", "Temperature of the air", "Loudness"],
+        "answer": "Temperature of the air",
+        "explanation": "Speed of sound in a gas is proportional to the square root of its absolute temperature (v ∝ √T). It is largely independent of pressure, frequency, and amplitude (for moderate levels)."
+    },
+    {
+        "question": "Q81. Does the speed of sound in air increase or decrease with increasing temperature?",
+        "options": ["Increases", "Decreases", "Remains constant", "Becomes zero"],
+        "answer": "Increases",
+        "explanation": "As temperature increases, air molecules move faster, leading to faster propagation of sound waves (v ∝ √T)."
+    },
+    {
+        "question": "Q82. Ordinary light (like from the sun or a bulb) is:",
+        "options": ["Coherent and monochromatic", "Incoherent and polychromatic", "Coherent and polychromatic", "Incoherent and monochromatic"],
+        "answer": "Incoherent and polychromatic",
+        "explanation": "Ordinary light consists of many different frequencies/wavelengths (polychromatic) and the waves lack a constant phase relationship (incoherent)."
+    },
+    {
+        "question": "Q83. LASER light is characterized by being highly:",
+        "options": ["Incoherent and polychromatic", "Coherent and monochromatic", "Divergent and weak", "Mechanical and longitudinal"],
+        "answer": "Coherent and monochromatic",
+        "explanation": "LASER stands for Light Amplification by Stimulated Emission of Radiation. Key properties include coherence (constant phase relationship), monochromaticity (single frequency/wavelength), directionality (low divergence), and high intensity."
+    },
+    {
+        "question": "Q84. The property of LASER light where all waves are in phase is called:",
+        "options": ["Monochromaticity", "Directionality", "Intensity", "Coherence"],
+        "answer": "Coherence",
+        "explanation": "Coherence refers to the constant phase relationship between the light waves."
+    },
+    {
+        "question": "Q85. The property of LASER light consisting of a single wavelength or very narrow range of wavelengths is called:",
+        "options": ["Monochromaticity", "Directionality", "Intensity", "Coherence"],
+        "answer": "Monochromaticity",
+        "explanation": "Mono (single) + chromatic (color/wavelength). LASER light is highly monochromatic."
+    },
+    {
+        "question": "Q86. Which of the following is an electromagnetic wave?",
+        "options": ["Water wave", "Sound wave", "Visible light", "Seismic wave"],
+        "answer": "Visible light",
+        "explanation": "Visible light is part of the electromagnetic spectrum."
+    },
+    {
+        "question": "Q87. Electromagnetic waves are ____ waves.",
+        "options": ["Mechanical", "Longitudinal", "Transverse", "Stationary"],
+        "answer": "Transverse",
+        "explanation": "The oscillating electric and magnetic fields are perpendicular to the direction of propagation."
+    },
+    {
+        "question": "Q88. All electromagnetic waves travel in vacuum with speed:",
+        "options": ["Depending on frequency", "Depending on wavelength", "Equal to the speed of light 'c'", "Depending on amplitude"],
+        "answer": "Equal to the speed of light 'c'",
+        "explanation": "A fundamental property is that all EM waves (radio, micro, IR, visible, UV, X-ray, gamma) travel at c ≈ 3×10⁸ m/s in vacuum."
+    },
+    {
+        "question": "Q89. Which has the longest wavelength in the EM spectrum?",
+        "options": ["Gamma rays", "Visible light", "Infrared", "Radio waves"],
+        "answer": "Radio waves",
+        "explanation": "EM spectrum order from long λ (low f) to short λ (high f): Radio, Microwave, Infrared, Visible, Ultraviolet, X-rays, Gamma rays."
+    },
+    {
+        "question": "Q90. Which has the highest frequency in the EM spectrum?",
+        "options": ["Gamma rays", "Visible light", "Microwaves", "Radio waves"],
+        "answer": "Gamma rays",
+        "explanation": "Gamma rays have the shortest wavelength and highest frequency/energy."
+    },
+    {
+        "question": "Q91. An application of LASER in communication is:",
+        "options": ["Radio broadcasting", "Optical fiber communication", "Microwave ovens", "SONAR"],
+        "answer": "Optical fiber communication",
+        "explanation": "LASERs are used as light sources in fiber optic systems due to their directionality and ability to be modulated at high frequencies."
+    },
+    {
+        "question": "Q92. LASERs are used in CD/DVD/Blu-ray players to:",
+        "options": ["Spin the disc", "Read the data pits", "Amplify the sound", "Clean the disc"],
+        "answer": "Read the data pits",
+        "explanation": "A focused laser beam reads the pattern of pits and lands on the disc surface."
+    },
+    {
+        "question": "Q93. Applications of LASER in industry include:",
+        "options": ["Cutting and welding", "Measurement and alignment", "Material processing", "All of the above"],
+        "answer": "All of the above",
+        "explanation": "The high intensity and directionality of lasers make them suitable for precise cutting, welding, drilling, surface treatment, and accurate measurements."
+    },
+    {
+        "question": "Q94. Medical applications of LASER include:",
+        "options": ["Eye surgery (e.g., LASIK)", "Removing tumors", "Skin treatments", "All of the above"],
+        "answer": "All of the above",
+        "explanation": "Lasers are used as precise surgical tools (laser scalpels), for vision correction, dermatology, cancer treatment, etc."
+    },
+    {
+        "question": "Q95. SONAR (Sound Navigation and Ranging) typically uses:",
+        "options": ["Audible sound", "Infrasound", "Ultrasonic sound", "Light waves"],
+        "answer": "Ultrasonic sound",
+        "explanation": "SONAR systems emit ultrasonic pulses and analyze the reflected echoes to detect underwater objects and map the seabed."
+    },
+    {
+        "question": "Q96. The pitch of a sound wave is primarily determined by its:",
+        "options": ["Amplitude", "Intensity", "Frequency", "Wavelength"],
+        "answer": "Frequency",
+        "explanation": "Higher frequency corresponds to higher pitch (shriller sound), lower frequency to lower pitch (graver sound)."
+    },
+    {
+        "question": "Q97. The loudness of a sound wave is primarily determined by its:",
+        "options": ["Frequency", "Wavelength", "Speed", "Amplitude (or Intensity)"],
+        "answer": "Amplitude (or Intensity)",
+        "explanation": "Larger amplitude means greater intensity (more energy), which is perceived as louder sound."
+    },
+    {
+        "question": "Q98. Which property distinguishes LASER light from ordinary light?",
+        "options": ["High speed", "Reflection", "Coherence", "Refraction"],
+        "answer": "Coherence",
+        "explanation": "Coherence (waves in phase) is a key distinguishing feature of LASER light, unlike incoherent ordinary light."
+    },
+    {
+        "question": "Q99. Ultrasonic waves are used for non-destructive testing because they can:",
+        "options": ["Travel through vacuum", "Penetrate materials and reflect off flaws", "Be seen by eye", "Heat the material"],
+        "answer": "Penetrate materials and reflect off flaws",
+        "explanation": "Ultrasound can travel through solids/liquids, and changes in the material (like cracks or voids) cause reflections (echoes) that can be detected."
+    },
+    {
+        "question": "Q100. Speed of EM waves in a medium (refractive index n) is given by v = ?",
+        "options": ["c + n", "c - n", "c / n", "c * n"],
+        "answer": "c / n",
+        "explanation": "The absolute refractive index n is defined as the ratio of speed of light in vacuum (c) to speed of light in the medium (v), so n = c/v, which means v = c/n."
+    },
+
+    {
+        "question": "Q101. The phenomenon of light bouncing back into the same medium after striking a surface is called:",
+        "options": ["Refraction", "Reflection", "Diffraction", "Polarization"],
+        "answer": "Reflection",
+        "explanation": "Reflection involves the return of waves from a surface."
+    },
+    {
+        "question": "Q102. According to the laws of reflection, the angle of incidence (i) is:",
+        "options": ["Greater than the angle of reflection (r)", "Less than the angle of reflection (r)", "Equal to the angle of reflection (r)", "Unrelated to the angle of reflection (r)"],
+        "answer": "Equal to the angle of reflection (r)",
+        "explanation": "First law of reflection: i = r. (Angles measured from the normal)."
+    },
+    {
+        "question": "Q103. According to the laws of reflection, the incident ray, the reflected ray, and the normal at the point of incidence:",
+        "options": ["Lie in different planes", "Lie in the same plane", "Are perpendicular to each other", "Are parallel to each other"],
+        "answer": "Lie in the same plane",
+        "explanation": "Second law of reflection: All three lie in the same plane."
+    },
+    {
+        "question": "Q104. The phenomenon of bending of light as it passes from one medium to another is called:",
+        "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+        "answer": "Refraction",
+        "explanation": "Refraction is the change in direction of a wave passing from one medium to another, caused by its change in speed."
+    },
+    {
+        "question": "Q105. Refraction occurs because:",
+        "options": ["Light changes frequency in different media", "Light changes speed in different media", "Light is reflected", "Light is absorbed"],
+        "answer": "Light changes speed in different media",
+        "explanation": "The change in speed as light enters a new medium causes it to bend (unless incidence is normal)."
+    },
+    {
+        "question": "Q106. Snell's law relates the angle of incidence (i), angle of refraction (r), and refractive indices (n₁, n₂) of two media as:",
+        "options": ["n₁ sin r = n₂ sin i", "n₁ sin i = n₂ sin r", "n₁ cos i = n₂ cos r", "sin i / sin r = n₁/n₂"],
+        "answer": "n₁ sin i = n₂ sin r",
+        "explanation": "This is the mathematical statement of Snell's law of refraction."
+    },
+    {
+        "question": "Q107. When light travels from a rarer medium (lower n) to a denser medium (higher n), it bends:",
+        "options": ["Towards the normal", "Away from the normal", "Along the normal", "Does not bend"],
+        "answer": "Towards the normal",
+        "explanation": "From Snell's law (n₁sin i = n₂sin r), if n₂ > n₁, then sin r < sin i, meaning r < i. The ray bends towards the normal."
+    },
+    {
+        "question": "Q108. When light travels from a denser medium (higher n) to a rarer medium (lower n), it bends:",
+        "options": ["Towards the normal", "Away from the normal", "Along the normal", "Does not bend"],
+        "answer": "Away from the normal",
+        "explanation": "If n₂ < n₁, then sin r > sin i, meaning r > i. The ray bends away from the normal."
+    },
+    {
+        "question": "Q109. If a light ray enters a medium from air at an angle of incidence 0° (along the normal), the angle of refraction is:",
+        "options": ["0°", "90°", "Depends on refractive index", "45°"],
+        "answer": "0°",
+        "explanation": "If i = 0°, then sin i = 0. From Snell's law, n₂ sin r = n₁ sin i = 0. Since n₂ ≠ 0, sin r must be 0, which means r = 0°. The ray passes undeviated."
+    },
+    {
+        "question": "Q110. The laws of refraction state that the incident ray, the refracted ray, and the normal at the point of incidence:",
+        "options": ["Lie in different planes", "Lie in the same plane", "Are perpendicular", "Are parallel"],
+        "answer": "Lie in the same plane",
+        "explanation": "Similar to reflection, all three lie in the same plane for refraction."
+    },
+
+    {
+        "question": "Q111. Absolute refractive index (n) of a medium is defined as the ratio of:",
+        "options": ["Speed of light in medium (v) to speed of light in vacuum (c)", "Speed of light in vacuum (c) to speed of light in medium (v)", "Angle of incidence to angle of refraction", "Sine of angle of incidence to sine of angle of refraction"],
+        "answer": "Speed of light in vacuum (c) to speed of light in medium (v)",
+        "explanation": "n = c / v. It measures how much light slows down in the medium compared to vacuum."
+    },
+    {
+        "question": "Q112. The absolute refractive index of vacuum is:",
+        "options": ["0", "1", "Infinite", "Less than 1"],
+        "answer": "1",
+        "explanation": "In vacuum, v = c, so n = c/c = 1."
+    },
+    {
+        "question": "Q113. The absolute refractive index of air is approximately:",
+        "options": ["0", "Slightly less than 1", "Exactly 1", "Slightly greater than 1 (≈ 1.0003)"],
+        "answer": "Slightly greater than 1 (≈ 1.0003)",
+        "explanation": "Light slows down very slightly in air compared to vacuum, so n_air is very close to 1, but just above it."
+    },
+    {
+        "question": "Q114. For optically transparent media (like air, water, glass), the absolute refractive index 'n' is always:",
+        "options": ["Less than 1", "Equal to 1", "Greater than or equal to 1", "Negative"],
+        "answer": "Greater than or equal to 1",
+        "explanation": "Light speed 'v' in a medium is always less than or equal to 'c' (speed in vacuum). Since n=c/v, n must be ≥ 1."
+    },
+    {
+        "question": "Q115. If medium 1 has refractive index n₁ and medium 2 has n₂, the relative refractive index of medium 2 with respect to medium 1 (n₂₁) is:",
+        "options": ["n₁ / n₂", "n₂ / n₁", "n₁ * n₂", "n₁ + n₂"],
+        "answer": "n₂ / n₁",
+        "explanation": "n₂₁ represents the refractive index of medium 2 relative to 1. It's also equal to v₁ / v₂."
+    },
+    {
+        "question": "Q116. Refractive index is a:",
+        "options": ["Vector quantity", "Dimensionless quantity", "Quantity with unit meter/second", "Quantity with unit Diopter"],
+        "answer": "Dimensionless quantity",
+        "explanation": "n = c/v is a ratio of two speeds, so it has no units or dimensions."
+    },
+    {
+        "question": "Q117. A medium with a higher refractive index is called optically:",
+        "options": ["Rarer", "Denser", "Faster", "Vacuum"],
+        "answer": "Denser",
+        "explanation": "Optically denser medium means light travels slower in it (higher n)."
+    },
+    {
+        "question": "Q118. A medium with a lower refractive index is called optically:",
+        "options": ["Rarer", "Denser", "Slower", "Solid"],
+        "answer": "Rarer",
+        "explanation": "Optically rarer medium means light travels faster in it (lower n)."
+    },
+    {
+        "question": "Q119. According to Snell's law, sin(i) / sin(r) = ?",
+        "options": ["n₁", "n₂", "n₁ / n₂", "n₂ / n₁ (or n₂₁)"],
+        "answer": "n₂ / n₁ (or n₂₁)",
+        "explanation": "Rearranging n₁ sin i = n₂ sin r gives sin i / sin r = n₂ / n₁."
+    },
+    {
+        "question": "Q120. If n_glass = 1.5 and n_water = 1.33, the relative refractive index of glass with respect to water (n_gw) is approximately:",
+        "options": ["1.5 / 1.33 ≈ 1.13", "1.33 / 1.5 ≈ 0.89", "1.5 * 1.33 ≈ 2.0", "1.5 + 1.33 ≈ 2.83"],
+        "answer": "1.5 / 1.33 ≈ 1.13",
+        "explanation": "n_gw = n_glass / n_water = 1.5 / 1.33 ≈ 1.13."
+    },
+
+    {
+        "question": "Q121. Light enters from air (n≈1) into glass (n=1.5) at an angle of incidence 30°. Find the angle of refraction. (sin 30°=0.5)",
+        "options": ["19.5°", "30°", "45°", "48.6°"],
+        "answer": "19.5°",
+        "explanation": "n₁sin i = n₂sin r => (1)sin 30° = (1.5)sin r => 0.5 = 1.5 sin r => sin r = 0.5 / 1.5 = 1/3 ≈ 0.333. r = arcsin(0.333) ≈ 19.47° ≈ 19.5°."
+    },
+    {
+        "question": "Q122. Light travels from water (n=4/3) into air (n=1). If the angle of incidence is 30°, find the angle of refraction. (sin 30°=0.5, sin 41.8°≈0.667)",
+        "options": ["22°", "30°", "41.8°", "60°"],
+        "answer": "41.8°",
+        "explanation": "n₁sin i = n₂sin r => (4/3)sin 30° = (1)sin r => (4/3)(0.5) = sin r => 4/6 = 2/3 = sin r ≈ 0.667. r = arcsin(2/3) ≈ 41.8°."
+    },
+    {
+        "question": "Q123. A light ray enters glass (n=1.5) from air (n=1). If the angle of refraction is 20°, find the angle of incidence. (sin 20°≈0.342, sin 30.8°≈0.512)",
+        "options": ["13.2°", "20°", "30.8°", "45°"],
+        "answer": "30.8°",
+        "explanation": "n₁sin i = n₂sin r => (1)sin i = (1.5)sin 20° => sin i = 1.5 * 0.342 = 0.513. i = arcsin(0.513) ≈ 30.8°."
+    },
+    {
+        "question": "Q124. Light travels from medium A to medium B. The angle of incidence is 45° and angle of refraction is 30°. Find the refractive index of B relative to A (n_BA). (sin 45°≈0.707, sin 30°=0.5)",
+        "options": ["1.414", "0.707", "2.0", "0.5"],
+        "answer": "1.414",
+        "explanation": "n_BA = n_B / n_A = sin i / sin r = sin 45° / sin 30° = 0.707 / 0.5 = 1.414 (which is √2)."
+    },
+    {
+        "question": "Q125. Light is incident from air onto a medium with refractive index 'n'. If angle of incidence is 60° and angle of refraction is 30°, find 'n'. (sin 60°=√3/2, sin 30°=1/2)",
+        "options": ["1.5", "√3", "√2", "1/√3"],
+        "answer": "√3",
+        "explanation": "n₁sin i = n₂sin r => (1)sin 60° = (n)sin 30° => √3/2 = n * (1/2) => n = √3 ≈ 1.732."
+    },
+    {
+        "question": "Q126. If light passes from medium X to medium Y and bends away from the normal, then:",
+        "options": ["n_X > n_Y", "n_X < n_Y", "n_X = n_Y", "Cannot determine"],
+        "answer": "n_X > n_Y",
+        "explanation": "Bending away from normal means r > i, which happens when light goes from denser (higher n) to rarer (lower n). So n_X > n_Y."
+    },
+    {
+        "question": "Q127. Light enters glass (n=1.5) from water (n=4/3≈1.33) at i=45°. Find sin(r). (sin 45°≈0.707)",
+        "options": ["0.628", "0.707", "0.5", "0.884"],
+        "answer": "0.628",
+        "explanation": "n_water * sin i = n_glass * sin r => (4/3) * sin 45° = 1.5 * sin r => (4/3) * 0.707 = 1.5 * sin r => 0.943 = 1.5 * sin r => sin r = 0.943 / 1.5 ≈ 0.628."
+    },
+    {
+        "question": "Q128. Angle of incidence = 60°. Angle of refraction = 45°. n₁=1. Find n₂. (sin 60°≈0.866, sin 45°≈0.707)",
+        "options": ["1.22", "0.82", "1.5", "1.33"],
+        "answer": "1.22",
+        "explanation": "n₁sin i = n₂sin r => (1)sin 60° = n₂sin 45° => 0.866 = n₂(0.707) => n₂ = 0.866 / 0.707 ≈ 1.22."
+    },
+    {
+        "question": "Q129. Light travels from glass (n=1.5) to air (n=1). If angle of refraction is 90°, the angle of incidence is called:",
+        "options": ["Angle of reflection", "Angle of deviation", "Critical angle", "Brewster's angle"],
+        "answer": "Critical angle",
+        "explanation": "The critical angle is the angle of incidence in the denser medium for which the angle of refraction in the rarer medium is 90°."
+    },
+    {
+        "question": "Q130. If refractive index of medium 2 w.r.t medium 1 is 1.25, then refractive index of medium 1 w.r.t medium 2 is:",
+        "options": ["1.25", "0.8", "1/1.25²", "1.25²"],
+        "answer": "0.8",
+        "explanation": "n₂₁ = 1.25. n₁₂ = 1 / n₂₁ = 1 / 1.25 = 1 / (5/4) = 4/5 = 0.8."
+    },
+    {
+        "question": "Q131. Light incident normally (i=0) on a glass slab.",
+        "options": ["Reflects at 90°", "Refracts at 90°", "Passes undeviated", "Undergoes TIR"],
+        "answer": "Passes undeviated",
+        "explanation": "If i=0, then sin i=0. Snell's law gives sin r = (n₁/n₂)sin i = 0. So r=0. The ray passes straight through."
+    },
+    {
+        "question": "Q132. A fish in water (n=4/3) looks at a bird in air (n=1). The bird will appear:",
+        "options": ["Closer than it is", "Farther than it is", "At its actual distance", "Invisible"],
+        "answer": "Farther than it is",
+        "explanation": "Due to refraction (light from bird bends away from normal when entering water), the apparent height is greater than the real height. Apparent Height = Real Height * (n_observer / n_object) = H * (4/3 / 1) = (4/3)H. It appears farther."
+    },
+    {
+        "question": "Q133. A bird in air (n=1) looks at a fish in water (n=4/3). The fish will appear:",
+        "options": ["Deeper than it is", "Shallower than it is", "At its actual depth", "Invisible"],
+        "answer": "Shallower than it is",
+        "explanation": "Apparent Depth = Real Depth * (n_observer / n_object) = D * (1 / (4/3)) = (3/4)D. It appears shallower (closer to surface)."
+    },
+    {
+        "question": "Q134. Snell's law is related to the phenomenon of:",
+        "options": ["Reflection", "Refraction", "Diffraction", "Polarization"],
+        "answer": "Refraction",
+        "explanation": "Snell's law mathematically describes how light bends during refraction."
+    },
+    {
+        "question": "Q135. If light goes from air to glass, angle i > angle r because:",
+        "options": ["n_air > n_glass", "n_air < n_glass", "n_air = n_glass", "Light reflects"],
+        "answer": "n_air < n_glass",
+        "explanation": "Air is rarer (lower n) than glass (denser, higher n). Light bends towards normal, so r < i."
+    },
+
+    {
+        "question": "Q136. Speed of light in vacuum is 3×10⁸ m/s. Speed in glass (n=1.5) is:",
+        "options": ["3×10⁸ m/s", "2×10⁸ m/s", "4.5×10⁸ m/s", "1.5×10⁸ m/s"],
+        "answer": "2×10⁸ m/s",
+        "explanation": "v = c/n = (3×10⁸ m/s) / 1.5 = (3/1.5) × 10⁸ = 2×10⁸ m/s."
+    },
+    {
+        "question": "Q137. Speed of light in water is 2.25×10⁸ m/s. Absolute refractive index of water is:",
+        "options": ["1.33", "1.5", "0.75", "1.0"],
+        "answer": "1.33",
+        "explanation": "n = c/v = (3×10⁸ m/s) / (2.25×10⁸ m/s) = 3 / 2.25 = 3 / (9/4) = 12/9 = 4/3 ≈ 1.33."
+    },
+    {
+        "question": "Q138. Speed of light in diamond is 1.25×10⁸ m/s. Its refractive index is:",
+        "options": ["1.5", "2.0", "2.4", "1.33"],
+        "answer": "2.4",
+        "explanation": "n = c/v = (3×10⁸ m/s) / (1.25×10⁸ m/s) = 3 / 1.25 = 3 / (5/4) = 12/5 = 2.4."
+    },
+    {
+        "question": "Q139. If n_water = 4/3 and n_glass = 3/2, find speed of light in glass if speed in water is v_w.",
+        "options": ["(9/8)v_w", "(8/9)v_w", "(2/1)v_w", "(1/2)v_w"],
+        "answer": "(8/9)v_w",
+        "explanation": "n_w = c/v_w => v_w = c/n_w. n_g = c/v_g => v_g = c/n_g. v_g / v_w = (c/n_g) / (c/n_w) = n_w / n_g = (4/3) / (3/2) = (4/3) * (2/3) = 8/9. So v_g = (8/9)v_w."
+    },
+    {
+        "question": "Q140. Refractive index of medium A is 1.5, medium B is 2.0. Find n_AB (n of A w.r.t B).",
+        "options": ["0.75", "1.33", "3.0", "0.5"],
+        "answer": "0.75",
+        "explanation": "n_AB = n_A / n_B = 1.5 / 2.0 = 15/20 = 3/4 = 0.75."
+    },
+    {
+        "question": "Q141. Light travels from vacuum into a medium with n=2. Its speed reduces by a factor of:",
+        "options": ["1", "2", "4", "0.5"],
+        "answer": "2",
+        "explanation": "v = c/n = c/2. The speed becomes half, so it reduces by a factor of 2."
+    },
+    {
+        "question": "Q142. If speed of light in medium X is 1.5x10⁸ m/s, its absolute refractive index is:",
+        "options": ["1.5", "2.0", "0.5", "1.0"],
+        "answer": "2.0",
+        "explanation": "n = c/v = (3x10⁸) / (1.5x10⁸) = 3/1.5 = 2.0."
+    },
+    {
+        "question": "Q143. n_glass = 1.5, n_diamond = 2.4. Find n_gd (n of glass w.r.t diamond).",
+        "options": ["1.6", "0.625", "3.6", "0.9"],
+        "answer": "0.625",
+        "explanation": "n_gd = n_glass / n_diamond = 1.5 / 2.4 = 15/24 = 5/8 = 0.625."
+    },
+    {
+        "question": "Q144. Relative refractive index n₂₁ > 1 implies:",
+        "options": ["v₂ > v₁", "v₂ < v₁", "v₂ = v₁", "n₂ < n₁"],
+        "answer": "v₂ < v₁",
+        "explanation": "n₂₁ = n₂/n₁ = v₁/v₂. If n₂₁ > 1, then v₁/v₂ > 1, which means v₁ > v₂ or v₂ < v₁. Light travels slower in medium 2."
+    },
+    {
+        "question": "Q145. Absolute refractive index depends on:",
+        "options": ["Angle of incidence", "Nature of medium and wavelength of light", "Intensity of light", "Angle of refraction"],
+        "answer": "Nature of medium and wavelength of light",
+        "explanation": "Refractive index is a property of the medium and varies slightly with the wavelength (color) of light (this causes dispersion)."
+    },
+
+    {
+        "question": "Q146. Total Internal Reflection (TIR) occurs when light travels from:",
+        "options": ["Rarer to denser medium", "Denser to rarer medium", "Same medium", "Vacuum to medium"],
+        "answer": "Denser to rarer medium",
+        "explanation": "TIR can only happen when light tries to exit a denser medium into a rarer medium."
+    },
+    {
+        "question": "Q147. For TIR to occur, the angle of incidence (i) in the denser medium must be:",
+        "options": ["Less than the critical angle (C)", "Equal to the critical angle (C)", "Greater than the critical angle (C)", "Equal to 0°"],
+        "answer": "Greater than the critical angle (C)",
+        "explanation": "Two conditions for TIR: 1. Light travels from denser to rarer. 2. Angle of incidence i > Critical angle C."
+    },
+    {
+        "question": "Q148. The critical angle (C) is the angle of incidence in the denser medium for which the angle of refraction in the rarer medium is:",
+        "options": ["0°", "45°", "90°", "Equal to C"],
+        "answer": "90°",
+        "explanation": "This is the definition of the critical angle. The refracted ray grazes the boundary surface."
+    },
+    {
+        "question": "Q149. The relationship between critical angle (C) and refractive indices (n_denser = n₁, n_rarer = n₂) is:",
+        "options": ["sin C = n₁/n₂", "sin C = n₂/n₁", "cos C = n₂/n₁", "tan C = n₂/n₁"],
+        "answer": "sin C = n₂/n₁",
+        "explanation": "Apply Snell's law at critical angle: n₁ sin C = n₂ sin 90° = n₂ * 1. So, sin C = n₂/n₁ (where n₁ > n₂)."
+    },
+    {
+        "question": "Q150. If light travels from glass (n=1.5) to air (n=1), the critical angle is:",
+        "options": ["arcsin(1.5)", "arcsin(1/1.5)", "arcsin(1)", "90°"],
+        "answer": "arcsin(1/1.5)",
+        "explanation": "sin C = n_rarer / n_denser = n_air / n_glass = 1 / 1.5. C = arcsin(1/1.5) ≈ arcsin(0.667) ≈ 41.8°."
+    },
+    {
+        "question": "Q151. Calculate the critical angle for light going from water (n=4/3) to air (n=1).",
+        "options": ["arcsin(3/4)", "arcsin(4/3)", "arcsin(1)", "0°"],
+        "answer": "arcsin(3/4)",
+        "explanation": "sin C = n_air / n_water = 1 / (4/3) = 3/4. C = arcsin(3/4) ≈ arcsin(0.75) ≈ 48.6°."
+    },
+    {
+        "question": "Q152. Calculate the critical angle for light going from diamond (n=2.4) to air (n=1).",
+        "options": ["arcsin(1/2.4)", "arcsin(2.4)", "90°", "45°"],
+        "answer": "arcsin(1/2.4)",
+        "explanation": "sin C = n_air / n_diamond = 1 / 2.4. C = arcsin(1/2.4) ≈ arcsin(0.417) ≈ 24.6°. (This small angle contributes to diamond's sparkle)."
+    },
+    {
+        "question": "Q153. If the critical angle for a medium is 45°, its refractive index is: (Assume rarer medium is air, n=1)",
+        "options": ["1/√2", "√2", "1.5", "2"],
+        "answer": "√2",
+        "explanation": "sin C = n_air / n_medium => sin 45° = 1 / n => 1/√2 = 1/n => n = √2 ≈ 1.414."
+    },
+    {
+        "question": "Q154. If the angle of incidence in the denser medium is less than the critical angle, what happens?",
+        "options": ["Only Reflection", "Only Refraction", "Both Reflection and Refraction", "Total Internal Reflection"],
+        "answer": "Both Reflection and Refraction",
+        "explanation": "When i < C, some light is reflected back into the denser medium, and some is refracted into the rarer medium, bending away from the normal."
+    },
+    {
+        "question": "Q155. Brilliance of diamond is due to:",
+        "options": ["Reflection", "Refraction", "Dispersion", "Total Internal Reflection"],
+        "answer": "Total Internal Reflection",
+        "explanation": "Diamond has a high refractive index (≈2.4) resulting in a small critical angle (≈24.6°). Light entering the diamond undergoes multiple TIRs before exiting, causing it to sparkle."
+    },
+    {
+        "question": "Q156. Mirage formation in deserts is caused by:",
+        "options": ["Reflection from sand", "Refraction and Total Internal Reflection of light due to varying air density", "Dispersion of light", "Diffraction of light"],
+        "answer": "Refraction and Total Internal Reflection of light due to varying air density",
+        "explanation": "Hot air near the ground is less dense (lower n) than cooler air above. Light from distant objects bends away from the normal as it passes down, and can undergo TIR, creating an inverted image that looks like a reflection in water."
+    },
+    {
+        "question": "Q157. Which phenomenon is responsible for the working of optical fibers?",
+        "options": ["Reflection", "Refraction", "Diffraction", "Total Internal Reflection"],
+        "answer": "Total Internal Reflection",
+        "explanation": "Light signals are guided along the fiber core by undergoing repeated TIR at the core-cladding boundary."
+    },
+    {
+        "question": "Q158. For TIR to occur efficiently in an optical fiber, the refractive index of the core (n_core) must be ____ the refractive index of the cladding (n_cladding).",
+        "options": ["Less than", "Equal to", "Greater than", "Unrelated to"],
+        "answer": "Greater than",
+        "explanation": "Light travels mainly in the core (denser medium) and reflects off the cladding (rarer medium). So n_core > n_cladding is required for TIR."
+    },
+    {
+        "question": "Q159. A larger critical angle implies that TIR is ____ to achieve.",
+        "options": ["Easier", "Harder", "Impossible", "Always occurring"],
+        "answer": "Harder",
+        "explanation": "A larger C means the angle of incidence 'i' must be very large (closer to 90°) to exceed C and achieve TIR. sin C = n₂/n₁. Larger C means n₂/n₁ is larger, i.e., indices are closer."
+    },
+    {
+        "question": "Q160. If n_denser = 2.0 and n_rarer = 1.0, sin C = 1/2, C = 30°. If n_rarer increases to 1.5, the new critical angle C' satisfies:",
+        "options": ["sin C' = 1.5 / 2.0 = 0.75", "sin C' = 2.0 / 1.5 ≈ 1.33", "C' = 30°", "TIR is impossible"],
+        "answer": "sin C' = 1.5 / 2.0 = 0.75",
+        "explanation": "The new critical angle uses the new rarer index: sin C' = n_rarer' / n_denser = 1.5 / 2.0 = 3/4 = 0.75. (C' ≈ 48.6°)."
+    },
+
+    {
+        "question": "Q161. An optical fiber typically consists of a central ____ surrounded by ____.",
+        "options": ["Cladding, Core", "Core, Cladding", "Jacket, Buffer", "Core, Jacket"],
+        "answer": "Core, Cladding",
+        "explanation": "The basic structure is a central core (higher refractive index) where light travels, surrounded by cladding (lower refractive index) to facilitate TIR."
+    },
+    {
+        "question": "Q162. The main principle behind light propagation in optical fibers is:",
+        "options": ["Refraction", "Diffraction", "Dispersion", "Total Internal Reflection (TIR)"],
+        "answer": "Total Internal Reflection (TIR)",
+        "explanation": "Light rays entering the core at appropriate angles undergo multiple TIRs at the core-cladding interface, guiding the light along the fiber."
+    },
+    {
+        "question": "Q163. For light to be guided within an optical fiber core, the angle of incidence at the core-cladding interface must be:",
+        "options": ["Less than the critical angle", "Equal to the critical angle", "Greater than the critical angle", "Zero"],
+        "answer": "Greater than the critical angle",
+        "explanation": "This is the fundamental condition required for Total Internal Reflection to occur."
+    },
+    {
+        "question": "Q164. The material used for making optical fiber cores and claddings is usually:",
+        "options": ["Copper", "Aluminum", "Glass (Silica) or Plastic", "Air"],
+        "answer": "Glass (Silica) or Plastic",
+        "explanation": "High-purity silica glass or special polymers are used for their optical transparency and ability to be drawn into thin fibers with controlled refractive indices."
+    },
+    {
+        "question": "Q165. Compared to copper wires, optical fibers offer:",
+        "options": ["Lower bandwidth", "Higher signal loss (attenuation)", "Immunity to electromagnetic interference", "Greater weight"],
+        "answer": "Immunity to electromagnetic interference",
+        "explanation": "Since optical fibers carry light signals, not electrical currents, they are immune to EMI, which is a major advantage over copper cables."
+    },
+    {
+        "question": "Q166. A major advantage of optical fibers in communication is:",
+        "options": ["Low cost of installation", "High bandwidth and data carrying capacity", "Ease of splicing", "Flexibility"],
+        "answer": "High bandwidth and data carrying capacity",
+        "explanation": "Light waves have very high frequencies, allowing optical fibers to carry vastly more information (higher bandwidth) than traditional electrical cables."
+    },
+    {
+        "question": "Q167. The protective outer layer of an optical fiber cable is called the:",
+        "options": ["Core", "Cladding", "Buffer coating", "Jacket"],
+        "answer": "Jacket",
+        "explanation": "The jacket provides mechanical protection and environmental resistance to the entire fiber structure."
+    },
+    {
+        "question": "Q168. Optical fibers are used in which medical application?",
+        "options": ["X-rays", "Endoscopy", "MRI", "ECG"],
+        "answer": "Endoscopy",
+        "explanation": "Endoscopes use bundles of optical fibers to transmit light into the body and carry images back out for viewing internal organs."
+    },
+    {
+        "question": "Q169. Signal loss in optical fibers is called:",
+        "options": ["Amplification", "Attenuation", "Dispersion", "Refraction"],
+        "answer": "Attenuation",
+        "explanation": "Attenuation refers to the gradual decrease in light signal intensity as it travels along the fiber, due to absorption and scattering."
+    },
+    {
+        "question": "Q170. The spreading of light pulses as they travel down an optical fiber is called:",
+        "options": ["Attenuation", "Dispersion", "Reflection", "Amplification"],
+        "answer": "Dispersion",
+        "explanation": "Dispersion causes different parts of the light signal (e.g., different wavelengths or modes) to travel at slightly different speeds, leading to pulse broadening, which limits data rate."
+    },
+    {
+        "question": "Q171. Single-mode optical fibers have a ____ core diameter compared to multi-mode fibers.",
+        "options": ["Larger", "Smaller", "Same", "Variable"],
+        "answer": "Smaller",
+        "explanation": "Single-mode fibers have very small core diameters (few micrometers) to allow only one light path (mode), minimizing dispersion and allowing higher bandwidth over long distances."
+    },
+    {
+        "question": "Q172. Multi-mode optical fibers are typically used for:",
+        "options": ["Long-distance telecommunication", "Short-distance data links (e.g., LANs)", "Submarine cables", "High-power laser delivery"],
+        "answer": "Short-distance data links (e.g., LANs)",
+        "explanation": "Their larger core makes connections easier and cheaper, but dispersion limits their distance and bandwidth compared to single-mode fibers."
+    },
+    {
+        "question": "Q173. Which property allows optical fibers to be bent around corners without significant light loss?",
+        "options": ["Refraction", "Dispersion", "Total Internal Reflection", "Flexibility of glass"],
+        "answer": "Total Internal Reflection",
+        "explanation": "As long as the bending is not too sharp (violating the i>C condition), TIR continues to guide the light along the curved path."
+    },
+    {
+        "question": "Q174. An application of optical fibers as sensors involves measuring changes in:",
+        "options": ["Light intensity", "Phase", "Polarization", "All of the above"],
+        "answer": "All of the above",
+        "explanation": "Fiber optic sensors can detect changes in temperature, pressure, strain, etc., by monitoring how these factors affect the light passing through the fiber (intensity, phase shifts, polarization changes)."
+    },
+    {
+        "question": "Q175. The refractive index profile in a graded-index optical fiber:",
+        "options": ["Is constant in the core", "Is highest at the core center and decreases towards cladding", "Is lowest at the core center and increases towards cladding", "Is constant in the cladding"],
+        "answer": "Is highest at the core center and decreases towards cladding",
+        "explanation": "Graded-index fibers have a varying refractive index that causes light rays to curve smoothly back towards the center, reducing modal dispersion compared to step-index multi-mode fibers."
+    },
+    {
+        "question": "Q176. The persistence of sound in an enclosure after the source has stopped is called:",
+        "options": ["Echo", "Reverberation", "Absorption", "Resonance"],
+        "answer": "Reverberation",
+        "explanation": "Reverberation is caused by multiple reflections of sound waves from the surfaces of the room."
+    },
+    {
+        "question": "Q177. A distinct repetition of sound heard after the original sound has ceased, due to reflection from a distant surface, is called:",
+        "options": ["Echo", "Reverberation", "Interference", "Beats"],
+        "answer": "Echo",
+        "explanation": "An echo is a single, clear reflection heard distinctly later than the direct sound (requires sufficient distance to the reflecting surface)."
+    },
+    {
+        "question": "Q178. Reverberation time (T) is defined as the time taken for the sound intensity to decay by ____ dB after the source stops.",
+        "options": ["10 dB", "30 dB", "60 dB", "100 dB"],
+        "answer": "60 dB",
+        "explanation": "Standard definition: Time for sound level to drop by 60 decibels (equivalent to intensity dropping to one-millionth of its initial value)."
+    },
+    {
+        "question": "Q179. Sabine's formula for reverberation time (T) is given by T = 0.161V / A, where V is the volume and A is the:",
+        "options": ["Surface area of the room", "Absorption coefficient", "Total sound absorption of the room surfaces", "Area of the source"],
+        "answer": "Total sound absorption of the room surfaces",
+        "explanation": "A = Σ(αS), where α is the absorption coefficient of a surface and S is its area. A represents the total absorbing power of the room, measured in Sabins or m² Sabins."
+    },
+    {
+        "question": "Q180. The absorption coefficient (α) of a surface measures its effectiveness in:",
+        "options": ["Reflecting sound", "Absorbing sound", "Transmitting sound", "Generating sound"],
+        "answer": "Absorbing sound",
+        "explanation": "α is the fraction of incident sound energy absorbed by the surface. α=1 means perfect absorption, α=0 means perfect reflection."
+    },
+    {
+        "question": "Q181. The unit of absorption coefficient (α) is:",
+        "options": ["Meter (m)", "Second (s)", "Decibel (dB)", "Dimensionless (or Sabin per unit area)"],
+        "answer": "Dimensionless (or Sabin per unit area)",
+        "explanation": "α is a ratio (energy absorbed / energy incident), so it's dimensionless. Sometimes described relative to an open window (unit Sabin)."
+    },
+    {
+        "question": "Q182. The unit of total absorption (A = ΣαS) in Sabine's formula is:",
+        "options": ["m²", "Second", "Sabin (or m² Sabin)", "dB"],
+        "answer": "Sabin (or m² Sabin)",
+        "explanation": "If S is in m², A has units of 'metric Sabins' or 'm² Sabins'. If S is in ft², A is in 'imperial Sabins'."
+    },
+    {
+        "question": "Q183. According to Sabine's formula, reverberation time (T) is directly proportional to:",
+        "options": ["Total absorption (A)", "Surface area (S)", "Volume of the room (V)", "Absorption coefficient (α)"],
+        "answer": "Volume of the room (V)",
+        "explanation": "T = 0.161V / A. T is directly proportional to V."
+    },
+    {
+        "question": "Q184. According to Sabine's formula, reverberation time (T) is inversely proportional to:",
+        "options": ["Volume of the room (V)", "Total absorption (A)", "Frequency of sound", "Temperature"],
+        "answer": "Total absorption (A)",
+        "explanation": "T = 0.161V / A. T is inversely proportional to A."
+    },
+    {
+        "question": "Q185. To decrease the reverberation time of a hall, one should:",
+        "options": ["Increase the volume", "Decrease the total absorption", "Increase the total absorption (use absorbing materials)", "Remove all furniture"],
+        "answer": "Increase the total absorption (use absorbing materials)",
+        "explanation": "Increasing A (by using carpets, curtains, acoustic tiles) will decrease T, making speech clearer."
+    },
+    {
+        "question": "Q186. For speech clarity in a lecture hall, the reverberation time should ideally be:",
+        "options": ["Very long (several seconds)", "Very short (almost zero)", "Moderately short (around 0.5 - 1.5 seconds)", "Infinite"],
+        "answer": "Moderately short (around 0.5 - 1.5 seconds)",
+        "explanation": "Too long makes speech muddy, too short makes the hall sound 'dead'. An optimum range exists depending on the hall's size and purpose."
+    },
+    {
+        "question": "Q187. For music performance (like orchestral music) in a concert hall, the reverberation time should ideally be:",
+        "options": ["Very short (almost zero)", "Moderately short (0.5 - 1 second)", "Longer (around 1.5 - 2.5 seconds or more)", "Zero"],
+        "answer": "Longer (around 1.5 - 2.5 seconds or more)",
+        "explanation": "A longer reverberation time adds richness, fullness, and blend to music, especially for classical genres."
+    },
+    {
+        "question": "Q188. Materials like heavy curtains, carpets, and acoustic tiles have:",
+        "options": ["High absorption coefficient (α)", "Low absorption coefficient (α)", "Zero absorption coefficient (α)", "Negative absorption coefficient (α)"],
+        "answer": "High absorption coefficient (α)",
+        "explanation": "These materials are porous or soft and effectively absorb sound energy, reducing reflections."
+    },
+    {
+        "question": "Q189. Materials like hard plaster, glass, and concrete have:",
+        "options": ["High absorption coefficient (α)", "Low absorption coefficient (α)", "Infinite absorption coefficient (α)", "Negative absorption coefficient (α)"],
+        "answer": "Low absorption coefficient (α)",
+        "explanation": "These hard, smooth surfaces reflect most of the sound energy, absorbing very little."
+    },
+    {
+        "question": "Q190. An open window is considered to have an absorption coefficient (α) of:",
+        "options": ["0", "0.5", "1", "Infinite"],
+        "answer": "1",
+        "explanation": "Sound reaching an open window passes out and does not reflect back, representing perfect absorption (α=1). It's the reference for the Sabin unit."
+    },
+
+    {
+        "question": "Q191. A hall has a volume of 1000 m³ and total absorption A = 50 m² Sabin. Calculate the reverberation time.",
+        "options": ["3.22 s", "0.322 s", "1.61 s", "0.05 s"],
+        "answer": "3.22 s",
+        "explanation": "T = 0.161V / A = 0.161 * 1000 / 50 = 161 / 50 = 3.22 s."
+    },
+    {
+        "question": "Q192. A room has volume 200 m³ and reverberation time 0.8 s. Calculate the total absorption A.",
+        "options": ["40.25 m² Sabin", "160 m² Sabin", "0.004 m² Sabin", "250 m² Sabin"],
+        "answer": "40.25 m² Sabin",
+        "explanation": "T = 0.161V / A => A = 0.161V / T = 0.161 * 200 / 0.8 = 161 * 200 / 800 = 161 / 4 = 40.25 m² Sabin."
+    },
+    {
+        "question": "Q193. A surface has area 100 m² and absorption coefficient α = 0.2. Its contribution to total absorption A is:",
+        "options": ["20 m² Sabin", "500 m² Sabin", "0.002 m² Sabin", "100.2 m² Sabin"],
+        "answer": "20 m² Sabin",
+        "explanation": "Absorption = α * S = 0.2 * 100 m² = 20 m² Sabin."
+    },
+    {
+        "question": "Q194. A hall (V=500 m³) has surfaces: 100 m² (α=0.05), 200 m² (α=0.1), 150 m² (α=0.3). Calculate total absorption A.",
+        "options": ["70 m² Sabin", "55 m² Sabin", "450 m² Sabin", "150 m² Sabin"],
+        "answer": "70 m² Sabin",
+        "explanation": "A = Σ(αS) = (100*0.05) + (200*0.1) + (150*0.3) = 5 + 20 + 45 = 70 m² Sabin."
+    },
+    {
+        "question": "Q195. Calculate the reverberation time for the hall in Q194.",
+        "options": ["1.15 s", "0.2 s", "2.3 s", "0.14 s"],
+        "answer": "1.15 s",
+        "explanation": "T = 0.161V / A = 0.161 * 500 / 70 = 161 * 5 / 70 = 161 / 14 ≈ 11.5 / 1 ≈ 11.5 s? Wait. 0.161 * 500 / 70 = 80.5 / 70 ≈ 1.15 s."
+    },
+    {
+        "question": "Q196. If the volume of a hall is doubled, keeping the total absorption constant, the reverberation time:",
+        "options": ["Is halved", "Is doubled", "Remains same", "Becomes four times"],
+        "answer": "Is doubled",
+        "explanation": "T = 0.161V / A. If V -> 2V and A is constant, T -> 2T."
+    },
+    {
+        "question": "Q197. If the total absorption of a hall is doubled, keeping the volume constant, the reverberation time:",
+        "options": ["Is halved", "Is doubled", "Remains same", "Becomes four times"],
+        "answer": "Is halved",
+        "explanation": "T = 0.161V / A. If A -> 2A and V is constant, T -> T/2."
+    },
+    {
+        "question": "Q198. A classroom has V=150 m³, T=1.0 s. To reduce T to 0.6 s, how much additional absorption (in m² Sabin) is needed?",
+        "options": ["16.1", "24.15", "40.25", "10.73"],
+        "answer": "16.1",
+        "explanation": "Initial absorption A₁ = 0.161V / T₁ = 0.161 * 150 / 1.0 = 24.15 m² Sabin. Desired absorption A₂ = 0.161V / T₂ = 0.161 * 150 / 0.6 = 24.15 / 0.6 = 40.25 m² Sabin. Additional absorption needed = A₂ - A₁ = 40.25 - 24.15 = 16.1 m² Sabin."
+    },
+    {
+        "question": "Q199. Unit 'Sabin' is effectively a unit of:",
+        "options": ["Area", "Volume", "Sound absorption (equivalent area of perfect absorber)", "Time"],
+        "answer": "Sound absorption (equivalent area of perfect absorber)",
+        "explanation": "1 Sabin is the absorption equivalent to 1 square foot (or 1 m² in metric Sabin) of a perfectly absorbing surface (like an open window)."
+    },
+    {
+        "question": "Q200. Sabine's formula works best for rooms that are:",
+        "options": ["Very small and dead", "Very large and live (reverberant)", "Moderately sized with diffuse sound field", "Anechoic chambers"],
+        "answer": "Moderately sized with diffuse sound field",
+        "explanation": "The formula assumes a statistically uniform distribution of sound energy (diffuse field), which works reasonably well for medium to large 'live' rooms but less well for very small or highly absorbent rooms."
+    },
+    {
+        "question": "Q201. Hall A: V=1000, A=100. Hall B: V=2000, A=200. Compare reverberation times T_A and T_B.",
+        "options": ["T_A = T_B", "T_A = 2T_B", "T_B = 2T_A", "T_A = 0.5 T_B"],
+        "answer": "T_A = T_B",
+        "explanation": "T_A = 0.161 * 1000 / 100 = 1.61. T_B = 0.161 * 2000 / 200 = 0.161 * 10 = 1.61. They are equal."
+    },
+    {
+        "question": "Q202. A hall has V=800 m³, T=2s. What is its total absorption A?",
+        "options": ["64.4 m² Sabin", "128.8 m² Sabin", "32.2 m² Sabin", "80 m² Sabin"],
+        "answer": "64.4 m² Sabin",
+        "explanation": "A = 0.161V / T = 0.161 * 800 / 2 = 0.161 * 400 = 64.4 m² Sabin."
+    },
+    {
+        "question": "Q203. A surface of 50 m² has α=0.1. Its absorption in Sabins is:",
+        "options": ["5", "0.1", "500", "0.002"],
+        "answer": "5",
+        "explanation": "Absorption = α * S = 0.1 * 50 = 5 Sabins (or m² Sabins)."
+    },
+    {
+        "question": "Q204. Introducing audience into an empty hall generally ____ the reverberation time.",
+        "options": ["Increases", "Decreases", "Does not change", "Makes it infinite"],
+        "answer": "Decreases",
+        "explanation": "People and their clothing absorb sound, increasing the total absorption A, which decreases the reverberation time T."
+    },
+    {
+        "question": "Q205. If all surface areas in a room are doubled, but volume and absorption coefficients remain same, reverberation time T:",
+        "options": ["Doubles", "Halves", "Remains same", "Becomes 1/4th"],
+        "answer": "Halves",
+        "explanation": "Total absorption A = ΣαS. If all S double, A doubles. Since T ∝ 1/A, T becomes half."
+    },
+
+    {
+        "question": "Q206. For a distinct echo to be heard, the minimum time interval between the original sound and the reflected sound should be about:",
+        "options": ["0.01 s", "0.1 s", "1 s", "0.001 s"],
+        "answer": "0.1 s",
+        "explanation": "The persistence of hearing for the human ear is about 1/10th of a second (0.1 s). If the reflected sound arrives sooner, it merges with the original sound (reverberation)."
+    },
+    {
+        "question": "Q207. Taking speed of sound in air as 340 m/s, what is the minimum distance to a reflecting surface to hear a distinct echo?",
+        "options": ["3.4 m", "17 m", "34 m", "1.7 m"],
+        "answer": "17 m",
+        "explanation": "Sound travels to the reflector and back. Total distance = 2d. Time t = 0.1 s. Speed v = 340 m/s. Distance = Speed × Time => 2d = v * t => 2d = 340 * 0.1 = 34 m. Minimum distance d = 34 / 2 = 17 m."
+    },
+    {
+        "question": "Q208. A person shouts towards a cliff and hears the echo after 4 seconds. If speed of sound is 330 m/s, the distance to the cliff is:",
+        "options": ["330 m", "660 m", "1320 m", "165 m"],
+        "answer": "660 m",
+        "explanation": "Time for round trip t = 4 s. Total distance = 2d. 2d = v * t = 330 * 4 = 1320 m. Distance d = 1320 / 2 = 660 m."
+    },
+    {
+        "question": "Q209. SONAR uses reflection of ____ waves to determine depth or locate objects.",
+        "options": ["Light", "Radio", "Ultrasonic sound", "Infrasonic sound"],
+        "answer": "Ultrasonic sound",
+        "explanation": "SONAR relies on emitting ultrasonic pulses and detecting their echoes."
+    },
+    {
+        "question": "Q210. If an echo is heard 1.5 s after the original sound (v=340 m/s), the distance to the reflector is:",
+        "options": ["255 m", "510 m", "113.3 m", "340 m"],
+        "answer": "255 m",
+        "explanation": "2d = v * t = 340 * 1.5 = 510 m. d = 510 / 2 = 255 m."
+    },
+    {
+        "question": "Q211. Multiple echoes heard due to successive reflections from parallel surfaces is called:",
+        "options": ["Reverberation", "Flutter echo", "Absorption", "Resonance"],
+        "answer": "Flutter echo",
+        "explanation": "Flutter echo is a rapid succession of distinct echoes often heard between hard parallel walls."
+    }
+]

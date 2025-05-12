@@ -1,0 +1,1157 @@
+[
+    {
+        "question": "Q1. What happens to the concentration of H3O+ ions when a solution of an acid is diluted?",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains unchanged",
+            "Becomes zero"
+        ],
+        "answer": "Decreases",
+        "explanation": "Dilution means adding more water (solvent). While the total number of H3O+ ions remains the same, the volume increases, leading to a decrease in concentration (moles per unit volume)."
+    },
+    {
+        "question": "Q2. Which of the following is NOT a property of acids?",
+        "options": [
+            "They taste sour.",
+            "They turn blue litmus red.",
+            "They feel slippery or soapy.",
+            "They react with carbonates to produce CO2 gas."
+        ],
+        "answer": "They feel slippery or soapy.",
+        "explanation": "Bases typically feel slippery or soapy to the touch due to the saponification reaction with oils on the skin. Acids are generally corrosive but not slippery."
+    },
+    {
+        "question": "Q3. Non-metallic oxides like Carbon Dioxide (CO2) and Sulfur Dioxide (SO2) are generally:",
+        "options": [
+            "Acidic in nature",
+            "Basic in nature",
+            "Neutral in nature",
+            "Amphoteric in nature"
+        ],
+        "answer": "Acidic in nature",
+        "explanation": "Non-metallic oxides react with water to form acids (e.g., CO2 + H2O -> H2CO3) or react with bases to form salt and water, indicating their acidic nature."
+    },
+    {
+        "question": "Q4. What products are formed when a non-metallic oxide like SO2 reacts with a base like NaOH?",
+        "options": [
+            "Sodium sulfate and hydrogen",
+            "Sodium sulfite and water",
+            "Sodium sulfide and oxygen",
+            "Sodium hydroxide and sulfur"
+        ],
+        "answer": "Sodium sulfite and water",
+        "explanation": "Acidic oxides react with bases in a neutralization-like reaction: SO2 (g) + 2NaOH (aq) -> Na2SO3 (aq) + H2O (l)."
+    },
+    {
+        "question": "Q5. Which ion is responsible for the basic properties of a substance when dissolved in water?",
+        "options": [
+            "Hydrogen ion (H+)",
+            "Hydronium ion (H3O+)",
+            "Hydroxide ion (OH-)",
+            "Sulfate ion (SO4^2-)"
+        ],
+        "answer": "Hydroxide ion (OH-)",
+        "explanation": "According to the Arrhenius theory, bases are substances that dissociate in water to produce hydroxide ions (OH-), which are responsible for their basic characteristics."
+    },
+    {
+        "question": "Q6. Tooth decay starts when the pH of the mouth falls below:",
+        "options": [
+            "7.0",
+            "6.5",
+            "5.5",
+            "4.5"
+        ],
+        "answer": "5.5",
+        "explanation": "Bacteria in the mouth break down sugars into acids. When the pH drops below 5.5, the acidic environment starts dissolving the tooth enamel (calcium phosphate), leading to decay."
+    },
+    {
+        "question": "Q7. Antacids are used to relieve indigestion. They work by:",
+        "options": [
+            "Neutralizing excess acid in the stomach",
+            "Increasing acid production",
+            "Coating the stomach lining",
+            "Killing bacteria in the stomach"
+        ],
+        "answer": "Neutralizing excess acid in the stomach",
+        "explanation": "Indigestion is often caused by excess hydrochloric acid in the stomach. Antacids are mild bases (like Magnesium Hydroxide or Aluminum Hydroxide) that neutralize this excess acid."
+    },
+    {
+        "question": "Q8. The sting of a nettle leaf injects which acid, causing a burning sensation?",
+        "options": [
+            "Acetic acid",
+            "Citric acid",
+            "Methanoic acid (Formic acid)",
+            "Lactic acid"
+        ],
+        "answer": "Methanoic acid (Formic acid)",
+        "explanation": "Nettle stings contain methanoic acid (formic acid), which causes irritation and pain. Rubbing with the leaf of a dock plant (which is basic) can provide relief."
+    },
+    {
+        "question": "Q9. A solution turns red litmus blue. Its pH is likely to be:",
+        "options": [
+            "1",
+            "4",
+            "5",
+            "10"
+        ],
+        "answer": "10",
+        "explanation": "Red litmus turns blue in basic solutions. Basic solutions have a pH greater than 7. Among the options, only 10 is greater than 7."
+    },
+    {
+        "question": "Q10. Which of the following salts belongs to the 'sodium family' but not the 'chloride family'?",
+        "options": [
+            "NaCl (Sodium chloride)",
+            "KCl (Potassium chloride)",
+            "Na2SO4 (Sodium sulfate)",
+            "MgCl2 (Magnesium chloride)"
+        ],
+        "answer": "Na2SO4 (Sodium sulfate)",
+        "explanation": "Salts having the same positive ion (cation) belong to the same family (e.g., sodium family - Na+). Salts having the same negative ion (anion) also belong to the same family (e.g., chloride family - Cl-). Na2SO4 has Na+ (sodium family) but SO4^2- (sulfate family), not Cl-."
+    },
+    {
+        "question": "Q11. A salt formed from a strong acid (like HCl) and a weak base (like NH4OH) will produce a solution that is:",
+        "options": [
+            "Acidic (pH < 7)",
+            "Basic (pH > 7)",
+            "Neutral (pH = 7)",
+            "Cannot be determined"
+        ],
+        "answer": "Acidic (pH < 7)",
+        "explanation": "The cation from the weak base (NH4+) hydrolyzes water to produce H+ ions (NH4+ + H2O <=> NH4OH + H+), making the solution acidic."
+    },
+    {
+        "question": "Q12. Ammonium chloride (NH4Cl) is a salt of:",
+        "options": [
+            "Strong Acid and Strong Base",
+            "Weak Acid and Weak Base",
+            "Strong Acid and Weak Base",
+            "Weak Acid and Strong Base"
+        ],
+        "answer": "Strong Acid and Weak Base",
+        "explanation": "Ammonium chloride is formed from Hydrochloric acid (HCl - strong acid) and Ammonium hydroxide (NH4OH - weak base)."
+    },
+    {
+        "question": "Q13. Which of the following salts will produce a basic solution (pH > 7) when dissolved in water?",
+        "options": [
+            "Potassium Nitrate (KNO3)",
+            "Sodium Acetate (CH3COONa)",
+            "Ammonium Sulfate ((NH4)2SO4)",
+            "Sodium Chloride (NaCl)"
+        ],
+        "answer": "Sodium Acetate (CH3COONa)",
+        "explanation": "Sodium acetate is formed from a weak acid (Acetic acid, CH3COOH) and a strong base (Sodium hydroxide, NaOH). The acetate ion (CH3COO-) hydrolyzes water to produce OH- ions (CH3COO- + H2O <=> CH3COOH + OH-), making the solution basic."
+    },
+    {
+        "question": "Q14. The chemical formula for Washing Soda is Na2CO3.10H2O. Its aqueous solution is:",
+        "options": [
+            "Acidic",
+            "Basic",
+            "Neutral",
+            "Amphoteric"
+        ],
+        "answer": "Basic",
+        "explanation": "Sodium carbonate (Na2CO3) is a salt of a weak acid (H2CO3) and a strong base (NaOH). The carbonate ion (CO3^2-) hydrolyzes water to produce OH- ions, making the solution basic."
+    },
+    {
+        "question": "Q15. What is the pH of a neutral salt solution, like NaCl dissolved in water?",
+        "options": [
+            "Less than 7",
+            "Equal to 7",
+            "Greater than 7",
+            "Zero"
+        ],
+        "answer": "Equal to 7",
+        "explanation": "Salts formed from a strong acid (like HCl) and a strong base (like NaOH) do not hydrolyze water. The concentrations of H+ and OH- ions remain equal, resulting in a neutral solution with pH = 7."
+    },
+    {
+        "question": "Q16. Why should water be added slowly to concentrated acid during dilution, and not the other way around?",
+        "options": [
+            "To prevent the acid from decomposing",
+            "Because the dissolution process is highly exothermic",
+            "To ensure the acid dissolves completely",
+            "Because the dissolution process is highly endothermic"
+        ],
+        "answer": "Because the dissolution process is highly exothermic",
+        "explanation": "Mixing acid and water releases a large amount of heat. Adding water to acid generates intense localized heat, which can cause the water to boil explosively and splash the acid. Adding acid slowly to water allows the heat to dissipate more safely in the larger volume of water."
+    },
+    {
+        "question": "Q17. Amphoteric oxides, like Aluminum oxide (Al2O3), react with:",
+        "options": [
+            "Only acids",
+            "Only bases",
+            "Both acids and bases",
+            "Neither acids nor bases"
+        ],
+        "answer": "Both acids and bases",
+        "explanation": "Amphoteric oxides exhibit both acidic and basic properties. They react with acids to form salt and water (acting as a base) and also react with strong bases to form salt and water (acting as an acid)."
+    },
+    {
+        "question": "Q18. Which gas is evolved when dilute sulfuric acid reacts with sodium carbonate?",
+        "options": [
+            "Hydrogen (H2)",
+            "Sulfur dioxide (SO2)",
+            "Carbon dioxide (CO2)",
+            "Oxygen (O2)"
+        ],
+        "answer": "Carbon dioxide (CO2)",
+        "explanation": "Acids react with metal carbonates and metal hydrogen carbonates to produce salt, water, and carbon dioxide gas. Na2CO3(s) + H2SO4(aq) -> Na2SO4(aq) + H2O(l) + CO2(g)."
+    },
+    {
+        "question": "Q19. A farmer finds the soil in his field is too acidic (low pH). Which substance would be most suitable to add to neutralize the soil?",
+        "options": [
+            "Common Salt (NaCl)",
+            "Vinegar (Acetic acid)",
+            "Slaked Lime (Calcium hydroxide)",
+            "Gypsum (Calcium sulfate)"
+        ],
+        "answer": "Slaked Lime (Calcium hydroxide)",
+        "explanation": "To neutralize acidic soil, a basic substance is needed. Slaked lime (Ca(OH)2) or Quicklime (CaO) are commonly used bases to increase the soil pH."
+    },
+    {
+        "question": "Q20. How does the strength of an acid relate to its degree of dissociation in water?",
+        "options": [
+            "Stronger acids have a lower degree of dissociation",
+            "Stronger acids have a higher degree of dissociation",
+            "Strength is unrelated to dissociation",
+            "Only weak acids dissociate"
+        ],
+        "answer": "Stronger acids have a higher degree of dissociation",
+        "explanation": "The strength of an acid is defined by its ability to donate H+ ions. Strong acids like HCl dissociate almost completely in water, producing a high concentration of H+ ions, hence having a high degree of dissociation. Weak acids only partially dissociate."
+    },
+    {
+        "question": "Q21. Which of the following is a strong base?",
+        "options": [
+            "Ammonium hydroxide (NH4OH)",
+            "Magnesium hydroxide (Mg(OH)2)",
+            "Calcium hydroxide (Ca(OH)2)",
+            "Sodium hydroxide (NaOH)"
+        ],
+        "answer": "Sodium hydroxide (NaOH)",
+        "explanation": "Strong bases dissociate completely in water to produce a high concentration of OH- ions. NaOH and KOH are common examples. NH4OH, Mg(OH)2, and Ca(OH)2 are weak or sparingly soluble bases."
+    },
+    {
+        "question": "Q22. Acetic acid (CH3COOH) is considered a weak acid because:",
+        "options": [
+            "It is very corrosive",
+            "It does not dissolve in water",
+            "It dissociates only partially in water",
+            "It has a low pH"
+        ],
+        "answer": "It dissociates only partially in water",
+        "explanation": "Weak acids only partially ionize (dissociate) in aqueous solution, establishing an equilibrium between the undissociated acid and its ions. This results in a lower concentration of H+ ions compared to a strong acid of the same concentration."
+    },
+    {
+        "question": "Q23. What colour does methyl orange indicator turn in an acidic solution?",
+        "options": [
+            "Yellow",
+            "Red",
+            "Orange",
+            "Colourless"
+        ],
+        "answer": "Red",
+        "explanation": "Methyl orange is an indicator that is red in acidic solutions (pH < 3.1) and yellow in basic solutions (pH > 4.4). It is orange in the transition range."
+    },
+    {
+        "question": "Q24. What colour does methyl orange indicator turn in a basic solution?",
+        "options": [
+            "Yellow",
+            "Red",
+            "Pink",
+            "Blue"
+        ],
+        "answer": "Yellow",
+        "explanation": "Methyl orange is yellow in basic solutions (pH > 4.4) and red in acidic solutions (pH < 3.1)."
+    },
+    {
+        "question": "Q25. The reaction Zn(s) + 2NaOH(aq) -> Na2ZnO2(aq) + H2(g) shows that Zinc is:",
+        "options": [
+            "A typical metal",
+            "A non-metal",
+            "An amphoteric metal",
+            "A noble metal"
+        ],
+        "answer": "An amphoteric metal",
+        "explanation": "Zinc reacts with both acids (like HCl) and strong bases (like NaOH) to produce hydrogen gas. Metals that react with both acids and bases are called amphoteric."
+    },
+    {
+        "question": "Q26. Which acid is present in vinegar?",
+        "options": [
+            "Hydrochloric acid",
+            "Sulfuric acid",
+            "Acetic acid",
+            "Nitric acid"
+        ],
+        "answer": "Acetic acid",
+        "explanation": "Vinegar is a dilute aqueous solution of acetic acid (CH3COOH), typically around 5-8% by volume."
+    },
+    {
+        "question": "Q27. Which acid is present in citrus fruits like lemons and oranges?",
+        "options": [
+            "Tartaric acid",
+            "Citric acid",
+            "Lactic acid",
+            "Oxalic acid"
+        ],
+        "answer": "Citric acid",
+        "explanation": "Citrus fruits are known for their sour taste, which is primarily due to the presence of citric acid."
+    },
+    {
+        "question": "Q28. Which acid is produced in our muscles during strenuous exercise?",
+        "options": [
+            "Acetic acid",
+            "Formic acid",
+            "Lactic acid",
+            "Hydrochloric acid"
+        ],
+        "answer": "Lactic acid",
+        "explanation": "During anaerobic respiration (when oxygen supply is limited during heavy exercise), glucose breaks down into lactic acid in muscle cells, causing fatigue and soreness."
+    },
+    {
+        "question": "Q29. Universal indicator is a mixture of several indicators. What is its main advantage?",
+        "options": [
+            "It only works for strong acids",
+            "It is cheaper than litmus paper",
+            "It gives different colours at different pH values across a wide range",
+            "It only works in non-aqueous solutions"
+        ],
+        "answer": "It gives different colours at different pH values across a wide range",
+        "explanation": "Unlike litmus which only shows acid or base, universal indicator shows a spectrum of colours (e.g., red for strong acid, orange/yellow for weak acid, green for neutral, blue/violet for base), allowing for an estimation of the actual pH value."
+    },
+    {
+        "question": "Q30. A solution has a pH of 9. This solution is:",
+        "options": [
+            "Strongly acidic",
+            "Weakly acidic",
+            "Neutral",
+            "Weakly basic"
+        ],
+        "answer": "Weakly basic",
+        "explanation": "The pH scale ranges from 0 to 14. pH 7 is neutral. pH values below 7 are acidic, and pH values above 7 are basic (alkaline). A pH of 9 is slightly above 7, indicating a weakly basic solution."
+    },
+    {
+        "question": "Q31. Which of the following represents the dissociation of a strong acid (HA) in water?",
+        "options": [
+            "HA(aq) <=> H+(aq) + A-(aq)",
+            "HA(aq) -> H+(aq) + A-(aq)",
+            "HA(aq) + H2O(l) <=> H3O+(aq) + A-(aq)",
+            "HA(aq) + H2O(l) -> H3O+(aq) + A-(aq)"
+        ],
+        "answer": "HA(aq) + H2O(l) -> H3O+(aq) + A-(aq)",
+        "explanation": "Strong acids dissociate completely in water. The single arrow (->) indicates complete dissociation. H+ ions exist as H3O+ (hydronium ions) in water."
+    },
+    {
+        "question": "Q32. Which of the following represents the dissociation of a weak base (BOH) in water?",
+        "options": [
+            "BOH(aq) <=> B+(aq) + OH-(aq)",
+            "BOH(aq) -> B+(aq) + OH-(aq)",
+            "BOH(aq) + H2O(l) -> BH+(aq) + OH-(aq)",
+            "B(aq) + H2O(l) <=> BH+(aq) + OH-(aq)"
+        ],
+        "answer": "B(aq) + H2O(l) <=> BH+(aq) + OH-(aq)",
+        "explanation": "Weak bases only partially react with water to accept a proton (or dissociate partially if written like BOH). The double arrow (<=>) indicates a reversible reaction or equilibrium. Many weak bases (like ammonia, NH3) don't have 'OH' in their formula but produce OH- by reacting with water."
+    },
+    {
+        "question": "Q33. What type of reaction occurs when Calcium Oxide (CaO) reacts with water?",
+        "options": [
+            "Neutralization",
+            "Combination (forming a base)",
+            "Decomposition",
+            "Displacement"
+        ],
+        "answer": "Combination (forming a base)",
+        "explanation": "Basic metallic oxides like CaO react with water in a combination reaction to form the corresponding hydroxide (base): CaO(s) + H2O(l) -> Ca(OH)2(aq)."
+    },
+    {
+        "question": "Q34. What type of reaction occurs when Carbon Dioxide (CO2) reacts with water?",
+        "options": [
+            "Neutralization",
+            "Combination (forming an acid)",
+            "Decomposition",
+            "Combustion"
+        ],
+        "answer": "Combination (forming an acid)",
+        "explanation": "Acidic non-metallic oxides like CO2 react with water in a combination reaction to form the corresponding acid: CO2(g) + H2O(l) <=> H2CO3(aq) (Carbonic acid)."
+    },
+    {
+        "question": "Q35. Acid rain typically has a pH:",
+        "options": [
+            "Above 7.0",
+            "Equal to 7.0",
+            "Below 5.6",
+            "Between 6.0 and 7.0"
+        ],
+        "answer": "Below 5.6",
+        "explanation": "Normal rain is slightly acidic (pH ~5.6) due to dissolved CO2. Acid rain, caused by pollutants like SO2 and NOx dissolving in rainwater to form acids (H2SO4, HNO3), has a pH significantly lower than 5.6."
+    },
+    {
+        "question": "Q36. Baking soda (Sodium hydrogen carbonate, NaHCO3) is used in baking because when heated or mixed with an acid, it releases:",
+        "options": [
+            "Hydrogen gas (H2)",
+            "Oxygen gas (O2)",
+            "Carbon dioxide gas (CO2)",
+            "Nitrogen gas (N2)"
+        ],
+        "answer": "Carbon dioxide gas (CO2)",
+        "explanation": "The release of CO2 gas causes dough to rise. Reaction with acid: NaHCO3 + H+ -> Na+ + H2O + CO2. Decomposition by heat: 2NaHCO3 -> Na2CO3 + H2O + CO2."
+    },
+    {
+        "question": "Q37. Plaster of Paris is obtained by heating which compound?",
+        "options": [
+            "Limestone (CaCO3)",
+            "Gypsum (CaSO4.2H2O)",
+            "Slaked Lime (Ca(OH)2)",
+            "Baking Soda (NaHCO3)"
+        ],
+        "answer": "Gypsum (CaSO4.2H2O)",
+        "explanation": "Plaster of Paris (Calcium sulfate hemihydrate, CaSO4.1/2H2O) is prepared by carefully heating Gypsum (Calcium sulfate dihydrate, CaSO4.2H2O) at about 373 K (100 °C) to remove some water of crystallization."
+    },
+    {
+        "question": "Q38. What happens when Plaster of Paris is mixed with water?",
+        "options": [
+            "It dissolves completely",
+            "It remains a powder",
+            "It sets into a hard solid mass (Gypsum)",
+            "It releases hydrogen gas"
+        ],
+        "answer": "It sets into a hard solid mass (Gypsum)",
+        "explanation": "Plaster of Paris reacts with water, re-forming gypsum, which sets into a hard, solid mass: CaSO4.1/2H2O + 1 1/2 H2O -> CaSO4.2H2O."
+    },
+    {
+        "question": "Q39. The 'water of crystallization' refers to:",
+        "options": [
+            "Water trapped mechanically in crystals",
+            "Water used to dissolve the salt",
+            "A fixed number of water molecules chemically associated with each formula unit of a salt in its crystalline form",
+            "Water that makes the salt wet"
+        ],
+        "answer": "A fixed number of water molecules chemically associated with each formula unit of a salt in its crystalline form",
+        "explanation": "Water of crystallization is an integral part of the crystal structure of many salts, such as CuSO4.5H2O (Copper sulfate pentahydrate) or Na2CO3.10H2O (Washing soda)."
+    },
+    {
+        "question": "Q40. Blue vitriol is the common name for:",
+        "options": [
+            "Copper sulfate pentahydrate (CuSO4.5H2O)",
+            "Ferrous sulfate heptahydrate (FeSO4.7H2O)",
+            "Sodium carbonate decahydrate (Na2CO3.10H2O)",
+            "Calcium sulfate dihydrate (CaSO4.2H2O)"
+        ],
+        "answer": "Copper sulfate pentahydrate (CuSO4.5H2O)",
+        "explanation": "Hydrated copper sulfate (CuSO4.5H2O) crystals are blue, hence the name blue vitriol. Anhydrous copper sulfate (CuSO4) is white."
+    },
+    {
+        "question": "Q41. What happens to the blue colour of Copper sulfate crystals (CuSO4.5H2O) upon strong heating?",
+        "options": [
+            "Turns green",
+            "Turns white",
+            "Remains blue",
+            "Turns black"
+        ],
+        "answer": "Turns white",
+        "explanation": "Heating removes the water of crystallization, leaving anhydrous copper sulfate (CuSO4), which is a white powder. The blue colour is due to the hydrated copper ions."
+    },
+    {
+        "question": "Q42. Which of the following salts does NOT contain water of crystallization?",
+        "options": [
+            "Blue Vitriol (CuSO4.5H2O)",
+            "Washing Soda (Na2CO3.10H2O)",
+            "Gypsum (CaSO4.2H2O)",
+            "Common Salt (NaCl)"
+        ],
+        "answer": "Common Salt (NaCl)",
+        "explanation": "Sodium chloride (common salt) forms crystals that do not typically include water molecules within their lattice structure (anhydrous salt)."
+    },
+    {
+        "question": "Q43. Bleaching powder has the chemical formula CaOCl2. It is produced by the action of chlorine gas on:",
+        "options": [
+            "Quicklime (CaO)",
+            "Slaked Lime (Ca(OH)2)",
+            "Limestone (CaCO3)",
+            "Calcium Chloride (CaCl2)"
+        ],
+        "answer": "Slaked Lime (Ca(OH)2)",
+        "explanation": "Bleaching powder is produced by passing chlorine gas over dry slaked lime: Ca(OH)2(s) + Cl2(g) -> CaOCl2(s) + H2O(l)."
+    },
+    {
+        "question": "Q44. The bleaching action of bleaching powder is due to the release of:",
+        "options": [
+            "Calcium ions (Ca2+)",
+            "Chlorine gas (Cl2)",
+            "Oxygen (O)",
+            "Hydroxide ions (OH-)"
+        ],
+        "answer": "Chlorine gas (Cl2)",
+        "explanation": "Bleaching powder reacts with dilute acids (like those present in moisture or air - carbonic acid) to release chlorine, which is the actual bleaching agent. CaOCl2 + H2SO4 -> CaSO4 + H2O + Cl2."
+    },
+    {
+        "question": "Q45. Brine is an aqueous solution of:",
+        "options": [
+            "Sodium hydroxide",
+            "Sodium carbonate",
+            "Sodium chloride",
+            "Sodium sulfate"
+        ],
+        "answer": "Sodium chloride",
+        "explanation": "Brine specifically refers to a concentrated aqueous solution of common salt (Sodium chloride, NaCl)."
+    },
+    {
+        "question": "Q46. The Chlor-alkali process involves the electrolysis of brine. What are the main products?",
+        "options": [
+            "Na, Cl2, O2",
+            "NaOH, Cl2, H2",
+            "Na, H2O, Cl2",
+            "NaOH, HCl, O2"
+        ],
+        "answer": "NaOH, Cl2, H2",
+        "explanation": "Electrolysis of aqueous NaCl solution (brine) produces Sodium hydroxide (NaOH) at the cathode (along with H2 gas) and Chlorine gas (Cl2) at the anode. 2NaCl(aq) + 2H2O(l) --electrolysis--> 2NaOH(aq) + Cl2(g) + H2(g)."
+    },
+    {
+        "question": "Q47. Which product of the Chlor-alkali process is used for water treatment and making PVC?",
+        "options": [
+            "Sodium hydroxide (NaOH)",
+            "Hydrogen gas (H2)",
+            "Chlorine gas (Cl2)",
+            "Sodium metal (Na)"
+        ],
+        "answer": "Chlorine gas (Cl2)",
+        "explanation": "Chlorine is used as a disinfectant for water treatment (killing bacteria) and is a key component in the production of Polyvinyl Chloride (PVC) plastic."
+    },
+    {
+        "question": "Q48. Which product of the Chlor-alkali process is used in the manufacture of soaps and detergents?",
+        "options": [
+            "Sodium hydroxide (NaOH)",
+            "Hydrogen gas (H2)",
+            "Chlorine gas (Cl2)",
+            "Hydrochloric acid (HCl)"
+        ],
+        "answer": "Sodium hydroxide (NaOH)",
+        "explanation": "Sodium hydroxide (caustic soda) is a strong base used extensively in making soaps, detergents, paper, and artificial fibres (rayon)."
+    },
+    {
+        "question": "Q49. Which product of the Chlor-alkali process is used as a fuel and in the production of ammonia?",
+        "options": [
+            "Sodium hydroxide (NaOH)",
+            "Hydrogen gas (H2)",
+            "Chlorine gas (Cl2)",
+            "Oxygen gas (O2)"
+        ],
+        "answer": "Hydrogen gas (H2)",
+        "explanation": "Hydrogen gas is used as a clean fuel (in rockets, fuel cells) and is essential for the Haber process to synthesize ammonia (N2 + 3H2 -> 2NH3)."
+    },
+    {
+        "question": "Q50. Which of the following substances changes colour based on whether it's in an acidic or basic medium?",
+        "options": [
+            "Common salt",
+            "Sand",
+            "Indicator",
+            "Distilled water"
+        ],
+        "answer": "Indicator",
+        "explanation": "Indicators are substances (usually weak organic acids or bases) that exhibit different colours in acidic and basic solutions, allowing them to indicate the pH range of a solution."
+    },
+    {
+        "question": "Q51. Olfactory indicators detect acidic or basic nature by a change in:",
+        "options": [
+            "Colour",
+            "Smell",
+            "Taste",
+            "Physical state"
+        ],
+        "answer": "Smell",
+        "explanation": "Olfactory indicators, such as onion extract, vanilla extract, or clove oil, have a characteristic smell that changes or disappears depending on whether the medium is acidic or basic."
+    },
+    {
+        "question": "Q52. When a metal carbonate reacts with an acid, it produces salt, water, and which gas?",
+        "options": [
+            "H2",
+            "O2",
+            "CO2",
+            "SO2"
+        ],
+        "answer": "CO2",
+        "explanation": "Acid + Metal Carbonate → Salt + Water + Carbon Dioxide. Example: CaCO3(s) + 2HCl(aq) → CaCl2(aq) + H2O(l) + CO2(g)."
+    },
+    {
+        "question": "Q53. When a metal hydrogen carbonate reacts with an acid, it produces salt, water, and which gas?",
+        "options": [
+            "H2",
+            "O2",
+            "CO2",
+            "Cl2"
+        ],
+        "answer": "CO2",
+        "explanation": "Acid + Metal Hydrogen Carbonate → Salt + Water + Carbon Dioxide. Example: NaHCO3(s) + HCl(aq) → NaCl(aq) + H2O(l) + CO2(g)."
+    },
+    {
+        "question": "Q54. How can the presence of Carbon Dioxide gas be tested?",
+        "options": [
+            "It extinguishes a burning splint with a 'pop' sound",
+            "It turns moist red litmus blue",
+            "It turns limewater (Calcium hydroxide solution) milky",
+            "It has a pungent smell"
+        ],
+        "answer": "It turns limewater (Calcium hydroxide solution) milky",
+        "explanation": "CO2 reacts with Ca(OH)2 to form insoluble Calcium carbonate (CaCO3), which appears as a white precipitate, making the solution milky. Ca(OH)2(aq) + CO2(g) → CaCO3(s) + H2O(l)."
+    },
+    {
+        "question": "Q55. What happens if excess Carbon Dioxide is passed through limewater?",
+        "options": [
+            "The milkiness increases",
+            "The solution turns blue",
+            "The milkiness disappears",
+            "The solution becomes hot"
+        ],
+        "answer": "The milkiness disappears",
+        "explanation": "After the initial formation of milky CaCO3, passing excess CO2 leads to the formation of soluble Calcium hydrogen carbonate (Ca(HCO3)2), causing the precipitate to dissolve and the milkiness to disappear. CaCO3(s) + H2O(l) + CO2(g) → Ca(HCO3)2(aq)."
+    },
+    {
+        "question": "Q56. All acids contain which element?",
+        "options": [
+            "Oxygen",
+            "Chlorine",
+            "Hydrogen",
+            "Sulfur"
+        ],
+        "answer": "Hydrogen",
+        "explanation": "According to the Arrhenius and Brønsted-Lowry definitions, acids are substances that produce or donate hydrogen ions (H+)."
+    },
+    {
+        "question": "Q57. Do all compounds containing hydrogen behave as acids?",
+        "options": [
+            "Yes, always",
+            "No, only if the hydrogen is easily released as H+",
+            "Yes, but only in water",
+            "No, only compounds with oxygen are acids"
+        ],
+        "answer": "No, only if the hydrogen is easily released as H+",
+        "explanation": "Compounds like glucose (C6H12O6) or methane (CH4) contain hydrogen, but they do not release H+ ions in solution and are not acidic. The H must be bonded in such a way (e.g., to a highly electronegative atom) that it can be released as a proton."
+    },
+    {
+        "question": "Q58. Why do solutions of acids and bases conduct electricity?",
+        "options": [
+            "They contain water molecules",
+            "They contain free electrons",
+            "They contain mobile ions",
+            "They heat up the solution"
+        ],
+        "answer": "They contain mobile ions",
+        "explanation": "Acids dissociate in water to produce H+ (or H3O+) ions and anions. Bases dissociate to produce OH- ions and cations. The movement of these charged ions allows the solution to conduct electricity."
+    },
+    {
+        "question": "Q59. Why does distilled water not conduct electricity, whereas rainwater does?",
+        "options": [
+            "Distilled water is too cold",
+            "Rainwater contains dissolved salts and acids",
+            "Distilled water contains dissolved gases",
+            "Rainwater contains free electrons"
+        ],
+        "answer": "Rainwater contains dissolved salts and acids",
+        "explanation": "Distilled water is very pure and has extremely few ions. Rainwater dissolves atmospheric gases (like CO2, SO2, NOx) forming acids, and may also contain dissolved salts (ions), which make it conductive."
+    },
+    {
+        "question": "Q60. The pH scale measures the concentration of which ions?",
+        "options": [
+            "Hydroxide ions (OH-)",
+            "Hydrogen ions (H+)",
+            "Sodium ions (Na+)",
+            "Chloride ions (Cl-)"
+        ],
+        "answer": "Hydrogen ions (H+)",
+        "explanation": "pH is defined as the negative logarithm (base 10) of the hydrogen ion concentration: pH = -log10[H+]. A higher H+ concentration means a lower pH (more acidic)."
+    },
+    {
+        "question": "Q61. A solution with pH 2 is how many times more acidic than a solution with pH 5?",
+        "options": [
+            "3 times",
+            "10 times",
+            "100 times",
+            "1000 times"
+        ],
+        "answer": "1000 times",
+        "explanation": "The pH scale is logarithmic. A difference of 1 pH unit corresponds to a 10-fold difference in [H+]. A difference of 3 pH units (from 5 to 2) corresponds to a 10^3 = 1000 times higher [H+] concentration."
+    },
+    {
+        "question": "Q62. If a solution has a pOH of 4, what is its pH at 25°C?",
+        "options": [
+            "4",
+            "7",
+            "10",
+            "14"
+        ],
+        "answer": "10",
+        "explanation": "At 25°C, the relationship between pH and pOH is: pH + pOH = 14. Therefore, pH = 14 - pOH = 14 - 4 = 10."
+    },
+    {
+        "question": "Q63. What is the approximate pH of human stomach acid (gastric juice)?",
+        "options": [
+            "1-2",
+            "4-5",
+            "7",
+            "8-9"
+        ],
+        "answer": "1-2",
+        "explanation": "The stomach secretes hydrochloric acid (HCl) to aid digestion and kill bacteria, resulting in a very low pH, typically between 1.5 and 3.5 (often approximated as 1-2)."
+    },
+    {
+        "question": "Q64. How does the pH in the mouth contribute to tooth decay?",
+        "options": [
+            "High pH strengthens enamel",
+            "Low pH (acidic) dissolves tooth enamel",
+            "Neutral pH causes decay",
+            "pH has no effect on teeth"
+        ],
+        "answer": "Low pH (acidic) dissolves tooth enamel",
+        "explanation": "Bacteria metabolize sugars producing acids. When mouth pH drops below ~5.5, the acidic environment demineralizes (dissolves) tooth enamel (calcium phosphate)."
+    },
+    {
+        "question": "Q65. Why is toothpaste generally basic?",
+        "options": [
+            "To make teeth white",
+            "To freshen breath",
+            "To neutralize acids produced by bacteria in the mouth",
+            "To dissolve plaque"
+        ],
+        "answer": "To neutralize acids produced by bacteria in the mouth",
+        "explanation": "The basic nature of toothpaste helps neutralize the acids formed from sugar breakdown, raising the pH in the mouth and protecting enamel from decay."
+    },
+    {
+        "question": "Q66. Bee stings are acidic. What common household substance might provide relief by neutralization?",
+        "options": [
+            "Vinegar",
+            "Lemon juice",
+            "Baking soda solution",
+            "Sugar water"
+        ],
+        "answer": "Baking soda solution",
+        "explanation": "Bee stings inject acidic venom (like melittin and formic acid). Applying a mild base like baking soda (sodium hydrogen carbonate) solution can help neutralize the acid and reduce pain."
+    },
+    {
+        "question": "Q67. Wasp stings are generally alkaline (basic). What might provide relief by neutralization?",
+        "options": [
+            "Baking soda solution",
+            "Milk of Magnesia",
+            "Vinegar (dilute acetic acid)",
+            "Soap solution"
+        ],
+        "answer": "Vinegar (dilute acetic acid)",
+        "explanation": "Since wasp stings are alkaline, applying a mild acid like vinegar can help neutralize the base and alleviate the sting."
+    },
+    {
+        "question": "Q68. 'Family of salts' refers to salts that have:",
+        "options": [
+            "The same colour",
+            "The same solubility",
+            "A common positive ion (cation) or a common negative ion (anion)",
+            "The same crystal shape"
+        ],
+        "answer": "A common positive ion (cation) or a common negative ion (anion)",
+        "explanation": "For example, NaCl, KCl, MgCl2 belong to the chloride family (common anion Cl-). NaCl, Na2SO4, NaNO3 belong to the sodium family (common cation Na+)."
+    },
+    {
+        "question": "Q69. Which of the following belongs to the 'sulfate family'?",
+        "options": [
+            "NaCl",
+            "CaCO3",
+            "MgSO4",
+            "KNO3"
+        ],
+        "answer": "MgSO4",
+        "explanation": "The sulfate family contains salts with the sulfate anion (SO4^2-). Magnesium sulfate (MgSO4) fits this description."
+    },
+    {
+        "question": "Q70. Sodium chloride (NaCl) is formed from which acid and base?",
+        "options": [
+            "HCl and NaOH",
+            "H2SO4 and NaOH",
+            "HCl and KOH",
+            "H2CO3 and NaOH"
+        ],
+        "answer": "HCl and NaOH",
+        "explanation": "Sodium chloride (NaCl) is the salt formed from the neutralization of Hydrochloric acid (HCl, a strong acid) and Sodium hydroxide (NaOH, a strong base)."
+    },
+    {
+        "question": "Q71. Copper sulfate (CuSO4) is formed from which acid and base?",
+        "options": [
+            "H2SO4 and Cu(OH)2",
+            "HCl and Cu(OH)2",
+            "H2SO4 and CuO",
+            "Both A and C are possible"
+        ],
+        "answer": "Both A and C are possible",
+        "explanation": "Copper sulfate can be formed by reacting Sulfuric acid (H2SO4, a strong acid) with either Copper(II) hydroxide (Cu(OH)2, a weak base) or Copper(II) oxide (CuO, a basic oxide). H2SO4 + Cu(OH)2 -> CuSO4 + 2H2O. H2SO4 + CuO -> CuSO4 + H2O."
+    },
+    {
+        "question": "Q72. A salt formed from a weak acid and a strong base will have a pH:",
+        "options": [
+            "Less than 7 (acidic)",
+            "Equal to 7 (neutral)",
+            "Greater than 7 (basic)",
+            "Cannot be determined"
+        ],
+        "answer": "Greater than 7 (basic)",
+        "explanation": "The anion (conjugate base) of the weak acid hydrolyzes water to produce OH- ions, making the solution basic. Example: CH3COONa (from CH3COOH and NaOH)."
+    },
+    {
+        "question": "Q73. Potassium nitrate (KNO3) dissolves in water to give a solution with pH:",
+        "options": [
+            "Less than 7",
+            "Equal to 7",
+            "Greater than 7",
+            "Around 0"
+        ],
+        "answer": "Equal to 7",
+        "explanation": "KNO3 is formed from a strong acid (HNO3) and a strong base (KOH). Neither ion (K+ or NO3-) hydrolyzes significantly, so the solution remains neutral (pH=7)."
+    },
+    {
+        "question": "Q74. Ammonium chloride (NH4Cl) dissolves in water to give a solution with pH:",
+        "options": [
+            "Less than 7",
+            "Equal to 7",
+            "Greater than 7",
+            "Around 14"
+        ],
+        "answer": "Less than 7",
+        "explanation": "NH4Cl is formed from a strong acid (HCl) and a weak base (NH4OH or NH3). The cation (NH4+, conjugate acid of NH3) hydrolyzes water to produce H+ (or H3O+) ions, making the solution acidic. NH4+ + H2O <=> NH3 + H3O+."
+    },
+    {
+        "question": "Q75. Sodium carbonate (Na2CO3) dissolves in water to give a solution with pH:",
+        "options": [
+            "Less than 7",
+            "Equal to 7",
+            "Greater than 7",
+            "Around 0"
+        ],
+        "answer": "Greater than 7",
+        "explanation": "Na2CO3 is formed from a weak acid (H2CO3) and a strong base (NaOH). The anion (CO3^2-, conjugate base of HCO3-) hydrolyzes water to produce OH- ions, making the solution basic. CO3^2- + H2O <=> HCO3- + OH-."
+    },
+    {
+        "question": "Q76. Which process describes the reaction of ions of a salt with water to produce an acidic or basic solution?",
+        "options": [
+            "Neutralization",
+            "Dissociation",
+            "Hydrolysis",
+            "Electrolysis"
+        ],
+        "answer": "Hydrolysis",
+        "explanation": "Salt hydrolysis is the reaction where either the cation, the anion, or both ions from a salt react with water molecules, leading to a change in the H+ and OH- concentration and thus affecting the pH."
+    },
+    {
+        "question": "Q77. Which ion undergoes hydrolysis in an aqueous solution of Sodium Acetate (CH3COONa)?",
+        "options": [
+            "Na+",
+            "CH3COO-",
+            "Both Na+ and CH3COO-",
+            "Neither ion"
+        ],
+        "answer": "CH3COO-",
+        "explanation": "Na+ is the cation of a strong base (NaOH) and does not hydrolyze. CH3COO- is the anion (conjugate base) of a weak acid (CH3COOH) and does hydrolyze: CH3COO- + H2O <=> CH3COOH + OH-."
+    },
+    {
+        "question": "Q78. Which ion undergoes hydrolysis in an aqueous solution of Ammonium Chloride (NH4Cl)?",
+        "options": [
+            "NH4+",
+            "Cl-",
+            "Both NH4+ and Cl-",
+            "Neither ion"
+        ],
+        "answer": "NH4+",
+        "explanation": "Cl- is the anion of a strong acid (HCl) and does not hydrolyze. NH4+ is the cation (conjugate acid) of a weak base (NH3) and does hydrolyze: NH4+ + H2O <=> NH3 + H3O+."
+    },
+    {
+        "question": "Q79. For a salt of a weak acid and a weak base (like Ammonium Acetate, CH3COONH4), the pH of the solution depends on:",
+        "options": [
+            "Only the concentration of the salt",
+            "Only the temperature",
+            "The relative strengths (Ka and Kb) of the weak acid and weak base",
+            "It is always neutral (pH=7)"
+        ],
+        "answer": "The relative strengths (Ka and Kb) of the weak acid and weak base",
+        "explanation": "Both ions hydrolyze. If Ka of the weak acid > Kb of the weak base, the solution is acidic. If Kb > Ka, the solution is basic. If Ka ≈ Kb, the solution is approximately neutral."
+    },
+    {
+        "question": "Q80. Common salt (NaCl) is used as a raw material for making which of the following?",
+        "options": [
+            "Sodium hydroxide (NaOH)",
+            "Baking soda (NaHCO3)",
+            "Washing soda (Na2CO3.10H2O)",
+            "All of the above"
+        ],
+        "answer": "All of the above",
+        "explanation": "NaCl is a crucial raw material. Electrolysis of brine yields NaOH (Chlor-alkali). It's used in the Solvay process to make NaHCO3 and Na2CO3."
+    },
+    {
+        "question": "Q81. What is the chemical name for Baking Soda?",
+        "options": [
+            "Sodium Carbonate",
+            "Sodium Hydrogen Carbonate",
+            "Sodium Hydroxide",
+            "Sodium Chloride"
+        ],
+        "answer": "Sodium Hydrogen Carbonate",
+        "explanation": "Baking soda is Sodium Hydrogen Carbonate (also called Sodium Bicarbonate), with the formula NaHCO3."
+    },
+    {
+        "question": "Q82. Besides baking, what is another common use for Baking Soda (NaHCO3)?",
+        "options": [
+            "As a bleaching agent",
+            "As an antacid",
+            "For water softening",
+            "As a disinfectant"
+        ],
+        "answer": "As an antacid",
+        "explanation": "Sodium hydrogen carbonate is a mild base and can neutralize excess stomach acid, making it effective as an antacid."
+    },
+    {
+        "question": "Q83. What is the chemical name for Washing Soda?",
+        "options": [
+            "Anhydrous Sodium Carbonate",
+            "Sodium Hydrogen Carbonate",
+            "Hydrated Sodium Carbonate",
+            "Sodium Hydroxide"
+        ],
+        "answer": "Hydrated Sodium Carbonate",
+        "explanation": "Washing soda is Sodium Carbonate Decahydrate, Na2CO3.10H2O. Anhydrous sodium carbonate (Na2CO3) is called soda ash."
+    },
+    {
+        "question": "Q84. A primary use of Washing Soda (Na2CO3.10H2O) is:",
+        "options": [
+            "In food preparation",
+            "As a cleaning agent and for softening hard water",
+            "In medicine as an antiseptic",
+            "In fire extinguishers"
+        ],
+        "answer": "As a cleaning agent and for softening hard water",
+        "explanation": "Sodium carbonate is used in detergents and cleaning supplies. It also precipitates Ca2+ and Mg2+ ions from hard water, thus softening it."
+    },
+    {
+        "question": "Q85. Hard water contains dissolved salts of which metals?",
+        "options": [
+            "Sodium and Potassium",
+            "Calcium and Magnesium",
+            "Aluminum and Iron",
+            "Zinc and Copper"
+        ],
+        "answer": "Calcium and Magnesium",
+        "explanation": "Hard water contains dissolved bicarbonate, chloride, and sulfate salts of Calcium (Ca2+) and Magnesium (Mg2+)."
+    },
+    {
+        "question": "Q86. How does washing soda soften hard water?",
+        "options": [
+            "It dissolves the salts",
+            "It neutralizes the water",
+            "It precipitates the Ca2+ and Mg2+ ions as insoluble carbonates",
+            "It boils the water"
+        ],
+        "answer": "It precipitates the Ca2+ and Mg2+ ions as insoluble carbonates",
+        "explanation": "Sodium carbonate reacts with soluble calcium and magnesium salts to form insoluble calcium carbonate (CaCO3) and magnesium carbonate (MgCO3), which precipitate out, removing the hardness ions. Example: CaSO4(aq) + Na2CO3(aq) -> CaCO3(s) + Na2SO4(aq)."
+    },
+    {
+        "question": "Q87. Which of the following is an example of a neutralization reaction in everyday life?",
+        "options": [
+            "Rusting of iron",
+            "Burning of fuel",
+            "Using antacids for indigestion",
+            "Photosynthesis"
+        ],
+        "answer": "Using antacids for indigestion",
+        "explanation": "Antacids (bases) neutralize excess stomach acid (HCl), which is a classic acid-base neutralization reaction."
+    },
+    {
+        "question": "Q88. Curd and sour milk contain which acid?",
+        "options": [
+            "Acetic acid",
+            "Citric acid",
+            "Lactic acid",
+            "Tartaric acid"
+        ],
+        "answer": "Lactic acid",
+        "explanation": "Lactic acid is produced by the bacterial fermentation of lactose (milk sugar) in milk, leading to the sour taste and curdling."
+    },
+    {
+        "question": "Q89. Tamarind contains which acid?",
+        "options": [
+            "Acetic acid",
+            "Citric acid",
+            "Lactic acid",
+            "Tartaric acid"
+        ],
+        "answer": "Tartaric acid",
+        "explanation": "Tamarind is a primary natural source of tartaric acid, contributing to its sour taste."
+    },
+    {
+        "question": "Q90. Tomatoes contain which acid?",
+        "options": [
+            "Formic acid",
+            "Oxalic acid",
+            "Malic acid",
+            "Both Oxalic and Citric acid are present"
+        ],
+        "answer": "Both Oxalic and Citric acid are present",
+        "explanation": "Tomatoes contain several organic acids, with citric acid and malic acid often being predominant, but oxalic acid is also significantly present."
+    },
+    {
+        "question": "Q91. If a base dissolves in water, it is called an:",
+        "options": [
+            "Acid",
+            "Salt",
+            "Alkali",
+            "Oxide"
+        ],
+        "answer": "Alkali",
+        "explanation": "Alkalis are bases that are soluble in water, such as NaOH, KOH, Ca(OH)2 (sparingly soluble)."
+    },
+    {
+        "question": "Q92. Are all bases alkalis?",
+        "options": [
+            "Yes",
+            "No, only soluble bases are alkalis",
+            "No, only strong bases are alkalis",
+            "Yes, base and alkali mean the same thing"
+        ],
+        "answer": "No, only soluble bases are alkalis",
+        "explanation": "The term 'alkali' is a subset of 'base'. All alkalis are bases, but not all bases are soluble in water (e.g., Copper(II) hydroxide, Iron(III) hydroxide are bases but not alkalis)."
+    },
+    {
+        "question": "Q93. During dilution of a concentrated acid, why is it recommended to add acid to water and not water to acid?",
+        "options": [
+            "Acid is heavier than water",
+            "The reaction is endothermic",
+            "The reaction is highly exothermic and adding water to acid can cause splashing",
+            "Water reacts violently with concentrated acid"
+        ],
+        "answer": "The reaction is highly exothermic and adding water to acid can cause splashing",
+        "explanation": "Dissolving concentrated acid (especially sulfuric acid) in water releases a large amount of heat. Adding water to acid concentrates the heat in a small volume, potentially boiling the water instantly and splashing corrosive acid. Adding acid slowly to a larger volume of water allows the heat to dissipate more safely."
+    },
+    {
+        "question": "Q94. What is the effect of dilution on the pH of an acidic solution?",
+        "options": [
+            "pH decreases",
+            "pH increases (moves towards 7)",
+            "pH remains constant",
+            "pH becomes greater than 7"
+        ],
+        "answer": "pH increases (moves towards 7)",
+        "explanation": "Dilution decreases the concentration of H+ ions ([H+]). Since pH = -log10[H+], a decrease in [H+] leads to an increase in pH, making the solution less acidic (moving towards neutral pH 7)."
+    },
+    {
+        "question": "Q95. What is the effect of dilution on the pH of a basic solution?",
+        "options": [
+            "pH increases",
+            "pH decreases (moves towards 7)",
+            "pH remains constant",
+            "pH becomes less than 7"
+        ],
+        "answer": "pH decreases (moves towards 7)",
+        "explanation": "Dilution decreases the concentration of OH- ions ([OH-]). This leads to a relative increase in [H+] (since [H+][OH-] = Kw). A decrease in [OH-] or an increase in [H+] leads to a decrease in pH, making the solution less basic (moving towards neutral pH 7)."
+    },
+    {
+        "question": "Q96. Zinc granules react faster with dilute HCl than a solid zinc block of the same mass because:",
+        "options": [
+            "Granules contain more zinc",
+            "Granules have a larger surface area",
+            "Granules are hotter",
+            "The block is less pure"
+        ],
+        "answer": "Granules have a larger surface area",
+        "explanation": "Reaction rate depends on the surface area of reactants. Granules expose much more surface area to the acid compared to a solid block, leading to more frequent collisions and a faster reaction."
+    },
+    {
+        "question": "Q97. Which metal oxide reacts with HCl to form Copper(II) chloride and water?",
+        "options": [
+            "MgO",
+            "CuO",
+            "ZnO",
+            "Al2O3"
+        ],
+        "answer": "CuO",
+        "explanation": "Copper(II) oxide (CuO) is a basic metallic oxide that reacts with acids. CuO(s) + 2HCl(aq) -> CuCl2(aq) + H2O(l)."
+    },
+    {
+        "question": "Q98. Aluminum oxide (Al2O3) reacts with NaOH solution to form:",
+        "options": [
+            "Aluminum hydroxide",
+            "Sodium aluminate and water",
+            "Aluminum metal and water",
+            "No reaction occurs"
+        ],
+        "answer": "Sodium aluminate and water",
+        "explanation": "Aluminum oxide is amphoteric, meaning it reacts with bases as well as acids. With a strong base like NaOH, it acts as an acid: Al2O3(s) + 2NaOH(aq) + 3H2O(l) -> 2Na[Al(OH)4](aq) (Sodium tetrahydroxoaluminate, often written as Sodium Aluminate)."
+    },
+    {
+        "question": "Q99. Phenolphthalein indicator is colourless in which type(s) of solution?",
+        "options": [
+            "Acidic only",
+            "Basic only",
+            "Neutral only",
+            "Acidic and Neutral"
+        ],
+        "answer": "Acidic and Neutral",
+        "explanation": "Phenolphthalein is colourless in solutions with pH < 8.2 (acidic and neutral) and turns pink/fuchsia in solutions with pH > 8.2 (basic)."
+    },
+    {
+        "question": "Q100. A salt 'X' when dissolved in distilled water turns blue litmus red. Salt 'X' could be:",
+        "options": [
+            "CH3COONa",
+            "NaCl",
+            "K2SO4",
+            "NH4NO3"
+        ],
+        "answer": "NH4NO3",
+        "explanation": "Blue litmus turns red in acidic solutions (pH < 7). Salts that produce acidic solutions are formed from strong acids and weak bases. NH4NO3 is formed from HNO3 (strong acid) and NH4OH (weak base)."
+    },
+    {
+        "question": "Q101. When an acid reacts with a metal, which gas is usually liberated?",
+        "options": [
+            "Carbon dioxide",
+            "Oxygen",
+            "Hydrogen",
+            "Nitrogen"
+        ],
+        "answer": "Hydrogen",
+        "explanation": "Active metals react with dilute acids to displace hydrogen, forming a salt and hydrogen gas. Example: Mg(s) + 2HCl(aq) -> MgCl2(aq) + H2(g)."
+    },
+    {
+        "question": "Q102. Which one of the following will turn red litmus blue?",
+        "options": [
+            "Vinegar",
+            "Lemon juice",
+            "Baking soda solution",
+            "Soft drink"
+        ],
+        "answer": "Baking soda solution",
+        "explanation": "Red litmus turns blue in basic solutions. Baking soda (NaHCO3) forms a mildly basic solution due to hydrolysis of the hydrogen carbonate ion."
+    },
+    {
+        "question": "Q103. What is the nature of Calcium Phosphate present in tooth enamel?",
+        "options": [
+            "Acidic",
+            "Basic",
+            "Neutral",
+            "Amphoteric"
+        ],
+        "answer": "Basic",
+        "explanation": "Calcium phosphate (Ca3(PO4)2) is the salt of a weak acid (phosphoric acid, H3PO4) and a relatively strong base (calcium hydroxide, Ca(OH)2), but more accurately, its component ions react with H+ ions. It is basic in nature and reacts with acids, which is why acids cause tooth decay."
+    },
+    {
+        "question": "Q104. Which of the following statements is true for acids?",
+        "options": [
+            "Bitter and turn red litmus blue",
+            "Sour and turn red litmus blue",
+            "Sour and turn blue litmus red",
+            "Bitter and turn blue litmus red"
+        ],
+        "answer": "Sour and turn blue litmus red",
+        "explanation": "Acids typically have a sour taste and turn blue litmus paper red."
+    },
+    {
+        "question": "Q105. Mixing concentrated acid with water is a highly _______ process.",
+        "options": [
+            "Endothermic",
+            "Exothermic",
+            "Reversible",
+            "Neutral"
+        ],
+        "answer": "Exothermic",
+        "explanation": "The dissolution and dissociation of strong acids in water release significant amounts of heat, making the process exothermic."
+    }
+]
